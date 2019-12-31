@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls1</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="10100">Level up</text>
+<text id="10101">Attune spells</text>
+<text id="10102">Travel</text>
+<text id="10103">Item box</text>
+<text id="10104">Burn</text>
+<text id="10105">%null%</text>
+<text id="10106">%null%</text>
+<text id="10107">%null%</text>
+<text id="10108">Leave</text>
+<text id="10109">Begin journey %d to Drangleic</text>
+<text id="10110">Nullify Human Effigy's effect</text>
+<text id="15109">Begin journey %d to Drangleic?</text>
+<text id="15110">Begin your second journey?</text>
+<text id="16100">Nullify Human Effigy's effect right now?
+(Effect expires in %dm %ds)</text>
+<text id="16101">Effect has already expired</text>
+<text id="20102">Attributes</text>
+<text id="20103">Left weapon</text>
+<text id="20104">Right weapon</text>
+<text id="20105">Defense</text>
+<text id="20200">Confirm</text>
+<text id="20300">⇒</text>
+<text id="20400">You are about to level up the character
+based on these choices.
+Okay?</text>
+<text id="20401">Cancel level up.
+Okay?</text>
+<text id="29002">Spend souls to level up.</text>
+<text id="29003">%null%</text>
+<text id="29004">Display info for each section.</text>
+<text id="29902">⑮：Select ⑭：Increase/decrease ⑲：Done ⑳：Back ⑥：Help</text>
+<text id="29903">%null%</text>
+<text id="29904">⑤：Select ⑥⑳：Back</text>
+<text id="50201">Total uses</text>
+<text id="59001">Select slots to attune spells</text>
+<text id="59002">Select spell to attune</text>
+<text id="59990">Insufficient attributes to use this spell.</text>
+<text id="59991">No spells</text>
+<text id="59992">Insufficient attunement slots</text>
+<text id="60100">Inventory</text>
+<text id="60200">Item box</text>
+<text id="69001">Select a category</text>
+<text id="69002">Select the item to move.</text>
+<text id="69003">Select how many to move.</text>
+<text id="69911">Cannot move the item.
+Item box is full.</text>
+<text id="69912">Cannot move the item.
+Inventory is full.</text>
+<text id="69913">Cannot hold any more
+of this item</text>
+<text id="80100">Bonfire intensity</text>
+<text id="89001">Select area to travel to</text>
+<text id="89002">Select bonfire to travel to</text>
+<text id="89901">⑤：Select ⑲：Done ⑳：Back</text>
+<text id="89902">⑭：Select ⑲：Done ⑳：Back</text>
+<text id="89999">???</text>
+<text id="90100">Burn %s.
+Okay?</text>
+<text id="90200">You have no items to burn</text>
+<text id="90300">Cannot burn further items</text>
+<text id="90400">Cannot burn in this bonfire</text>
+<text id="90500">First, defeat the lord of this quarter...</text>
+<text id="90600">Need Estus Flask to burn</text>
+<text id="90700">Cannot burn now</text>
+<text id="99001">Select item to burn</text>
+<text id="99600">The Human Effigy blocks invaders from beyond</text>
+<text id="99601">%null%</text>
+<text id="99602">%null%</text>
+<text id="99603">%null%</text>
+<text id="99604">%null%</text>
+<text id="99605">%null%</text>
+<text id="99606">%null%</text>
+<text id="99607">%null%</text>
+<text id="99608">%null%</text>
+<text id="99609">%null%</text>
+<text id="99610">Some force has strengthened the Estus Flask</text>
+<text id="99611">%null%</text>
+<text id="99612">%null%</text>
+<text id="99613">%null%</text>
+<text id="99614">%null%</text>
+<text id="99615">%null%</text>
+<text id="99616">%null%</text>
+<text id="99617">%null%</text>
+<text id="99618">%null%</text>
+<text id="99619">%null%</text>
+<text id="99620">What is done cannot be undone</text>
+<text id="99901">⑤：Select ⑲：Done ⑳：Back</text>
+</entries>
+</fmg>

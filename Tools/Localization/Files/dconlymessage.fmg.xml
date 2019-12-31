@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls1</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="110110101">Voice chat</text>
+<text id="110110102">Voice chat</text>
+<text id="110110103">Voice chat</text>
+<text id="110110201">DUALSHOCK㌃4 wireless controller</text>
+<text id="110110202">Xbox One Wireless Controller</text>
+<text id="110110203">Xbox 360 Controller</text>
+<text id="110120101">Allow or restrict voice chat.</text>
+<text id="110120102">Allow or restrict voice chat.</text>
+<text id="110120103">Allow or restrict voice chat.</text>
+<text id="120130101">⑮：Select ⑲：OK ⑳：Back ②：Profile</text>
+<text id="120130102">⑮：Select ⑲：OK ⑳：Back ②：Gamercard</text>
+<text id="120130103">⑮：Select ⑲：OK ⑳：Back ②：Profile</text>
+<text id="120130104">⑮：Select ⑲：OK ⑳：Back #c[595959]②：Profile#c</text>
+<text id="120130105">⑮：Select ⑲：OK ⑳：Back #c[595959]②：Gamercard#c</text>
+<text id="120130106">⑮：Select ⑲：OK ⑳：Back #c[595959]②：Profile#c</text>
+<text id="120220101">②：Profile</text>
+<text id="120220102">②：Gamercard</text>
+<text id="120220103">②：Profile</text>
+<text id="120220104">#c[595959]②：Profile#c</text>
+<text id="120220105">#c[595959]②：Gamercard#c</text>
+<text id="120220106">#c[595959]②：Profile#c</text>
+<text id="120310101">Online ID</text>
+<text id="120310102">Gamertag</text>
+<text id="120310103">Player</text>
+<text id="130140102">Unusable characters detected.
+Please delete the section highlighted with %s.</text>
+<text id="200010101">An error occurred while saving.
+Attempting to save again.
+Press CANCEL to return to Title Menu.</text>
+<text id="200020101">The latest version of the game
+is required to play in online mode.
+Switching to offline mode.</text>
+<text id="200020201">PlayStation㌃Plus membership is required
+to play in online mode.
+Switching to offline mode.</text>
+<text id="200020301">Unable to play in online mode
+due to a user-generated media restriction.
+Switching to offline mode.</text>
+<text id="200020402">Unable to play in online mode
+due to multiplayer restrictions.
+Switching to offline mode.</text>
+<text id="200020502">Joined party.
+Switching to offline mode.</text>
+<text id="200030102">Press the ⑲ button on the Xbox One
+wireless controller that will be used.</text>
+<text id="200040102">This player does not have communication
+authorization, and cannot use voice chat.</text>
+<text id="200050102">Unable to start multiplayer session
+with this player due to reputation issues.</text>
+<text id="200050103">%null%</text>
+<text id="200050104">%null%</text>
+<text id="200050105">%null%</text>
+<text id="200050106">%null%</text>
+<text id="200050107">%null%</text>
+<text id="200050108">%null%</text>
+<text id="200050109">%null%</text>
+<text id="200050110">%null%</text>
+<text id="200050111">%null%</text>
+<text id="200050112">Unable to start multiplayer session with
+this player due to an issue with your reputation.</text>
+<text id="200050113">%null%</text>
+<text id="200050114">%null%</text>
+<text id="200050115">%null%</text>
+<text id="200050116">%null%</text>
+<text id="200050117">%null%</text>
+<text id="200050118">%null%</text>
+<text id="200050119">%null%</text>
+<text id="200050120">%null%</text>
+<text id="200050121">%null%</text>
+<text id="200050122">Unable to start multiplayer session due to
+an issue with the other player's reputation.</text>
+<text id="200060100">Cannot pass</text>
+<text id="200060200">Path opened</text>
+</entries>
+</fmg>

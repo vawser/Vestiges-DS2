@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls1</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="0">Bare fists</text>
+<text id="1">Claw</text>
+<text id="2">Fists</text>
+<text id="3">Dagger</text>
+<text id="4">Thrusting Sword</text>
+<text id="5">Whip</text>
+<text id="6">Twinblade</text>
+<text id="7">Spear</text>
+<text id="8">Lance</text>
+<text id="9">Curved Sword</text>
+<text id="10">Katana</text>
+<text id="11">Straight Sword</text>
+<text id="12">Reaper</text>
+<text id="13">Greatsword</text>
+<text id="14">Ultra Greatsword</text>
+<text id="15">Curved Greatsword</text>
+<text id="16">Hammer</text>
+<text id="17">Great Hammer</text>
+<text id="18">Axe</text>
+<text id="19">Greataxe</text>
+<text id="20">Halberd</text>
+<text id="21">Staff</text>
+<text id="22">Sacred Chime</text>
+<text id="23">Bow</text>
+<text id="24">Greatbow</text>
+<text id="25">Crossbow</text>
+<text id="26">Small Shield</text>
+<text id="27">Shield</text>
+<text id="28">Greatshield</text>
+<text id="29">Torch</text>
+<text id="30">Binoculars</text>
+<text id="31">Pyromancy Flame</text>
+<text id="100">%null%</text>
+<text id="101">Arrow</text>
+<text id="102">Greatarrow</text>
+<text id="103">%null%</text>
+<text id="104">Bolt</text>
+</entries>
+</fmg>

@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls1</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1">This game uses an autosave function.
+Do not turn off the PC while the save indicator
+㌣ is shown at the top of the screen.</text>
+<text id="101">Starting in offline mode.
+Multiplayer, messages, rankings, and other
+such network features will not be available.
+To play online, select "Go online" from Title Menu.</text>
+<text id="102">%null%</text>
+<text id="103">Starting in offline mode.
+Multiplayer, messages, leaderboards, and other
+such network features will not be available.</text>
+<text id="10006">Checking save data.
+Do not power off the PC.</text>
+<text id="10007">Saving save data.
+Do not power off the PC.</text>
+<text id="10008">Creating save data.
+Do not power off the PC.</text>
+<text id="10009">Loading character data.
+Do not power off the PC.</text>
+<text id="10010">%null%</text>
+<text id="10011">%null%</text>
+<text id="10012">%null%</text>
+<text id="10013">Loading calibrations.
+Do not power off the PC.</text>
+<text id="10014">Saving calibrations.
+Do not power off the PC.</text>
+<text id="110001">none text (ID 110001)</text>
+<text id="110002">none text (ID 110002)</text>
+<text id="110003">There is insufficient space on the hard disk drive. 
+To play DARK SOULS Ⅱ, at least %d MB of free space is required. 
+
+Please quit the game and make space on the hard disk drive
+before starting DARK SOULS Ⅱ again.</text>
+<text id="110004">none text (ID 110004)</text>
+<text id="110005">none text (ID 110005)</text>
+<text id="110006">none text (ID 110006)</text>
+<text id="110007">none text (ID 110007)</text>
+<text id="110008">The save data is corrupt.
+Attempt to restore it?
+Corrupt character data will be deleted.
+
+If "No" is selected the save data will be rechecked.</text>
+<text id="110009">The save data was not loaded correctly.
+Create new save data?
+The original data will be overwritten.
+
+If "No" is selected the data will be rechecked.</text>
+<text id="110010">The save data could not be restored.
+Create new save data?
+The original data will be overwritten.
+
+If "No" is selected the data will be rechecked.</text>
+<text id="110011">none text (ID 110011)</text>
+<text id="110012">There is insufficient space on the hard disk drive. 
+To play DARK SOULS Ⅱ, at least %d MB of free space is required. 
+
+Please restart the game once you have sufficient space on the hard disk drive.
+Closing this dialog box will exit the game.</text>
+<text id="110013">Failed to create save data.
+Quit DARK SOULS Ⅱ and manually delete save data.
+
+Close this dialog box to make another attempt
+to create save data.</text>
+<text id="110014">Failed to create save data.
+Attempting to create it again...
+
+Selecting "Cancel" will exit the game.
+Please delete the save data manually.</text>
+<text id="110015">The game version and save data version are different.
+Quit the game and use the Steam client to update
+DARK SOULS Ⅱ to the latest version.</text>
+<text id="110016">The game may not have been exited properly the last time you played.
+When you wish to quit the game, please select Quit Game from the menu
+and exit the game after reaching the title screen.
+Failure to quit the game properly can result
+in the loss of recent progress.</text>
+<text id="110017">%null%</text>
+<text id="110018">%null%</text>
+<text id="110019">%null%</text>
+<text id="110020">%null%</text>
+<text id="110021">%null%</text>
+<text id="110022">%null%</text>
+<text id="110023">none text (ID 110023)</text>
+<text id="111001">none text (ID 111001)</text>
+<text id="111002">none text (ID 111002)</text>
+<text id="120001">No LAN cable is connected.</text>
+<text id="120002">none text (ID 120002)</text>
+<text id="120003">Unable to play in online mode
+as you are not connected to Steam.</text>
+<text id="120004">none text (ID 120004)</text>
+<text id="120005">none text (ID 120005)</text>
+<text id="120006">none text (ID 120006)</text>
+<text id="120007">none text (ID 120007)</text>
+<text id="120008">none text (ID 120008)</text>
+<text id="120009">%null%</text>
+<text id="120010">none text (ID 120010)</text>
+<text id="120011">none text (ID 120011)</text>
+<text id="120012">none text (ID 120012)</text>
+<text id="120013">none text (ID 120013)</text>
+<text id="120014">none text (ID 120014)</text>
+<text id="120015">Unable to play in online mode due to a detected frame rate issue.
+
+Please restart the game after resolving the issue to play online.</text>
+<text id="121001">none text (ID 121001)</text>
+<text id="121002">none text (ID 121002)</text>
+<text id="121003">none text (ID 121003)</text>
+<text id="121004">none text (ID 121004)</text>
+<text id="121005">none text (ID 121005)</text>
+<text id="121006">none text (ID 121006)</text>
+<text id="130001">Logging in to the DARK SOULS Ⅱ game server...</text>
+<text id="130002">Your account is currently blocked from accessing the
+DARK SOULS Ⅱ game server services.
+Please see the following URL for more information:
+%s</text>
+<text id="130003">The DARK SOULS Ⅱ game server is not currently available.
+Please see the following URL for more information:
+%s</text>
+<text id="130004">You do not have the latest version of the game.
+If you would like to play in online mode, quit the game,
+and use the Steam client to update to the latest version
+of DARK SOULS Ⅱ.</text>
+<text id="130005">Cannot log in to the DARK SOULS Ⅱ game server
+because it has been stopped or is undergoing maintenance.
+%s
+Select "OK" to attempt to log in again,
+or "Cancel" to start the game in offline mode.</text>
+<text id="130006">The DARK SOULS Ⅱ service is not available. Please try again later.
+Please see the following URL for more information:
+%s
+Select "OK" to attempt to log in again.
+Select "CANCEL" to start the game in offline mode.</text>
+<text id="130007">%null%</text>
+<text id="130008">%null%</text>
+<text id="130009">Cheating detected  on your account by Valve Anti-Cheat.
+You may no longer utilize services provided by the DARK SOULS Ⅱ Servers.</text>
+<text id="210001">Retrieving information...</text>
+<text id="210002">There is no new information.</text>
+<text id="210003">The DARK SOULS Ⅱ service is not available. Please try again later.
+
+Try again?</text>
+<text id="220001">Initializing online mode...</text>
+<text id="220002">Failed to initialize online mode.
+
+Trying to reconnect.
+If "Cancel" is selected the game will start in offline mode.</text>
+<text id="230001">Failed to load character data.</text>
+<text id="230101">none text (ID 230101)</text>
+<text id="231001">none text (ID 231001)</text>
+<text id="231002">Cannot load this profile as it is from
+a later version of the currently installed game.
+Quit the game, sign in to Steam,
+and download the latest update for DARK SOULS Ⅱ.</text>
+<text id="240001">Due to repeated illegal multiplayer disconnects,
+your connection to other worlds was lost.
+Only a Bone of Order can restore your connection.</text>
+<text id="900001">Failed to load the game.</text>
+<text id="900002">Failed to save game.</text>
+<text id="900003">none text (ID 900003)</text>
+<text id="900004">none text (ID 900004)</text>
+<text id="901001">none text (ID 901001)</text>
+<text id="910001">The connection to the DARK SOULS Ⅱ game server was lost.
+Returning to Title Menu.</text>
+<text id="910002">You have disconnected from Steam.
+Returning to Title Menu.</text>
+<text id="910003">No LAN cable is connected.
+Returning to Title Menu.</text>
+<text id="910004">Cannot connect to network.
+Returning to Title Menu.</text>
+<text id="910005">none text (ID 910005)</text>
+<text id="911001">none text (ID 911001)</text>
+<text id="1000001">http://info.darksouls.jp/</text>
+<text id="1000002">http://www.bandainamcogames.com/company/support.php</text>
+<text id="1000003">http://www.bandainamcogames.eu/support</text>
+<text id="1000004">http://www.bandainamcogames.eu/support</text>
+</entries>
+</fmg>

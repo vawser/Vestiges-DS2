@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls1</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1000">Creatures</text>
+<text id="2000">Objects</text>
+<text id="3000">Techniques</text>
+<text id="4000">Actions</text>
+<text id="5000">Geography</text>
+<text id="6000">Orientation</text>
+<text id="7000">Body parts</text>
+<text id="8000">Attribute</text>
+<text id="9000">Concepts</text>
+<text id="10000">Musings</text>
+</entries>
+</fmg>

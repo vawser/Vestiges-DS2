@@ -1,0 +1,901 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls1</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="10001">Failed to read from disk.</text>
+<text id="10002">Failed to save game.
+Returning to Title Menu.</text>
+<text id="10003">Failed to load saved game.
+Returning to Title Menu.</text>
+<text id="10004">Signed out.
+Returning to Title Menu.</text>
+<text id="10005">Unable to locate the initially-
+selected storage device.
+Returning to Title Menu.</text>
+<text id="10006">Unable to locate the downloadable
+content storage device.
+Returning to Title Menu.</text>
+<text id="10007">Unable to locate the required
+downloadable content.
+Returning to Title Menu.</text>
+<text id="20001">Lost connection to game server.
+Switching to offline mode.
+Multiplayer, messages, and other such
+network features will not be available.</text>
+<text id="20002">Signed out from PSN㌶.
+Switching to offline mode.
+Multiplayer, messages, rankings, and other
+such network features will not be available.</text>
+<text id="20003">Lost connection to Xbox Live.
+Switching to offline mode.
+Multiplayer, messages, leaderboards, and other
+such network features will not be available.</text>
+<text id="20004">The Ethernet cable is not connected.
+Switching to offline mode.
+Multiplayer, messages, and other such
+network features will not be available.</text>
+<text id="20005">Cannot connect to network.
+Switching to offline mode.
+Multiplayer, messages, and other such
+network features will not be available.</text>
+<text id="20006">You joined an Xbox Live party.
+Switching to offline mode.</text>
+<text id="20007">Lost connection to Steam.
+Switching to offline mode.
+Multiplayer, messages, rankings and other such
+network features will not be available.</text>
+<text id="20008">Frame rate unsuitable for online play.
+Switching to offline mode.
+Multiplayer, messages, rankings and other such
+network features will not be available.</text>
+<text id="20101">Lost connection to game server.
+Returning to Title Menu.</text>
+<text id="20102">Signed out of PSN㌶.
+Returning to Title Menu.</text>
+<text id="20103">Lost connection to Xbox Live.
+Returning to Title Menu.</text>
+<text id="20104">The Ethernet cable is not connected.
+Returning to Title Menu.</text>
+<text id="20105">A network error occurred.
+Returning to Title Menu.</text>
+<text id="110001">Failed to create summon sign.
+Please wait and try again later.</text>
+<text id="110002">Failed to create summon sign.</text>
+<text id="110003">Failed to create summon sign.
+Timed out from server.</text>
+<text id="110004">%null%</text>
+<text id="110005">%null%</text>
+<text id="110006">%null%</text>
+<text id="110007">%null%</text>
+<text id="110008">%null%</text>
+<text id="110009">%null%</text>
+<text id="110010">%null%</text>
+<text id="110011">Failed to create summon sign.
+Please wait and try again later.</text>
+<text id="110012">Failed to create summon sign.</text>
+<text id="110013">Failed to create summon sign.
+Timed out from server.</text>
+<text id="110014">%null%</text>
+<text id="110015">%null%</text>
+<text id="110016">%null%</text>
+<text id="110017">%null%</text>
+<text id="110018">%null%</text>
+<text id="110019">%null%</text>
+<text id="110020">%null%</text>
+<text id="110021">Failed to create summon sign.
+Please wait and try again later.</text>
+<text id="110022">Failed to create summon sign.</text>
+<text id="110023">Failed to create summon sign.
+Timed out from server.</text>
+<text id="110024">%null%</text>
+<text id="110025">%null%</text>
+<text id="110026">%null%</text>
+<text id="110027">%null%</text>
+<text id="110028">%null%</text>
+<text id="110029">%null%</text>
+<text id="110030">%null%</text>
+<text id="110031">Failed to create Dragon Eye.
+Please wait and try again later.</text>
+<text id="110032">Failed to create Dragon Eye.</text>
+<text id="110033">Failed to create Dragon Eye sign.
+Timed out from server.</text>
+<text id="110101">Your summon sign has disappeared.</text>
+<text id="110102">Your summon sign has disappeared.
+Please wait and try again later.</text>
+<text id="110103">Your summon sign has disappeared.
+Timed out from server.</text>
+<text id="110104">%null%</text>
+<text id="110105">%null%</text>
+<text id="110106">%null%</text>
+<text id="110107">%null%</text>
+<text id="110108">%null%</text>
+<text id="110109">%null%</text>
+<text id="110110">%null%</text>
+<text id="110111">Your summon sign has disappeared.</text>
+<text id="110112">Your summon sign has disappeared.
+Please wait and try again later.</text>
+<text id="110113">Your summon sign has disappeared.
+Timed out from server.</text>
+<text id="110114">%null%</text>
+<text id="110115">%null%</text>
+<text id="110116">%null%</text>
+<text id="110117">%null%</text>
+<text id="110118">%null%</text>
+<text id="110119">%null%</text>
+<text id="110120">%null%</text>
+<text id="110121">Your summon sign has disappeared.</text>
+<text id="110122">Your summon sign has disappeared.
+Please wait and try again later.</text>
+<text id="110123">Your summon sign has disappeared.
+Timed out from server.</text>
+<text id="110124">%null%</text>
+<text id="110125">%null%</text>
+<text id="110126">%null%</text>
+<text id="110127">%null%</text>
+<text id="110128">%null%</text>
+<text id="110129">%null%</text>
+<text id="110130">%null%</text>
+<text id="110131">Dragon Eye disappeared.</text>
+<text id="110132">Dragon Eye sign disappeared.
+Please wait and try again later.</text>
+<text id="110133">Dragon Eye sign disappeared.
+Timed out from server.</text>
+<text id="110201">Your summon sign disappeared
+as you entered another area.</text>
+<text id="110202">Your summon sign has disappeared.</text>
+<text id="110203">%null%</text>
+<text id="110204">%null%</text>
+<text id="110205">%null%</text>
+<text id="110206">%null%</text>
+<text id="110207">%null%</text>
+<text id="110208">%null%</text>
+<text id="110209">%null%</text>
+<text id="110210">%null%</text>
+<text id="110211">Your summon sign disappeared
+as you entered another area.</text>
+<text id="110212">Your summon sign has disappeared.</text>
+<text id="110213">%null%</text>
+<text id="110214">%null%</text>
+<text id="110215">%null%</text>
+<text id="110216">%null%</text>
+<text id="110217">%null%</text>
+<text id="110218">%null%</text>
+<text id="110219">%null%</text>
+<text id="110220">%null%</text>
+<text id="110221">Your summon sign disappeared
+as you entered another area.</text>
+<text id="110222">Your summon sign has disappeared.</text>
+<text id="110223">%null%</text>
+<text id="110224">%null%</text>
+<text id="110225">%null%</text>
+<text id="110226">%null%</text>
+<text id="110227">%null%</text>
+<text id="110228">%null%</text>
+<text id="110229">%null%</text>
+<text id="110230">%null%</text>
+<text id="110231">Dragon Eye disappeared
+as you entered another area.</text>
+<text id="110232">Dragon Eye disappeared.</text>
+<text id="110301">You cannot summon at this time.</text>
+<text id="110302">%null%</text>
+<text id="110303">%null%</text>
+<text id="110304">%null%</text>
+<text id="110305">%null%</text>
+<text id="110306">%null%</text>
+<text id="110307">%null%</text>
+<text id="110308">%null%</text>
+<text id="110309">%null%</text>
+<text id="110310">%null%</text>
+<text id="110311">You cannot summon at this time.</text>
+<text id="110312">%null%</text>
+<text id="110313">%null%</text>
+<text id="110314">%null%</text>
+<text id="110315">%null%</text>
+<text id="110316">%null%</text>
+<text id="110317">%null%</text>
+<text id="110318">%null%</text>
+<text id="110319">%null%</text>
+<text id="110320">%null%</text>
+<text id="110321">You cannot summon at this time.</text>
+<text id="110322">%null%</text>
+<text id="110323">%null%</text>
+<text id="110324">%null%</text>
+<text id="110325">%null%</text>
+<text id="110326">%null%</text>
+<text id="110327">%null%</text>
+<text id="110328">%null%</text>
+<text id="110329">%null%</text>
+<text id="110330">%null%</text>
+<text id="110331">Dragon remnants do not respond.</text>
+<text id="110401">Summoning failed.
+The sign has disappeared.</text>
+<text id="110402">Summoning failed.
+Someone has already used
+this summon sign.</text>
+<text id="110403">Summoning failed.
+Please wait and try again later.</text>
+<text id="110404">Summoning failed.</text>
+<text id="110405">Summoning failed.
+Unable to create multiplayer session.</text>
+<text id="110406">Summoning failed.
+Timed out from server.</text>
+<text id="110407">Summoning failed.
+Player can no longer be summoned.</text>
+<text id="110408">Summoning failed.
+Player was unable to join
+multiplayer session.</text>
+<text id="110409">Summoning canceled.
+Unable to join multiplayer session.</text>
+<text id="110410">%null%</text>
+<text id="110411">Summoning failed.
+The sign has disappeared.</text>
+<text id="110412">Summoning failed.
+Someone has already used
+this summon sign.</text>
+<text id="110413">Summoning failed.
+Please wait and try again later.</text>
+<text id="110414">Summoning failed.</text>
+<text id="110415">Summoning failed.
+Unable to create multiplayer session.</text>
+<text id="110416">Summoning failed.
+Timed out from server.</text>
+<text id="110417">Summoning failed.
+Player can no longer be summoned.</text>
+<text id="110418">Summoning failed.
+Player was unable to join
+multiplayer session.</text>
+<text id="110419">Summoning canceled.
+Unable to join multiplayer session.</text>
+<text id="110420">%null%</text>
+<text id="110421">Summoning failed.
+The sign has disappeared.</text>
+<text id="110422">Summoning failed.
+Someone has already used
+this summon sign.</text>
+<text id="110423">Summoning failed.
+Please wait and try again later.</text>
+<text id="110424">Summoning failed.</text>
+<text id="110425">Summoning failed.
+Unable to create multiplayer session.</text>
+<text id="110426">Summoning failed.
+Timed out from server.</text>
+<text id="110427">Summoning failed.
+Player can no longer be summoned.</text>
+<text id="110428">Summoning failed.
+Player was unable to join
+multiplayer session.</text>
+<text id="110429">Summoning canceled.
+Unable to join multiplayer session.</text>
+<text id="110430">%null%</text>
+<text id="110431">Dragon spirit dissipated due to
+the disappearance of the eye.</text>
+<text id="110432">Dragon spirit dissipated.
+The spirit has already invaded another world.</text>
+<text id="110433">Dragon spirit dissipated.
+Please wait and try again later.</text>
+<text id="110434">Dragon spirit dissipated.</text>
+<text id="110435">Dragon spirit dissipated.
+Unable to create multiplayer session.</text>
+<text id="110436">Dragon spirit dissipated.
+Timed out from server.</text>
+<text id="110437">Dragon spirit dissipated.</text>
+<text id="110438">Dragon spirit dissipated.
+Player was unable to join
+multiplayer session.</text>
+<text id="110439">Invasion failed.
+Unable to join multiplayer session.</text>
+<text id="120001">Unable to find world to invade.</text>
+<text id="120002">Invasion failed.
+Please wait and try again later.</text>
+<text id="120003">Invasion failed.</text>
+<text id="120004">Invasion failed.
+Timed out from server.</text>
+<text id="120005">Invasion failed.
+Unable to join multiplayer session.</text>
+<text id="120006">%null%</text>
+<text id="120007">%null%</text>
+<text id="120008">%null%</text>
+<text id="120009">%null%</text>
+<text id="120010">%null%</text>
+<text id="120011">Unable to find world to invade.</text>
+<text id="120012">Invasion failed.
+Please wait and try again later.</text>
+<text id="120013">Invasion failed.</text>
+<text id="120014">Invasion failed.
+Timed out from server.</text>
+<text id="120015">Invasion failed.
+Unable to join multiplayer session.</text>
+<text id="120101">Invasion canceled
+as you entered another area.</text>
+<text id="120102">Invasion canceled.</text>
+<text id="120103">%null%</text>
+<text id="120104">%null%</text>
+<text id="120105">%null%</text>
+<text id="120106">%null%</text>
+<text id="120107">%null%</text>
+<text id="120108">%null%</text>
+<text id="120109">%null%</text>
+<text id="120110">%null%</text>
+<text id="120111">Invasion canceled
+as you entered another area.</text>
+<text id="120112">Invasion canceled.</text>
+<text id="125003">Summoning failed.
+Player was unable to join
+multiplayer session.</text>
+<text id="125004">%null%</text>
+<text id="125005">%null%</text>
+<text id="125006">%null%</text>
+<text id="125007">%null%</text>
+<text id="125008">%null%</text>
+<text id="125009">%null%</text>
+<text id="125010">%null%</text>
+<text id="125011">Assistance canceled.
+Unable to join multiplayer session.</text>
+<text id="125012">Invasion failed.
+Unable to join multiplayer session.</text>
+<text id="125013">Summoning canceled.
+Unable to join multiplayer session.</text>
+<text id="130001">Unable to start sparring match.</text>
+<text id="130002">Could not find opponent.</text>
+<text id="130003">Could not start match.</text>
+<text id="130004">Could not start match.
+The opponent has died.</text>
+<text id="130005">Could not start match.
+Lost sight of the opponent.</text>
+<text id="130006">Could not start match.
+Lost sight of the opponent.</text>
+<text id="130007">Unable to start sparring match.
+Timed out from server.</text>
+<text id="130008">Unable to start sparring match.
+Failed to create multiplayer session.</text>
+<text id="130009">Unable to start sparring match.
+Failed to join multiplayer session.</text>
+<text id="130010">Unable to start sparring match.
+Player failed to join
+multiplayer session.</text>
+<text id="130011">Unable to start sparring match.
+Please wait and try again later.</text>
+<text id="140001">Unable to start duel.</text>
+<text id="140002">Could not find a duelist.</text>
+<text id="140003">Could not start duel.</text>
+<text id="140004">Could not begin duel.
+The opponent has died.</text>
+<text id="140005">Could not begin duel.
+Lost sight of opponent.</text>
+<text id="140006">Could not begin duel.
+Lost sight of opponent.</text>
+<text id="140007">Unable to start duel.
+Timed out from server.</text>
+<text id="140008">Unable to start duel.
+Failed to create multiplayer session.
+</text>
+<text id="140009">Unable to start duel.
+Failed to join multiplayer session.</text>
+<text id="140010">Unable to start duel.
+Player failed to join
+multiplayer session.</text>
+<text id="140011">Unable to start duel.
+Please wait and try again later.</text>
+<text id="210001">Summoning failed due to
+incompatible NAT types.</text>
+<text id="210002">Summoning failed due to
+incompatible NAT types.</text>
+<text id="210003">Summoning failed due to
+incompatible NAT types.</text>
+<text id="210004">Dragon spirit dissipated
+due to a problem with the
+combination of NAT types.</text>
+<text id="210005">%null%</text>
+<text id="210006">%null%</text>
+<text id="210007">%null%</text>
+<text id="210008">%null%</text>
+<text id="210009">Summoning failed due to
+incompatible NAT types.</text>
+<text id="210010">%null%</text>
+<text id="210011">Unable to start sparring match.
+Incompatible NAT types.</text>
+<text id="210012">Unable to start duel.
+Incompatible NAT types.</text>
+<text id="210051">Summoning canceled due to
+incompatible NAT types.</text>
+<text id="210052">Summoning canceled due to
+incompatible NAT types.</text>
+<text id="210053">Summoning canceled due to
+incompatible NAT types.</text>
+<text id="210054">Invasion failed due to
+incompatible NAT types.</text>
+<text id="210055">Invasion failed due to
+incompatible NAT types.</text>
+<text id="210056">Invasion failed due to
+incompatible NAT types.</text>
+<text id="210057">Assistance canceled due to
+incompatible NAT types.</text>
+<text id="210058">Invasion failed due to
+incompatible NAT types.</text>
+<text id="210059">Summoning canceled due to
+incompatible NAT types.</text>
+<text id="210060">Summoning canceled due to
+incompatible NAT types.</text>
+<text id="210061">Unable to start sparring match.
+Incompatible NAT types.</text>
+<text id="210062">Unable to start duel.
+Incompatible NAT types.</text>
+<text id="210101">Summoning failed due to
+a connection status problem.</text>
+<text id="210102">Summoning failed due to
+a connection status problem.</text>
+<text id="210103">Summoning failed due to
+a connection status problem.</text>
+<text id="210104">Dragon spirit dissipated
+due to a problem with the
+connection status.</text>
+<text id="210105">%null%</text>
+<text id="210106">%null%</text>
+<text id="210107">%null%</text>
+<text id="210108">%null%</text>
+<text id="210109">Summoning failed due to
+a connection status problem.</text>
+<text id="210110">%null%</text>
+<text id="210111">Unable to start sparring match
+due to a connection status problem.</text>
+<text id="210112">Unable to start duel due to
+a connection status problem.</text>
+<text id="210151">Summoning canceled due to
+a connection status problem.</text>
+<text id="210152">Summoning canceled due to
+a connection status problem.</text>
+<text id="210153">Summoning canceled due to
+a connection status problem.</text>
+<text id="210154">Invasion failed due to
+a connection status problem.</text>
+<text id="210155">Invasion failed due to
+a connection status problem.</text>
+<text id="210156">Invasion failed due to
+a connection status problem.</text>
+<text id="210157">Assistance canceled due to
+a connection status problem.</text>
+<text id="210158">Invasion failed due to
+a connection status problem.</text>
+<text id="210159">Summoning canceled due to
+a connection status problem.</text>
+<text id="210160">Summoning canceled due to
+a connection status problem.</text>
+<text id="210161">Unable to start sparring match
+due to a connection status problem.</text>
+<text id="210162">Unable to start duel due to
+a connection status problem.</text>
+<text id="210251">Summoning canceled.
+World master has died.</text>
+<text id="210252">Summoning canceled.
+World master has died.</text>
+<text id="210253">Summoning canceled.
+World master has died.</text>
+<text id="210254">Invasion failed.
+World master has died.</text>
+<text id="210255">Invasion failed.
+World master has died.</text>
+<text id="210256">Invasion failed.
+World master has died.</text>
+<text id="210257">Assistance canceled.
+World master has died.</text>
+<text id="210258">Invasion failed.
+World master has died.</text>
+<text id="210259">Summoning canceled.
+World master has died.</text>
+<text id="210260">Summoning canceled.
+World master has died.</text>
+<text id="210261">Unable to start sparring match.
+The opponent has died.</text>
+<text id="210262">Unable to begin duel.
+The opponent has died.</text>
+<text id="210303">Summoning failed.</text>
+<text id="210353">Summoning canceled.
+World master has challenged 
+area boss.</text>
+<text id="210354">%null%</text>
+<text id="210355">Invasion failed.
+World master has challenged 
+area boss.</text>
+<text id="210356">Invasion failed.
+World master has challenged 
+area boss.</text>
+<text id="210357">Assistance canceled.
+World master has challenged 
+area boss.</text>
+<text id="210358">Invasion failed.
+World master has challenged 
+area boss.</text>
+<text id="210401">Summoning failed.</text>
+<text id="210402">Summoning failed.</text>
+<text id="210403">Summoning failed.</text>
+<text id="210451">Summoning canceled.
+Lost sight of world master.</text>
+<text id="210452">Summoning canceled.
+Lost sight of world master.</text>
+<text id="210453">Summoning canceled.
+Lost sight of world master.</text>
+<text id="210454">%null%</text>
+<text id="210455">Invasion failed.
+Lost sight of world master.</text>
+<text id="210456">Invasion failed.
+Lost sight of world master.</text>
+<text id="210457">Assistance canceled.
+Lost sight of world master.</text>
+<text id="210458">Invasion failed.
+Lost sight of world master.</text>
+<text id="210551">Summoning canceled.
+Area boss has been vanquished.</text>
+<text id="210552">Summoning canceled.
+Area boss has been vanquished.</text>
+<text id="210553">%null%</text>
+<text id="210554">%null%</text>
+<text id="210555">%null%</text>
+<text id="210556">%null%</text>
+<text id="210557">%null%</text>
+<text id="210558">%null%</text>
+<text id="210559">%null%</text>
+<text id="210560">Summoning canceled.
+Area boss has been vanquished.</text>
+<text id="210657">Assistance canceled.
+The target has died.</text>
+<text id="210757">Assistance canceled.
+Lost sight of target.</text>
+<text id="210801">Summoning failed.
+Player was unable to join
+multiplayer session.</text>
+<text id="210802">Summoning failed.
+Player was unable to join
+multiplayer session.</text>
+<text id="210803">Summoning failed.
+Player was unable to join
+multiplayer session.</text>
+<text id="210804">Dragon spirit dissipated.
+Player was unable to join
+multiplayer session.</text>
+<text id="210805">%null%</text>
+<text id="210806">%null%</text>
+<text id="210807">%null%</text>
+<text id="210808">%null%</text>
+<text id="210809">Summoning failed.
+Player was unable to join
+multiplayer session.</text>
+<text id="210810">%null%</text>
+<text id="210811">Unable to start sparring match.
+Player failed to join
+multiplayer session.</text>
+<text id="210812">Unable to start duel.
+Player failed to join
+multiplayer session.</text>
+<text id="210851">Summoning canceled.
+Unable to join multiplayer session.</text>
+<text id="210852">Summoning canceled.
+Unable to join multiplayer session.</text>
+<text id="210853">Summoning canceled.
+Unable to join multiplayer session.</text>
+<text id="210854">Invasion failed.
+Unable to join multiplayer session.</text>
+<text id="210855">Invasion failed.
+Unable to join multiplayer session.</text>
+<text id="210856">Invasion failed.
+Unable to join multiplayer session.</text>
+<text id="210857">Assistance canceled.
+Unable to join multiplayer session.</text>
+<text id="210858">Invasion failed.
+Unable to join multiplayer session.</text>
+<text id="210859">Summoning canceled.
+Unable to join multiplayer session.</text>
+<text id="210860">Summoning canceled.
+Unable to join multiplayer session.</text>
+<text id="210861">Unable to start sparring match.
+Failed to join multiplayer session.</text>
+<text id="210862">Unable to start duel.
+Failed to join multiplayer session.</text>
+<text id="210901">Summoning failed.
+The player died.</text>
+<text id="210902">Summoning failed.
+The player died.</text>
+<text id="210903">Summoning failed.
+The player died.</text>
+<text id="210904">Dragon spirit dissipated.</text>
+<text id="210905">%null%</text>
+<text id="210906">%null%</text>
+<text id="210907">%null%</text>
+<text id="210908">%null%</text>
+<text id="210909">Summoning failed.
+The player died.</text>
+<text id="210910">%null%</text>
+<text id="210911">Unable to start sparring match.
+The opponent has died.</text>
+<text id="210912">Unable to begin duel.
+The opponent has died.</text>
+<text id="211001">Summoning failed.
+Timed out.</text>
+<text id="211002">Summoning failed.
+Timed out.</text>
+<text id="211003">Summoning failed.
+Timed out.</text>
+<text id="211004">Dragon spirit dissipated.
+Timed out.</text>
+<text id="211005">%null%</text>
+<text id="211006">%null%</text>
+<text id="211007">%null%</text>
+<text id="211008">%null%</text>
+<text id="211009">Summoning failed.
+Timed out.</text>
+<text id="211010">%null%</text>
+<text id="211011">Unable to start sparring match.
+Timed out.</text>
+<text id="211012">Unable to start duel.
+Timed out.</text>
+<text id="211051">Summoning canceled.
+Timed out.</text>
+<text id="211052">Summoning canceled.
+Timed out.</text>
+<text id="211053">Summoning canceled.
+Timed out.</text>
+<text id="211054">Invasion failed.
+Timed out.</text>
+<text id="211055">Invasion failed.
+Timed out.</text>
+<text id="211056">Invasion failed.
+Timed out.</text>
+<text id="211057">Assistance canceled.
+Timed out.</text>
+<text id="211058">Invasion failed.
+Timed out.</text>
+<text id="211059">Summoning canceled.
+Timed out.</text>
+<text id="211060">Summoning canceled.
+Timed out.</text>
+<text id="211061">Unable to start sparring match.
+Timed out.</text>
+<text id="211062">Unable to start duel.
+Timed out.</text>
+<text id="219001">Summoning failed.</text>
+<text id="219002">Summoning failed.</text>
+<text id="219003">Summoning failed.</text>
+<text id="219004">Dragon spirit dissipated.</text>
+<text id="219005">%null%</text>
+<text id="219006">%null%</text>
+<text id="219007">%null%</text>
+<text id="219008">%null%</text>
+<text id="219009">Summoning failed.</text>
+<text id="219010">%null%</text>
+<text id="219011">Unable to start sparring match.</text>
+<text id="219012">Unable to start duel.</text>
+<text id="219051">Summoning canceled.</text>
+<text id="219052">Summoning canceled.</text>
+<text id="219053">Summoning canceled.</text>
+<text id="219054">Invasion failed.</text>
+<text id="219055">Invasion failed.</text>
+<text id="219056">Invasion failed.</text>
+<text id="219057">Assistance canceled.</text>
+<text id="219058">Invasion failed.</text>
+<text id="219059">Summoning canceled.</text>
+<text id="219060">Summoning canceled.</text>
+<text id="219061">Unable to start sparring match.</text>
+<text id="219062">Unable to start duel.</text>
+<text id="220001">Multiplayer session disbanded.</text>
+<text id="220002">Disconnected from multiplayer session.</text>
+<text id="220003">You have left the multiplayer session.</text>
+<text id="220004">Multiplayer session disbanded.</text>
+<text id="220005">Disconnected from multiplayer session.</text>
+<text id="220006">You have left the multiplayer session.</text>
+<text id="220007">Failed to create message.
+Please wait and try again later.</text>
+<text id="220008">Failed to create message.</text>
+<text id="220009">Failed to retrieve death replay.
+Please wait and try again later.</text>
+<text id="220010">Failed to retrieve death replay.</text>
+<text id="220011">Failed to retrieve info.
+Please wait and try again later.</text>
+<text id="220012">The DARK SOULS Ⅱ service is not available.
+Please try again later.</text>
+<text id="220013">The DARK SOULS Ⅱ service is not available.
+Please try again later.</text>
+<text id="1110001">Summoning a phantom...</text>
+<text id="1110002">Summoning shade...</text>
+<text id="1110003">Summoning dark spirit...</text>
+<text id="1110004">A dragon spirit has invaded...</text>
+<text id="1110005">Summoning abyss spirit...</text>
+<text id="1110006">Looking Glass Knight is summoning a squire.</text>
+<text id="1110101">Being summoned to another world as a phantom...</text>
+<text id="1110102">Being summoned to another world as a shade...</text>
+<text id="1110103">Being summoned to another world as a dark spirit...</text>
+<text id="1110104">Someone has touched the dragon's remnants.
+Invading their world as a dragon spirit...</text>
+<text id="1110105">Being summoned to another world as an abyss spirit...</text>
+<text id="1110106">The Looking Glass Knight summons you!
+Become a mirror squire, and vanquish the world master.</text>
+<text id="1120001">Searching for world to invade...</text>
+<text id="1120002">Searching for a world of the guilty...</text>
+<text id="1120003">Searching for world to invade...</text>
+<text id="1120101">Invading another world as a dark spirit...</text>
+<text id="1120102">Invading the world of the guilty as an arbiter spirit...</text>
+<text id="1120103">Invading another world as an abyss spirit.</text>
+<text id="1130001">Traveling to another world to assist
+an apostle of blue in distress...</text>
+<text id="1130002">A trespasser has set foot in the Bell Tower.
+Invading world as a gray spirit...</text>
+<text id="1130003">Being summoned as a gray spirit!</text>
+<text id="1130103">Summoning a trespasser to this land as a gray spirit...</text>
+<text id="1140001">Locating sparring partner...</text>
+<text id="1140002">Searching for duelist...</text>
+<text id="1140101">Sparring partner located.
+Traveling to arena as a phantom.</text>
+<text id="1140102">Duelist found.
+Moving to dueling arena as a phantom.</text>
+<text id="1210001">Summoned phantom %s.</text>
+<text id="1210002">Summoned shade %s.</text>
+<text id="1210003">Summoned dark spirit %s.</text>
+<text id="1210004">Summoned abyss spirit %s.</text>
+<text id="1210005">Invaded by dragon spirit %s!</text>
+<text id="1210006">Invaded by dark spirit %s!</text>
+<text id="1210007">Invaded by abyss spirit %s!</text>
+<text id="1210008">Invaded by arbiter spirit %s!</text>
+<text id="1210009">Blue spirit %s has come to your aid.</text>
+<text id="1210010">Invaded by gray spirit %s!</text>
+<text id="1210011">Summoned gray spirit %s.</text>
+<text id="1210012">Mirror squire %s was summoned!</text>
+<text id="1210101">Summoned to the world of %s.</text>
+<text id="1210102">Summoned to the world of %s.</text>
+<text id="1210103">Summoned to the world of %s.</text>
+<text id="1210104">Summoned to the world of %s.</text>
+<text id="1210105">Invaded the world of %s.</text>
+<text id="1210106">Invaded the world of %s.</text>
+<text id="1210107">Invaded the world of %s.</text>
+<text id="1210108">Invaded the world of %s.</text>
+<text id="1210109">Summoned to the world of %s.</text>
+<text id="1210110">Invaded the world of %s.</text>
+<text id="1210111">Summoned to the world of %s.</text>
+<text id="1210112">Summoned to the world of %s.</text>
+<text id="1210113">%null%</text>
+<text id="1210114">%null%</text>
+<text id="1210115">%null%</text>
+<text id="1210116">%null%</text>
+<text id="1210117">%null%</text>
+<text id="1210118">%null%</text>
+<text id="1210119">%null%</text>
+<text id="1210120">%null%</text>
+<text id="1210121">Begin sparring match with %s.</text>
+<text id="1210122">Begin duel with %s.</text>
+<text id="1210201">Phantom %s was summoned.</text>
+<text id="1210202">Shade %s was summoned.</text>
+<text id="1210203">Dark spirit %s was summoned.</text>
+<text id="1210204">Abyss spirit %s was summoned.</text>
+<text id="1210205">%null%</text>
+<text id="1210206">Invaded by dark spirit %s!</text>
+<text id="1210207">Invaded by abyss spirit %s!</text>
+<text id="1210208">Invaded by arbiter spirit %s!</text>
+<text id="1210209">Blue spirit %s has come to assist.</text>
+<text id="1210210">Invaded by gray spirit %s!</text>
+<text id="1210211">%null%</text>
+<text id="1210212">Mirror squire %s was summoned.</text>
+<text id="1219001">Returning to your world...</text>
+<text id="1220001">You have been vanquished.
+Returning to your world...</text>
+<text id="1220021">Sparring match lost.
+Returning to original location.</text>
+<text id="1220022">Duel lost.
+Returning to original location...</text>
+<text id="1220101">Task completed.
+Returning to your world with a Token of Fidelity...</text>
+<text id="1220102">Task completed.
+Returning to your world with your reward...</text>
+<text id="1220103">Task completed.
+Returning to your world...</text>
+<text id="1220104">The allotted time has elapsed.
+Returning to your world...</text>
+<text id="1220121">Winner undetermined within allotted time.
+Returning to original location.</text>
+<text id="1220122">The allotted time has elapsed. The duel ended in a draw.
+Returning to original location...</text>
+<text id="1220201">Destination reached.
+Returning to your world...</text>
+<text id="1221001">World master %s has died.
+Returning to your world...</text>
+<text id="1221002">Defeated world master %s.
+Returning to your world, with devotion to your covenant deepened.</text>
+<text id="1221003">Defeated world master %s.
+Returning to your world with a Token of Spite...</text>
+<text id="1221004">none text</text>
+<text id="1221005">none text</text>
+<text id="1221006">none text</text>
+<text id="1221007">Defeated world master %s.
+Returning to your world...</text>
+<text id="1221008">Defeated world master %s.
+Returning to your world with your reward...</text>
+<text id="1221101">Phantom %s has been vanquished.</text>
+<text id="1221102">Shade %s has been vanquished.</text>
+<text id="1221103">Blue spirit %s has been vanquished.</text>
+<text id="1221104">Dark spirit %s has been vanquished.</text>
+<text id="1221105">Arbiter spirit %s has been vanquished.</text>
+<text id="1221106">Dragon spirit %s has been vanquished.</text>
+<text id="1221107">Gray spirit %s has been vanquished.</text>
+<text id="1221108">Gray spirit %s has been vanquished.</text>
+<text id="1221109">Abyss spirit %s has been vanquished.</text>
+<text id="1221110">Mirror squire %s has been vanquished.</text>
+<text id="1221201">none text</text>
+<text id="1221202">none text</text>
+<text id="1221203">none text</text>
+<text id="1221204">none text</text>
+<text id="1221301">Dark spirit %s has been vanquished.
+Guardianship ended. Returning to your world...</text>
+<text id="1221302">Dark spirit %s has been vanquished.
+Returning to your world with a Token of Fidelity...</text>
+<text id="1221303">Dark spirit %s has been vanquished.
+Returning to your world with devotion to your covenant deepened...</text>
+<text id="1221304">Defeated blue spirit %s.
+Returning to your world...</text>
+<text id="1221305">Defeated blue spirit %s.
+Returning to your world with a Token of Spite...</text>
+<text id="1221306">Defeated blue spirit %s.
+Returning to your world with a covenant offering...</text>
+<text id="1221307">Abyss spirit %s has been vanquished.
+Returning to your world...</text>
+<text id="1221401">Sparring match won.
+Returning to original location...</text>
+<text id="1221402">Duel won.
+Returning to original location...</text>
+<text id="1222001">Task completed.
+Phantom %s has returned to their world.</text>
+<text id="1222002">Task completed.
+Shade %s has returned to their world.</text>
+<text id="1222003">Task completed.
+Blue spirit %s has returned to their world.</text>
+<text id="1222004">Phantom %s has returned to their world.</text>
+<text id="1222005">Shade %s has returned to their world.</text>
+<text id="1222006">Blue spirit %s has returned to their world.</text>
+<text id="1222007">Dark spirit %s has returned to their world.</text>
+<text id="1222008">Arbiter spirit %s has returned to their world.</text>
+<text id="1222009">Dragon spirit %s has returned to their world.</text>
+<text id="1222010">Gray spirit %s has returned to their world.</text>
+<text id="1222011">Gray spirit %s has returned to their world.</text>
+<text id="1222012">Abyss spirit %s has returned to their world.</text>
+<text id="1222013">Mirror squire %s has returned to their world.</text>
+<text id="1222101">Sent the phantom %s back to their world.</text>
+<text id="1222102">Sent the shade %s back to their world.</text>
+<text id="1222103">Sent the blue spirit %s back to their world.</text>
+<text id="1222104">none text</text>
+<text id="1222201">Dark spirit %s has returned to their world.
+Guardianship ended. Returning to your world...</text>
+<text id="1223001">World master %s has lit a bonfire.</text>
+<text id="1223101">World master %s has challenged the area boss.</text>
+<text id="1223102">World master %s has challenged the area boss.
+Returning to your world...</text>
+<text id="1223103">World master %s, has left the area.
+Returning to your world...</text>
+<text id="1223104">World master %s, has left the area.
+Returning to your world...</text>
+<text id="1223201">Looking Glass Knight vanquished by %s.
+Returning to your world.</text>
+<text id="1229001">Separated from the world you were summoned to.
+Returning to your world...</text>
+<text id="1229002">Driven away from the world you invaded.
+Returning to your world...</text>
+<text id="1229003">Separated from %s's world.
+Returning to your world...</text>
+<text id="1229004">Link to sparring partner lost. The match ended in a draw.
+Returning to original location...</text>
+<text id="1229005">Link to opponent lost. The duel ended in a draw.
+Returning to original location...</text>
+<text id="1229101">You are being sent back to your world by %s,
+the master of this world.</text>
+<text id="1229102">Returning to your world...</text>
+<text id="1229103">Returning to original location...</text>
+<text id="1229901">Returning to your world...</text>
+<text id="1229902">Returning to original location...</text>
+<text id="1300001">Your message has been rated.</text>
+<text id="1000010001">Failed to read from disk.</text>
+<text id="1000020001">Lost connection to game server.
+Switching to offline mode.</text>
+<text id="1000020002">Signed out from PlayStation㌃Network.
+Switching to offline mode.</text>
+<text id="1000020003">The Ethernet cable is not connected.
+Switching to offline mode.</text>
+<text id="1000020004">A network error occurred.
+Switching to offline mode.</text>
+</entries>
+</fmg>

@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls1</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="909000">Level
+Overall attribute strength.
+Consume souls to level up.</text>
+<text id="909001">Attribute points
+Spend points to raise attributes.
+Each point increases an attribute by one.</text>
+<text id="909002">Souls
+Total number of Souls in your possession.
+Souls are left behind upon death.</text>
+<text id="909003">Required souls
+Required number of souls to level up.
+Leveling up raises an attribute.</text>
+<text id="909004">Vigor
+An attribute that determines HP.</text>
+<text id="909005">Endurance
+An attribute that determines your overall
+stamina.</text>
+<text id="909006">Vitality
+An attribute that determines your
+maximum equipment load.</text>
+<text id="909007">Attunement
+Attribute governing number of spells that
+can be attuned. Boosts spell-casting speed.</text>
+<text id="909008">Strength
+Attribute required to wield heavy, 
+powerful weapons. Also boosts attack.</text>
+<text id="909009">Dexterity
+Attribute required to wield weapons
+requiring finesse. Also boosts attack.</text>
+<text id="909010">Intelligence
+Attribute required for sorceries.
+Boosts magic DEF and proficiency in
+sorceries.</text>
+<text id="909011">Faith
+Attribute required for miracles.
+Boosts lightning DEF and proficiency in
+miracles.</text>
+<text id="909012">Adaptability
+Raises various attributes to ensure one's
+survival. Boosts agility and various
+resistances.</text>
+<text id="909013">%null%</text>
+<text id="909014">HP
+You die if this reaches zero.</text>
+<text id="909015">Stamina
+Required to carry out actions.
+Actions deplete stamina, which
+automatically recovers.</text>
+<text id="909016">Equipment load
+Maximum weight that can be equipped.
+Movement slows as your equipped load
+approaches maximum.</text>
+<text id="909017">Attunement slots
+Each slot allows the attunement of one
+spell. Can be increased by raising
+attunement.</text>
+<text id="909018">Casting speed
+Speed at which spells can be cast.
+Can be shortened by raising attunement.</text>
+<text id="909019">Physical ATK: Strength
+The power to inflict damage with physical
+attacks. Improves with strength.</text>
+<text id="909020">Physical ATK: Dexterity
+The power to inflict damage with physical
+attacks. Improves with dexterity.</text>
+<text id="909021">Magic ATK bonus
+Boosts the power of magic attacks.</text>
+<text id="909022">Fire ATK bonus
+Boosts the power of fire attacks.</text>
+<text id="909023">Lightning ATK bonus
+Boosts the power of lightning attacks.</text>
+<text id="909024">Dark ATK bonus
+Boosts the power of dark attacks.</text>
+<text id="909025">Poison ATK bonus
+Boosts the power of poison attacks.</text>
+<text id="909026">Bleed ATK bonus
+Boosts the power of bleed attacks.</text>
+<text id="909027">%null%</text>
+<text id="909028">Physical DEF
+Level of defense against physical attacks.</text>
+<text id="909029">Magic DEF
+Level of defense against magic attacks.</text>
+<text id="909030">Fire DEF
+Level of defense against fire attacks.</text>
+<text id="909031">Lightning DEF
+Level of defense against lightning attacks.</text>
+<text id="909032">Dark DEF
+Level of defense against dark attacks.</text>
+<text id="909033">Poison resist
+Level of resistance to poison.
+Poison gradually drains HP.</text>
+<text id="909034">Bleed resist
+Resistance to incisive bleeding attacks.
+Bleeding drains HP and stamina.</text>
+<text id="909035">%null%</text>
+<text id="909036">Petrify resist
+Resistance to petrification.
+Petrification causes instant death.</text>
+<text id="909037">%null%</text>
+<text id="909038">Agility
+Boosts ease of evasion and other actions.</text>
+<text id="909039">%null%</text>
+<text id="909040">Left-hand ATK
+The ATK of the weapon equipped in slot 1
+of your left hand.</text>
+<text id="909041">Left-hand ATK
+The ATK of the weapon equipped in slot 2
+of your left hand.</text>
+<text id="909042">Left-hand ATK
+The ATK of the weapon equipped in slot 3
+of your left hand.</text>
+<text id="909043">Right-hand ATK
+The ATK of the weapon equipped in slot 1
+of your right hand.</text>
+<text id="909044">Right-hand ATK
+The ATK of the weapon equipped in slot 2
+of your right hand.</text>
+<text id="909045">Right-hand ATK
+The ATK of the weapon equipped in slot 3
+of your right hand.</text>
+<text id="909046">Physical DEF: Strike
+Defense against striking attacks.
+Total value for all equipped armor.</text>
+<text id="909047">Physical DEF: Slash
+Defense against slashing attacks.
+Total value for all equipped armor.</text>
+<text id="909048">Physical DEF: Thrust
+Defense against thrusting attacks.
+Total value for all equipped armor.</text>
+<text id="909049">Poise
+Ability to withstand the impact of attacks.
+Total value for all equipped armor.</text>
+<text id="909050">Soul Memory
+Souls that once dwelled
+within the flesh will always
+remain in memory.
+Could this be a blessing? Or a curse?</text>
+<text id="909051">Curse resist
+Resistance to the Hollowing curse.
+HP is reduced as Hollowing increases in
+severity.</text>
+<text id="909052">Poise
+The ability to withstand the impact of
+attacks.</text>
+<text id="909100">Required attribute: Strength
+Strength required to equip this item.</text>
+<text id="909111">Required attribute: Dexterity
+Dexterity required to equip this item.</text>
+<text id="909122">Required attribute: Intelligence
+Intelligence required to equip this item.</text>
+<text id="909133">Required attribute: Faith
+Faith required to equip this item.</text>
+<text id="909144">Attribute bonus: Strength
+Influence of strength on physical ATK.</text>
+<text id="909155">Attribute bonus: Dexterity
+Influence of dexterity on physical ATK.</text>
+<text id="909166">Attribute bonus: Magic
+Influence of intelligence on magic ATK.</text>
+<text id="909177">Attribute bonus: Lightning
+Influence of faith on lightning ATK.</text>
+<text id="909188">Attribute bonus: Physical DEF
+Influence of physical DEF on
+effectiveness of armor worn.</text>
+<text id="909189">Attribute bonus: Fire
+Influence of faith and intelligence on
+fire ATK.</text>
+<text id="909190">Attribute bonus: Dark
+Influence of faith and intelligence on
+dark ATK. It scales with the lower of these
+two attributes.</text>
+<text id="909191">%null%</text>
+<text id="909192">%null%</text>
+<text id="909193">%null%</text>
+<text id="909194">%null%</text>
+<text id="909195">%null%</text>
+<text id="909196">%null%</text>
+<text id="909197">%null%</text>
+<text id="909198">%null%</text>
+<text id="909199">%null%</text>
+<text id="909200">Spell type
+Sorcery, miracle, pyromancy, or hex.</text>
+<text id="909201">Slots used
+Number of slots required to attune spell.</text>
+<text id="909252">Class
+The character's class in homeland.</text>
+<text id="909253">Covenant
+Presently affiliated covenant.</text>
+<text id="909254">Sin level
+The severity of one's sins.
+Incorrigible sinners may face retribution.</text>
+<text id="909300">Weapon category
+Weapons are categorized by physical
+specifications.</text>
+<text id="909301">Attack type
+The types of damage inflicted by a weapon:
+strike, slash or thrust.</text>
+<text id="909302">Physical ATK
+The level of physical damage inflicted.</text>
+<text id="909303">Magic ATK
+The level of magic damage inflicted.</text>
+<text id="909304">Lightning ATK
+The level of lightning damage inflicted.</text>
+<text id="909305">Fire ATK
+The level of fire damage inflicted.</text>
+<text id="909306">Dark ATK
+The level of dark damage inflicted.</text>
+<text id="909307">Poison Effect
+The strength of the poison effect.</text>
+<text id="909308">Bleed Effect
+The strength of the bleed effect.</text>
+<text id="909309">%null%</text>
+<text id="909310">Counter strength
+Level of counter damage inflicted on
+attacking enemy.</text>
+<text id="909311">Poise damage
+Strength of impact disrupting opponent's
+poise.</text>
+<text id="909312">Shot range
+Maximum distance achieved by ranged
+attacks.</text>
+<text id="909313">Casting speed
+Speed at which spells can be cast.</text>
+<text id="909314">Physical reduction
+The percentage of physical damage
+reduced.</text>
+<text id="909315">Magic reduction
+The percentage of magic damage reduced.</text>
+<text id="909316">Lightning reduction
+The percentage of lightning damage
+reduced.</text>
+<text id="909317">Fire reduction
+The percentage of fire damage reduced.</text>
+<text id="909318">Dark reduction
+The percentage of dark damage reduced.</text>
+<text id="909319">Poison reduction
+The percentage of poison damage reduced.</text>
+<text id="909320">Bleed reduction
+The percentage of bleed damage reduced.</text>
+<text id="909321">%null%</text>
+<text id="909322">Petrify reduction
+The percentage of petrify damage reduced.</text>
+<text id="909323">Stability
+The stability of one's defense.
+Reduces consumption of stamina when
+taking attacks.</text>
+<text id="909324">Current durability/maximum durability
+At zero, items break and become
+ineffective. Durability is restored by resting
+at a bonfire, but a broken item must be
+repaired first.</text>
+<text id="909325">Physical DEF
+Base defense against physical attacks.</text>
+<text id="909326">Physical DEF: Strike
+Defense against physical striking attacks.</text>
+<text id="909327">Physical DEF: Slash
+Defense against physical slashing attacks.</text>
+<text id="909328">Physical DEF: Thrust
+Defense against physical thrusting attacks.</text>
+<text id="909329">Magic DEF
+Defense against magic attacks.</text>
+<text id="909330">Lightning DEF
+Defense against lightning attacks.</text>
+<text id="909331">Fire DEF
+Defense against fire attacks.</text>
+<text id="909332">Dark DEF
+Defense against dark attacks.</text>
+<text id="909333">Poise
+Ability to withstand the impact of attacks.
+Weak poise makes it easier to be knocked 
+off-balance.</text>
+<text id="909334">Poison resist
+Ability to withstand poison.
+Higher value reduces chance of poisoning.</text>
+<text id="909335">Bleed resist
+Resistance to incisive attacks which cause
+bleeding. Higher value reduces chance of
+bleeding.</text>
+<text id="909336">%null%</text>
+<text id="909337">Petrify resist
+Resistance to petrification.
+Higher value reduces chance of petrification.</text>
+<text id="909338">Weight
+Weight of the item.
+Movement becomes sluggish if your load is
+too heavy.</text>
+<text id="909400">Physical DEF: Strike
+Defense against physical attacks,
+particularly striking attacks.
+Total value of all equipped armor.</text>
+<text id="909401">Physical DEF: Slash
+Defense against physical attacks,
+particularly slashing attacks.
+Total value of all equipped armor.</text>
+<text id="909402">Physical DEF: Thrust
+Defense against physical attacks,
+particularly thrusting attacks.
+Total value of all equipped armor.</text>
+<text id="909403">Magic DEF
+The power to reduce damage from magic
+attacks. Total value of all equipped armor.</text>
+<text id="909404">Fire DEF
+The power to reduce damage from fire
+attacks. Total value of all equipped armor.</text>
+<text id="909405">Lightning DEF
+The power to reduce damage from lightning 
+attacks. Total value of all equipped armor.</text>
+<text id="909406">Dark DEF
+The power to reduce damage from dark
+attacks. Total value of all equipped armor.</text>
+<text id="909407">Poison resist
+The power to withstand poison attacks.
+Total value of all equipped armor.</text>
+<text id="909408">Bleed resist
+Resistance to incisive attacks which cause
+bleeding. Total value of all equipped armor.</text>
+<text id="909409">%null%</text>
+<text id="909410">Petrify resist
+Resistance to petrification.
+Total value of all equipped armor.</text>
+<text id="909411">Curse reduction
+The percentage of curse damage reduced.</text>
+<text id="909412">Curse resist
+Resistance to the Hollowing curse.
+HP is reduced as Hollowing increases in
+severity.</text>
+<text id="909413">Curse resist
+Resistance to the Hollowing curse.
+Total value of all equipped armor. </text>
+<text id="909510">Total Attack
+Total value of all types of attack power.</text>
+<text id="909511">Total Reduction
+Total value of all types of damage reduction.</text>
+<text id="909512">Total Defense
+Total value of all types of defense power.</text>
+</entries>
+</fmg>

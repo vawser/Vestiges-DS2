@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls1</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1000">Obtained %d souls</text>
+<text id="1001">Obtained %s</text>
+<text id="1002">Use %s?</text>
+<text id="1003">Return to the last bonfire?</text>
+<text id="1004">Relinquish souls,
+and return to last bonfire?</text>
+<text id="1005">Used %s</text>
+<text id="1006">%s can be lit</text>
+<text id="1007">※不要</text>
+<text id="1008">Leave this item?
+%s</text>
+<text id="1009">Take this item?
+%s</text>
+<text id="1010">Use this item?
+%s</text>
+<text id="1011">Your inventory bag is full</text>
+<text id="1012">Items you were unable to carry
+were left behind</text>
+<text id="1013">No %s
+in inventory</text>
+<text id="1014">You do not have enough of
+the required item:
+%s</text>
+<text id="1015">You do not have enough
+of the required item</text>
+<text id="1016">Insufficient souls</text>
+<text id="1017">A statue blocks your way</text>
+<text id="1060">Gesture learned</text>
+<text id="1100">Locked</text>
+<text id="1101">Does not open from this side</text>
+<text id="1102">Too heavy to open</text>
+<text id="1103">Locked by some contraption</text>
+<text id="1104">Contraption does not move</text>
+<text id="1105">It's locked</text>
+<text id="1106">Lock removed</text>
+<text id="1107">Cannot use bonfire</text>
+<text id="1108">Cannot use bonfire while
+phantom is present</text>
+<text id="1109">Cannot open without
+%s</text>
+<text id="1110">Already dead</text>
+<text id="1111">You are undeserving</text>
+<text id="1112">Bonfire dormant while foes lurk nearby</text>
+<text id="1113">Alas, nothing happened</text>
+<text id="1114">Cast %s
+into bonfire?</text>
+<text id="1115">Cannot burn additional items</text>
+<text id="1116">The area around this bonfire
+was severed from other worlds</text>
+<text id="1117">Link to other worlds restored</text>
+<text id="1118">The creatures near this bonfire
+live again, with renewed vigor.</text>
+<text id="1119">Estus Flask strengthened</text>
+<text id="1120">Estus Flask at maximum strength</text>
+<text id="1200">Give
+%s?</text>
+<text id="1201">You handed over
+%s</text>
+<text id="1202">Give souls?
+Souls needed: %d</text>
+<text id="1203">Pay souls?
+Souls needed: %d</text>
+<text id="1204">What is your reply?</text>
+<text id="1205">What is your choice?</text>
+<text id="1206">You do not have
+%s</text>
+<text id="1207">Beg for pardon?
+Souls needed: %d</text>
+<text id="1208">Your sin was forgiven</text>
+<text id="1209">You have not sinned</text>
+<text id="1210">Ask her to move path?
+Souls needed: %d</text>
+<text id="1211">[ChrName]
+Offer souls to grave?
+Souls needed: %d</text>
+<text id="1212">Cannot give any more</text>
+<text id="1213">Cannot give now</text>
+<text id="1214">%null%</text>
+<text id="1215">%null%</text>
+<text id="1216">%null%</text>
+<text id="1217">%null%</text>
+<text id="1218">%null%</text>
+<text id="1219">%null%</text>
+<text id="1220">What is your choice?</text>
+<text id="1221">Beg for pardon?
+Souls needed: 0</text>
+<text id="1300">Enter covenant?</text>
+<text id="1301">Entered covenant</text>
+<text id="1302">Abandon covenant?</text>
+<text id="1303">Abandoned covenant</text>
+<text id="1304">No covenant to abandon</text>
+<text id="1305">You already belong
+to this covenant</text>
+<text id="1306">Offer
+%s?</text>
+<text id="1307">Your devotion to your
+covenant has deepened</text>
+<text id="1308">Your devotion to your
+covenant has deepened,
+and you have gained a rank.</text>
+<text id="1309">There is nothing more to offer.
+You have done fine work.</text>
+<text id="1310">You have no offerings</text>
+<text id="1311">Cannot enter covenant
+with phantom present</text>
+<text id="1312">You belong to another covenant.
+Abandon that covenant to join another?</text>
+<text id="1313">No covenant to abandon</text>
+<text id="1314">You must belong to this covenant
+to make an offering</text>
+<text id="1315">Cannot abandon covenant
+with phantom present</text>
+<text id="1316">Cannot do this now</text>
+<text id="1317">%null%</text>
+<text id="1318">%null%</text>
+<text id="1319">%null%</text>
+<text id="1320">You can now join
+the Dragon Remnants covenant</text>
+<text id="1321">%null%</text>
+<text id="1322">%null%</text>
+<text id="1323">%null%</text>
+<text id="1324">%null%</text>
+<text id="1325">%null%</text>
+<text id="1326">%null%</text>
+<text id="1327">%null%</text>
+<text id="1328">%null%</text>
+<text id="1329">%null%</text>
+<text id="1330">Join the Heirs of the Sun covenant?</text>
+<text id="1331">Join the Blue Sentinels covenant?</text>
+<text id="1332">Join the Brotherhood of Blood covenant?</text>
+<text id="1333">Join the Way of Blue covenant?</text>
+<text id="1334">Join the Rat King covenant?</text>
+<text id="1335">Join the Bell Keeper covenant?</text>
+<text id="1336">Join the Dragon Remnants covenant?</text>
+<text id="1337">Join the Company of Champions covenant?</text>
+<text id="1338">Join the Pilgrims of Dark covenant?</text>
+<text id="1339">%null%</text>
+<text id="1340">Abandon your covenant and
+join the Heirs of the Sun?</text>
+<text id="1341">Abandon your covenant and
+join the Blue Sentinels?</text>
+<text id="1342">Abandon your covenant and
+join the Brotherhood of Blood?</text>
+<text id="1343">Abandon your covenant and
+join the Way of Blue?</text>
+<text id="1344">Abandon your covenant and
+join the Rat King covenant?</text>
+<text id="1345">Abandon your covenant and
+join the Bell Keeper covenant?</text>
+<text id="1346">Abandon your covenant and
+join the Dragon Remnants covenant?</text>
+<text id="1347">Abandon your covenant and
+join the Company of Champions?</text>
+<text id="1348">Abandon your covenant and
+join the Pilgrims of Dark?</text>
+<text id="1360">This will set you upon an arduous path.
+Okay to join this covenant?</text>
+<text id="1361">Are you prepared to join this covenant?</text>
+<text id="1400">The bonfire resonates,
+invigorating nearby foes</text>
+<text id="1401">Estus Flask reinforced</text>
+<text id="1402">Invasion near this bonfire restricted</text>
+<text id="2000">Produce the symbol of the King</text>
+<text id="2001">%null%</text>
+<text id="2002">Seek mightier souls</text>
+<text id="2003">%null%</text>
+<text id="2004">The remnants of ancient souls return</text>
+<text id="2005">Mighty souls invigorate your flesh</text>
+<text id="2006">If only we had the strength of the Giants...</text>
+<text id="2007">A Giant rests in peace</text>
+<text id="2008">Is the dragon forever lost?</text>
+<text id="2009">The ashen mist coalesces...</text>
+<text id="2010">The ashen mist has served its purpose...</text>
+<text id="2011">One cannot reside within memory for long</text>
+<text id="2012">The ashen mist has thinned...</text>
+<text id="2013">The ashen mist fades...</text>
+<text id="2014">%null%</text>
+<text id="2015">%null%</text>
+<text id="2016">%null%</text>
+<text id="2017">%null%</text>
+<text id="2018">%null%</text>
+<text id="2019">%null%</text>
+<text id="2020">You may level up by the power of the Emerald Herald</text>
+<text id="2021">Some force has strengthened the Estus Flask</text>
+<text id="2022">A primal bonfire was rekindled</text>
+<text id="2023">Giants crossed the seas, perhaps in homecoming</text>
+<text id="2100">The crushed eye stirs...</text>
+<text id="2101">Your sins were forgiven</text>
+<text id="2102">Invading the world of the guilty as an arbiter spirit...</text>
+<text id="2103">Returning to your world...</text>
+<text id="2200">What is done cannot be undone</text>
+<text id="2201">First, defeat the lord of this quarter...</text>
+<text id="2202">...</text>
+<text id="2203">The Human Effigy blocks invaders from beyond</text>
+<text id="2204">The effect of the Human Effigy has faded</text>
+<text id="2205">The connection to other worlds was restored</text>
+<text id="2300">A harsher journey awaits you</text>
+<text id="2301">Do not lament; there will be another day</text>
+<text id="2302">%null%</text>
+<text id="2303">Spar with others possessing Tokens of Fidelity.
+The victors demonstrate devotion to their covenants.</text>
+<text id="2304">Holders of the Bell Keeper's Seal are
+obliged to expunge invaders from other worlds.
+Success demonstrates deep devotion to covenant.</text>
+<text id="2305">Duel other holders of Tokens of Spite.
+The victors demonstrate devotion to their covenants.</text>
+<text id="2306">Subjects of the Rat King must exterminate invaders.
+Success demonstrates deep devotion to covenant.</text>
+<text id="2500">%null%</text>
+<text id="3000">⑱： Move</text>
+<text id="3001">⑱ + Hold ⑳： Dash</text>
+<text id="3002">⑰： Move camera</text>
+<text id="3003">⑦： Attack (R weapon)</text>
+<text id="3004">⑧： Strong Attack (R weapon)</text>
+<text id="3005">⑨： Attack (L weapon)</text>
+<text id="3006">⑩： Strong Attack (L weapon)</text>
+<text id="3007">⑪： Target Lock/Release
+⑰ While target locked： Change Target</text>
+<text id="3008">%null%</text>
+<text id="3009">⑯： Open Menu</text>
+<text id="3010">㊤： Switch spells</text>
+<text id="3011">㊦： Switch items</text>
+<text id="3012">㊧㊨： Switch equipped weapon</text>
+<text id="3013">⑳： Backstep</text>
+<text id="3014">⑱ + ⑳： Roll</text>
+<text id="3015">⑫ While dashing： Dashing Jump</text>
+<text id="3016">②： Use Item</text>
+<text id="3017">①： Wield right weapon two-handed</text>
+<text id="3018">Hold ①： Wield left weapon two-handed</text>
+<text id="3019">Hold ①： Dual Wield</text>
+<text id="3020">⑳ While dashing： Dashing Jump</text>
+<text id="3050">⑱＋⑦/⑨： Guard Break</text>
+<text id="3051">⑦ After breaking guard： Critical Hit</text>
+<text id="3052">⑱ + ⑧/⑩： Jumping Attack</text>
+<text id="3053">⑦/⑨ While dashing： Dashing Attack</text>
+<text id="3054">⑦/⑨ After backstepping： Backstep Attack</text>
+<text id="3055">⑦/⑨ During enemy attack： Counter Attack</text>
+<text id="3056">⑦/⑨ While rolling： Rolling Attack</text>
+<text id="3057">⑦/⑨ While falling： Plunging Attack</text>
+<text id="3058">⑦ Behind enemy's back： Critical Hit</text>
+<text id="3059">⑨/⑦ With shield equipped： Guard</text>
+<text id="3060">⑩/⑧ With shield equipped： Parry (repel enemy's attack)</text>
+<text id="3061">⑩/⑧ With shield equipped： Spell Parry (repel enemy's spell)</text>
+<text id="3062">⑦ After successful parry： Critical Hit</text>
+<text id="3063">⑧/⑩ With bow equipped： Use Bow (Manual aiming mode)</text>
+<text id="3080">⑱： Climb Ladder</text>
+<text id="3081">⑳ While on ladder： Let go of ladder</text>
+<text id="3082">⑱ + Hold ⑳： While on ladder： Slide down ladder</text>
+<text id="3083">⑦/⑨ While on ladder： Attack</text>
+<text id="3100">●/●/●/●: Move</text>
+<text id="3101">● + ●/●/●/●: Dash</text>
+<text id="3102">●/●/●/● Right-click and drag mouse : Move Camera</text>
+<text id="3103">● (Right-click mouse): Attack (Right-hand weapon)</text>
+<text id="3104">● (Double right-click mouse): Strong Attack (Right-hand weapon)</text>
+<text id="3105">● (Left-click mouse): Attack (Left-hand weapon)</text>
+<text id="3106">● (Double left-click mouse): Strong Attack (Left-hand weapon)</text>
+<text id="3107">●: Target Lock/Release</text>
+<text id="3108">● While target locked (Move mouse right): Change Target</text>
+<text id="3109">●: Open Menu</text>
+<text id="3110">● (Mouse wheel up): Switch Spells</text>
+<text id="3111">● (Mouse wheel down): Switch Items</text>
+<text id="3112">●/● (Shift + Mouse wheel up/down): Switch equipped weapons</text>
+<text id="3113">●: Backstep</text>
+<text id="3114">●/●/●/● + ●: Roll</text>
+<text id="3115">● While dashing: Dashing Jump</text>
+<text id="3116">● (Click Mouse Wheel): Use Item</text>
+<text id="3117">●: Wield right weapon two-handed</text>
+<text id="3118">Hold ●: Wield left weapon two-handed</text>
+<text id="3119">Hold ●: Dual Wield</text>
+<text id="3150">● + ●/● (Left/Right-click mouse): Guard Break</text>
+<text id="3151">●/● After breaking guard (Left/Right-click mouse): Critical Hit</text>
+<text id="3152">● + ●/● (Double left/right-click mouse): Jumping Attack</text>
+<text id="3153">●/● While dashing (Left/Right-click mouse): Dashing Attack</text>
+<text id="3154">●/● After backstepping (Left/Right-click mouse): Backstep Attack</text>
+<text id="3155">●/● During enemy attack (Left/Right-click mouse): Counter Attack</text>
+<text id="3156">●/● While rolling (Left/Right-click mouse): Rolling Attack</text>
+<text id="3157">●/● While falling (Left/Right-click mouse): Plunging Attack</text>
+<text id="3158">●/● Behind enemy's back (Left/Right-click mouse): Critical Hit</text>
+<text id="3159">●/● With shield equipped (Left/Right-click mouse): Guard</text>
+<text id="3160">●/● With shield equipped (Double left/right-click mouse): Parry (repel enemy's attack)</text>
+<text id="3161">●/● With shield equipped (Double left/right-click mouse): Spell Parry (repel enemy's spell)</text>
+<text id="3162">●/● After successful parry (Left/Right-click mouse): Critical Hit</text>
+<text id="3163">●/● With bow equipped (Left/Right-click mouse): Use Bow (Manual aiming mode)</text>
+<text id="3180">●: Climb Ladder</text>
+<text id="3181">● While on ladder: Let go of ladder</text>
+<text id="3182">● + ●/● While on ladder: Slide down ladder</text>
+<text id="3183">●/● While on ladder (Left/Right-click mouse): Attack</text>
+<text id="3500">Bonfires are places of respite
+You may also light torches on them</text>
+<text id="3501">Light sconces with a torch</text>
+<text id="3502">Search your surroundings</text>
+<text id="4000">Rest at bonfire: Recover</text>
+<text id="4001">Resting at a bonfire replenishes your Estus Flask</text>
+<text id="4002">Resting at a bonfire revives enemies</text>
+<text id="4003">Restore equipment durability by resting at a bonfire</text>
+<text id="4004">At a bonfire, you may instantly travel to other bonfires</text>
+<text id="4005">Burning an Ember of Adversity will enrage the bonfire's flames,
+strengthening nearby enemies.</text>
+<text id="4006">In the dark, enemies' vision is also impaired</text>
+<text id="4007">When poisoned, your HP will diminish</text>
+<text id="4008">When bleeding, your HP and stamina will diminish</text>
+<text id="4009">The heavier your equipment, the slower your movement</text>
+<text id="4010">Long falls cause damage based on height of drop</text>
+<text id="4011">Equipment durability will diminish with use,
+and equipment becomes ineffective once broken</text>
+<text id="4012">Attacking, blocking, dashing and so on all use stamina. When your stamina is depleted,
+you won't be able to perform any of these actions</text>
+<text id="4013">Your attack power increases when two-handing a weapon</text>
+<text id="4014">If you turn Hollow...</text>
+<text id="4015">Use a Human Effigy to return to the living</text>
+<text id="4016">When you die, a bloodstain is left behind.
+Touch your bloodstain to reclaim your lost souls</text>
+<text id="4017">Restore broken equipment functionality by repairing it</text>
+<text id="4018">Reinforce weapons and armor to improve stats</text>
+<text id="4019">Infuse your weapon to grant it special characteristics</text>
+<text id="4020">You may summon phantoms from other worlds
+by using the White Sign Soapstone</text>
+<text id="4021">A Golem rests nearby,
+thirsting for souls...</text>
+<text id="4022">Pray at the grave to converse with the dead</text>
+<text id="4023">If only you had a shield...</text>
+<text id="4024">If only you had a torch...</text>
+<text id="4025">Danger lurks ahead</text>
+<text id="4026">Don't make a sound</text>
+<text id="4027">Retreat!</text>
+<text id="4028">Run!</text>
+<text id="4029">Proceed with caution</text>
+<text id="4030">The road ahead is perilous</text>
+<text id="4031">Your true struggle begins now</text>
+<text id="4032">%null%</text>
+<text id="4033">%null%</text>
+<text id="4034">%null%</text>
+<text id="4035">%null%</text>
+<text id="4036">%null%</text>
+<text id="4037">%null%</text>
+<text id="4038">%null%</text>
+<text id="4039">%null%</text>
+<text id="4040">The nature of your being has changed</text>
+<text id="5000">Closed</text>
+<text id="5100">The dragon sleeps</text>
+<text id="5200">The sign written here is being
+channelled from somewhere far away</text>
+<text id="5300">An ancient crown is now yours</text>
+<text id="5301">%null%</text>
+<text id="5302">%null%</text>
+<text id="5303">%null%</text>
+<text id="5304">%null%</text>
+<text id="5305">%null%</text>
+<text id="5306">%null%</text>
+<text id="5307">%null%</text>
+<text id="5308">%null%</text>
+<text id="5309">%null%</text>
+<text id="5310">A faint heat lingers in the ancient crown</text>
+<text id="5400">Forbidden is the path
+to the ancient king's domain</text>
+<text id="5401">%null%</text>
+<text id="5402">%null%</text>
+<text id="5403">%null%</text>
+<text id="5404">%null%</text>
+<text id="5405">%null%</text>
+<text id="5406">%null%</text>
+<text id="5407">%null%</text>
+<text id="5408">%null%</text>
+<text id="5409">%null%</text>
+<text id="5410">The city of the Sunken King sleeps,
+as does the dragon within</text>
+<text id="5411">%null%</text>
+<text id="5412">%null%</text>
+<text id="5413">%null%</text>
+<text id="5414">%null%</text>
+<text id="5415">%null%</text>
+<text id="5416">%null%</text>
+<text id="5417">%null%</text>
+<text id="5418">%null%</text>
+<text id="5419">%null%</text>
+<text id="5420">With water dry, and path amiss,
+woeful temptation is dismissed</text>
+<text id="5421">%null%</text>
+<text id="5422">%null%</text>
+<text id="5423">%null%</text>
+<text id="5424">%null%</text>
+<text id="5425">%null%</text>
+<text id="5426">%null%</text>
+<text id="5427">%null%</text>
+<text id="5428">%null%</text>
+<text id="5429">%null%</text>
+<text id="5430">Trespassers will face
+adversity befitting a monarch</text>
+<text id="5510">In the tower of the Old Iron King
+resides a Child of Dark</text>
+<text id="5610">Eleum Loyce, land of the Ivory King, lies cold as death,
+nary a hint of warmth remaining</text>
+<text id="5700">Nadalia's remnants are fading</text>
+<text id="5701">%null%</text>
+<text id="5702">%null%</text>
+<text id="5703">%null%</text>
+<text id="5704">%null%</text>
+<text id="5705">%null%</text>
+<text id="5706">%null%</text>
+<text id="5707">%null%</text>
+<text id="5708">%null%</text>
+<text id="5709">%null%</text>
+<text id="5710">Nadalia is no more. True Soul of Nadalia acquired.</text>
+<text id="5800">The gale blowing through Eleum Loyce has ceased</text>
+<text id="5801">%null%</text>
+<text id="5802">%null%</text>
+<text id="5803">%null%</text>
+<text id="5804">%null%</text>
+<text id="5805">%null%</text>
+<text id="5806">%null%</text>
+<text id="5807">%null%</text>
+<text id="5808">%null%</text>
+<text id="5809">%null%</text>
+<text id="5810">Alsanna's seal is undone</text>
+<text id="5811">%null%</text>
+<text id="5812">%null%</text>
+<text id="5813">%null%</text>
+<text id="5814">%null%</text>
+<text id="5815">%null%</text>
+<text id="5816">%null%</text>
+<text id="5817">%null%</text>
+<text id="5818">%null%</text>
+<text id="5819">%null%</text>
+<text id="5820">The path to Chaos lies open</text>
+<text id="5821">%null%</text>
+<text id="5822">%null%</text>
+<text id="5823">%null%</text>
+<text id="5824">%null%</text>
+<text id="5825">%null%</text>
+<text id="5826">%null%</text>
+<text id="5827">%null%</text>
+<text id="5828">%null%</text>
+<text id="5829">%null%</text>
+<text id="5830">Alsanna's seal is undone, and the winds of Eleum Loyce are ceased</text>
+<text id="5831">%null%</text>
+<text id="5832">%null%</text>
+<text id="5833">%null%</text>
+<text id="5834">%null%</text>
+<text id="5835">%null%</text>
+<text id="5836">%null%</text>
+<text id="5837">%null%</text>
+<text id="5838">%null%</text>
+<text id="5839">%null%</text>
+<text id="5840">A knight of Eleum Loyce seeks the Chaos...</text>
+<text id="5900">Heat radiates from the ancient crowns</text>
+<text id="9000">Invaded by dark spirit Prowlers!</text>
+<text id="9001">%null%</text>
+<text id="9002">%null%</text>
+<text id="9003">%null%</text>
+<text id="9004">%null%</text>
+<text id="9005">%null%</text>
+<text id="9006">%null%</text>
+<text id="9007">%null%</text>
+<text id="9008">%null%</text>
+<text id="9009">%null%</text>
+<text id="9010">Dark spirit Prowlers has been vanquished.</text>
+<text id="9100">When light is revealed, the shadows rise...</text>
+</entries>
+</fmg>

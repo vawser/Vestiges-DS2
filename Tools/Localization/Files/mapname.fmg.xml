@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls1</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="10020000">Things Betwixt</text>
+<text id="10040000">Majula</text>
+<text id="10100000">Forest of Fallen Giants</text>
+<text id="10140000">Brightstone Cove Tseldora</text>
+<text id="10140001">Lord's Private Chamber</text>
+<text id="10150000">Aldia's Keep</text>
+<text id="10160000">The Lost Bastille</text>
+<text id="10160001">Sinners' Rise</text>
+<text id="10160002">Belfry Luna</text>
+<text id="10170000">Harvest Valley</text>
+<text id="10170001">Earthen Peak</text>
+<text id="10180000">No-man's Wharf</text>
+<text id="10190000">Iron Keep</text>
+<text id="10190001">Belfry Sol</text>
+<text id="10230000">Huntsman's Copse</text>
+<text id="10230001">Undead Purgatory</text>
+<text id="10250000">The Gutter</text>
+<text id="10250001">Black Gulch</text>
+<text id="10270000">Dragon Aerie</text>
+<text id="10270001">Dragon Shrine</text>
+<text id="10280000">Firelink Throne</text>
+<text id="10290000">Majula</text>
+<text id="10300000">Heide's Tower of Flame</text>
+<text id="10310000">Heide's Tower of Flame</text>
+<text id="10310001">Cathedral of Blue</text>
+<text id="10320000">Shaded Woods</text>
+<text id="10320001">Shrine of Winter</text>
+<text id="10330000">Doors of Pharros</text>
+<text id="10340000">Grave of Saints</text>
+<text id="20100000">Memory of Vammar</text>
+<text id="20100001">Memory of Orro</text>
+<text id="20100002">Memory of Jeigh</text>
+<text id="20110000">Shrine of Amana</text>
+<text id="20210000">Drangleic Castle</text>
+<text id="20210001">King's Passage</text>
+<text id="20210002">Throne of Want</text>
+<text id="20240000">Undead Crypt</text>
+<text id="20260000">Dragon Memories</text>
+<text id="20620000">%null%</text>
+<text id="20630000">%null%</text>
+<text id="40030000">Dark Chasm of Old</text>
+<text id="50350000">Shulva, Sanctum City</text>
+<text id="50350001">Dragon's Sanctum</text>
+<text id="50350002">Dragon's Rest</text>
+<text id="50350003">Sunken Throne</text>
+<text id="50350004">Cave of the Dead</text>
+<text id="50360000">Brume Tower</text>
+<text id="50360001">Iron Passage</text>
+<text id="50360002">Memory of the Old Iron King</text>
+<text id="50370000">Frozen Eleum Loyce </text>
+<text id="50370001">Grand Cathedral</text>
+<text id="50370002">（No Text）</text>
+<text id="50370003">（No Text）</text>
+<text id="50370004">Frigid Outskirts</text>
+<text id="50370005">The Old Chaos</text>
+<text id="50380000">Memory of the King</text>
+</entries>
+</fmg>

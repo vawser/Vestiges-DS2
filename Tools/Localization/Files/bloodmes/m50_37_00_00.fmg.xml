@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls1</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="100">Search your surroundings</text>
+<text id="101">Search your surroundings</text>
+<text id="5200">The sign written here is being
+channelled from somewhere far away</text>
+<text id="5201">%null%</text>
+<text id="5202">%null%</text>
+<text id="5203">%null%</text>
+<text id="5204">%null%</text>
+<text id="5205">%null%</text>
+<text id="5206">%null%</text>
+<text id="5207">%null%</text>
+<text id="5208">%null%</text>
+<text id="5209">%null%</text>
+<text id="5210">The sign written here is being
+channelled from the land ahead</text>
+</entries>
+</fmg>

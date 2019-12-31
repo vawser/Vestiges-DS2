@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls1</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="1000">SAVE DATA</text>
+<text id="2000040001">Terms and Conditions</text>
+<text id="2000040002">%null%</text>
+<text id="2000040003">Accept</text>
+<text id="2000040004">Decline</text>
+<text id="2000040101">⑮：Scroll</text>
+<text id="2000040102">⑮：Scroll ⑭：Select ⑲：Done</text>
+<text id="2000040500">BANDAI NAMCO GAMES AMERICA INC.
+DARK SOULS II: SCHOLAR OF THE FIRST SIN
+END USER LICENSE AGREEMENT
+
+IMPORTANT - READ CAREFULLY:  
+Last Updated: December 22, 2014
+
+This End User License Agreement (this “EULA”) may be updated from time to time. Your continued use of
+the Game (as defined below) after a revised version has been communicated to you constitutes acceptance
+by you of its terms.
+
+THE GAME IS LICENSED TO YOU ON THE TERMS SET FORTH IN THIS EULA, WHICH CONSTITUTES
+A LEGAL AGREEMENT BETWEEN YOU AND BANDAI NAMCO GAMES AMERICA INC. (“BNGA”).  BY
+ACCESSING, PLAYING, INSTALLING, OR OTHERWISE USING THE GAME IN ANY WAY, YOU AGREE
+TO BE LEGALLY BOUND BY THE TERMS OF THIS EULA WITH BNGA.
+
+THIS EULA CONTAINS, AMONG OTHER THINGS, AN ARBITRATION PROVISION CONTAINING A
+CLASS ACTION WAIVER. 
+
+The Dark Souls II: Scholar of the First Sin game, including, without limitation, any multi-player, online, or
+downloadable portions thereof and any related written or electronic documentation or content (the “Game”),
+is protected by domestic and foreign copyright laws as well as international copyright treaties and
+conventions and other laws.  The Game is licensed, and not sold, and this EULA confers no title or
+ownership to the Game or any copy thereof.  In addition to the terms and conditions hereof, when accessing
+and using particular portions of the Game, including, without limitation, any multi-player, online, or
+downloadable content, you may be subject to additional guidelines of third-party service providers.
+</text>
+<text id="2000040501">1. PRECONDITIONS OF THE LICENSES.  The licenses granted in this EULA are specifically conditioned
+upon the following and your full compliance with all other terms and conditions set forth in this EULA:
+
+a. You have reached the age of majority in your jurisdiction. If you are under the age of majority in your
+jurisdiction, your legal representative (e.g., a parent or a person who has parental authority) must agree on
+your behalf to comply, and take full responsibility for your compliance, with this EULA prior to your use of
+the Game; 
+
+b. You agree to and comply with all of the terms in this EULA, and any additional terms as may be
+applicable to the Game, which acceptance is evidenced by your access to and use of the Game;
+
+c. If the Game is provided through an online platform, you accept all applicable terms and conditions for
+such platform, which acceptance is evidenced by your access to and use of the Game;
+
+d. You access and use the Game only on local machines running validly-licensed copies of operating systems
+on which the Game is designed to operate and which meet the minimum requirements set by BNG
+(collectively, the “Hardware”); 
+
+e. You do not use any hacks, cracks, bots, or third-party games that may modify, temporarily or permanently,
+the code or the user experience of the Game, whether on your local machine or on servers that enable use of
+any features of the Game.
+</text>
+<text id="2000040502">2. LIMITED USE LICENSE.  Subject to the terms of this EULA, BNGA grants you the non-exclusive,
+non-transferable, revocable, limited right and license to access and use one copy of the Game solely for your
+personal use with the Hardware.  Commercial use of the Game is prohibited.  To access and use the Game,
+you must have legally obtained the Game from BNGA or an authorized third party distributor and all
+Hardware and/or third-party products and services required to operate the Game and/or access any online,
+multi-player, or downloadable portion of the Game that BNGA does not provide.  You are responsible for
+paying all fees, taxes, and other costs you may incur to access and use the Game, including, but not limited
+to, costs for any Hardware, Internet service, or other third-party products and services required to access
+any multi-player, online, or downloadable portions of the Game.  Neither this EULA nor your access to or
+use of the Game entitles you to any future releases of the Game or any expansions, sequels, or similar or
+ancillary products. You have no interest, monetary or otherwise, in any feature or content contained in or
+related to the Game.
+</text>
+<text id="2000040503">3. OWNERSHIP.  All intellectual property rights in and to the Game (including, but not limited to,
+video, audio, and other content incorporated therein or later downloaded) and title to any and all copies
+thereof are owned by BNGA or its licensors, and you receive no right or interest therein, except for the
+limited licenses expressly provided herein.
+
+You may not do any of the following:
+• Copy the Game except for a single backup copy;
+• Sell, rent, lease, license, distribute, or otherwise transfer or make the Game available to any other person,
+in whole or in part, or use the Game or any part thereof in any commercial context, including, but not
+limited to, on a commercial website or in a service bureau, "cyber cafe", computer gaming center, or any
+other commercial location in which a user may access or use the Game who has not purchased or been
+authorized by BNGA;
+• Reverse engineer, derive source code, modify, decompile, disassemble, or create derivative works of the
+Game or any online portion thereof, in whole or in part;
+• Remove, disable, or circumvent any proprietary notices or labels contained on or in the Game or any online
+portion thereof; or
+• Export or re-export the Game or any copy or adaptation in violation of any applicable export restrictions or
+other laws or regulations. 
+</text>
+<text id="2000040504">4. ONLINE MODES/SECURITY MEASURES/PROTECTIONS.
+You will need an internet connection to connect to a game server(s) in order to play online modes of the
+Game with other players. In addition, certain security measures may be required in order for you to make
+full use of the Game, including, without limitation, the requirement to register the Game with a serial code,
+the requirement to have continuous access to the Internet, and/or the acceptance of security/digital rights
+management features.  Failure to accept the security measures may partially or completely impair your use
+of the Game.
+</text>
+<text id="2000040505">5.  USER-GENERATED CONTENT.
+ In exchange for access to and use of the Game and to the extent that you create content through access to
+and use of the Game (“User-Generated Content”), you hereby grant BNGA an exclusive, perpetual,
+irrevocable, royalty-free, fully transferable, and sub-licensable worldwide right and license to use
+User-Generated Content in any way and for any purpose in connection with the Game and related goods and
+services, including the rights to reproduce, copy, adapt, modify, perform, create derivative works from,
+display, publish, broadcast, transmit, or otherwise use, distribute, exploit, and communicate to the public by
+any and all means and media whether now known or hereafter devised without any further notice or
+compensation of any kind to you for the whole duration of protection granted to intellectual property rights
+by applicable laws and international conventions.  To the extent permitted by applicable law, you hereby
+waive any moral rights of paternity, publication, reputation, or attribution with respect to BNGA’s and other
+players’ use and enjoyment of such assets in connection with the Game and related goods and services under
+applicable law.  The license granted to BNGA, and the above waiver of any applicable moral rights, shall
+survive any termination of this EULA.
+</text>
+<text id="2000040506">6. ONLINE CONDUCT.  
+
+6.1 BNGA does not pre-screen content of postings or online chats in the Game and does not assume any
+responsibility or liability for User-Generated Content.  BNGA does not assume any liability for any failure to
+remove, or any delay in removing, User-Generated Content.  Without limiting any of its other rights and
+remedies under this EULA or applicable law, if BNGA objects to any User-Generated Content for any
+reason, BNGA, in its sole discretion may (either itself or, if applicable, by request to a third-party service
+provider): (a) remove the User-Generated Content; (b) give warnings to applicable persons; and/or (c)
+restrict, suspend, or terminate access to and use of the Game without any notice or liability.  
+
+6.2 You agree that you will be personally responsible for your access to and use of the Game, and for all of
+your communication and activity in connection with the Game, including any User-Generated Content.  
+
+6.3 You agree not to:
+• Harass, threaten, embarrass, or do anything else to another user of the Game that is unwanted, as
+determined by BNGA in its sole discretion. 
+• Transmit or facilitate distribution of content that is harmful, abusive, racially or ethnically offensive, vulgar,
+sexually explicit, defamatory, infringing, invasive of personal privacy or publicity rights, or objectionable, as
+determined by BNGA in its sole discretion. Hate speech is not tolerated. 
+• Violate any terms or policies communicated by BNGA from time to time.
+• Promote or encourage any illegal activity, including hacking. 
+• Disclose your own or other users’ personal information to third parties.
+• Impersonate any person or entity, including any BNGA officials, forum leaders, guides, hosts, employees,
+or agents, or falsely state or otherwise misrepresent your affiliation with a person or entity.
+• Impede or disrupt the Game or the normal flow of Game play or dialogue or use vulgar language,
+abusiveness, excessive shouting (e.g., ALL CAPS), "spamming," or any other disruptive or detrimental
+methods in an attempt to disturb other users of the Game.
+• Cheat or utilize unauthorized exploits in connection with the Game.
+• Use or exploit any bugs, errors, or design flaws to obtain unauthorized access to or use of the Game or to
+gain an unfair advantage over other players of the Game.
+• Violate any applicable laws including, but not limited to, by posting, transmitting, promoting, or
+distributing content that violates any applicable law or regulation. 
+• Violate any rules for use of third-party technology and content, rules of interactive service providers, and
+federal, state, local, and foreign laws where applicable.  Ignorance of the law is no excuse. 
+• Do anything that interferes with the ability of other users to enjoy playing the Game in accordance with its
+rules or that materially increases the expense or difficulty of BNGA or the third-party service provider (if
+applicable) in maintaining the Game for the enjoyment of all its users.
+• Intentionally disconnect from the network during online play or allow yourself to be defeated by a given
+player repeatedly to help boost their rankings or win counts in the Game.
+</text>
+<text id="2000040507">7. LIMITATION ON DAMAGES.  
+
+7.1 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL BNGA, ITS
+SUPPLIERS, ITS LICENSORS, OR THEIR RESPECTIVE DIRECTORS, OFFICERS, EMPLOYEES,
+CONTRACTORS, OR AGENTS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, EXEMPLARY,
+PUNITIVE, OR CONSEQUENTIAL DAMAGES WHATSOEVER ARISING OUT OF THE POSSESSION OF,
+ACCESS TO, USE OF, OR INABILITY TO USE THE GAME OR THE FAILURE TO PROVIDE SUPPORT
+SERVICES, EVEN IF A PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.  THIS
+LIMITATION WILL APPLY REGARDLESS OF THE THEORY OF LIABILITY, WHETHER FRAUD,
+MISREPRESENTATION, BREACH OF CONTRACT, NEGLIGENCE, PERSONAL INJURY, PRODUCTS
+LIABILITY, INTELLECTUAL PROPERTY INFRINGEMENT, OR ANY OTHER THEORY. IN ANY CASE
+AND EXCEPT AS OTHERWISE REQUIRED BY APPLICABLE LAW, BNGA'S, ITS LICENSORS’, AND
+SUPPLIERS’ ENTIRE LIABILITY FOR ANY AND ALL DAMAGES UNDER THIS EULA SHALL BE
+LIMITED TO THE AMOUNT ACTUALLY PAID BY YOU FOR THE GAME.   
+
+7.2 BNGA AND ITS SUPPLIERS AND LICENSORS MAKE NO PROMISE OR WARRANTY THAT THE
+GAME WILL WORK PROPERLY.  YOU ACKNOWLEDGE AND AGREE THAT BNGA AND ITS LICENSORS
+AND SUPPLIERS ARE NOT RESPONSIBLE OR LIABLE FOR (A) ANY VIRUSES OR OTHER DISABLING
+FEATURES THAT AFFECT YOUR ACCESS TO OR USE OF THE GAME, (B) ANY INCOMPATIBILITY
+AMONG THE GAME, OTHER SERVICES, AND HARDWARE, OR (C) ANY DELAYS OR FAILURES YOU
+MAY EXPERIENCE IN INITIATING, CONDUCTING, OR COMPLETING ANY TRANSMISSIONS OR
+TRANSACTIONS IN CONNECTION WITH THE GAME IN AN ACCURATE OR TIMELY MANNER.  THE
+GAME AND ALL OTHER SERVICES ARE PROVIDED “AS IS.”  EXCEPT AS DESCRIBED HEREIN [OR IN
+OUR LIMITED WARRANTY ACCOMPANYING THE GAME.  BNGA AND ITS LICENSORS AND
+SUPPLIERS EXPRESSLY DISCLAIM ALL WARRANTIES OR CONDITIONS OF ANY KIND, EXPRESS,
+IMPLIED OR STATUTORY, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF
+TITLE, NON-INFRINGEMENT, MERCHANTABILITY, AND FITNESS FOR A PARTICULAR PURPOSE.
+BNGA does not ensure continuous, error-free, secure, or virus-free operation of any online, multi-player,
+or downloadable portions of the Game or continued operation or availability of any given server.  Some
+countries/regions do not allow limitations as to how long an implied warranty lasts and/or exclusions or
+limitations of consequential damages, so the above limitations and/or exclusions of liability may not apply
+to you.  This warranty gives you specific legal rights and you may also have other legal rights that vary from
+country/region to country/region.
+
+7.3 BNGA is not liable for any delay or failure to perform resulting from any causes beyond its reasonable
+control.  Further, BNGA cannot and does not promise or ensure that you will be able to access the online,
+multi-player, or downloadable portions of the Game whenever you want, and there may be extended
+periods of time when you cannot access such portions of the Game.
+</text>
+<text id="2000040508">8. TERMINATION/SUSPENSION.
+
+8.1 This EULA is effective upon your agreement to be bound by its terms and remains in effect until
+terminated by you or BNGA.  You may terminate this EULA at any time by deleting and destroying any and
+all copies of the Game in your possession, custody, or control. 
+
+8.2 Except as otherwise prohibited by applicable law, BNGA may limit, suspend, or terminate the licenses
+granted hereunder and your access to and use of the Game and any related services and products, at any
+time and for any reason without notice or liability to you.
+
+8.3 Without limiting any other rights of BNGA, if you fail to comply with the terms and conditions of this
+EULA, BNGA retains the right, in its sole discretion, to immediately limit, suspend, or terminate your access
+to and/or use of the Game.
+8.4 Upon termination of this EULA, your rights to access and use the Game, including any licenses and
+access to, if applicable, Game Currency, Virtual Items, user data, points, character progress, and any other
+information of any kind related to the Game, will terminate immediately, and you must cease all use of the
+Game.  In the event the Game is terminated, you must destroy all copies of the Game and all of its
+component parts.
+
+8.5 The termination of this EULA will not affect BNGA’s rights or your obligations arising under this EULA.
+Those terms that by their nature are intended to survive this EULA shall survive this EULA.
+</text>
+<text id="2000040509">9. PRIVACY.  BNGA respects your privacy rights.  Any personal information supplied by you to BNGA online
+or via any BNGA-controlled website will be subject to the privacy policy posted at:
+http://www.BandaiNamcoGames.com/privacy. Notwithstanding what is stated in the applicable privacy policy,
+if you use any online services, such as online play or the downloading and uploading of content, BNGA may
+also collect, use, store, transmit and publicly display statistical data regarding game play (including any
+platform ID, play log, play data (level, item), specifications of local machines, and residence regions), or
+identify content that is created and shared by you with other players.
+</text>
+<text id="2000040510">10. U.S. GOVERNMENT RESTRICTED RIGHTS.  The Game has been developed entirely at private expense and
+is provided as a "Commercial Computer Game" or "restricted computer Game." Use, duplication, or
+disclosure by the U.S. Government or a U.S. Government subcontractor is subject to the restrictions set
+forth in subparagraph (c)(1)(ii) of the Rights in Technical Data and Computer Game clauses in
+DFARS 252.227-7013 or as set forth in subparagraphs (c)(1) and (2) of the Commercial Computer Game
+Restricted Rights clauses at FAR 52.227-19, as applicable.  The Contractor/Manufacturer is BANDAI NAMCO
+Games America Inc., 1740 Technology Drive, Suite 600, San Jose, CA 95110.
+</text>
+<text id="2000040511">11. INJUNCTION.  Because BNGA would be irreparably damaged if the terms of this EULA were not
+specifically enforced, you agree that BNGA and/or its licensors and suppliers shall be entitled, without
+bond, other security or proof of damages, to appropriate equitable remedies with respect to breaches
+of this EULA, in addition to such other remedies as BNGA may otherwise have under applicable law.
+</text>
+<text id="2000040512">12. INDEMNITY.  You agree to indemnify, defend, and hold harmless BNGA, its licensors, its suppliers, and
+each of their respective officers, directors, employees, and agents from all damages, losses, and expenses,
+including reasonable attorneys’ fees, arising, directly or indirectly, from any violation of this EULA by you or
+from your acts and omissions to act in using the Game.  BNGA reserves the right to assume the exclusive
+defense and control of any matter subject to indemnification by you.
+</text>
+<text id="2000040513">13. DISPUTE RESOLUTION/BINDING ARBITRATION/CLASS ACTION WAIVER.
+
+YOU AND BNG AGREE TO RESOLVE ALL DISPUTES AND CLAIMS BETWEEN YOU AND BNGA IN
+INDIVIDUAL BINDING ARBITRATION.  THAT INCLUDES, BUT IS NOT LIMITED TO, ANY CLAIMS
+ARISING OUT OF OR RELATING TO: (A) ANY ASPECT OF THE RELATIONSHIP BETWEEN YOU AND
+BNGA; (B) THIS EULA; OR (C) YOUR ACCESS TO AND USE OF THE GAME.  IT APPLIES
+REGARDLESS OF WHETHER SUCH CLAIMS ARE BASED IN CONTRACT, TORT, STATUTE, FRAUD,
+UNFAIR COMPETITION, MISREPRESENTATION, OR ANY OTHER LEGAL THEORY.
+
+However, this Section does not apply to the following types of claims or disputes, which you or BNGA may
+bring in any court with jurisdiction: (i) claims of infringement or other misuse of intellectual property rights,
+including such claims seeking injunctive relief; and (ii) claims related to or arising from any alleged
+unauthorized use, piracy, or theft.
+
+This Section does not prevent you from bringing your dispute to the attention of any federal, state, or local
+government agencies that can, if the law allows, seek relief from BNGA for you.
+
+An arbitration is a proceeding before a neutral arbitrator, instead of before a judge or jury. Arbitration is
+less formal than a lawsuit in court and provides more limited discovery.  It follows different rules than court
+proceedings and is subject to very limited review by courts.  The arbitrator will issue a written decision and
+provide a statement of reasons if requested by either party.  YOU UNDERSTAND THAT YOU AND BNGA
+ARE GIVING UP THE RIGHT TO SUE IN COURT AND TO HAVE A TRIAL BEFORE A JUDGE OR JURY.
+
+You and BNGA agree to make reasonable, good faith efforts to informally resolve any dispute before
+initiating arbitration.  A party who intends to seek arbitration must first send the other a written notice that
+describes the nature and basis of the claim or dispute and sets forth the relief sought.  If you and BNGA do
+not reach an agreement to resolve that claim or dispute within 30 days after the notice is received, you or
+BNGA may commence an arbitration.  Written notice to BNGA must be sent via postal mail to: ATTN: Legal
+&amp; Business Affairs Department, BANDAI NAMCO Games America  Inc., 1740 Technology Drive, Suite 600,
+San Jose, CA 95110. 
+
+The Federal Arbitration Act applies to this Section.  The arbitration will be governed by the Commercial
+Arbitration Rules of the American Arbitration Association (“AAA”) and, where applicable, the AAA’s
+Supplementary Procedures for Consumer Related Disputes, both of which are available at
+http://www.adr.org.  The arbitrator is bound by the terms of this EULA. 
+
+The AAA will administer the arbitration.  It may be conducted through the submission of documents, by
+phone, or in person in the country/region where you live or at another mutually agreed location. 
+
+If you seek $10,000 or less, BNGA agrees to reimburse your filing fee and your share of the arbitration
+costs, including your share of arbitrator compensation, at the conclusion of the proceeding, unless the
+arbitrator determines your claims are frivolous or costs are unreasonable as determined by the arbitrator. 
+BNGA agrees not to seek its attorneys’ fees or costs in arbitration unless the arbitrator determines your
+claims are frivolous or costs are unreasonable as determined by the arbitrator.  If you seek more than
+$10,000, the arbitration costs, including arbitrator compensation, will be split between you and BNGA
+according to the AAA Commercial Arbitration Rules and the AAA’s Supplementary Procedures for Consumer
+Related Disputes, if applicable. 
+
+YOU AND BNGA AGREE NOT TO BRING OR PARTICIPATE IN A CLASS OR REPRESENTATIVE
+ACTION, PRIVATE ATTORNEY GENERAL ACTION, OR COLLECTIVE ARBITRATION, EVEN IF AAA’s
+PROCEDURES OR RULES WOULD OTHERWISE ALLOW ONE.  THE ARBITRATOR MAY AWARD
+RELIEF ONLY IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT
+OF THAT PARTY’S INDIVIDUAL CLAIM.  You and BNGA also agree not to seek to combine any action or
+arbitration with any other action or arbitration without the consent of all parties to this EULA and all other
+actions or arbitrations.
+
+If the agreement in this Section not to bring or participate in a class or representative action, private
+attorney general action, or collective arbitration should be found illegal or unenforceable, you and BNGA
+agree that it shall not be severable, that this entire Section shall be unenforceable, and any claim or dispute
+would be resolved in court and not in collective arbitration. 
+
+Notwithstanding this Section, you have the right to litigate any dispute in small claims court, if all the
+requirements of the small claims court, including any limitations on jurisdiction and the amount at issue in
+the dispute, are satisfied. 
+
+This Section shall apply to the maximum extent permitted by applicable law.  If the laws of your jurisdiction
+prohibit the application of some or all of the provisions of this Section, notwithstanding Section 15
+(Governing Law), such provisions will not apply to you.
+
+</text>
+<text id="2000040514">14. GOVERNING LAW.  Any dispute not subject to arbitration, or where no election to arbitrate has been
+made, shall be decided by the state of federal court located in Santa Clara County, California, and you and
+BNGA agree to submit to the personal jurisdiction of that court.  Except as otherwise set forth herein, this
+EULA shall be governed by, and will be construed under, the laws of California and the United States of
+America, without regard to choice of law principles. The UN Convention on Contracts for the International
+Sale of Goods is expressly disclaimed.
+</text>
+<text id="2000040515">15. MISCELLANEOUS. If any provision of this EULA is held to be invalid or unenforceable, such provision
+shall be struck and the remaining provisions shall remain in effect and be enforced as if the invalid or
+unenforceable provision were not contained herein.  BNGA’s failure to act with respect to a breach by
+you or others does not waive its right to act with respect to subsequent or similar breaches.  You may not
+assign or transfer this EULA or your rights hereunder, and any attempt to the contrary is void.  This EULA
+sets forth the entire understanding and agreement between BNGA and you with respect to the subject
+matter hereof.
+</text>
+<text id="2000040516">If you have any questions concerning this EULA, you may contact BANDAI NAMCO Games America Inc.’s
+customer service at http://www.bandainamcogames.com/support/ or BANDAI NAMCO Games America Inc.,
+1740 Technology Drive, Suite 600, San Jose, CA 95110. </text>
+<text id="2000040517">%null%</text>
+<text id="2000040518">%null%</text>
+<text id="2000040519">%null%</text>
+<text id="2000040520">%null%</text>
+<text id="2000040521">%null%</text>
+<text id="2000050001">Information</text>
+<text id="2000050002">Close</text>
+<text id="2000050101">⑮：Scroll ⑲：Confirm</text>
+<text id="2000060007">Offline Mode</text>
+<text id="2000060008">%null%</text>
+<text id="2000060009">%null%</text>
+<text id="2000060010">Ver.</text>
+<text id="2000060011">Calibrations</text>
+<text id="2000070105">⑮：Select ⑭：Modify ⑲：Next ⑳：Back ①：Default</text>
+<text id="2000070106">⑮：Select ⑭：Increase/decrease ⑲：Next ⑳：Back ①：Default</text>
+<text id="2000080116">⑮：Select ⑭：Modify ⑲：Next ⑳：Back ①：Default</text>
+<text id="2000080117">⑮：Select ⑭：Increase/decrease ⑲：Next ⑳：Back ①：Default</text>
+<text id="2000090001">Creating save data.
+Do not power off the system.</text>
+<text id="2000110001">Data List</text>
+<text id="2000110002">Level</text>
+<text id="2000110101">Select a character to play.</text>
+<text id="2000110102">Select a character to delete.</text>
+<text id="2000110103">⑮㎎：Select ⑲：Confirm ⑳：Back ①：Info ②：Delete</text>
+<text id="2000110201">You are about to delete this character.
+Okay?</text>
+<text id="2000110202">No more characters can be created.
+Select a character to delete.</text>
+<text id="2000110203">Delete the selected character and start a new game?</text>
+<text id="2000110303">⑮㎎：Select ⑲：Confirm ⑳：Back ①：Info</text>
+<text id="2000241500">%null%</text>
+<text id="2000241501">%null%</text>
+<text id="2000241502">%null%</text>
+<text id="2000241503">%null%</text>
+<text id="2000241504">%null%</text>
+<text id="2000241505">%null%</text>
+<text id="2000241506">%null%</text>
+<text id="2000241507">%null%</text>
+<text id="2000241508">%null%</text>
+<text id="2000241509">%null%</text>
+<text id="2000241510">%null%</text>
+<text id="2000241511">%null%</text>
+<text id="2000241512">%null%</text>
+<text id="2000241513">%null%</text>
+<text id="2000241514">%null%</text>
+<text id="2000241515">%null%</text>
+<text id="2000241516">%null%</text>
+<text id="2000241517">%null%</text>
+<text id="2000242500">%null%</text>
+<text id="2000242501">%null%</text>
+<text id="2000242502">%null%</text>
+<text id="2000242503">%null%</text>
+<text id="2000242504">%null%</text>
+<text id="2000242505">%null%</text>
+<text id="2000242506">%null%</text>
+<text id="2000242507">%null%</text>
+<text id="2000242508">%null%</text>
+<text id="2000242509">%null%</text>
+<text id="2000242510">%null%</text>
+<text id="2000242511">%null%</text>
+<text id="2000242512">%null%</text>
+<text id="2000242513">%null%</text>
+<text id="2000242514">%null%</text>
+<text id="2000242515">%null%</text>
+<text id="2000242516">%null%</text>
+<text id="2000242517">%null%</text>
+</entries>
+</fmg>

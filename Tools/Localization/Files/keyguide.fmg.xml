@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls1</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="100">⑲:Examine</text>
+<text id="101">⑲:Pillage corpse</text>
+<text id="102">⑲:Pillage body</text>
+<text id="103">⑲:Pillage chest</text>
+<text id="104">⑲:Pick up item</text>
+<text id="105">⑲:Pick up</text>
+<text id="106">⑲:Discard</text>
+<text id="107">⑲:Read</text>
+<text id="108">⑲:Touch bonfire</text>
+<text id="109">⑲:Light bonfire</text>
+<text id="110">⑲:Rest at bonfire</text>
+<text id="111">⑲:Touch</text>
+<text id="112">%null%</text>
+<text id="113">%null%</text>
+<text id="114">%null%</text>
+<text id="115">%null%</text>
+<text id="116">%null%</text>
+<text id="117">%null%</text>
+<text id="118">%null%</text>
+<text id="119">%null%</text>
+<text id="120">⑲:Join sparring match</text>
+<text id="121">⑲:Join duel</text>
+<text id="122">⑳:Quit</text>
+<text id="150">⑲:Travel</text>
+<text id="151">⑲:Return to the Far Fire</text>
+<text id="200">⑲:Open</text>
+<text id="201">⑲:Close</text>
+<text id="202">⑲:Close</text>
+<text id="203">⑲:Enter the mist</text>
+<text id="204">⑲:Traverse the mist from behind</text>
+<text id="205">⑲:Exit through mist</text>
+<text id="300">⑲:Push</text>
+<text id="301">⑲:Pull</text>
+<text id="302">⑲:Push lever</text>
+<text id="303">⑲:Pull lever</text>
+<text id="304">⑲:Continue pulling</text>
+<text id="305">⑲:Rotate</text>
+<text id="306">⑲:Turn handle</text>
+<text id="307">⑲:Knock down</text>
+<text id="308">⑲:Kick ladder down</text>
+<text id="309">⑲:Use</text>
+<text id="310">⑲:Grab</text>
+<text id="311">⑲:Set light</text>
+<text id="312">⑲:Light torch</text>
+<text id="313">⑲:Activate</text>
+<text id="314">⑲:Activate</text>
+<text id="400">⑲:Climb up</text>
+<text id="401">⑲:Climb down</text>
+<text id="500">⑲:Talk</text>
+<text id="501">⑲:Talk</text>
+<text id="502">⑲:Kneel</text>
+<text id="503">⑲:Pray</text>
+<text id="504">⑲:Offer</text>
+<text id="505">⑲:Give %s</text>
+<text id="506">⑲:Use %s</text>
+<text id="507">⑲:Break barrier</text>
+<text id="508">⑲:Release trap</text>
+<text id="509">⑲:Undo petrification</text>
+<text id="510">⑲:Assist</text>
+<text id="700">⑲:Touch Bloodstain</text>
+<text id="701">⑲:Touch your bloodstain</text>
+<text id="702">⑲:Recover lost power</text>
+<text id="703">⑲:Retrieve dark spirit's remaining power</text>
+<text id="704">⑲:Touch Summon Sign</text>
+<text id="705">⑲:Check your Summon Sign</text>
+<text id="706">⑲:Read message</text>
+<text id="707">⑲:Check your message</text>
+<text id="708">①:Toggle</text>
+<text id="750">⑲:Touch dragon remnants</text>
+<text id="751">⑲:Check dragon eye</text>
+<text id="752">⑲:Touch pool of blood</text>
+<text id="800">(no text)</text>
+<text id="801">⑲:Proceed to throne</text>
+<text id="802">⑲:Leave throne</text>
+</entries>
+</fmg>

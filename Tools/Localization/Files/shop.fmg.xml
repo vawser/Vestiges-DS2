@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fmg>
+<compression>None</compression>
+<version>DarkSouls1</version>
+<bigendian>False</bigendian>
+<entries>
+<text id="100">%null%</text>
+<text id="101">%null%</text>
+<text id="40000">none text</text>
+<text id="40001">%null%</text>
+<text id="40002">%null%</text>
+<text id="40003">%null%</text>
+<text id="40004">%null%</text>
+<text id="40005">%null%</text>
+<text id="40006">%null%</text>
+<text id="40007">%null%</text>
+<text id="40008">%null%</text>
+<text id="40009">%null%</text>
+<text id="40010">%null%</text>
+<text id="40011">%null%</text>
+<text id="40012">%null%</text>
+<text id="40013">%null%</text>
+<text id="40014">%null%</text>
+<text id="40015">%null%</text>
+<text id="40016">%null%</text>
+<text id="40017">%null%</text>
+<text id="40018">%null%</text>
+<text id="40019">%null%</text>
+<text id="40020">%null%</text>
+<text id="40021">%null%</text>
+<text id="40022">%null%</text>
+<text id="40023">%null%</text>
+<text id="40024">%null%</text>
+<text id="40025">%null%</text>
+<text id="40026">%null%</text>
+<text id="40027">%null%</text>
+<text id="40028">%null%</text>
+<text id="40029">%null%</text>
+<text id="40030">%null%</text>
+<text id="40100">%null%</text>
+<text id="40101">%null%</text>
+<text id="40150">%null%</text>
+<text id="40151">%null%</text>
+<text id="40200">%null%</text>
+</entries>
+</fmg>

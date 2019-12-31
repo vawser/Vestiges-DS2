@@ -16,12 +16,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk0C</name>
+    <name>SpawnState</name>
     <type>u16</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk0E</name>
+    <name>Drawgroup</name>
     <type>u8</type>
     <default>0</default>
   </entry>

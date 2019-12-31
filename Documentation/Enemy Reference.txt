@@ -1,0 +1,3632 @@
+﻿#-----------------------------------------
+# Overview
+#-----------------------------------------
+# Drawgroups
+This is the DrawGroup system. Each DrawGroup is a physical area in the map that can only load a certain amount of entities. Because the game pushes its own limits quite a bit, you will often run out of slots in these. To get around this, set the "DrawGroup" setting of any additional entities you add to -1, allowing it to be loaded in any physical location in the entire game. Do note that adding a lot more than the game was built for can introduce a lot of lag in areas like Blighttown.
+
+# AI
+AI scripts loaded on per area basis
+
+#-----------------------------------------
+# Index
+#-----------------------------------------
+- Humanoids
+- Beasts
+- Giant Humanoids
+- Miscellaneous
+- Friendly Characters
+- Objects
+- Bosses
+- Hostile Phantoms
+- Friendly Phantoms
+
+#-----------------------------------------
+# Humanoids
+#-----------------------------------------
+#------------------------------------
+# Hollow
+#------------------------------------
+Unarmed     - SpawnID: 337000 | 337002 | 337003
+Torch       - SpawnID: 337010 | 337011
+Shortsword  - SpawnID: 337020 | 337022 | 337023
+Invisible   - SpawnID: 696000
+
+Spawn States:
+ 0  - Idle
+ 1  - Idle
+ 2  - Sleeping on Floor
+ 3  - Kneeling 
+ 4  - Writhing on Floor
+ 5  - Standing Prayer
+ 6  - Kneeling Prayer
+ 7  - Banging on Wall
+ 9  - Sitting
+ 10 - Rising from Ground
+ 11 - Dropping Down
+ 15 - Lying Down
+ 17 - Hanging from Ledge
+
+#------------------------------------
+# Imported Hollow #1
+#------------------------------------
+Unarmed     - SpawnID: 115000 | 115006 
+Dagger      - SpawnID: 115014 | 115015 | 115016
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Kneeling Prayer
+ 3 - Sitting
+ 4 - Prone
+ 5 - Hanging on Ledge
+ 6 - Stoneform (auto dissolve when near)
+ 15 - Lying Down (Display only)
+ 
+AI:
+ 10 - Default
+ 20 - 
+
+#------------------------------------
+# Imported Hollow #2
+#------------------------------------
+Broken Sword    - SpawnID: 837100
+Bow             - SpawnID: 837200 | 837201
+Crossbow        - SpawnID: 838200 | 838201 | 838300 | 838301
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Emote -> Idle (Bow)
+ 3 - Emote -> Idle
+ 4 - Emote -> Idle (Praise the Sun)
+ 5 - Flash -> Idle
+ 6 - Mantle -> Idle
+ 10 - Lying Down
+ 11 - Ghost Hover (Immune to Damage)
+ 12 - Sitting
+ 13 - On Stool with Head in Hands
+ 14 - Cross-legged Sitting
+ 15 - Holding Back Object
+ 16 - Passive (non-hostile until hit)
+ 17 - Passive Sitting (non-hostile until hit)
+ 18 - Passive Guard Pose (non-hostile until hit)
+ 19 - Passive Stool Sitting (non-hostile until hit)
+ 20 - Passive Lean Back Sitting (non-hostile until hit)
+ 
+AI:
+ 10  - Default
+ 30  - 
+ 40  - 
+ 50  -
+ 100 - 
+ 
+#------------------------------------
+# Hollow Soldier (Causes CTD)
+#------------------------------------
+Spear               - SpawnID: 102000
+Greatsword          - SpawnID: 102010
+Halberd             - SpawnID: 102020
+Sword and Shield    - SpawnID: 102030
+Bow                 - SpawnID: 102040
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Kneeling
+ 3 - Prone
+ 4 - Lying Down
+
+AI:
+ 10  - Default
+ 20  -
+ 30  - 
+ 40  -
+ 50  - 
+ 100 - 
+ 103 -
+ 105 - 
+ 109 -
+ 111 - 
+ 112 - 
+ 114 -
+ 115 -
+ 116 - 
+ 410 -
+
+#------------------------------------
+# Hollow Infantry
+#------------------------------------
+Unarmed             - SpawnID: 103000
+Dagger              - SpawnID: 103010
+Sword and Shield    - SpawnID: 103020 | 103022 | 103111
+Axe                 - SpawnID: 103030 | 103032 | 103121
+Bow                 - SpawnID: 103040 | 103051 | 103131
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Kneeling
+ 3 - Prone
+ 4 - Lying Down
+ 15 - Lying Down (bugged)
+ 17 - Climbing Ladder
+
+AI:
+ 10  - Default
+ 20  - 
+ 30  - 
+ 40  -
+ 100 -
+ 110 -
+ 111 - 
+ 112 - 
+ 150 -
+ 219 -
+ 220 - 
+ 310 -
+ 320 - 
+
+#------------------------------------
+# Royal Soldier (Human)
+#------------------------------------
+Spear       - SpawnID: 102100
+Greatsword  - SpawnID: 102110
+Bow         - SpawnID: 102140
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Sleeping
+ 3 - Prone
+ 4 - Sitting
+ 5 - Hands on Wall
+ 6 - Wall Sit
+ 7 - Hold Back
+ 8 - Hands on Wall
+ 9 - Hands on Wall (Head Forward)
+ 15 - Lying Down (bugged)
+ 17 - Climbing Ladder
+
+#------------------------------------
+# Royal Swordsman
+#-----------------------------------
+Flamberge   - SpawnID: 152000 | 152001 | 152002
+Crossbow    - SpawnID: 152010 | 152011
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Stoneform (dissolve when near)
+ 3 - Stoneform (dissolve when near)
+ 15 - Ragdoll
+ 17 - Climbing Ladder
+
+#------------------------------------
+# Rupturing Hollow 
+#------------------------------------
+Normal      - SpawnID: 125011 | 125012 | 125013
+Fire        - SpawnID: 125004 | 125010
+Corrosion   - SpawnID: 125014
+Petrify     - SpawnID: 125015
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Stumble
+ 3 - Kneeling
+ 4 - Sitting
+ 5 - Idle
+
+#------------------------------------
+# Undead Crypt Hollow
+#------------------------------------
+Unarmed     - SpawnID: 127000 | 127001 | 127002 | 127003 | 127004 | 127005 | 127006 | 127030 | 127100 | 127101
+Torch       - SpawnID: 127010 | 127011 | 127110 | 127111
+Sword       - SpawnID: 127020
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Sitting
+ 3 - Kneeling
+ 4 - Prone
+ 5 - Standing Prayer
+ 6 - Kneeling Prayer
+ 7 - Kneeling Wall Bang
+ 9 - Sitting
+ 11 - Ground Rise
+
+#------------------------------------
+# Tseldora Citizen
+#------------------------------------
+Dagger  - SpawnID: 146000
+Sword   - SpawnID: 146010
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Crossed Arms
+ 3 - Drop from Ledge
+
+#------------------------------------
+# Tseldora Peasant 
+#------------------------------------
+Pickaxe     - SpawnID: 148000 | 148010 
+Scythe      - SpawnID: 148020 | 148030
+Torch       - SpawnID: 148040 | 148041
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Rogue
+#------------------------------------
+Shortswords     - SpawnID: 108000
+Club            - SpawnID: 108010
+Bow             - SpawnID: 108020
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Crouching
+ 3 - Hug Wall
+ 4 - Prone
+ 5 - Lying Down
+
+#------------------------------------
+# Spider Hollow
+#------------------------------------
+Unarmed - SpawnID: 107000 | 107001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Falconer
+#------------------------------------
+Bird                - SpawnID: 313021
+Bow                 - SpawnID: 313031 | 313032 | 313033
+Sword and Shield    - SpawnID: 313000 | 313002 | 313003 | 313010 | 313012 | 313013
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+AI:
+ 10  - Default
+ 30  - 
+ 40  -  
+ 
+#------------------------------------
+# Skeleton 
+#------------------------------------
+--- Bare
+Falchions           - SpawnID: 132003 | 132004 | 132005 | 132006 | 132007 | 157000 | 157002 | 157005 | 157008
+Falchion and Shield  - SpawnID: 132013 | 132014 | 132015 | 132016 | 157012 | 157014
+Sword and Shield    - SpawnID: 157020 | 157022 | 157023 | 157025
+Rapier and Shield   - SpawnID: 132020 | 132022 | 132024 | 132025 | 132026
+Bow                 - SpawnID: 132030 | 132033 | 157030
+Unarmed             - SpawnID: 132090
+
+--- Masked
+Falchions           - SpawnID: 157004 
+
+--- Helmet
+Falchions           - SpawnID: 157001 | 157006
+Falchion and Shield - SpawnID: 157010 | 157011 | 157015
+Sword and Shield    - SpawnID: 157021 | 157024
+Bow                 - SpawnID: 157031 | 157033
+
+--- Armored
+Falchion and Shield - SpawnID: 157013 | 157016
+
+--- Crowned 
+Falchions           - SpawnID: 157003 | 157007 
+Bow                 - SpawnID: 157032
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Ground Rise
+ 3 - Disassembled
+ 4 - Ground Rise with Skull Attachment
+
+#------------------------------------
+# Bonewheel
+#------------------------------------
+Unarmed     - SpawnID: 133001 | 133002
+Falchion    - SpawnID: 133010
+Murakumo    - SpawnID: 133020
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Amana Mage
+#------------------------------------
+Miracles    - SpawnID: 105000
+Sorcery     - SpawnID: 105010
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Supplication
+
+#------------------------------------
+# Amana Archdrake
+#------------------------------------
+Mace    - SpawnID: 131000
+Chime   - SpawnID: 131010   # Incomplete
+Staff   - SpawnID: 131020   # Incomplete
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Pyromancer
+#------------------------------------
+Pyromancy    - SpawnID: 888000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# White Priest
+#------------------------------------
+Chime - SpawnID: 106001 | 106021 | 106200
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Crawling Undead
+#------------------------------------
+Unarmed - SpawnID: 147001 | 147004 | 147005
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Lying Down
+ 3 - Idle
+    
+#------------------------------------
+# Undead Steelworker
+#------------------------------------
+Hammer - SpawnID: 149010 | 149011
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Black Hollow Mage
+#------------------------------------
+Staff - SpawnID: 118000 | 118001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# White Hollow Mage
+#------------------------------------
+Staff - SpawnID: 118201
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Grave Warden
+#------------------------------------
+Sickle  - SpawnID: 312001 | 312021 | 312040
+Spear   - SpawnID: 312010 | 312011 | 312031 | 312032
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Alonne Captain
+#------------------------------------
+Katana      - SpawnID: 306000 | 306007
+Greatbow    - SpawnID: 306010 | 306011
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Alonne Knight
+#------------------------------------
+Katana      - SpawnID: 319000 | 319008
+Greatbow    - SpawnID: 319010 | 319011
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Varangian
+#------------------------------------
+Sword and Shield    - SpawnID: 113000
+Shortswords         - SpawnID: 113010
+Bow                 - SpawnID: 113020
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Sitting on Stool
+ 3 - Sleeping on Table
+ 4 - Climb from Ledge
+ 5 - Crouching
+
+#------------------------------------
+# Gyrm #1
+#------------------------------------
+Anvil Flail - SpawnID: 134000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Crouching
+ 3 - Sitting (Anvil in Hand)
+ 4 - Sitting (Anvil by Side)
+
+#------------------------------------
+# Gyrm #2
+#------------------------------------
+Throwing Axes           - SpawnID: 135000 | 135030
+Greathammer and Shield  - SpawnID: 135010 | 135040
+Crossbow                - SpawnID: 135020 | 135050
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Drinking Ale
+    
+#------------------------------------
+# Syan Knight
+#------------------------------------
+Halberd             - SpawnID: 153000 | 153002 | 153003 | 153004 | 153005
+Sword and Shield    - SpawnID: 153010 | 153012 | 153013 | 153015 | 153016
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Stoneform (dissolves when near)
+    
+AI:
+ 10  - Default
+ 400 - 
+
+#------------------------------------
+# Primal Knight
+#------------------------------------
+Clean - SpawnID: 314000 | 314002
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Rusted Primal Knight
+#------------------------------------
+Rusted - SpawnID: 315000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Stoneform (dissolves when near)
+    
+#------------------------------------
+# Heide Knight
+#------------------------------------
+Sword                   - SpawnID: 301003 | 301005
+Spear                   - SpawnID: 301010 | 301011 | 301013 | 301020
+Spear with Iron Helm    - SpawnID: 301014 
+Grand Lance             - SpawnID: 301030 | 301031
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Sitting
+ 
+Issues:
+ Once killed, they cause CTD on transitions between subareas
+
+#------------------------------------
+# Dragon Knight
+#------------------------------------
+Great Axes          - SpawnID: 835000
+Warpick             - SpawnID: 835100
+Sword               - SpawnID: 835200
+Sword and Shield    - SpawnID: 835300
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Emote -> Idle (Taunt)
+ 3 - Emote -> Idle
+ 4 - Emote -> Idle (Praise the Sun)
+ 5 - Flash -> Idle
+ 6 - Mantle -> Idle
+
+#------------------------------------
+# Dragon Champion
+#------------------------------------
+SpawnID: 868100
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Emote -> Idle (Bow)
+ 3 - Emote -> Idle
+ 4 - Emote -> Idle (Praise the Sun)
+ 5 - Flash -> Idle
+ 6 - Mantle -> Idle
+ 
+#------------------------------------
+# Suspicious Shadow
+#------------------------------------
+Dagger  - SpawnID: 123002 | 123004 | 123005 | 123022
+Rapier  - SpawnID: 123010
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Crouching
+ 3 - Ceiling Drop
+
+#------------------------------------
+# Manikin
+#------------------------------------
+Claws               - SpawnID: 124000 | 124040 | 124041
+Sword and Shield    - SpawnID: 124010 | 124050
+Knife and Shield    - SpawnID: 124020 | 124060
+Bow                 - SpawnID: 124030 | 124070
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Undead Torturer 
+#------------------------------------
+Catchpole   - SpawnID: 138000 | 138002
+Whip        - SpawnID: 138010
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Sitting
+ 3 - Sitting
+
+#------------------------------------
+# Undead Jailer
+#------------------------------------
+Pyromancy Flame - SpawnID: 302000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Imperious Knight
+#------------------------------------
+Shields - SpawnID: 511000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Drakeblood Knight
+#------------------------------------
+Sword - SpawnID: 880000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Emote -> Idle (Taunt)
+ 3 - Emote -> Idle
+ 4 - Emote -> Idle (Praise the Sun)
+ 5 - Flash -> Idle
+ 6 - Mantle -> Idle
+
+#------------------------------------
+# Ironclad
+#------------------------------------
+Clean   - SpawnID: 151000 | 151001
+Old     - SpawnID: 151200 | 151202
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+AI:
+ 10  - Default
+ 101 - 
+
+#------------------------------------
+# Stone Soldier
+#------------------------------------
+Spear and Shield    - SpawnID: 117000
+Spear               - SpawnID: 117010
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Stoneform
+
+#------------------------------------
+# Stone Horse Knight
+#------------------------------------
+Spear - SpawnID: 150000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Stoneform
+ 
+#------------------------------------
+# Lion Warrior
+#------------------------------------
+Normal  - SpawnID: 308000
+Golden  - SpawnID: 308100
+ 
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Sitting
+ 3 - Stoneform
+
+#------------------------------------
+# Desert Sorceress
+#------------------------------------
+Normal - SpawnID: 316000 | 316001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Dragon Acolyte
+#------------------------------------
+Normal - SpawnID: 317000
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Leydia Witch
+#------------------------------------
+Normal - SpawnID: 509000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Leydia Spirit
+#------------------------------------
+Normal - SpawnID: 512000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Shaded Spirit
+#------------------------------------
+Normal - SpawnID: 838000 | 838100
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Artificial Undead 
+#------------------------------------
+Shotel  - SpawnID: 139000 | 139001 
+Shotels - SpawnID: 139002
+Unarmed - SpawnID: 139010
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Sanctum Guardian
+#------------------------------------
+Normal      - SpawnID: 665000 | 665001
+Crossbows   - SpawnID: 665010 | 665011
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Sanctum Soldier
+#------------------------------------
+--- Normal
+Greathammer     - SpawnID: 666000 | 666001 | 666002
+Lance           - SpawnID: 666010 | 666011 | 666012
+Bow             - SpawnID: 666020 | 666021 | 666022
+Sword           - SpawnID: 666030
+Torch           - SpawnID: 666070
+
+--- Poison Aura
+Greathammer     - SpawnID: 666040 | 666041 
+Lance           - SpawnID: 666050 | 666051
+Bow             - SpawnID: 666060 | 666061
+Torch           - SpawnID: 666080
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Lying Down
+ 3 - Sitting
+
+#------------------------------------
+# Sanctum Priestess
+#------------------------------------
+Normal - SpawnID: 670000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Iron Warrior Giant
+#------------------------------------
+Normal - SpawnID: 650000 | 650001 | 650002
+Dusty  - SpawnID: 650010 | 650011 | 650012 | 650013
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Fume Sorcerer
+#------------------------------------
+Normal - SpawnID: 651000 | 651001 | 651002
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Ashen Warrior
+#------------------------------------
+Axes        - SpawnID: 653000 | 653001 | 653002 | 653003 | 653004 | 653005
+Halberd     - SpawnID: 653020 | 653021 | 653022
+Sword       - SpawnID: 653010 | 653011 | 653012 
+Bow         - SpawnID: 653031 | 653032
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Scorcher
+#------------------------------------
+Normal - SpawnID: 654000 | 654001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Possessed Armor
+#------------------------------------
+Normal - SpawnID: 656000 | 656001 | 656002 | 656003 | 656004 | 656005
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Disassembled
+ 
+#------------------------------------
+# Spellsword 
+#------------------------------------
+Iced    - SpawnID: 663000 | 663002 | 663010 | 663012
+Normal  - SpawnID: 663001 | 663003 | 663011 | 663013
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Kneeling
+
+#------------------------------------
+# Retainer 
+#------------------------------------
+Dagger  - SpawnID: 677000 | 677001
+Staff   - SpawnID: 677010 | 677011
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Sitting
+
+#------------------------------------
+# Loyce Knight 
+#------------------------------------
+Sword       - SpawnID: 688000
+Scythe      - SpawnID: 688010
+Greataxe    - SpawnID: 688020
+Spellsword  - SpawnID: 688030
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Sitting
+ 3 - Kneeling
+ 
+#------------------------------------
+# Charred Loyce Knight 
+#------------------------------------
+Sword       - SpawnID: 689000
+Greataxe    - SpawnID: 689010
+Greathammer - SpawnID: 689020
+Pyromancy   - SpawnID: 689030
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Sitting -> Crystal Away
+ 3 - Kneeling
+ 4 - Exit Portal
+ 5 - Raise Sword
+
+#------------------------------------
+# Elite Knight
+#------------------------------------
+Sword               - SpawnID: 883000
+Ultra Greatsword    - SpawnID: 883100
+Warpick             - SpawnID: 883200
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Emote -> Idle (Bow)
+ 3 - Emote -> Idle
+ 4 - Emote -> Idle (Praise the Sun)
+ 5 - Flash -> Idle
+ 6 - Mantle -> Idle
+    
+#------------------------------------
+# Body of Vengarl
+#------------------------------------
+--- Normal
+Sword and Shield    - SpawnID: 307000 | 307107 | 307108 | 307109
+Sword               - SpawnID: 307001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Mirror Squire (Ultra Greatsword) 
+#------------------------------------
+SpawnID: 730000 | 730001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Mirror Squire (Syan's Halberd) 
+#------------------------------------
+SpawnID: 731010 | 731011
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Astrologist
+#------------------------------------
+SpawnID: 872000 | 872009
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#-----------------------------------------
+# Beasts
+#-----------------------------------------
+#------------------------------------
+# Kobold
+#------------------------------------
+Normal  - SpawnID: 101000
+Petrify  - SpawnID: 101001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+AI:
+ 10  - Default
+ 101 - 
+
+#------------------------------------
+# Goblin
+#------------------------------------
+Unarmed         - SpawnID: 100000
+Rock Thrower    - SpawnID: 100020
+Boneclub        - SpawnID: 100010
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Idle
+ 3 - Crouching
+    
+#------------------------------------
+# Undead Boar
+#------------------------------------
+Small   - SpawnID: 201100 | 201101
+Medium  - SpawnID: 202100 | 202102 | 214001
+Giant   - SpawnID: 214003
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Idle
+
+#------------------------------------
+# Mutant Dog
+#------------------------------------
+Normal - SpawnID: 209000 | 209002
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Undead Dog
+#------------------------------------
+Normal  - SpawnID: 227000 | 227001 | 227002
+Snowy   - SpawnID: 227100 | 227101
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Basilisk
+#------------------------------------
+Normal - SpawnID: 210000 | 210001 | 210002 | 210003 | 210004 | 210005 | 210010
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Ground Pop
+ 3 - Ground Pop
+ 
+AI:
+ 10  - Default
+ 200 - 
+ 220 - 
+
+#------------------------------------
+# Giant Basilisk
+#------------------------------------
+Normal - SpawnID: 222000 | 222001 | 222002
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Mongrel Rat
+#------------------------------------
+Normal - SpawnID: 223000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Corpse Rat
+#------------------------------------
+Normal - SpawnID: 226000 | 226001 
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Spider
+#------------------------------------
+Normal - SpawnID: 203000 | 203001 | 203002
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Wall Cling (Up)
+ 3 - Wall Cling (Up)
+ 4 - Ceiling Cling
+ 5 - Wall Cling (Down)
+
+#------------------------------------
+# Poison Moth
+#------------------------------------
+Normal      - SpawnID: 204000 | 204002 
+Invisible   - SpawnID: 695001 | 695002
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Poison Horn Beetle
+#------------------------------------
+Normal - SpawnID: 205000 | 205001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Acid Horn Beetle
+#------------------------------------
+Normal - SpawnID: 205100 | 205102
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Corrosive Insect
+#------------------------------------
+Normal - SpawnID: 672000 | 672001 | 672002
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Giant Acid Horn Beetle
+#------------------------------------
+Normal - SpawnID: 220000 | 220001 | 220002
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Ant Queen
+#------------------------------------
+Normal - SpawnID: 608000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Fire Salamander
+#------------------------------------
+Normal - SpawnID: 601000 | 601001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+AI:
+ 10  - Default
+ 110 - 
+ 101 - 
+
+#------------------------------------
+# Statue Lizard
+#------------------------------------
+Poison  - SpawnID: 671000 | 671001
+Petrify - SpawnID: 671100
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Darkdweller
+#------------------------------------
+Normal - SpawnID: 217000 | 217001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Darksucker
+#------------------------------------
+Normal - SpawnID: 224000
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Undead Aberration
+#------------------------------------
+Normal - SpawnID: 141000 | 141002
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Amana Aberration
+#------------------------------------
+Normal - SpawnID: 155000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Idle
+ 3 - Leaping
+
+#------------------------------------
+# Ogre
+#------------------------------------
+Normal - SpawnID: 300000 | 300001 | 300002
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Sitting
+ 
+AI:
+ 10  - Default
+ 235 - 
+ 
+Special Drops:
+ 300000 - Stone Ring
+
+
+    
+#------------------------------------
+# Cask Runner
+#------------------------------------
+Normal - SpawnID: 657000 | 657001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Barrel in Front
+ 3 - Resting on Barrel
+
+#------------------------------------
+# Ice Stallion
+#------------------------------------
+Normal - SpawnID: 661000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Ice Rat
+#------------------------------------
+Normal - SpawnID: 662000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Looking About
+ 3 - Leaning Forward
+
+#------------------------------------
+# Imperfect Beast
+#------------------------------------
+Normal - SpawnID: 683000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#-----------------------------------------
+# Giant Humanoids
+#-----------------------------------------
+#------------------------------------
+# Old Knight
+#------------------------------------
+Sword and Shield    - SpawnID: 330000 | 330001
+Ultra Greatsword    - SpawnID: 330010 | 330012 | 330019
+Greathammer         - SpawnID: 330040 | 330043 | 330044 | 330049
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Sitting
+
+#------------------------------------
+# Drakekeeper
+#------------------------------------
+Sword and Shield    - SpawnID: 331002
+Ultra Greatsword    - SpawnID: 331011
+Unarmed             - SpawnID: 331021
+Mace                - SpawnID: 331031
+Greathammer         - SpawnID: 331041
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Kneeling
+
+#------------------------------------
+# Harvest Overseer
+#------------------------------------
+Normal - SpawnID: 311000
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Giant
+#------------------------------------
+Unarmed         - SpawnID: 121000 | 121001
+Club            - SpawnID: 121010
+Poison Fist     - SpawnID: 121020
+Pyromancy       - SpawnID: 121030
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Climb
+ 3 - Leap
+
+#------------------------------------
+# Forgotten Giant
+#------------------------------------
+Clubs - SpawnID: 309000 | 309001 
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Climb
+ 3 - Leap
+    
+#------------------------------------
+# Rampart Golem
+#------------------------------------
+Normal - SpawnID: 659000 | 659001 | 659002
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Vertical Hold
+ 
+#------------------------------------
+# Ice Golem
+#------------------------------------
+Normal - SpawnID: 660000 | 660001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Golem
+#------------------------------------
+Normal - SpawnID: 678000 | 678001 | 678010 | 678011 | 678099
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Sitting
+ 3 - Shrug
+
+#-----------------------------------------
+# Miscellaneous
+#-----------------------------------------
+#------------------------------------
+# Witchtree Spirit 
+#------------------------------------
+Staff   - SpawnID: 129000
+Chime   - SpawnID: 129010
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# White Witchtree Spirit
+#------------------------------------
+Staff - SpawnID: 129200
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Wall Ghost
+#------------------------------------
+Normal - SpawnID: 216000 | 216005
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Razorback Nightcrawler
+#------------------------------------
+Normal - SpawnID: 206000 | 206001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Low
+
+#------------------------------------
+# Pagan Tree
+#------------------------------------
+Normal - SpawnID: 674000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Mimic
+#------------------------------------
+Aldia's Keep                - SpawnID: 321000 
+Unknown                     - SpawnID: 321001 
+Unknown                     - SpawnID: 321002 
+Harvest Valley              - SpawnID: 321003 
+The Gutter                  - SpawnID: 321004
+Drangleic Castle            - SpawnID: 321005
+Shaded Woods / Aldia's Keep - SpawnID: 321010 
+Iron Keep                   - SpawnID: 321011 
+Unknown                     - SpawnID: 321012 
+Crown of the Ivory King     - SpawnID: 321014 
+Crown of the Ivory King     - SpawnID: 321015 
+Majula                      - SpawnID: 321016
+Brightstone Cove Tseldora   - SpawnID: 321017
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Chest
+
+#------------------------------------
+# Crystal Lizard
+#------------------------------------
+Brightstone Cove Tseldora   - SpawnID: 213000 
+No-man's Wharf              - SpawnID: 213002 
+Unknown                     - SpawnID: 213003 
+Unknown                     - SpawnID: 213004 
+Iron Keep                   - SpawnID: 213005 
+Doors of Pharros            - SpawnID: 213006 
+Drangleic Castle            - SpawnID: 213007 
+Brightstone Cove Tseldora   - SpawnID: 213008 
+Dragon Aerie                - SpawnID: 213009 
+Harvest Valley              - SpawnID: 213010 
+Shaded Woods                - SpawnID: 213011 
+Grave of Saints             - SpawnID: 213012 
+Crown of the Sunken King    - SpawnID: 213013 
+Crown of the Iron King      - SpawnID: 213014 
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Red Crystal Lizard
+#------------------------------------
+Normal - SpawnID: 213100 | 213101
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#-----------------------------------------
+# Characters
+#-----------------------------------------
+#------------------------------------
+# Head of Vengarl
+#------------------------------------
+Shaded Woods   - SpawnID: 307110
+Ghost          - SpawnID: 307101
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Manscorpion Tark
+#------------------------------------
+Shaded Woods    - SpawnID: 502000
+Summon          - SpawnID: 502009
+Ghost           - SpawnID: 502001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Agdayne
+#------------------------------------
+Undead Crypt    - SpawnID: 506500
+Ghost           - SpawnID: 506501
+Summon          - SpawnID: 506509
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+  
+#------------------------------------
+# Alsanna, Silent Oracle
+#------------------------------------
+Crown of the Ivory King - SpawnID: 658000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Shanalotte
+#------------------------------------
+Majula              - SpawnID: 700500 
+Drangleic Castle    - SpawnID: 700502 
+Undead Crypt        - SpawnID: 700503
+Ghost               - SpawnID: 700501
+Dragon Aerie        - SpawnID: 700504
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Child Shanalotte
+#------------------------------------
+Dragon Aerie - SpawnID: 701500
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+   
+#------------------------------------
+# Human Nashandra
+#------------------------------------
+Drangleic Castle - SpawnID: 703600
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Laddersmith Gilligan
+#------------------------------------
+Harvest Valley / Majula - SpawnID: 704500 | 704510
+Ghost                   - SpawnID: 704501
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Strowen
+#------------------------------------
+Things Betwixt  - SpawnID: 705100 | 705300 | 705000 | 705500
+Ghost           - SpawnID: 705501
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+    
+#------------------------------------
+# Firekeeper 2
+#------------------------------------
+Things Betwixt  - SpawnID: 705600 
+Ghost           - SpawnID: 705601
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Firekeeper 3
+#------------------------------------
+Things Betwixt  - SpawnID: 705800 
+Ghost           - SpawnID: 705801
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Housekeeper Milibeth
+#------------------------------------
+Things Betwixt  - SpawnID: 723000 | 723010 
+Ghost           - SpawnID: 723001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Chancellor Wellager
+#------------------------------------
+Drangleic Castle - SpawnID: 721100
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Captain Drummond
+#------------------------------------
+Giant Memories  - SpawnID: 724000 | 724002 
+Ghost           - SpawnID: 724001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Darkdiver Grandahl
+#------------------------------------
+Shaded Woods        - SpawnID: 725000 
+The Gutter          - SpawnID: 725002 
+Drangleic Castle    - SpawnID: 725003 
+Ghost               - SpawnID: 725001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Lonesome Gavlan
+#------------------------------------
+Harvest Valley      - SpawnID: 726002 
+Doors of Pharros    - SpawnID: 726004 
+No-man's Wharf      - SpawnID: 723603
+Unused              - SpawnID: 726000 
+Unused              - SpawnID: 726003 
+Unused              - SpawnID: 726005 
+Unused              - SpawnID: 726006 
+Ghost               - SpawnID: 726001 | 723601
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Saulden
+#------------------------------------
+Majula      - SpawnID: 741000 
+Ghost       - SpawnID: 741001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Creighton
+#------------------------------------
+Brightstone Cove Tseldora   - SpawnID: 742000 
+Shaded Woods                - SpawnID: 742002 
+Huntsman's Copse            - SpawnID: 742003
+Ghost                       - SpawnID: 742001
+Summon                      - SpawnID: 742009
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Pate
+#------------------------------------
+Forest of Fallen Giants     - SpawnID: 744000 
+Brightstone Cove Tseldora   - SpawnID: 744002 
+Harvest Valley              - SpawnID: 744003 
+Ghost                       - SpawnID: 744001
+Summon                      - SpawnID: 744009
+Voice                       - SpawnID: 855000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+AI:
+ 10  - Default
+ 80  - 
+
+#------------------------------------
+# Benhart
+#------------------------------------
+Forest of Fallen Giants     - SpawnID: 743000 
+Path to Shaded Woods        - SpawnID: 743002 
+Drangleic Castle            - SpawnID: 743003 
+Giant Memories              - SpawnID: 743004 
+Drangleic Castle            - SpawnID: 743006 
+Drangleic Castle            - SpawnID: 743007 
+Giant Memories              - SpawnID: 743008 
+Brightstone Cove Tseldora   - SpawnID: 743009 
+Crown of the Sunken King    - SpawnID: 743010 
+Ghost                       - SpawnID: 743001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Cale
+#------------------------------------
+Majula / Forest of Fallen Giants    - SpawnID: 751000 
+Ghost                               - SpawnID: 751001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Lucatiel
+#------------------------------------
+Aldia's Keep            - SpawnID: 752000 
+The Lost Bastille       - SpawnID: 752002 
+Harvest Valley          - SpawnID: 752003 
+No-man's Wharf          - SpawnID: 752004 
+The Gutter              - SpawnID: 752005 
+Crown of the Ivory King - SpawnID: 752010 
+Ghost                   - SpawnID: 752001
+
+-- Summons
+The Gutter              - SpawnID: 752006 
+Iron Keep               - SpawnID: 752007 
+No-man's Wharf          - SpawnID: 752008 
+The Lost Bastille       - SpawnID: 752009 
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Melentia
+#------------------------------------
+Majula / Forest of Fallen Giants    - SpawnID: 754000 
+Ghost                               - SpawnID: 754001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Milfanito (Hollow)
+#------------------------------------
+Shrine of Amana - SpawnID: 304010
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Milfanito #1
+#------------------------------------
+Shrine of Amana - SpawnID: 760000 
+Ghost           - SpawnID: 760001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Milfanito #2
+#------------------------------------
+Shrine of Amana - SpawnID: 760100 
+Ghost           - SpawnID: 760101
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Milfanito #3
+#------------------------------------
+Drangleic Castle    - SpawnID: 760200 
+Ghost               - SpawnID: 760201
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Maughlin
+#------------------------------------
+Majula  - SpawnID: 761000 
+Ghost   - SpawnID: 761001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Chloanne
+#------------------------------------
+Harvest Valley  - SpawnID: 762000 
+Majula          - SpawnID: 762002 
+Ghost           - SpawnID: 762001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Rosabeth
+#------------------------------------
+Majula / Path to Shaded Woods   - SpawnID: 763000 
+Ghost                           - SpawnID: 763001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Lenigrast
+#------------------------------------
+Majula      - SpawnID: 764000 
+Ghost       - SpawnID: 764001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# McDuff
+#------------------------------------
+The Lost Bastille   - SpawnID: 764300 
+Ghost               - SpawnID: 764309
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Carhillion
+#------------------------------------
+No-man's Wharf  - SpawnID: 766000
+Ghost           - SpawnID: 766001
+Summon          - SpawnID: 874000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Straid
+#------------------------------------
+The Lost Bastille   - SpawnID: 768000 
+Ghost               - SpawnID: 768001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Licia
+#------------------------------------
+Heide's Tower of Flame / Majula - SpawnID: 769000 
+Ghost                           - SpawnID: 769001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+AI:
+ 10  - Default
+ 20  - 
+
+#------------------------------------
+# Felkin
+#------------------------------------
+Huntsman's Copse    - SpawnID: 770000 
+Ghost               - SpawnID: 770001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Royal Sorcerer Navlaan
+#------------------------------------
+Aldia's Keep    - SpawnID: 771000
+Ghost           - SpawnID: 771001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+AI:
+ 10  - Default
+ 20  - 
+
+#------------------------------------
+# Magerold
+#------------------------------------
+Iron Keep   - SpawnID: 772000 
+Ghost       - SpawnID: 772001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Ornifex
+#------------------------------------
+Brightstone Cove Tseldora   - SpawnID: 776000 
+Shaded Woods                - SpawnID: 776002 
+Ghost                       - SpawnID: 776001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Shalquoir
+#------------------------------------
+Majula - SpawnID: 777000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Titchy Gren
+#------------------------------------
+Undead Purgatory    - SpawnID: 783000 
+Ghost               - SpawnID: 783001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Cromwell
+#------------------------------------
+Brightstone Cove Tseldora   - SpawnID: 784000 
+Ghost                       - SpawnID: 784001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Targray
+#------------------------------------
+Heide's Tower of Flame  - SpawnID: 785000 
+Ghost                   - SpawnID: 785001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Rat King
+#------------------------------------
+Doors of Pharros    - SpawnID: 226200 
+Grave of Saints     - SpawnID: 226202 
+Ghost               - SpawnID: 226201
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Bell Keeper
+#------------------------------------
+Belfry Luna     - SpawnID: 753000 
+Ghost           - SpawnID: 753001
+Hostile         - SpawnID: 753002
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#-----------------------------------------
+# Summonable Characters
+#-----------------------------------------
+#------------------------------------
+# Twiggy Shei
+#------------------------------------
+Crown of the Ivory King - SpawnID: 884001 
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Sellsword Luet
+#------------------------------------
+Forest of Fallen Giants - SpawnID: 891000 
+The Lost Bastille       - SpawnID: 891001 
+Drangleic Castle        - SpawnID: 891002 
+Aldia's Keep            - SpawnID: 891003 
+Crown of the Ivory King - SpawnID: 891004
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+AI:
+ 10  - Default
+ 100 - 
+
+#------------------------------------
+# Manhunter O'Harrah
+#------------------------------------
+Brightstone Cove Tseldora   - SpawnID: 892001 
+Iron Keep                   - SpawnID: 892000 
+Crown of the Ivory King     - SpawnID: 892002
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Steelheart Ellie
+#------------------------------------
+Crown of the Sunken King    - SpawnID: 867000 
+Crown of the Iron King      - SpawnID: 867001 
+Crown of the Ivory King     - SpawnID: 867100 
+Forest of Fallen Giants     - SpawnID: 866001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+AI:
+ 10  - Default
+ 103 - 
+ 142 - 
+
+#------------------------------------
+# Bashful Ray
+#------------------------------------
+Harvest Valley              - SpawnID: 892501 
+Brightstone Cove Tseldora   - SpawnID: 892503 
+Huntsman's Copse            - SpawnID: 892500 
+The Gutter                  - SpawnID: 892502 
+Dragon Aerie                - SpawnID: 892505 
+Drangleic Castle            - SpawnID: 892504
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Felicia the Brave
+#------------------------------------
+The Lost Bastille   - SpawnID: 813001 
+Shrine of Amana     - SpawnID: 813000
+Unused              - SpawnID: 890000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Bradley of the Old Guard
+#------------------------------------
+The Lost Bastille   - SpawnID: 810006 
+No-man's Wharf      - SpawnID: 893000 
+Shaded Woods        - SpawnID: 893001 
+Drangleic Castle    - SpawnID: 893002
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Devotee Scarlett
+#------------------------------------
+Harvest Valley          - SpawnID: 891500 
+Heide's Tower of Flame  - SpawnID: 891502 
+Undead Crypt            - SpawnID: 891501
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Steel-willed Lorrie
+#------------------------------------
+Crown of the Iron King  - SpawnID: 875000 | 875001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Drifter Swordsman Aidel
+#------------------------------------
+Crown of the Iron King  - SpawnID: 876000 | 876001
+Iron Keep               - SpawnID: 876002
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Transcedent Edde
+#------------------------------------
+Crown of the Sunken King - SpawnID: 868000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Rapacious Andrei
+#------------------------------------
+Crown of the Sunken King - SpawnID: 869000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Abbess Feeva
+#------------------------------------
+Crown of the Sunken King    - SpawnID: 865000 
+Crown of the Ivory King     - SpawnID: 865002
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Ruined Alfis
+#------------------------------------
+Crown of the Sunken King    - SpawnID: 866000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Masterless Glencour
+#------------------------------------
+Unused                  - SpawnID: 810000 
+Unused                  - SpawnID: 810001 
+Unused                  - SpawnID: 810002 
+Heide's Tower of Flame  - SpawnID: 810003 
+Crown of the Ivory King - SpawnID: 810005
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Lone Hunter Schmidt
+#------------------------------------
+The Gutter      - SpawnID: 811000 
+Shrine of Amana - SpawnID: 811001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Pilgrim Bellclaire
+#------------------------------------
+The Lost Bastille   - SpawnID: 812000 
+Unused              - SpawnID: 812001 
+Drangleic Castle    - SpawnID: 812002
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Ashen Knight Boyd
+#------------------------------------
+The Lost Bastille   - SpawnID: 820000 
+Drangleic Castle    - SpawnID: 853101
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#-----------------------------------------
+# Invaders
+#-----------------------------------------
+#------------------------------------
+# Armourer Dennis
+#------------------------------------
+Forest of Fallen Giants - SpawnID: 897500 
+Iron Keep               - SpawnID: 897501
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Aslatiel of Mirrah
+#------------------------------------
+Aldia's Keep - SpawnID: 824000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Bowman Guthry
+#------------------------------------
+Doors of Pharros / BST  - SpawnID: 853000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Castaway Witch Donna
+#------------------------------------
+Crown of the Ivory King - SpawnID: 877000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Dragonfang Villard
+#------------------------------------
+Dragon Aerie - SpawnID: 823000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Forlorn 
+#------------------------------------
+Forest of Fallen Giants     - SpawnID: 694000 
+No-man's Wharf              - SpawnID: 694001
+The Lost Bastille           - SpawnID: 694002
+Huntsman's Copse            - SpawnID: 694003 
+Harvest Valley              - SpawnID: 694004
+Iron Keep                   - SpawnID: 694005 
+The Gutter                  - SpawnID: 694006 
+Shaded Woods                - SpawnID: 694007
+Brightstone Cove Tseldora   - SpawnID: 694008
+Aldia's Keep                - SpawnID: 694009
+Crown of the Sunken King    - SpawnID: 695000
+Undead Crypt                - SpawnID: 695003
+Aldia's Keep                - SpawnID: 695004
+Crown of the Iron King      - SpawnID: 695007
+Crown of the Ivory King     - SpawnID: 695008
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Fencer Sharron
+#------------------------------------
+Iron Keep           - SpawnID: 897000 
+Dragon Aerie        - SpawnID: 897001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Gutter Denizen
+#------------------------------------
+The Gutter - SpawnID: 887000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Hexer Nicholai
+#------------------------------------
+Crown of the Ivory King - SpawnID: 878000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Holy Knight Aurheim
+#------------------------------------
+Crown of the Ivory King - SpawnID: 879000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Jester Thomas
+#------------------------------------
+-- Summon
+Harvest Valley              - SpawnID: 849100 
+
+-- Invader
+Crown of the Sunken King    - SpawnID: 861000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Maldron the Assassin
+#------------------------------------
+-- Red Phantom
+Crown of the Iron King      - SpawnID: 871000
+
+-- White Ring
+Crown of the Ivory King     - SpawnID: 871100
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Melinda the Butcher
+#------------------------------------
+Dragon Aerie    - SpawnID: 814000 
+Unused          - SpawnID: 814008 
+he Gutter       - SpawnID: 814009
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Merciless Roenna
+#------------------------------------
+Huntsman's Copse    - SpawnID: 821000 
+Unused              - SpawnID: 821001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Nameless Usurper
+#------------------------------------
+Drangleic Castle    - SpawnID: 849000 
+Undead Crypt        - SpawnID: 849001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Oliver the Collector
+#------------------------------------
+Iron Keep - SpawnID: 898000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Peculiar Kindular
+#------------------------------------
+Unused          - SpawnID: 822000 
+Unused          - SpawnID: 822001 
+Unused          - SpawnID: 822002 
+Shrine of Amana - SpawnID: 822003
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Prowlers
+#------------------------------------
+-- Crown of the Iron King
+Katana  - SpawnID: 881000
+Bow     - SpawnID: 882000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Quicksword Rachel
+#------------------------------------
+Crown of the Iron King - SpawnID: 870000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Rhoy the Explorer
+#------------------------------------
+Grave of Saints - SpawnID: 849200
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Rockshield Baldyr
+#------------------------------------
+Crown of the Sunken King - SpawnID: 860000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Royal Sorcerer Navlaan
+#------------------------------------
+Drangleic Castle            - SpawnID: 771004 
+The Gutter                  - SpawnID: 771005 
+Unused                      - SpawnID: 771006 
+Aldia's Keep                - SpawnID: 771007 
+Brightstone Cove Tseldora   - SpawnID: 771009 
+Forest of Fallen Giants     - SpawnID: 771010 
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Woodland Child Victor
+#------------------------------------
+The Gutter - SpawnID: 896000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Woodland Child Gully
+#------------------------------------
+The Gutter - SpawnID: 896500
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Vorgol the Sinner
+#------------------------------------
+
+#-----------------------------------------
+# Abyss Phantoms
+#-----------------------------------------
+#------------------------------------
+# Underworld Deadeye  
+#------------------------------------
+Chasm of the Abyss  - SpawnID: 832000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Abyss Ironclad
+#------------------------------------
+Chasm of the Abyss  - SpawnID: 832100
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Pretender to the Xanthous Throne 
+#------------------------------------
+Chasm of the Abyss  - SpawnID: 832200 | 832300
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Tenebrous Rogue 
+#------------------------------------
+Chasm of the Abyss  - SpawnID: 832400
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# The Ghost of Princes Past  
+#------------------------------------
+Chasm of the Abyss  - SpawnID: 832500
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# A Chip Off the Ol' Rock 
+#------------------------------------
+Chasm of the Abyss  - SpawnID: 832600
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Shadowveil Assasin 
+#------------------------------------
+Chasm of the Abyss  - SpawnID: 832700
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#-----------------------------------------
+# Roaming Souls (Red)
+#-----------------------------------------
+#------------------------------------
+# Aurous Knight Phantom
+#------------------------------------
+No-man's Wharf - SpawnID: 854000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Butcher Phantom
+#------------------------------------
+Shrine of Amana - SpawnID: 833000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Catarina Knight
+#------------------------------------
+Forest of Fallen Giants - SpawnID: 844000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Crescent Sickle Phantom
+#------------------------------------
+Earthern Peak - SpawnID: 851000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Drakekeeper Knight Phantom
+#------------------------------------
+Drangleic Castle - SpawnID: 853200
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Dingy Cleric Phantom
+#------------------------------------
+Grave of Saints - SpawnID: 831000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Leydia Swordsman Phantom
+#------------------------------------
+Brightstone Cove Tseldora - SpawnID: 848000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Elite Knight Phantom
+#------------------------------------
+Drangleic Castle - SpawnID: 853300
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+Not used in DS2:SOTFS.
+
+#------------------------------------
+# Executioner Phantom
+#------------------------------------
+Heide's Tower of Flame - SpawnID: 847000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Faraam Knight Phantom
+#------------------------------------
+Grave of Sains  - SpawnID: 831100
+Eleum Loyce     - SpawnID: 885001 | 885000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Foreign Wanderer Phantom
+#------------------------------------
+Things Betwixt - SpawnID: 837000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Greatbow Phantom
+#------------------------------------
+Drangleic Castle    - SpawnID: 853400
+Eleum Loyce         - SpawnID: 885101 | 885100
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+Not used in DS2:SOTFS.
+ 
+#------------------------------------
+# Greatsword Foreigner Phantom
+#------------------------------------
+Things Betwixt - SpawnID: 837400
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+Appears when the sconces are lit in Things Betwixt
+
+#------------------------------------
+# Greatsword Phantom
+#------------------------------------
+Huntman's Copse - SpawnID: 852000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+Appears before the Executioner's Chariot fogdoor.
+
+#------------------------------------
+# Insolent Knight
+#------------------------------------
+Undead Crypt - SpawnID: 886000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+Appears when the Undead Crypt scone is lit.
+ 
+#------------------------------------
+# Ironclad Warrior Phantom
+#------------------------------------
+Iron Keep - SpawnID: 836400
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Knight Phantom
+#------------------------------------
+Forest of Fallen Giants - SpawnID: 843000 
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Mad Warrior
+#------------------------------------
+Belfry Sol - SpawnID: 836000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Painting Guardian Phantom
+#------------------------------------
+Aldia's Keep - SpawnID: 850000 | 835001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Porcine Peasant
+#------------------------------------
+Brightstone Cove Tseldora - SpawnID: 846000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Sentinel Phantom
+#------------------------------------
+Heide's Tower of Flame - SpawnID: 847100
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Syan Knight Phantom
+#------------------------------------
+Forest of Fallen Giants - SpawnID: 842000 | 853500
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Washing Pole Phantom
+#------------------------------------
+Drangleic Castle - SpawnID:
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Rogue Phantom (Whip)
+#------------------------------------
+Crown of the Iron King  - SpawnID: 873000
+Crown of the Ivory King - SpawnID: 873000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Astrologist Phantom
+#------------------------------------
+SpawnID: 872009
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Lost Sinner Pyromancer Phantom
+#------------------------------------
+Male    - SpawnID: 732000
+Female  - 733000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+Found in the Lost Sinner boss room.
+ 
+#------------------------------------
+# Royal Soldier Phantom (Sword)
+#------------------------------------
+SpawnID: 853100
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Veiled Witch Phantom
+#------------------------------------
+SpawnID: 848100
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Bell Keeper Phantom (Fire)
+#------------------------------------
+SpawnID: 753008
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Bell Keeper Phantom (Dark)
+#------------------------------------
+SpawnID: 753009
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Falconer Phantom (Sword)
+#------------------------------------
+SpawnID: 845000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Goblin Phantom (Unarmed)
+#------------------------------------
+SpawnID: 100008 | 100009
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+   
+AI:
+ 10  - Default
+ 30  - 
+
+#------------------------------------
+# Hollow Soldier Phantom (Greatsword)
+#------------------------------------
+SpawnID: 102011
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+AI:
+ 10  - Default
+ 111 - 
+
+#------------------------------------
+# White Priest Phantom
+#------------------------------------
+SpawnID: 106009
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Rupturing Hollow Phantom (Fire)
+#------------------------------------
+SpawnID: 125009
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Rupturing Hollow Phantom (Corrosion)
+#------------------------------------
+SpawnID: 125016
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Artificial Undead Phantom
+#------------------------------------
+SpawnID: 139008 | 139009
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Undead Torturer Phantom (Whip)
+#------------------------------------
+SpawnID: 138011
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Undead Torturer Phantom (Catchpole)
+#------------------------------------
+SpawnID: 138001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Ironclad Phantom
+#------------------------------------
+SpawnID: 151208
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Old Ironclad Phantom
+#------------------------------------
+SpawnID: 151209
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+AI:
+ 10  - Default
+ 100 - 
+
+#------------------------------------
+# Spider Phantom
+#------------------------------------
+SpawnID: 203009
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Undead Dog Phantom
+#------------------------------------
+SpawnID: 227009
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Undead Jailer Phantom
+#------------------------------------
+SpawnID: 302009
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Alonne Captain Phantom
+#------------------------------------
+SpawnID: 306006 | 306008 | 306009
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Alonne Captain Phantom (Greatbow)
+#------------------------------------
+SpawnID: 306019
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Alonne Knight Phantom
+#------------------------------------
+SpawnID: 319009
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Leydia Witch Phantom
+#------------------------------------
+SpawnID: 509009
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Iron Warrior Giant Phantom
+#------------------------------------
+SpawnID: 650003
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Fume Sorcerer Phantom
+#------------------------------------
+SpawnID: 651003
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Ashen Warrior Phantom (Halberd)
+#------------------------------------
+SpawnID: 653029
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Ashen Warrior Phantom (Axes)
+#------------------------------------
+SpawnID: 653006 | 653030
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Possessed Armor Phantom
+#------------------------------------
+SpawnID: 656006
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Iced Spellsword Phantom
+#------------------------------------
+SpawnID: 663004 | 663005
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Ice Rat Phantom
+#------------------------------------
+SpawnID: 662001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Ice Stallion Phantom
+#------------------------------------
+SpawnID: 661001
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Ice Golem Phantom
+#------------------------------------
+SpawnID: 660002 | 660003
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Rampart Golem Phantom
+#------------------------------------
+SpawnID: 659003 | 659004 | 659005
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#-----------------------------------------
+# Black Phantoms
+#-----------------------------------------
+#------------------------------------
+# Bell Keeper
+#------------------------------------
+Fire Axe    - SpawnID: 753004
+Dark Axe    - SpawnID: 753003
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Greatsword Bell Keeper
+#------------------------------------
+Belfry Sol - SpawnID: 836100
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Dual Avelyn Bell Keeper
+#------------------------------------
+Belfry Sol - SpawnID: 836200
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Bell Keeper Mage
+#------------------------------------
+Belfry Sol - SpawnID: 836300
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#-----------------------------------------
+# Bosses
+#-----------------------------------------
+Adding to Bosses:
+- The Boss spawning entry must be duplicated for new enemies, so they're associated with the boss.
+- Boss associated entries will respawn when the boss resets.
+- Adding new Bosses only works when the spawn entry is duplicated from an boss.
+- Non-original boss entries don't drop their items.
+- AI for boss associated enemies only starts when the boss starts.
+- The actual boss entities drop no souls.
+
+#------------------------------------
+# The Last Giant
+#------------------------------------
+SpawnID: 309600     
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Falling Pose
+ 
+#------------------------------------
+# The Pursuer
+#------------------------------------
+SpawnID: 318010     # Boss
+SpawnID: 318000     # Drops 6000 souls
+SpawnID: 318011     # Drops 17000 souls
+SpawnID: 318020     # Drops 7000 souls
+SpawnID: 318030     # Drops 6000 souls
+SpawnID: 318040     # Drops 6000 souls
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Appear from Ground
+ 3 - Land from Crow
+ 
+AI:
+ 10  - Default
+ 130 -
+  
+#------------------------------------
+# Dragonrider (Bow)
+#------------------------------------
+SpawnID: 611010     # Boss
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Riding Pose
+
+#------------------------------------
+# Dragonrider (Halberd)
+#------------------------------------
+SpawnID: 611500     # Boss
+SpawnID: 611510     # Immortal
+SpawnID: 611520     # Drops 3000 souls
+SpawnID: 611530     # Drops 2700 souls
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Old Dragonslayer
+#------------------------------------
+SpawnID: 625000     
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Flexile Sentry
+#------------------------------------
+SpawnID: 303300     # Boss
+SpawnID: 303301     # Drops 2800 souls
+SpawnID: 303302     # Drops 3500 souls
+SpawnID: 303303     # Drops 2500 souls
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Ruin Sentinels
+#------------------------------------
+SpawnID: 325000     # Boss
+SpawnID: 325010     # Drops 2500 souls
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Forward Position
+
+#------------------------------------
+# The Lost Sinner
+#------------------------------------
+SpawnID: 626000     
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Belfry Gargoyles
+#------------------------------------
+SpawnID: 324000
+SpawnID: 324010     # Drops 2800 souls
+SpawnID: 324011     # Drops 3000 souls
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Stoneform
+   
+#------------------------------------
+# Skeleton Lord (Halberd)
+#------------------------------------
+SpawnID: 154000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Skeleton Lord (Scythe)
+#------------------------------------
+SpawnID: 154010
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Skeleton Lord (Staff)
+#------------------------------------
+SpawnID: 154020
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Executioner's Chariot
+#------------------------------------
+SpawnID: 619110     # Boss
+SpawnID: 619111     # Boss
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+     
+#------------------------------------
+# Covetous Demon 
+#------------------------------------
+SpawnID: 500000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+   
+#------------------------------------
+# Covetous Demon (Snow)
+#------------------------------------
+SpawnID: 500100     # Drops 4500 souls and Ivory Warrior Ring
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+  
+#------------------------------------
+# Mytha, the Baneful Queen 
+#------------------------------------
+SpawnID: 501000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+  
+#------------------------------------
+# Smelter Demon 
+#------------------------------------
+SpawnID: 305000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+  
+#------------------------------------
+# Smelter Demon (Magic)
+#------------------------------------
+SpawnID: 305200
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+  
+#------------------------------------
+# Old Iron King
+#------------------------------------
+SpawnID: 607000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+  
+#------------------------------------
+# Scorpioness Najka 
+#------------------------------------
+SpawnID: 503000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Royal Rat Authority 
+#------------------------------------
+SpawnID: 628000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Royal Rat Vanguard 
+#------------------------------------
+SpawnID: 226100
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Prowling Magus 
+#------------------------------------
+SpawnID: 137010     # Drops 2500 souls
+SpawnID: 137021     # Boss
+SpawnID: 137022     # Drops 2500 souls
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# The Duke's Dear Freja 
+#------------------------------------
+SpawnID: 603000 
+SpawnID: 603100     # Does not move
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------ 
+# The Rotten 
+#------------------------------------
+SpawnID: 326000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Looking Glass Knight 
+#------------------------------------
+SpawnID: 504000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Demon of Song 
+#------------------------------------
+SpawnID: 602000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Velstadt, the Royal Aegis 
+#------------------------------------
+SpawnID: 333000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Guardian Dragon 
+#------------------------------------
+SpawnID: 212000
+SpawnID: 212001 
+SpawnID: 212002 
+SpawnID: 212003 
+SpawnID: 212004
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 2 - Sleeping
+ 
+AI:
+ 10  - Default
+ 100 - 
+ 200 - 
+ 
+#------------------------------------
+# Ancient Dragon 
+#------------------------------------
+SpawnID: 600000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Giant Lord 
+#------------------------------------
+SpawnID: 309700
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Throne Defender
+#------------------------------------
+SpawnID: 332000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Throne Watcher
+#------------------------------------
+SpawnID: 334000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Nashandra 
+#------------------------------------
+SpawnID: 627000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Vendrick 
+#------------------------------------
+SpawnID: 514600 
+SpawnID: 684000     # King Vendrick
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Aldia 
+#------------------------------------
+SpawnID: 692000 
+SpawnID: 693000     # Voice Trigger
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Darklurker 
+#------------------------------------
+SpawnID: 506100 
+SpawnID: 506101
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Elana, the Squalid Queen
+#------------------------------------
+SpawnID: 682000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Elana (Skeleton)
+#------------------------------------
+SpawnID: 685000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Elana (Boar)
+#------------------------------------
+SpawnID: 686000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Elana (Velstadt)
+#------------------------------------
+SpawnID: 687000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Sinh, the Slumbering Dragon
+#------------------------------------
+SpawnID: 681000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Cerah, the Old Explorer 
+#------------------------------------
+SpawnID: 862000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Ancient Soldier Varg
+#------------------------------------
+SpawnID: 863000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Afflicted Graverobber
+#------------------------------------
+SpawnID: 864000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Fume Knight 
+#------------------------------------
+SpawnID: 675000 
+SpawnID: 675001 
+SpawnID: 675010 
+SpawnID: 675011
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Sir Alonne 
+#------------------------------------
+SpawnID: 680000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Aava, the King's Pet
+#------------------------------------
+SpawnID: 679100 
+SpawnID: 679101
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+
+#------------------------------------
+# Burnt Ivory King 
+#------------------------------------
+SpawnID: 690000 
+SpawnID: 690001 
+SpawnID: 690010 
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Lud
+#------------------------------------
+SpawnID: 679000 
+SpawnID: 679001 
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Zallen
+#------------------------------------
+SpawnID: 679002
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+  
+#-----------------------------------------
+# Objects
+#-----------------------------------------
+#------------------------------------
+# Dragon Skeleton
+#------------------------------------
+SpawnID: 327000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Darklurker Portal
+#------------------------------------
+SpawnID: 506200
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Default Player
+#------------------------------------
+SpawnID: 805000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Covenant of Champions Runestone
+#------------------------------------
+SpawnID: 840000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+    
+#------------------------------------
+# Sparkling Sisters Dyna and Tillo 
+#------------------------------------
+SpawnID: 786000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+ 
+#------------------------------------
+# Voice Trigger
+#------------------------------------
+SpawnID: 841000
+
+Spawn States:
+ 0 - Idle
+ 1 - Idle
+

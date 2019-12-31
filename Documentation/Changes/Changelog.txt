@@ -1,0 +1,243 @@
+﻿#-----------------------------------------
+# Changelog
+#-----------------------------------------
+# General
+- Adjusted the leveling curve. The first 50 levels are fairly cheap, similar to the base curve for DS2. After 50, the curve matches the values for DS1, increasing the leveling cost considerably.
+- Adjusted the starting classes.
+
+# Weapons
+- Adjusted the requirements of weapons.
+- Increased durability of weapons.
+- Increased cast speed of Staff of Amana to 120.
+- Increased cast speed of Azal's Staff to 100.
+- Increased cast speed of Retainer Staff to 120.
+- Increased cast speed of Pilgrim's Spontoon to 130.
+- Increased cast speed of Chime of Screams to 100.
+- Increased cast speed of Sorcerer's Twinblade to 150.
+
+# Items
+- Increased the speed of the Estus Flask animation.
+- Increased the speed of many consumable items.
+
+# Spells
+- Increased the casts gained from high Attunement for all spells.
+- Increased Lightning Spear casts.
+- Increased Great Lightning Spear casts.
+- Increased Sunlight Spear casts.
+- Increased Soul Spear casts.
+- Increased Crystal Soul Spear casts.
+
+# Enemies
+- Adjusted boss HP.
+- Adjusted boss soul drops. In general the more difficult bosses now drop many more souls, whereas easy bosses drop less.
+- Increased the drop rate of Loyce Souls massively (7.5% -> 50%).
+- Lud and Zallen now drop Lingering Dragoncrest Ring+2
+- Afflicted Graverobber, Ancient Soldier Varg & Cerah the Old Explorer now drop Ring of Thorns+2 in NG+1
+
+# Way of Blue
+- Rank 1: Blue Tearstone Ring
+- Rank 2: Bloodbite Ring
+- Rank 3: Titanite Slab
+
+# Blue Sentinels
+- Rank 1: Gower's Ring of Protection
+- Rank 2: Spirit Tree Shield
+- Rank 3: Blue Knight's Halberd
+
+# Brotherhood of Blood
+- Rank 1: Curved Twinblade
+- Rank 2: Crescent Sickle
+- Rank 3: Red Tearstone Ring
+
+# Bell Keepers
+- Rank 1: Titanite Chunk * 5
+- Rank 2: Titanite Slab 
+- Rank 3: Bell Keeper's Set
+
+# Rat King
+- Rank 1: Petrified Something * 5
+- Rank 2: Ash Knuckle Ring
+- Rank 3: Slumbering Dragoncrest Ring
+
+# Pilgrims of Dark
+- Rank 1: Resonant Soul
+- Rank 2: Great Resonant Soul
+- Rank 3: Climax, Xanthous Set
+
+# Heirs of the Sun
+- Rank 1: Sunlight Parma
+- Rank 2: Sun Sword
+- Rank 3: Sunlight Spear
+
+# Dragon Remnants
+- Rank 1: Dragon Head Stone
+- Rank 2: Dragon Torso Stone
+- Rank 3: First Dragon Ring
+
+# Company of Champions
+- Rank 1: Ring of Soul Protection
+- Rank 2: Bracing Knuckle Ring+2
+- Rank 3: Vanquisher's Seal
+
+# Sweet Shalquoir
+- Added the Agape Ring to her inventory.
+- Added Soul Vessel to her inventory, becomes unlimited after visiting the Shrine of Winter.
+
+# Straid 
+- Removed the Agape Ring from his inventory.
+
+# Maughlin 
+- Added obscure armor sets to his inventory. Many are unlocked via boss progression.
+- Added obscure shields to his inventory. Many are unlocked via boss progression.
+
+# Melentia
+- Added a few weapons to her inventory.
+- No longer sells unlimited Lifegems.
+- Increased the base stock of Pharros' Lockstone and Fragrant Branch of Yore to 3
+
+# Chloanne
+- Adjusted the price of materials and when they are unlocked.
+- Bonfire Ascetic stock is unlimited after visiting Vendrick.
+
+# Lenigrast
+- Added weapons to his inventory. Many are unlocked via boss progression.
+
+# McDuff
+- Changed weapons in his inventory.
+
+# Ornifex
+- Changed weapons in her inventory.
+
+# Chancellor Wellager
+- Added the recolored weapons to his inventory.
+- Added Lifegem to his inventory, unlimited after visiting Vendrick.
+- Added Radiant Lifegem to to his inventory, unlimited after visiting Vendrick.
+
+# Royal Sorcerer Navlaan
+- Added Lacerating Arrow to his inventory.
+
+# Titchy Gren
+- Cracked Red Eye Orbs are now sold with unlimited stock in NG+0.
+- Added Great Chaos Fireball to his inventory.
+
+# Blue Sentinel Targray
+- Cracked Blue Eye Orbs are now sold in NG+0.
+
+# Cromwell the Pardoner
+- Added Seed of a Tree of Giants to his inventory.
+- Added Wrath of the Gods to his inventory.
+- Added Bountiful Sunlight to his inventory.
+
+# The Rat King
+- Added Pharros' Lockstone with unlimited stock to his inventory.
+
+# Magerold of Lanafir
+- Increased the base stock of Fragrant Branch of Yore to 3
+- Rusted Coin stock is now unlimited.
+
+# Grave Warden Agdayne
+- Elizabeth Mushroom stock becomes unlimited after visiting Vendrick.
+
+# Carhillion of the Fold
+- Amber Herb stock becomes unlimited after visiting Vendrick.
+- Twilight Herb stock becomes unlimited after visiting Vendrick.
+- Simpleton's Spice stock becomes unlimited after visiting Vendrick.
+
+# Licia of Lindeldt
+- Added Skeptic's Spice to her inventory, becomes unlimited after visiting Vendrick.
+
+# No-man's Wharf
+- Added Seabow treasure.
+- Added Shadow Dagger treasure.
+- Added Varangian Sword treasure.
+
+# Lost Bastille
+- Added Bell Keeper Bow treasure.
+- Added Blue Flame treasure.
+- Added Bell Keeper Shield treasure.
+
+# Earthern Peak
+- Added Manikin Sabre treasure.
+- Added Malformed Claws treasure.
+- Added Ring of Restoration treasure.
+
+# Iron Keep
+- Added Blacksteel Katana treasure.
+- Added Smelter Hammer treasure.
+- Added Possessed Armor Greatbow treasure.
+- Added Alonne Greatbow treasure.
+- Moved Heavy Iron Key to this area.
+
+# Huntman's Copse
+- Added Gyrm Great Hammer treasure.
+
+# Dragon Aerie
+- Added Black Dragon Greataxe treasure.
+- Added Black Dragon Warpick treasure.
+- Added Black Dragon Sword treasure.
+- Added Black Dragon Shield treasure.
+- Added Black Dragon Greatsword treasure.
+- Added Drakekeeper's Great Hammer treasure.
+- Added Drakekeeper's Warpick treasure.
+- Added Drakekeeper's Sword treasure.
+- Added Drakekeeper's Ultra Greatsword treasure.
+
+# Path to Shaded Woods
+- Added Aldia Hammer treasure.
+- Moved Frozen Flower to this area.
+
+# Heide's Tower of Flame
+- Added Old Knight Ultra Greatsword treasure.
+- Added Old Knight Greatsword treasure.
+
+# Shaded Woods
+- Added Umbral Dagger treasure.
+- Added Berserker Blade treasure.
+- Moved Covetous Gold Serpent Ring to this area.
+
+# Doors of Pharros
+- Added Drakekeeper's Ultra Greatsword treasure.
+- Added Gyrm Greatshield treasure.
+
+# Grave of Saints
+- Added Silverblack Spear treasure.
+- Added Silverblack Shield treasure.
+
+# Giant's Memory
+- Added Old Mirrah Greatsword treasure.
+
+# Shrine of Amana
+- Added Archdrake Mace treasure.
+- Added Staff of Amana treasure.
+
+# Drangleic Castle
+- Added Stone Soldier Spear treasure.
+- Added Mastodon Greatshield treasure.
+- Added Black Witch's Staff treasure.
+
+# The Gutter
+- Added Full Moon Sickle treasure.
+- Moved the Dragon Talon to this area.
+
+# Shulva
+- Added Sanctum Repeating Crossbow treasure.
+
+# Brume Tower
+- Added Ashen Warrior Sword treasure.
+- Added Possessed Armor Sword treasure.
+
+# Eleum Loyce
+- Added Retainer's Short Sword treasure.
+- Added Charred Loyce Greatsword treasure.
+- Added Charred Loyce Shield treasure.
+- Added Rampart Golem Lance treasure.
+- Added Rampart Golem Shield treasure.
+- Added Ice Rapier treasure.
+
+# Brightstone Cove
+- Added Bat Staff treasure.
+- Added Lizard Staff treasure.
+
+#-----------------------------------------
+# TODO
+#-----------------------------------------

@@ -1,0 +1,1435 @@
+Register ID, Spawning ID, Spawn State, Drawgroup, Name
+
+Coordinates
+yPos -> X
+zPos -> Y
+xPos -> Z
+
+Rotation in DS Tools:
+Blue arrow forward is actual orientation
+
+# -------------------------
+# Things Betwixt
+# -------------------------
+
+# Registration
+100009:10000060:0:3:Goblin (Unarmed) (Hostile Phantom)
+101000:10100000:0:1:Kobold
+115006:11500000:0:6:Imported Hollow (Unarmed)
+115015:11500001:0:6:Imported Hollow (Dagger)
+115006:11500006:6:6:Imported Hollow (Unarmed)
+115016:11500100:0:6:Imported Hollow (Dagger)
+210000:21000000:0:7:Basilisk
+300000:30000000:0:7:Ogre
+300000:30000001:0:7:Ogre
+313021:31300000:0:3:Falconer (Bird)
+313031:31300001:0:3:Falconer (Bow)
+318040:31800000:2:5:The Pursuer
+705500:70500000:2:2:Strowen
+705501:70500001:11:2:Strowen (Ghost)
+705000:70500002:2:2:Strowen
+705600:70510000:2:2:Firekeeper 2
+705601:70510001:11:2:Firekeeper 2 (Ghost)
+705100:70510002:2:2:Strowen
+705800:70530000:2:2:Firekeeper 3
+705801:70530001:11:2:Firekeeper 3 (Ghost)
+705300:70530002:2:2:Strowen
+723000:72300000:2:7:Housekeeper Milibeth
+723001:72300001:11:2:Housekeeper Milibeth (Ghost)
+723010:72300002:2:2:Housekeeper Milibeth
+786000:78600000:0:4:Sparkling Sisters Dyna and Tillo 
+805000:80500000:0:3:Starting Platform
+837000:83700000:0:6:Imported Hollow (Crossbow) (Hostile Phantom)
+837100:83710001:0:4:Imported Hollow (Broken Sword)
+837200:83720000:0:4:Imported Hollow (Bow)
+837201:83720100:0:4:Imported Hollow (Bow)
+837400:90000000:0:7:Greatsword Foreigner Phantom
+
+# -------------------------
+# Majula
+# -------------------------
+
+# Registration
+132013:13200000:0:95:Skeleton (Falchion and Shield)
+132005:13200100:0:95:Skeleton (Falchions)
+132025:13200200:0:95:Skeleton (Rapier and Shield)
+133002:13300000:0:95:Bonewheel
+157007:15700000:0:95:Crowned Skeleton (Falchions)
+157016:15700100:0:95:Armored Skeleton (Falchion and Shield)
+201101:20110000:0:31:Small Undead Boar
+202102:20210000:0:31:Small Undead Boar
+214003:21400000:0:31:Giant Undead Boar
+321016:32100000:2:95:Mimic
+700500:70050000:2:3:Shanalotte
+700501:70050001:11:3:Shanalotte (Ghost)
+700500:70050002:2:3:Shanalotte
+700500:70050003:3:3:Shanalotte
+700500:70050004:4:3:Shanalotte
+700500:70050007:8:3:Shanalotte
+704500:70450000:4:95:Shanalotte
+704501:70450001:11:15:Laddersmith Gilligan (Ghost)
+704510:70451000:0:15:Laddersmith Gilligan
+741000:74100000:13:95:Saulden
+741001:74100001:11:15:Saulden (Ghost)
+743002:74300000:2:95:Benhart
+751000:75100000:4:31:Cale
+751001:75100001:11:20:Cale (Ghost)
+754000:75400000:2:95:Melentia
+754001:75400001:11:7:Melentia (Ghost)
+761000:76100000:14:95:Maughlin
+761001:76100001:11:15:Maughlin (Ghost)
+761000:76100002:19:95:Maughlin
+761000:76100003:20:95:Maughlin
+762002:76200000:2:95:Chloanne
+762001:76200001:11:15:Chloanne (Ghost)
+763000:76300000:16:95:Rosabeth
+763001:76300001:11:15:Rosabeth (Ghost)
+764000:76400000:3:95:Lenigrast
+764001:76400001:11:15:Lenigrast (Ghost)
+764000:76400002:2:95:Lenigrast
+766000:76600000:14:95:Carhillion
+766001:76600001:11:15:Carhillion (Ghost)
+769000:76900000:3:95:Licia
+769001:76900001:11:8:Licia (Ghost)
+769000:76900002:0:40:Licia
+777000:77700000:2:2:Shalquoir
+777000:77700001:11:2:Shalquoir
+777000:77700002:3:2:Shalquoir
+777000:77700003:4:2:Shalquoir
+777000:77700004:5:2:Shalquoir
+777000:77700005:6:2:Shalquoir
+777000:77700006:7:2:Shalquoir
+777000:77700007:8:2:Shalquoir
+840000:78600000:0:2:Covenant of Champions Runestone
+837000:83700000:0:64:Imported Hollow (Crossbow) (Hostile Phantom)
+837100:83710001:0:64:Imported Hollow (Broken Sword)
+837200:83720000:0:64:Imported Hollow (Bow)
+
+# -------------------------
+# Forest of Fallen Giants
+# -------------------------
+
+# Registration
+102000:10200000:Hollow Soldier (Spear)
+102000:10200020:Hollow Soldier (Spear)
+102000:10200021:Hollow Soldier (Spear)
+102010:10201000:Hollow Soldier (Greatsword)
+102010:10201020:Hollow Soldier (Greatsword)
+102010:10201021:Hollow Soldier (Greatsword)
+102010:10201081:Hollow Soldier (Greatsword)
+102010:10201082:Hollow Soldier (Greatsword)
+102010:10201098:Hollow Soldier (Greatsword)
+102010:10201100:Hollow Soldier (Greatsword)
+102011:10201120:Hollow Soldier (Greatsword) (Hostile Phantom)
+102020:10202000:Hollow Soldier (Halberd)
+102020:10202091:Hollow Soldier (Halberd)
+102030:10203000:Hollow Soldier (Sword and Shield)
+102030:10203093:Hollow Soldier (Sword and Shield)
+102040:10204000:Hollow Soldier (Bow)
+103000:10300000:Hollow Infantry (Unarmed)
+103000:10300010:Hollow Infantry (Unarmed)
+103000:10300020:Hollow Infantry (Unarmed)
+103010:10301000:Hollow Infantry (Dagger)
+103010:10301020:Hollow Infantry (Dagger)
+103010:10301035:Hollow Infantry (Dagger)
+103010:10301036:Hollow Infantry (Dagger)
+103020:10302000:Hollow Infantry (Sword and Shield)
+103020:10302020:Hollow Infantry (Sword and Shield)
+103020:10302030:Hollow Infantry (Sword and Shield)
+103020:10302040:Hollow Infantry (Sword and Shield)
+103020:10302093:Hollow Infantry (Sword and Shield)
+103030:10303000:Hollow Infantry (Axe)
+103030:10303010:Hollow Infantry (Axe)
+103030:10303092:Hollow Infantry (Axe)
+103040:10304000:Hollow Infantry (Bow)
+132006:13200000:Skeleton (Falchions)
+132006:13200010:Skeleton (Falchions)
+132015:13201000:Skeleton (Falchion and Shield)
+132015:13201010:Skeleton (Falchion and Shield)
+132030:13203000:Skeleton (Bow)
+151200:15100000:Old Ironclad
+151202:15100001:Old Ironclad
+151209:15100092:Old Ironclad (Hostile Phantom)
+151200:15100094:Old Ironclad
+152002:15200000:Royal Swordsman (Flamberge)
+152011:15201000:Royal Swordsman (Crossbow)
+153010:15301000:Syan Knight (Sword and Shield)
+213000:21310000:Crystal Lizard
+300000:30000000:Ogre
+300000:30000010:Ogre
+301001:30100000:Heide Knight
+309600:30960000:The Last Giant
+318010:31800000:The Pursuer
+318011:31800010:The Pursuer
+601000:60100000:Fire Salamander
+601000:60100010:Fire Salamander
+601000:60100020:Fire Salamander
+696000:69600000:Hollow (Invisible)
+743000:74300000:Benhart
+743001:74300001:Benhart (Ghost)
+744000:74400000:Pate
+744001:74400001:Pate (Ghost)
+744009:74400010:Pate (White Phantom)
+751000:75100000:Cale
+751001:75100001:Cale (Ghost)
+754000:75400000:Melentia
+754001:75400001:Melentia (Ghost)
+771010:77100000:Navlaan
+842000:81000000:Syan Knight (Hostile Phantom)
+843000:81000001:Elite Knight (Hostile Phantom)
+844000:81000010:Catarina Knight (Hostile Phantom)
+843000:81000020:Elite Knight (Hostile Phantom)
+891000:90000001:Sellsword Luet (Summon)
+866001:90000002:Steelheart Ellie (Summon)
+897500:91000000:Armourer Dennis
+694000:91000001:
+
+
+# -------------------------
+# Heide's Tower of Flame
+# -------------------------
+
+# Registration
+212004:21200000:Guardian Dragon
+301005:30100000:Heide Knight (Sword)
+301013:30100100:Heide Knight (Spear)
+330000:33000000:Old Knight (Sword and Shield)
+330001:33000001:Old Knight (Sword and Shield)
+330010:33000010:Old Knight (Ultra Greatsword)
+330019:33000019:Old Knight (Ultra Greatsword)
+330040:33000040:Old Knight (Greathammer)
+330049:33000049:Old Knight (Greathammer)
+611510:61100000:Dragonrider (Halberd)
+625000:62500000:Old Dragonslayer
+769000:76900000:Licia
+769001:76900001:Licia (Ghost)
+785000:78500000:Targray
+785001:78500001:Targray (Ghost)
+810003:81100000:Masterless Glencour (Summon)
+847100:81250000:Blue Sentinel (Hostile Phantom)
+847000:84700000:Executioner (Hostile Phantom)
+891502:89150000:Devotee Scarlett (Summon)
+
+# -------------------------
+# Unseen Path to Heide
+# -------------------------
+
+# Registration
+103022:10300003:Hollow Infantry (Sword and Shield)
+103000:10300013:Hollow Infantry (Unarmed)
+103000:10300014:Hollow Infantry (Unarmed)
+103022:10300020:Hollow Infantry (Sword and Shield)
+103032:10300030:Hollow Infantry (Axe)
+103051:10300040:Hollow Infantry (Bow)
+113000:11300000:Varangian (Sword and Shield)
+113010:11300010:Varangian (Shortswords)
+113020:11300020:Varangian (Bow)
+115000:11500000:Imported Hollow (Unarmed)
+153005:15300000:Syan Knight (Halberd)
+210004:21000000:Basilisk
+314002:31400000:Primal Knight
+330010:33000010:Old Knight (Ultra Greatsword)
+752004:75200000:Lucatiel
+752001:75200001:Lucatiel (Ghost)
+752008:75200002:Lucatiel
+
+# -------------------------
+# No-man's Wharf
+# -------------------------
+
+# Registration
+103022:10300000:Hollow Infantry (Sword and Shield)
+103051:10300010:Hollow Infantry (Bow)
+103022:10300034:Hollow Infantry (Sword and Shield)
+103032:10300041:Hollow Infantry (Axe)
+113010:11300000:Varangian (Shortswords)
+113010:11300003:Varangian (Shortswords)
+113010:11300005:Varangian (Shortswords)
+113020:11300010:Varangian (Bow)
+113000:11300020:Varangian (Sword and Shield)
+113000:11300022:Varangian (Sword and Shield)
+113000:11300023:Varangian (Sword and Shield)
+113000:11300024:Varangian (Sword and Shield)
+113010:11300025:Varangian (Shortswords)
+113000:11300026:Varangian (Sword and Shield)
+113010:11300051:Varangian (Shortswords)
+113010:11300100:Varangian (Shortswords)
+113010:11300103:Varangian (Shortswords)
+113010:11300105:Varangian (Shortswords)
+113000:11300120:Varangian (Sword and Shield)
+113000:11300122:Varangian (Sword and Shield)
+113000:11300123:Varangian (Sword and Shield)
+123002:12300200:Suspicious Shadow (Dagger)
+123022:12302200:Suspicious Shadow (Dagger)
+127011:12701100:Undead Crypt Hollow (Torch)
+213002:21300000:Crystal Lizard
+217000:21700000:Darkdweller
+227001:22700000:Darkdweller
+302000:30200000:Undead Jailer
+303300:30330000:Flexile Sentry
+694001:69400000:
+696000:69600000:Hollow (Invisible)
+723603:72600000:Lonesome Gavlan
+723601:72600001:Lonesome Gavlan (Ghost)
+752004:75200000:Lucatiel
+752001:75200001:Lucatiel (Ghost)
+752008:75200002:Lucatiel
+766000:76600000:Carhillion
+766001:76600001:Carhillion (Ghost)
+893000:80000000:Bradley of the Old Guard (Summon)
+854000:82000000:Aurous (Summon)
+
+# -------------------------
+# The Lost Bastille / Belfry Luna / Sinner's Rise
+# -------------------------
+
+# Registration
+113000:11300000:Varangian (Sword and Shield)
+113010:11300001:Varangian (Shortswords)
+115000:11500000:Imported Hollow (Unarmed)
+123004:12302200:Suspicious Shadow (Dagger)
+123004:12302201:Suspicious Shadow (Dagger)
+125011:12500000:Rupturing Hollow 
+125012:12500001:Rupturing Hollow 
+125011:12500005:Rupturing Hollow 
+125012:12500006:Rupturing Hollow 
+125015:12500007:Rupturing Hollow (Petrify)
+125011:12500010:Rupturing Hollow 
+125015:12500012:Rupturing Hollow (Petrify)
+125011:12500020:Rupturing Hollow 
+125012:12500021:Rupturing Hollow 
+125015:12500022:Rupturing Hollow (Petrify)
+125010:12500030:Rupturing Hollow (Fire)
+125009:12500040:Rupturing Hollow (Fire) (Hostile Phantom)
+125011:12500050:Rupturing Hollow 
+125015:12500051:Rupturing Hollow (Petrify)
+125015:12500052:Rupturing Hollow (Petrify)
+125015:12500053:Rupturing Hollow (Petrify)
+141002:14100000:Undead Aberration
+152002:15200000:Royal Swordsman (Flamberge)
+152011:15201000:Royal Swordsman (Crossbow)
+204000:20400000:Poison Moth
+227000:22700000:Undead Dog
+227009:22700010:Undead Dog (Hostile Phantom)
+301010:30102000:Heide Knight (Spear)
+302000:30200000:Undead Jailer
+302000:30200010:Undead Jailer
+302000:30200100:Undead Jailer
+302009:30200900:Undead Jailer (Hostile Phantom)
+302009:30200910:Undead Jailer (Hostile Phantom)
+303303:30330000:Flexile Sentry
+318030:31802000:The Pursuer
+324000:32400000:Belfry Gargoyles
+324000:32400001:Belfry Gargoyles
+325000:32500000:Ruin Sentinels
+626000:62600000:The Lost Sinner
+693000:69300000:Aldia
+696000:69600000:Hollow Player Model
+732000:73200000:Pyromancer (Lost Sinner) (Hostile Phantom)
+733000:73300000:Pyromancer (Lost Sinner) (Hostile Phantom)
+752002:75200000:Lucatiel
+752001:75200001:Lucatiel (Ghost)
+752009:75200900:Lucatiel
+753000:75300000:Bellkeeper
+753001:75300001:Bellkeeper (Ghost)
+753009:75300900:Bellkeeper (Belfry Spirit) (Dark)
+753003:75301000:Bellkeeper (Belfry Spirit) (Dark)
+764300:76430000:McDuff
+764309:76430001:McDuff (Ghost)
+764300:76430002:McDuff
+768000:76800000:Straid
+768001:76800001:Straid (Ghost)
+768000:76800002:Straid
+812000:81200000:Pilgrim Bellclaire (Summon)
+820000:82000000:Ashen Knighy Boyd (Summon)
+813001:85000000:Felicia the Brave (Summon)
+891001:85000001:Sellsword Luet (Summon)
+810006:85000002:Bradley of the Old Guard (Summon)
+694002:85100000:
+
+# -------------------------
+# Huntsman's Copse / Undead Purgatory
+# -------------------------
+
+# Registration
+108000:10800000:Rogue (Shortswords)
+108000:10800001:Rogue (Shortswords)
+108000:10800002:Rogue (Shortswords)
+108000:10800003:Rogue (Shortswords)
+108000:10800004:Rogue (Shortswords)
+108010:10800005:Rogue (Club)
+108010:10800006:Rogue (Club)
+108010:10800007:Rogue (Club)
+108010:10800008:Rogue (Club)
+108020:10800010:Rogue (Bow)
+108020:10800013:Rogue (Bow)
+108020:10800014:Rogue (Bow)
+108020:10800015:Rogue (Bow)
+108020:10800016:Rogue (Bow)
+108000:10800021:Rogue (Shortswords)
+108000:10800030:Rogue (Shortswords)
+108010:10800031:Rogue (Club)
+108000:10800050:Rogue (Shortswords)
+108000:10800051:Rogue (Shortswords)
+108020:10800055:Rogue (Bow)
+118000:11800000:Black Hollow Mage
+118001:11800001:Black Hollow Mage
+127000:12700000:Undead Crypt Hollow (Unarmed)
+127000:12700001:Undead Crypt Hollow (Unarmed)
+127000:12700002:Undead Crypt Hollow (Unarmed)
+127000:12700003:Undead Crypt Hollow (Unarmed)
+127000:12700009:Undead Crypt Hollow (Unarmed)
+127000:12700050:Undead Crypt Hollow (Unarmed)
+127000:12700051:Undead Crypt Hollow (Unarmed)
+127000:12700052:Undead Crypt Hollow (Unarmed)
+127000:12700099:Undead Crypt Hollow (Unarmed)
+127006:12701009:Undead Crypt Hollow (Unarmed)
+157010:13200003:Helmet Skeleton (Falchion and Shield)
+157030:13200010:Skeleton (Bow)
+157020:13200032:Skeleton (Sword and Shield)
+157025:13202235:Skeleton (Sword and Shield)
+157022:13205000:Skeleton (Sword and Shield)
+132090:13209000:Skeleton (Unarmed)
+133001:13300101:Bonewheel (Unarmed)
+138000:13800000:Undead Torturer (Catchpole)
+138000:13800001:Undead Torturer (Catchpole)
+138010:13800002:Undead Torturer (Whip)
+138001:13800004:Undead Torturer (Catchpole) (Hostile Phantom)
+138011:13800005:Undead Torturer (Whip) (Hostile Phantom)
+138010:13800010:Undead Torturer (Whip)
+139000:13900000:Artificial Undead (Shotel)
+139000:13900001:Artificial Undead (Shotel)
+139008:13900900:Artificial Undead (Hostile Phantom)
+139008:13900901:Artificial Undead (Hostile Phantom)
+153005:15300000:Syan Knight (Halberd)
+154000:15400000:Skeleton Lord (Halberd)
+154010:15400001:Skeleton Lord (Scythe)
+154020:15400002:Skeleton Lord (Staff)
+157001:15600000:Helmet Skeleton (Falchions)
+157020:15700012:Skeleton (Sword and Shield)
+157020:15700014:Skeleton (Sword and Shield)
+157004:15700020:Helmet Skeleton (Falchions)
+157021:15700022:Helmet Skeleton (Sword and Shield)
+157032:15700023:Crowned Skeleton (Bow)
+157005:15700500:Skeleton (Falchions)
+157006:15700600:Helmet Skeleton (Falchions)
+157014:15701400:Skeleton (Falchion and Shield)
+157015:15701500:Helmet Skeleton (Falchion and Shield)
+157023:15702300:Skeleton (Sword and Shield)
+157024:15702600:Helmet Skeleton (Sword and Shield)
+157033:15703300:Helmet Skeleton (Bow)
+157008:15705800:Skeleton (Falchions)
+157013:15706802:Armored Skeleton (Falchion and Shield)
+204000:20400000:Poison Moth
+213000:21300000:Crystal Lizard
+222002:22200000:Giant Basilisk
+227002:22700000:Undead Dog
+337010:32700010:Hollow (Torch)
+337020:32700020:Hollow (Shortsword)
+337020:32700021:Hollow (Shortsword)
+337020:32700022:Hollow (Shortsword)
+337020:32700023:Hollow (Shortsword)
+337020:32700024:Hollow (Shortsword)
+337000:32700031:Hollow (Unarmed)
+337000:32700033:Hollow (Unarmed)
+337000:32700039:Hollow (Unarmed)
+619110:61910000:Executioner's Chariot
+694003:69400000:Forlorn
+696000:69600000:Hollow (Invisible)
+742003:74200000:Creighton
+742001:74200001:Creighton (Ghost)
+770000:77000000:Felkin
+770001:77000001:Felkin (Ghost)
+783000:78300000:Titchy Gren
+783001:78300001:Titchy Gren (Ghost)
+821000:82100000:Merciless Roenna
+852000:85200000:? (Ultra Greatsword)
+742009:90000000:Creighton (Summon)
+892500:90000100:Bashful Ray (Summon)
+
+# -------------------------
+# Harvest Valley / Earthen Peak
+# -------------------------
+
+# Registration
+123005:12300000:Suspicious Shadow (Dagger)
+124000:12400000:Manikin (Claws)
+124000:12400001:Manikin (Claws)
+124000:12400030:Manikin (Claws)
+124010:12401000:Manikin (Sword and Shield)
+124010:12401001:Manikin (Sword and Shield)
+124010:12401020:Manikin (Sword and Shield)
+124020:12402000:Manikin (Knife and Shield)
+124020:12402030:Manikin (Knife and Shield)
+124030:12403000:Manikin (Bow)
+124040:12404000:Manikin (Claws)
+124050:12405000:Manikin (Sword and Shield)
+124050:12405010:Manikin (Sword and Shield)
+124060:12406000:Manikin (Knife and Shield)
+124070:12407000:Manikin (Bow)
+127003:12700000:Undead Crypt Hollow (Unarmed)
+127003:12700010:Undead Crypt Hollow (Unarmed)
+127003:12700020:Undead Crypt Hollow (Unarmed)
+127003:12700030:Undead Crypt Hollow (Unarmed)
+127003:12700040:Undead Crypt Hollow (Unarmed)
+127003:12700050:Undead Crypt Hollow (Unarmed)
+127030:12700090:Undead Crypt Hollow (Unarmed)
+132003:13200000:Skeleton (Falchions)
+132016:13200100:Skeleton (Falchion and Shield)
+132026:13200200:Skeleton (Rapier and Shield)
+139001:13900001:Artificial Undead (Shotel)
+139009:13900011:Artificial Undead (Hostile Phantom)
+147005:14700000:Crawling Undead
+149010:14900000:Undead Steelworker
+149011:14900100:Undead Steelworker
+204000:20400000:Poison Moth
+205000:20500000:Poison Horn Beetle
+213010:21300000:Crystal Lizard
+311000:31100000:Harvest Overseer
+312031:31200000:Grave Warden (Sickle)
+312011:31200001:Grave Warden (Spear)
+316001:31600000:Desert Sorceress
+321003:32100000:Mimic
+500000:50000000:Covetous Demon
+501000:50100000:Mytha, the Baneful Queen 
+694004:69400000:
+704500:70400000:Laddersmith Gilligan
+704501:70400001:Laddersmith Gilligan (Ghost)
+704510:70401000:Laddersmith Gilligan
+726002:72600000:Lonesome Gavlan
+726001:72600001:Lonesome Gavlan (Ghost)
+744003:74400000:Pate
+744001:74400001:Pate (Ghost)
+752003:75200000:Lucatiel
+752001:75200001:Lucatiel (Ghost)
+762000:76200000:Chloanne
+762001:76200001:Chloanne (Ghost)
+892501:82950000:Bashful Ray (Summon)
+841000:84100000:Voice Trigger
+849100:84910000:Jester Thomas (Summon)
+891500:89150000:Devotee Scarlett (Summon)
+
+# -------------------------
+# Iron Keep / Belfry Sol
+# -------------------------
+
+# Registration
+151000:15100000:Ironclad
+151000:15100010:Ironclad
+151000:15100020:Ironclad
+213005:21300000:Crystal Lizard
+305000:30500000:Smelter Demon 
+306000:30600000:Alonne Captain (Katana)
+306008:30600800:Alonne Captain (Hostile Phantom)
+306009:30600900:Alonne Captain (Hostile Phantom)
+306010:30601000:Alonne Captain (Greatbow)
+306010:30601010:Alonne Captain (Greatbow)
+318020:31801000:The Pursuer
+319000:31900000:Alonne Knight (Katana)
+319009:31900900:Alonne Knight (Hostile Phantom)
+319010:31901000:Alonne Knight ( Greatbow)
+321011:32100000:Mimic
+607000:60700000:Old Iron King
+693000:69300000:Aldia
+694005:69400000:
+752007:75200010:Lucatiel
+753002:75300000:Bellkeeper (Belfry Spirit) (Fire)
+753001:75300001:Bellkeeper (Ghost)
+753008:75300010:Bellkeeper (Belfry Spirit) (Fire)
+753004:75300020:Bellkeeper (Belfry Spirit) (Fire)
+772000:77200000:Magerold
+772001:77200001:Magerold (Ghost)
+892000:82900000:Manhunter O'Harrah (Summon)
+836000:83600000:Mad Warrior (Invader)
+836100:83610000:Ultra Greatsword Knight (Belfry Spirit)
+836200:83620000:Avelyn Soldier (Belfry Spirit)
+836300:83630000:Spitfire Pyromancer (Belfry Spirit)
+836400:83640000:Ironclad (No Pants) (Hostile Phantom)
+876002:87600000:Drifter Swordsman Aidel (Summon)
+897000:89700000:Fencer Sharron
+897501:89750000:Armourer Dennis
+898000:89800000:Oliver the Collector
+
+# -------------------------
+# Path to Shaded Woods
+# -------------------------
+
+# Registration
+100000:10000000:Goblin (Unarmed)
+100010:10000010:Goblin (Boneclub)
+100020:10000020:Goblin (Rock Thrower)
+134000:13400000:Gyrm (Anvil Flail)
+210000:21000000:Basilisk
+743002:74300000:Benhart
+743001:74300001:Benhart (Ghost)
+763000:76300000:Rosabeth
+763001:76300001:Rosabeth (Ghost)
+763000:76300002:Rosabeth
+
+# -------------------------
+# Shaded Woods
+# -------------------------
+
+# Registration
+100000:10000000:Goblin (Unarmed)
+100000:10000003:Goblin (Unarmed)
+100020:10000010:Goblin (Rock Thrower)
+100020:10000013:Goblin (Rock Thrower)
+100010:10000020:Goblin (Boneclub)
+100010:10000023:Goblin (Boneclub)
+100008:10000030:Goblin (Unarmed) (Hostile Phantom)
+101001:10100000:Kobold (Petrify)
+153000:15300000:Syan Knight (Halberd)
+153010:15300100:Syan Knight (Sword and Shield)
+204000:20400000:Poison Moth
+210000:21000000:Basilisk
+213011:21300000:Crystal Lizard
+300002:30000000:Ogre
+307110:30700000:Head of Vengarl
+307101:30700001:Head of Vengarl (Ghost)
+307001:30701000:Body of Vengarl
+308000:30800000:Lion Warrior
+308000:30800001:Lion Warrior
+308100:30800010:Golden Lion Warrior
+313003:31300000:Falconer (Sword and Shield)
+313013:31300100:Falconer (Sword and Shield)
+313033:31300200:Falconer (Bow)
+321010:32100000:Mimic
+502000:50200000:Manscorpion Tark
+502001:50200001:Manscorpion Tark (Ghost)
+502009:50200002:Manscorpion Tark
+503000:50300000:Scorpioness Najka
+694007:69400000:Forlorn
+725000:72500000:Darkdiver Grandahl
+725001:72500001:Darkdiver Grandahl (Ghost)
+742002:74205000:Creighton
+742001:74205001:Creighton (Ghost)
+776002:77600000:Ornifex
+776001:77600001:Ornifex (Ghost)
+838200:83800000:Imported Hollow (Crossbow)
+838200:83800001:Imported Hollow (Crossbow)
+838200:83800010:Imported Hollow (Crossbow)
+838300:83810000:Imported Hollow (Crossbow)
+838300:83810001:Imported Hollow (Crossbow)
+838300:83810010:Imported Hollow (Crossbow)
+838201:88300000:Imported Hollow (Crossbow)
+838301:88310000:Imported Hollow (Crossbow)
+893001:89300000:Bradley of the Old Guard (Summon)
+
+# -------------------------
+# Doors of Pharros
+# -------------------------
+
+# Registration
+134000:13400000:Gyrm (Anvil Flail)
+134000:13400001:Gyrm (Anvil Flail)
+134000:13400002:Gyrm (Anvil Flail)
+135000:13500000:Gyrm (Throwing Axes)
+135010:13501000:Gyrm (Greathammer and Shield)
+135030:13503000:Gyrm (Throwing Axes) 
+135040:13504000:Gyrm (Greathammer and Shield)
+213006:21300000:Crystal Lizard
+223000:22300000:Mongrel Rat
+223000:22300010:Mongrel Rat
+628000:22350000:Royal Rat Authority 
+226200:22620000:Rat King
+226201:22620001:Rat King (Ghost)
+314000:31400000:Primal Knight
+696000:69600000:Hollow (Invisible)
+726004:72600000:Lonesome Gavlan
+726001:72600001:Lonesome Gavlan (Ghost)
+853000:85300000:Bowman Guthry (Invader)
+
+# -------------------------
+# Brightstone Cove Tseldora
+# -------------------------
+
+# Registration
+106001:10600001:White Priest
+106009:10600010:White Priest (Hostile Phantom)
+107000:10700000:Spider Hollow
+107000:10700001:Spider Hollow
+107001:10700100:Spider Hollow
+118201:11820000:White Hollow Mage
+127002:12700000:Undead Crypt Hollow (Unarmed)
+137021:13700000:Prowling Magus 
+146010:14601000:Tseldora Citizen (Sword)
+147004:14700000:Crawling Undead
+148000:14800000:Tseldora Peasant (Pickaxe)
+148020:14800001:Tseldora Peasant (Scythe)
+148000:14800010:Tseldora Peasant (Pickaxe)
+148000:14800050:Tseldora Peasant (Pickaxe)
+148010:14800100:Tseldora Peasant (Pickaxe)
+148010:14800110:Tseldora Peasant (Pickaxe)
+148030:14800120:Tseldora Peasant (Scythe)
+148040:14800200:Tseldora Peasant (Torch)
+148041:14800220:Tseldora Peasant (Torch)
+148000:14801000:Tseldora Peasant (Pickaxe)
+148010:14801100:Tseldora Peasant (Pickaxe)
+201100:20110000:Small Undead Boar
+202100:20210000:Medium Undead Boar
+203000:20300000:Spider
+203001:20300002:Spider
+203000:20300010:Spider
+203001:20300011:Spider
+203000:20300020:Spider
+203001:20300021:Spider
+203000:20300050:Spider
+203001:20300051:Spider
+203009:20300060:Spider (Hostile Phantom)
+203001:20300070:Spider
+203000:20300075:Spider
+203002:20300080:Spider
+203000:20301000:Spider
+203000:20301010:Spider
+203000:20301020:Spider
+203000:20301030:Spider
+203000:20301040:Spider
+203000:20301100:Spider
+203000:20301110:Spider
+203000:20301120:Spider
+203000:20301130:Spider
+203000:20301140:Spider
+203000:20302000:Spider
+203000:20302010:Spider
+203000:20302040:Spider
+203001:20302502:Spider
+203001:20302511:Spider
+203000:20302520:Spider
+203001:20302521:Spider
+203001:20302551:Spider
+204000:20400000:Poison Moth
+210010:21000000:Basilisk
+213008:21300000:Crystal Lizard
+213100:21310000:Red Crystal Lizard
+214001:21400000:Medium Undead Boar
+313032:31300000:Falconer (Bow)
+313002:31300010:Falconer (Sword and Shield)
+313012:31300020:Falconer (Sword and Shield)
+321017:32100000:Mimic
+603000:60300000:The Duke's Dear Freja 
+603100:60301000:The Duke's Dear Freja 
+693000:69300000:Aldia
+694008:69400000:
+742000:74200000:Creighton
+742001:74200001:Creighton (Ghost)
+743009:74300000:Benhart
+744002:74400000:Pate
+744001:74400001:Pate (Ghost)
+771009:77100000:Navlaan (Invader)
+776000:77600000:Ornifex
+776001:77600001:Ornifex (Ghost)
+784000:78400000:Cromwell
+784001:78400001:Cromwell (Ghost)
+846000:84600000:Peasant (Hostile Phantom)
+848000:84800000:Leydia Swordsman (Hostile Phantom)
+853000:85300000:Bowman Guthry (Invader)
+853100:85310000:Royal Soldier (Hostile Phantom)
+855000:85500000:Pate Voice
+892001:89200000:Manhunter O'Harrah (Summon)
+892503:89250000:Bashful Ray (Summon)
+
+# -------------------------
+# Grave of Saints
+# -------------------------
+
+# Registration
+125004:12500000:Rupturing Hollow (Fire)
+153016:15301400:Syan Knight (Sword and Shield)
+213012:21300000:Crystal Lizard
+226100:22600000:Royal Rat Vanguard 
+226000:22600010:Corpse Rat
+226001:22600060:Corpse Rat
+226202:22620000:Rat King
+226201:22620001:Rat King (Ghost)
+337003:33700015:Hollow (Unarmed)
+337003:33700020:Hollow (Unarmed)
+831000:81100000:Dingy Maiden (Hostile Phantom)
+831100:81110000:Faraam Knight (Hostile Phantom)
+849200:84920000:Rhoy the Explorer (Invader)
+
+# -------------------------
+# The Gutter / Black Gulch
+# -------------------------
+
+# Registration
+115000:11500000:Imported Hollow (Unarmed)
+125013:12501300:Rupturing Hollow 
+125013:12501304:Rupturing Hollow 
+125016:12501600:Rupturing Hollow (Corrosion) (Hostile Phantom)
+204000:20400000:Poison Moth
+205001:20500100:Poison Horn Beetle
+206000:20600000:Razorback Nightcrawler
+209002:20900200:Mutant Dog
+224000:22400000:Darksucker
+301014:30100000:Heide Knight (Spear with Iron Helm)
+309001:30900100:Forgotten Giant
+321004:32600000:Mimic
+337002:33700200:Hollow (Unarmed)
+337002:33700203:Hollow (Unarmed)
+337002:33700204:Hollow (Unarmed)
+337002:33700207:Hollow (Unarmed)
+337002:33700210:Hollow (Unarmed)
+337002:33700211:Hollow (Unarmed)
+337002:33700212:Hollow (Unarmed)
+337002:33700213:Hollow (Unarmed)
+337002:33700214:Hollow (Unarmed)
+337002:33700215:Hollow (Unarmed)
+337002:33700217:Hollow (Unarmed)
+337002:33700220:Hollow (Unarmed)
+337002:33700221:Hollow (Unarmed)
+337002:33700222:Hollow (Unarmed)
+337002:33700225:Hollow (Unarmed)
+337002:33700226:Hollow (Unarmed)
+337002:33700227:Hollow (Unarmed)
+337002:33700228:Hollow (Unarmed)
+337011:33701101:Hollow (Torch)
+337011:33701102:Hollow (Torch)
+337011:33701105:Hollow (Torch)
+337011:33701110:Hollow (Torch)
+337022:33702200:Hollow (Shortsword)
+337022:33702201:Hollow (Shortsword)
+337022:33702210:Hollow (Shortsword)
+337022:33702211:Hollow (Shortsword)
+337022:33702212:Hollow (Shortsword)
+337022:33702213:Hollow (Shortsword)
+337022:33702214:Hollow (Shortsword)
+337022:33702217:Hollow (Shortsword)
+337022:33702220:Hollow (Shortsword)
+337022:33702221:Hollow (Shortsword)
+337022:33702222:Hollow (Shortsword)
+608000:60800000:Ant Queen
+671001:67100000:Poison Statue Lizard
+672002:67200000:Corrosive Insect
+693000:69300000:Aldia
+694006:69500000:Forlorn
+696000:69600000:Hollow (Invisible)
+725001:72500100:Darkdiver Grandahl (Ghost)
+725002:72500200:Darkdiver Grandahl
+752001:72500100:Lucatiel (Ghost)
+752005:75200500:Lucatiel
+752006:75200600:Lucatiel
+771005:77100500:Navlaan (Invader)
+811000:81100000:Lone Hunter Schmidt (Summon)
+814009:81400900:Melinda the Butcher (Invader)
+892502:82950000:Bashful Ray (Summon)
+887000:88700000:Gutter Denizen (Invader)
+896000:89600000:Woodland Child Victor
+896500:89650000:Woodland Child Gully
+
+# -------------------------
+# Drangleic Castle
+# -------------------------
+
+# Registration
+117000:11700000:Stone Soldier (Spear and Shield)
+117000:11701000:Stone Soldier (Spear and Shield)
+124041:12400000:Manikin (Claws)
+137022:13700000:Prowling Magus 
+138002:13801000:Undead Torturer (Catchpole)
+150000:15000000:Stone Horse Knight
+150000:15000001:Stone Horse Knight
+150000:15000002:Stone Horse Knight
+150000:15000003:Stone Horse Knight
+152000:15200000:Royal Swordsman (Flamberge)
+152000:15200002:Royal Swordsman (Flamberge)
+152001:15200100:Royal Swordsman (Flamberge)
+152010:15201000:Royal Swordsman (Crossbow)
+152010:15201001:Royal Swordsman (Crossbow)
+153000:15300000:Syan Knight (Halberd)
+153000:15300001:Syan Knight (Halberd)
+153010:15301000:Syan Knight (Sword and Shield)
+153010:15301001:Syan Knight (Sword and Shield)
+154000:15400000:Skeleton Lord (Halberd)
+154010:15401000:Skeleton Lord (Scythe)
+154020:15402000:Skeleton Lord (Staff)
+213007:21300700:Crystal Lizard
+216005:21600000:Wall Ghost
+217001:21700000:Darkdweller
+301031:30103000:Heide Knight (Grand Lance)
+306011:30601100:Alonne Captain (Greatbow)
+307109:30710900:Body of Vengarl (Sword and Shield)
+315000:31500000:Rusted Primal Knight
+315000:31500001:Rusted Primal Knight
+316000:31600100:Desert Sorceress
+318000:31800000:The Pursuer
+321005:32100000:Mimic
+324010:32400000:Belfry Gargoyle
+325010:32501000:Ruin Sentinel
+330012:33001900:Old Knight (Ultra Greatsword)
+330043:33004900:Old Knight (Greathammer)
+332000:33200000:Throne Defender
+334000:33400000:Throne Watcher
+504000:50400000:Looking Glass Knight 
+611010:61101000:Dragonrider (Bow)
+611500:61150000:Dragonrider (Halberd)
+619111:61911000:Executioner's Chariot
+627000:62700000:Nashandra
+692000:69200000:Aldia
+693000:69300000:Aldia
+695001:69500100:Poison Moth (Invisible)
+696000:69600000:Hollow (Invisible)
+700502:70050200:Shanalotte
+700502:70050201:Shanalotte
+703600:70360000:Human Nashandra
+721100:72110000:Chancellor Wellager
+725001:72500100:Darkdiver Grandahl (Ghost)
+725003:72500300:Darkdiver Grandahl
+730000:73000000:Mirror Squire (Ultra Greatsword) 
+731010:73101000:Mirror Squire (Syan's Halberd) 
+743001:74300100:Benhart (Ghost)
+743003:74300300:Benhart
+743006:74300700:Benhart
+743007:74300701:Benhart
+760200:76020000:Milfanito #3
+760201:76020100:Milfanito #3 (Ghost)
+771004:77100400:Navlaan (Invader)
+849000:84900000:Nameless Usurper (Invader)
+853200:85320000:Drakekeeper (Hostile Phantom)
+853300:85330000:Elite Knight (Hostile Phantom)
+853400:85340000:King's Gate Archer (Hostile Phantom)
+853500:85350000:Syan Knight (Hostile Phantom)
+853101:90000000:Ashen Knight Boyd (Summon)
+893002:90000010:Bradley of the Old Guard (Summon)
+812002:90000020:Pilgrim Bellclaire (Summon)
+892504:90000030:Bashful Ray (Summon)
+891002:90000040:Sellsword Luet (Summon)
+152000:99000000:Royal Swordsman (Flamberge)
+153010:99000001:Syan Knight (Sword and Shield)
+117010:99000002:Stone Soldier (Spear)
+153000:99000003:Syan Knight (Halberd)
+150000:99000004:Stone Horse Knight
+325010:99000005:Ruin Sentinel
+117000:99000006:Stone Soldier
+
+# -------------------------
+# Shrine of Amana
+# -------------------------
+
+# Registration
+105000:10500000:Amana Mage (Miracles)
+105010:10501000:Amana Mage (Sorcery)
+105010:10501002:Amana Mage (Sorcery)
+115000:11500000:Imported Hollow (Unarmed)
+131000:13100000:Amana Archdrake (Mace)
+137022:13702200:Prowling Magus 
+147001:14700100:Crawling Undead
+153002:15300200:Syan Knight (Halberd)
+153012:15301200:Syan Knight (Sword and Shield)
+155000:15500000:Amana Aberration
+204002:20400200:Poison Moth
+205102:20510200:Acid Horn Beetle
+205102:20510201:Acid Horn Beetle
+210005:21000000:Basilisk
+210005:21000010:Basilisk
+220002:22000200:Giant Acid Horn Beetle
+300001:30000100:Ogre
+304010:30401000:Milfanito (Hollow)
+330044:33004900:Old Knight (Greathammer)
+509000:50900000:Leydia Witch
+602000:60200000:Demon of Song 
+611530:61150000:Dragonrider (Halberd and Shield)
+695002:69500200:Poison Moth (Invisible)
+696000:69600000:Hollow (Invisible)
+760000:76000000:Milfanito #1
+760001:76000100:Milfanito #1 (Ghost)
+760100:76010000:Milfanito #2
+760101:76010100:Milfanito #2 (Ghost)
+813000:81000000:Felicia the Brave (Summon)
+822003:82200300:Peculiar Kindular (Invader)
+833000:83300000:Butcher (Hostile Phantom)
+888000:88800000:Pyromancer
+880000:89000000:Drakeblood Knight
+811001:90000000:Lone Hunter Schmidt (Summon)
+
+# -------------------------
+# Undead Crypt
+# -------------------------
+
+# Registration
+127001:12700100:Undead Crypt Hollow (Unarmed)
+127001:12700103:Undead Crypt Hollow (Unarmed)
+127001:12700105:Undead Crypt Hollow (Unarmed)
+127001:12700106:Undead Crypt Hollow (Unarmed)
+127001:12700107:Undead Crypt Hollow (Unarmed)
+127001:12700108:Undead Crypt Hollow (Unarmed)
+127001:12700109:Undead Crypt Hollow (Unarmed)
+127011:12701100:Undead Crypt Hollow (Torch)
+132007:13200000:Skeleton (Falchions)
+132007:13200001:Skeleton (Falchions)
+153003:15300300:Syan Knight (Halberd)
+153013:15301300:Syan Knight (Sword and Shield)
+204000:20400000:Poison Moth
+216000:21600000:Wall Ghost
+312001:31200100:Grave Warden (Sickle)
+312021:31202100:Grave Warden (Sickle)
+312032:31203200:Grave Warden (Spear)
+333000:33300000:Velstadt, the Royal Aegis 
+506500:50650000:Agdayne
+506501:50650100:Agdayne (Ghost)
+506509:50650900:Agdayne
+509000:50900000:Leydia Witch
+511000:51100001:Imperious Knight
+512000:51200003:Leydia Spirit
+514600:51460000:Vendrick
+611520:61150000:Dragonrider (Halberd and Shield)
+693000:69300000:Aldia
+695003:69400000:
+696000:69600000:Hollow (Invisible)
+696000:69600100:Hollow (Invisible)
+700503:70050300:Shanalotte
+849001:84900100:Nameless Usurper (Invader)
+891501:89150000:Devotee Scarlett (Summon)
+886000:91000000:Insolent Knight
+
+# -------------------------
+# Aldia's Keep
+# -------------------------
+
+# Registration
+101000:10100000:Kobold
+115000:11500000:Imported Hollow (Unarmed)
+137010:13701000:Prowling Magus 
+139002:13900000:Artificial Undead (Shotels)
+141000:14100000:Undead Aberration
+153015:15300000:Syan Knight (Sword and Shield)
+204002:20400200:Poison Moth
+209000:20900000:Mutant Dog
+210002:21000010:Basilisk
+212000:21200000:Guardian Dragon
+213100:21310000:Red Crystal Lizard
+220001:22000000:Giant Acid Horn Beetle
+222000:22200000:Giant Basilisk
+300002:30000000:Ogre
+300002:30000001:Ogre
+300002:30000050:Ogre
+317000:31700000:Dragon Acolyte
+321010:32100000:Mimic
+321010:32100010:Mimic
+321000:32100011:Mimic
+321000:32100012:Mimic
+324011:32401000:Belfry Gargoyle
+327000:32700000:Dragon Skeleton
+695004:69400000:
+694009:69400001:
+696000:69600000:Hollow (Invisible)
+700504:70000000:Shanalotte
+730001:73000000:Mirror Squire (Ultra Greatsword) 
+731011:73100000:Mirror Squire (Syan's Halberd) 
+752000:75200000:Lucatiel
+752001:75200001:Lucatiel (Ghost)
+771000:77100000:Navlaan
+771001:77100001:Navlaan (Ghost)
+771007:77100002:Navlaan (Invader)
+824000:82400000:Aslatiel (Invader)
+850000:85000000:Monastery Guardian (Hostile Phantom)
+891003:86600000:Sellsword Luet (Summon)
+
+# -------------------------
+# Dragon Aerie / Dragon Shrine
+# -------------------------
+
+# Registration
+106200:10620000:White Priest
+115000:11500000:Imported Hollow (Unarmed)
+125014:12510000:Rupturing Hollow (Corrosion)
+125014:12510010:Rupturing Hollow (Corrosion)
+155000:15500000:Amana Aberration
+203001:20300100:Spider
+203001:20300101:Spider
+212002:21200000:Guardian Dragon
+212001:21200010:Guardian Dragon
+212003:21200020:Guardian Dragon
+213009:21300000:Crystal Lizard
+307108:30700000:Body of Vengarl (Sword and Shield)
+321000:32100000:Mimic
+331002:33100000:Drakekeeper (Sword and Shield)
+331011:33100010:Drakekeeper (Ultra Greatsword)
+331031:33100030:Drakekeeper (Mace)
+331041:33100040:Drakekeeper (Greathammer)
+600000:60000000:Ancient Dragon 
+693000:69300000:Aldia
+695005:69600000:Forlorn
+700504:70150000:Shanalotte
+771007:77100000:Navlaan (Invader)
+814000:81400000:Melinda the Butcher (Invader)
+823000:82300000:Dragonfang Villard (Invader)
+835000:83500000:Dragon Knight (Great Axes)
+835000:83500001:Dragon Knight (Great Axes)
+835100:83510000:Dragon Knight (Warpick)
+835100:83510001:Dragon Knight (Warpick)
+835200:83520000:Dragon Knight (Sword)
+835200:83520001:Dragon Knight (Sword)
+835300:83530000:Dragon Knight (Sword and Shield)
+868100:86801100:Dragon Champion
+892505:87800000:Bashful Ray (Summon)
+897001:90000000:Fencer Sharron (Invader)
+
+# -------------------------
+# Crown of the Sunken King
+# -------------------------
+
+# Registration
+206001:20600000:Razorback Nightcrawler
+213013:21300000:Crystal Lizard
+665000:66500000:Sanctum Guardian 
+665010:66501000:Sanctum Guardian (Crossbows)
+666000:66600000:Sanctum Soldier (Greathammer)
+666001:66600001:Sanctum Soldier (Greathammer)
+666002:66600002:Sanctum Soldier (Greathammer)
+666000:66600010:Sanctum Soldier (Greathammer)
+666001:66600011:Sanctum Soldier (Greathammer)
+666002:66600012:Sanctum Soldier (Greathammer)
+666000:66600020:Sanctum Soldier (Greathammer)
+666001:66600021:Sanctum Soldier (Greathammer)
+666002:66600022:Sanctum Soldier (Greathammer)
+666010:66600100:Sanctum Soldier (Lance)
+666011:66600101:Sanctum Soldier (Lance)
+666010:66600110:Sanctum Soldier (Lance)
+666011:66600111:Sanctum Soldier (Lance)
+666010:66600120:Sanctum Soldier (Lance)
+666011:66600121:Sanctum Soldier (Lance)
+666020:66600200:Sanctum Soldier (Bow)
+666021:66600201:Sanctum Soldier (Bow)
+666020:66600210:Sanctum Soldier (Bow)
+666021:66600211:Sanctum Soldier (Bow)
+666020:66600220:Sanctum Soldier (Bow)
+666021:66600221:Sanctum Soldier (Bow)
+666040:66604000:Sanctum Soldier (Greathammer) (Poison Aura)
+666041:66604001:Sanctum Soldier (Greathammer) (Poison Aura)
+666040:66604010:Sanctum Soldier (Greathammer) (Poison Aura)
+666041:66604011:Sanctum Soldier (Greathammer) (Poison Aura)
+666040:66604020:Sanctum Soldier (Greathammer) (Poison Aura)
+666041:66604021:Sanctum Soldier (Greathammer) (Poison Aura)
+666050:66605000:Sanctum Soldier (Lance) (Poison Aura)
+666051:66605001:Sanctum Soldier (Lance) (Poison Aura)
+666050:66605010:Sanctum Soldier (Lance) (Poison Aura)
+666051:66605011:Sanctum Soldier (Lance) (Poison Aura)
+666050:66605020:Sanctum Soldier (Lance) (Poison Aura)
+666051:66605021:Sanctum Soldier (Lance) (Poison Aura)
+666060:66606000:Sanctum Soldier (Bow) (Poison Aura)
+666060:66606010:Sanctum Soldier (Bow) (Poison Aura)
+666060:66606020:Sanctum Soldier (Bow) (Poison Aura)
+666080:66607000:Sanctum Soldier (Torch) (Poison Aura)
+670000:67000000:Sanctum Priestess
+670000:67000001:Sanctum Priestess
+671000:67100000:Poison Statue Lizard
+671000:67100001:Poison Statue Lizard
+671100:67101000:Petrify Statue Lizard
+672000:67200000:Corrosive Insect
+672001:67200001:Corrosive Insect
+672000:67200010:Corrosive Insect
+672001:67200011:Corrosive Insect
+672000:67200020:Corrosive Insect
+672001:67200021:Corrosive Insect
+672000:67200030:Corrosive Insect
+672001:67200031:Corrosive Insect
+672000:67200040:Corrosive Insect
+672001:67200041:Corrosive Insect
+674000:67400000:Pagan Tree
+681000:68100000:Sinh, the Slumbering Dragon
+682000:68200000:Elana, the Squalid Queen
+683000:68300000:Imperfect Beast
+685000:68500000:Elana (Skeleton)
+686000:68600000:Elana (Boar)
+687000:68700000:Elana (Velstadt)
+695000:69500000:
+743010:74300000:Benhart
+860000:86000000:Rockshield Baldyr (Invader)
+861000:86100000:Jester Thomas (Invader)
+862000:86200000:Cerah, the Old Explorer 
+863000:86300000:Ancient Soldier Varg
+864000:86400000:Afflicted Graverobber
+865000:86500000:Abbess Feeva (Summon)
+866000:86600000:Ruined Alfis (Summon)
+867000:86700000:Steelheart Ellie (Summon)
+868000:86800000:Transcedent Edde (Summon)
+869000:86900000:Rapacious Andrei (Summon)
+880000:88800000:Drakeblood Knight
+
+# -------------------------
+# Crown of the Iron King
+# -------------------------
+
+# Registration
+213014:21301400:Crystal Lizard
+306007:30600700:Alonne Captain (Katana)
+306006:30600701:Alonne Captain (Hostile Phantom)
+306019:30601901:Alonne Captain (Greatbow) (Hostile Phantom)
+319008:31900800:Alonne Knight (Katana)
+319011:31901100:Alonne Knight (Greatbow)
+650000:65000000:Iron Warrior Giant
+650000:65000001:Iron Warrior Giant
+650000:65000002:Iron Warrior Giant
+650001:65000010:Iron Warrior Giant
+650001:65000011:Iron Warrior Giant
+650001:65000012:Iron Warrior Giant
+650002:65000020:Iron Warrior Giant
+650002:65000021:Iron Warrior Giant
+650002:65000022:Iron Warrior Giant
+650003:65000030:Iron Warrior Giant (Hostile Phantom)
+650003:65000031:Iron Warrior Giant (Hostile Phantom)
+650010:65001000:Iron Warrior Giant (Dusty)
+650010:65001001:Iron Warrior Giant (Dusty)
+650011:65001010:Iron Warrior Giant (Dusty)
+650011:65001011:Iron Warrior Giant (Dusty)
+650012:65001020:Iron Warrior Giant (Dusty)
+650012:65001021:Iron Warrior Giant (Dusty)
+650013:65001030:Iron Warrior Giant (Dusty)
+650013:65001031:Iron Warrior Giant (Dusty)
+651000:65100000:Fume Sorcerer
+651000:65100001:Fume Sorcerer
+651001:65100010:Fume Sorcerer
+651001:65100011:Fume Sorcerer
+651002:65100020:Fume Sorcerer
+651002:65100021:Fume Sorcerer
+651003:65100030:Fume Sorcerer (Hostile Phantom)
+653000:65300000:Ashen Warrior (Axes)
+653000:65300001:Ashen Warrior (Axes)
+653002:65300010:Ashen Warrior (Axes)
+653002:65300011:Ashen Warrior (Axes)
+653003:65300020:Ashen Warrior (Axes)
+653003:65300021:Ashen Warrior (Axes)
+653001:65300100:Ashen Warrior (Axes)
+653001:65300101:Ashen Warrior (Axes)
+653004:65300400:Ashen Warrior (Axes)
+653004:65300401:Ashen Warrior (Axes)
+653004:65300402:Ashen Warrior (Axes)
+653005:65300500:Ashen Warrior (Axes)
+653005:65300501:Ashen Warrior (Axes)
+653006:65300600:Ashen Warrior (Axes) (Hostile Phantom)
+653006:65300601:Ashen Warrior (Axes) (Hostile Phantom
+653010:65301000:Ashen Warrior (Sword)
+653010:65301001:Ashen Warrior (Sword)
+653011:65301010:Ashen Warrior (Sword)
+653011:65301011:Ashen Warrior (Sword)
+653011:65301012:Ashen Warrior (Sword)
+653012:65301020:Ashen Warrior (Sword)
+653012:65301021:Ashen Warrior (Sword)
+653020:65302000:Ashen Warrior (Halberd)
+653020:65302001:Ashen Warrior (Halberd)
+653021:65302010:Ashen Warrior (Halberd)
+653021:65302011:Ashen Warrior (Halberd)
+653021:65302012:Ashen Warrior (Halberd)
+653029:65302013:Ashen Warrior (Halberd) (Hostile Phantom)
+653022:65302020:Ashen Warrior (Halberd)
+653022:65302021:Ashen Warrior (Halberd)
+653030:65303000:Ashen Warrior (Axes) (Hostile Phantom)
+653030:65303001:Ashen Warrior (Axes) (Hostile Phantom)
+653031:65303010:Ashen Warrior (Bow)
+653031:65303011:Ashen Warrior (Bow)
+653032:65303020:Ashen Warrior (Bow)
+653032:65303021:Ashen Warrior (Bow)
+654000:65400000:Scorcher
+656003:65600000:Possessed Armor
+656000:65600001:Possessed Armor
+656004:65600010:Possessed Armor
+656001:65600011:Possessed Armor
+656005:65600020:Possessed Armor
+656002:65600021:Possessed Armor
+656006:65600030:Possessed Armor (Hostile Phantom)
+657000:65700000:Cask Runner
+657000:65700001:Cask Runner
+657000:65700002:Cask Runner
+657001:65700010:Cask Runner
+657001:65700011:Cask Runner
+657001:65700012:Cask Runner
+675000:67500000:Fume Knight 
+680000:68000000:Sir Alonne 
+601001:68800000:Fire Salamander
+305200:68900000:Smelter Demon (Magic)
+695007:69400000:
+867001:82100010:Steelheart Ellie (Summon)
+874000:82100021:Carhillion (Summon)
+881000:82100030:Prowler (Katana) 
+882000:82100031:Prowler (Bow)
+870000:82100040:Quicksword Rachel (Invader)
+871000:82100041:Maldron the Assassin (Invader)
+872000:82100042:Astrologist
+873000:82100043:
+872009:82100044:Astrologist
+841000:84000000:Voice Trigger
+875000:87500000:Steel-willed Lorrie (Summon)
+875001:87500100:Steel-willed Lorrie (Summon)
+876000:87600000:Drifter Swordsman Aidel (Summon)
+876001:87600100:Drifter Swordsman Aidel (Summon)
+
+# -------------------------
+# Crown of the Ivory King
+# -------------------------
+
+# Registration
+307107:30710000:Body of Vengarl (Sword and Shield)
+321014:32100000:Mimic
+321015:32100010:Mimic
+658000:65800000:Alsanna, Silent Oracle
+659000:65900000:Rampart Golem
+659000:65900001:Rampart Golem
+659001:65900010:Rampart Golem
+659001:65900011:Rampart Golem
+659002:65900020:Rampart Golem
+659002:65900021:Rampart Golem
+659005:65900022:Rampart Golem (Hostile Phantom)
+659005:65900023:Rampart Golem (Hostile Phantom)
+659003:65900300:Rampart Golem (Hostile Phantom)
+660000:66000000:Ice Golem
+660000:66000001:Ice Golem
+660002:66000200:Ice Golem (Hostile Phantom)
+661000:66100000:Ice Stallion
+661001:66100001:Ice Stallion (Hostile Phantom)
+662000:66200000:Ice Rat
+662000:66200001:Ice Rat
+662000:66200002:Ice Rat
+662001:66200010:Ice Rat (Hostile Phantom)
+662001:66200011:Ice Rat (Hostile Phantom)
+662001:66200012:Ice Rat (Hostile Phantom)
+663000:66300000:Spellsword (Iced)
+663000:66300001:Spellsword (Iced)
+663001:66300100:Spellsword
+663001:66300101:Spellsword
+663004:66300400:Spellsword (Iced) (Hostile Phantom)
+663010:66301000:Spellsword (Iced)
+663010:66301001:Spellsword (Iced)
+663011:66301100:Spellsword
+663011:66301101:Spellsword
+677000:67700000:Retainer (Dagger)
+677000:67700001:Retainer (Dagger)
+677010:67700100:Retainer (Staff)
+677010:67700101:Retainer (Staff)
+678000:67800000:Golem
+678000:67800001:Golem
+678000:67800002:Golem
+678001:67800010:Golem
+678001:67800011:Golem
+678001:67800012:Golem
+678010:67800100:Golem
+678010:67800101:Golem
+678010:67800102:Golem
+678011:67800110:Golem
+678011:67800111:Golem
+678011:67800112:Golem
+679100:67900000:Aava, the King's Pet
+679000:67900100:Lud
+679002:67900200:Zallen
+695008:69400000:
+752010:75201000:Lucatiel
+688000:80000010:Loyce Knight (Sword)
+688000:80000011:Loyce Knight (Sword)
+690000:80000020:Burnt Ivory King 
+689000:80000030:Charred Loyce Knight (Sword)
+689010:80000031:Charred Loyce Knight (Greataxe)
+689020:80000032:Charred Loyce Knight (Greathammer)
+689030:80000033:Charred Loyce Knight (Pyromancy)
+689000:80000034:Charred Loyce Knight (Sword)
+689010:80000035:Charred Loyce Knight (Greataxe)
+689020:80000036:Charred Loyce Knight (Greathammer)
+689030:80000037:Charred Loyce Knight (Pyromancy)
+688010:80000100:Loyce Knight (Scythe)
+688010:80000101:Loyce Knight (Scythe)
+688020:80000200:Loyce Knight (Greataxe)
+688020:80000201:Loyce Knight (Greataxe)
+688030:80000300:Loyce Knight (Spellsword)
+688030:80000301:Loyce Knight (Spellsword)
+810005:81000500:Masterless Glencour (Summon)
+880000:83710001:Drakeblood Knight
+837200:83720000:Imported Hollow (Bow)
+841000:84100000:Voice Trigger
+884001:86200000:Twiggy Shei (Summon)
+865002:86500000:Abbess Feeva (Summon)
+867100:86710000:Steelheart Ellie (Summon)
+871100:87110000:Maldron the Assassin (White Ring)
+877000:87700000:Castaway Witch Donna (Invader)
+878000:87800000:Hexer Nicholai (Invader)
+879000:87900000:Holy Knight Aurheim (Invader)
+883000:88300000:Elite Knight (Sword)
+883100:88310000:Elite Knight (Ultra Greatsword)
+883200:88320000:Elite Knight (Warpick)
+885000:88500000:Faraam Knight (Eleum Loyce) (Hostile Phantom)
+885001:88500001:Faraam Knight (Eleum Loyce) (Hostile Phantom)
+885100:88510000:King Knight (Eleum Loyce) (Hostile Phantom)
+885101:88510001:King Knight (Eleum Loyce) (Hostile Phantom)
+873000:89000000:
+891004:89100400:Sellsword Luet (Summon)
+892002:89200200:Manhunter O'Harrah (Summon
+129200:90000010:White Witchtree Spirit
+500100:90000020:Covetous Demon (Snow)
+227100:90000030:Undead Dog (Snowy)
+127101:90000040:Undead Crypt Hollow (Unarmed)
+127110:90000041:Undead Crypt Hollow (Torch)
+127101:90000042:Undead Crypt Hollow (Unarmed)
+127101:90000043:Undead Crypt Hollow (Unarmed)
+127101:90000044:Undead Crypt Hollow (Unarmed)
+127101:90000045:Undead Crypt Hollow (Unarmed)
+127101:90000046:Undead Crypt Hollow (Unarmed)
+127101:90000047:Undead Crypt Hollow (Unarmed)
+127101:90000048:Undead Crypt Hollow (Unarmed)
+303302:90000050:Flexile Sentry
+
+# -------------------------
+# Giant Memories
+# -------------------------
+
+# Registration
+102100:10210000:Royal Soldier (Spear)
+102110:10211000:Royal Soldier (Greatsword)
+102140:10212000:Royal Soldier (Bow)
+103111:10310000:Hollow Infantry (Sword and Shield)
+103121:10310010:Hollow Infantry (Axe)
+103131:10310020:Hollow Infantry (Bow)
+121000:12100000:Hooded Giant (Unarmed)
+121000:12100005:Hooded Giant (Unarmed)
+121001:12100010:Hooded Giant (Unarmed)
+121010:12101000:Hooded Giant (Club)
+121020:12102000:Hooded Giant (Poison Fist)
+121030:12103000:Hooded Giant (Pyromancy)
+151001:15100000:Ironclad
+309000:30900000:Forgotten Giant
+309700:30970000:Giant Lord 
+724000:72400000:Captain Drummond
+724001:72400001:Captain Drummond (Ghost)
+724002:72400003:Captain Drummond
+743004:74300000:Benhart
+743001:74300001:Benhart (Ghost)
+743008:74300002:Benhart
+
+# -------------------------
+# Chasm of the Abyss
+# -------------------------
+
+# Registration
+129000:12900000:Witchtree Spirit (Staff)
+129010:12903000:Witchtree Spirit (Chime)
+506100:50610000:Darklurker
+506101:50610001:Darklurker
+506200:50620000:Darklurker Portal
+832000:81200000:Hunter (Abyss Spirit)
+832100:81210000:Ironclad (Abyss Spirit)
+832200:81220000:Xanthous Scholar (Abyss Spirit)
+832300:81230000:Xanthous Scholar (Abyss Spirit)
+832400:81240000:Imported Hollow (Abyss Spirit)
+832500:81250000:Ricard (Abyss Spirit)
+832600:81260000:Havel (Abyss Spirit)
+832700:81270000:Desert Sorceress (Abyss Spirit)
+
+# -------------------------
+# Undead Crypt Tomb
+# -------------------------
+
+# Registration
+333000:33300000:Velstadt, the Royal Aegis
+684000:68400000:Vendrick
+
+# -------------------------
+# Unknown
+# -------------------------
+840000:10000000:Covenant of Champions Runestone
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,38 @@
+# FlexHEX bookmark and data field definitions
+# Created on 23 September 2019 23:33:23
+# Based on SpEffectRing.emevd
+
+[Version]
+3
+
+[Bookmarks]
+
+[DataFields]
+15204,Second Dragon Ring - Equip Load,4,2,5,24203
+15192,Second Dragon Ring - Stamina,4,2,5,24203
+15180,Second Dragon Ring - HP,4,2,5,24203
+15156,First Dragon Ring - Equip Load,4,2,5,24203
+15144,First Dragon Ring - Stamina,4,2,5,24203
+15132,First Dragon Ring - HP,4,2,5,24203
+15108,Royal Soldier's Ring +2,4,2,5,24203
+15096,Royal Soldier's Ring +1,4,2,5,24203
+15084,Royal Soldier's Ring,4,2,5,24203
+15072,Chloranthy Ring,4,2,5,24203
+15040,Chloranthy Ring,4,2,5,24203
+15008,Life Ring +3,4,2,5,24203
+14976,Life Ring +2,4,2,5,24203
+14964,Life Ring +1,4,2,5,24203
+14952,Life Ring,4,2,5,24203
+15338,Ring of Steel Protection +2,2,1,2,24202
+15306,Ring of Steel Protection +1,2,1,2,24202
+15274,Ring of Steel Protection ,2,1,2,24202
+15252,Third Dragon Ring - Equip Load,4,2,5,24203
+15240,Third Dragon Ring - Stamina,4,2,5,24203
+15228,Third Dragon Ring - HP,4,2,5,24203
+
+[StickyFields]
+
+[Structures]
+
+[BlockColoring]
+

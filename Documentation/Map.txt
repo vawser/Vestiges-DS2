@@ -1,0 +1,81 @@
+﻿Things Betwixt:             10 02 00 00
+
+Majula:                     10 04 00 00
+
+Forest of Fallen Giants:    10 10 00 00
+    Remove Ogre: -127 -86 -16
+    Remove Hollow: -169 66 1.6
+    Remove Ironclad: -235, -18.9, -11.5
+    Remove Hollow: -200.93, 120.26, -8.31
+    Add Heide Knight: -170 72.2 1.61
+    Move Hollow: -205.6, 71.4, 4.6 to -198.4, 65.34, 1.67
+    
+Brightstone Cove:           10 14 00 00
+
+Aldia's Keep:               10 15 00 00
+
+Lost Bastille:              10 16 00 00
+
+Harvest Valley:             10 17 00 00
+
+No Man's Wharf:             10 18 00 00
+    Remove spawns near 510.51, -80.87, -62.5
+    Remove Varangian: 507.36, -70.77, -61.126
+
+Iron Keep:                  10 19 00 00
+    Remove Alonne Knight: 603.38, -614.3, 171.13
+    Remove Alonne Knight: 612.07. -649.87, 178.11
+    Remove Alonne Knight: 615.78, -647.58, 168.52
+    Remove Alonne Knight: 625.53, -659.37, 167.33
+    Remove Alonne Knight: 614.76, -706.13, 172.31
+    Remove Alonne Captain: 642.6, -676.29, 176.31
+    Remove Alonne Knight: 649.09, -703.11, 172.31
+    Remove Alonne Knight: 632.29, -743.73, 184.37
+    Remove Alonne Knight: 651.43, -749.32, 184.38
+    Remove Alonne Knight: 652.45, -755.89, 184.38
+    Remove Ironclad: 659.65, -764.80, 184.38
+    Remove Ironclad: 681.52, -772.21, 187.33
+    Add Ironclad: 624.81, -652.84, 178.2
+    Add Desert Sorceress: 605.84, -663.21, 176.33
+    Add Desert Sorceress: 632.29, -743.73, 184.37
+    Add Iron Warrior Giant: 654.57, -755.66, 184.38
+    Add Possessed Armor: 681.52, -772.21, 187.33
+    Add Iron Warrior Giant: 708/26. -654.4, 166.5
+    
+Huntsman's Copse:           10 23 00 00
+
+The Gutter:                 10 25 00 00
+
+Dragon Aerie:               10 27 00 00
+
+Path to Shaded Woods:       10 29 00 00
+
+Unseen Path to Heide:       10 30 00 00
+
+Heide's Tower of Flame:     10 31 00 00
+    Remove all current Heide Knights except
+    Keep 227.75, -92.58, -8.143
+    Keep 222.71, -125.50, 0.255
+    
+Shaded Woods:               10 32 00 00
+
+Doors of Pharros:           10 33 00 00
+
+Grave of Saints:            10 34 00 00
+
+Giant Memories:             20 10 00 00
+
+Shrine of Amana:            20 11 00 00
+
+Drangleic Castle:           20 21 00 00
+
+Undead Crypt:               20 24 00 00
+
+Crown of the Shulva:        50 35 00 00
+
+Crown of the Iron King:     50 36 00 00
+
+Crown of the Ivory King:    50 37 00 00
+
+Undead Crypt Tomb:          50 38 00 00
+

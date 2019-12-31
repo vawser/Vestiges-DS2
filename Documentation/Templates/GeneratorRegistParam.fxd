@@ -1,0 +1,20 @@
+# FlexHEX bookmark and data field definitions
+# Created on 23 September 2019 16:35:13
+# Based on generatorregistparam_m10_02_00_00.param
+
+[Version]
+3
+
+[Bookmarks]
+
+[DataFields]
+820,Spawn State,2,1,2,24202
+822,Drawgroup,2,1,2,24202
+808,Register ID,4,1,2,24202
+
+[StickyFields]
+
+[Structures]
+
+[BlockColoring]
+

@@ -1,0 +1,525 @@
+﻿#--------------------------------------------
+# EMEVD
+#--------------------------------------------
+Rings: SpEffectRing.emevd
+ Values start at offset 00003A6C
+
+#--------------------------------------------
+# Weapons
+#--------------------------------------------
+1140000 Blue Dagger                 - Boosts spell damage by 5%, reduces elemental ABS by 200
+1830000 Majestic Greatsword         - Durability loss on LT/L2 attacks?
+1900000 Ruler's Sword               - Attack increases based on souls held (-44 + 127.5 * s)
+1997000 Greatsword of the Forlorn   - Damage scales with hollowing
+2500000 Handmaid's Ladle            - ADP +2, END +1, VIT +1, DEX -1
+2680000 Dragon Tooth                - Boosts Fire and Magic ABS by 50
+2855000 Yorgh's Spear               - Reduces elemental ABS by 70, boosts Poison resist by 200, Bleed, Petrify and Curse by 70
+3080000 Scythe of the Forlorn       - Damage scales with hollowing
+3440000 Work Hook                   - DEX +5, ADP -3
+3810000 Staff of Amana              - Damage scales negatively with hollowing
+3930000 Azal's Staff                - Reduces spell uses by 50 to 70%
+4110000 Disc Chime                  - Miracles +3%
+4120000 Chime of Screams            - Increases FTH scaling based on current FTH
+4200000 Short Bow
+4210000 Long Bow 
+4220000 Composite Bow 
+4230000 Sea Bow 
+4240000 Dragonrider Bow 
+4270000 Bell Keeper Bow 
+4280000 Bow of Want 
+4290000 Hunter's Blackbow 
+4400000 Alonne Greatbow 
+4420000 Dragonslayer Greatbow 
+4600000 Light Crossbow 
+4610000 Heavy Crossbow 
+4630000 Shield Crossbow 
+4660000 Avelyn 
+5050000 Curved Nil Greatsword       - Damage scales with NG+ (up to +100)
+5295010 Lost Sinner's Sword         - Scales negatively with Sin
+5400000 Pyromancy Flame             - Scales off Fire Bonus
+5410000 Dark Pyromancy Flame        - Scales off Fire Bonus, negatively scales with Humanity
+11290000 Loyce Shield               - Grants 2 HP every 3 seconds
+11295000 Charred Loyce Shield       - Grants 2 HP every 3 seconds
+11320000 Vessel Shield              - STR +4, DEX +4, VIG +1, END +1, ADP +1, INT +1, FTH +1
+11330000 Shield of the Insolent     - Stamina Recovery +5%
+11390000 Slumbering Dragon Shield   - Stamina Recovery +5%
+11640000 Drakekeeper's Greatshield  
+11720000 Watchdragon Parma          - Increases Item Discovery
+11730000 Blossom Kite Shield        - Stamina Recovery +5%
+11750000 Wicked Eye Greatshield     - Absorb 10 HP on kill
+
+#--------------------------------------------
+# Armor
+#--------------------------------------------
+21140100 Traveling Merchant Hat     - Increases Item Discovery
+21210100 Jester's Cap               - Increases Item Discovery
+21210101 Jester's Robes             - Immune to backstabs
+21210102 Jester's Gloves            - Souls gained increased by 10%
+21210103 Jester's Tights            - Reduces Falling damage by 300
+21230100 Moon Hat                   - INT +2
+21360100 Helm of Aurous (t)         - Equipment Load +1%
+21360101 Armor of Aurous (t)        - Equipment Load +1.5%
+21360102 Gauntlets of Aurous (t)    - Equipment Load +1%
+21360103 Leggings of Aurous (t)     - Equipment Load +1.5%
+21430100 Durgo's Hat                - Increases bow range
+21440102 Engraved Gauntlets         - 5% to crit for +50% damage
+21460103 Flying Feline Boots        - Reduces Falling Damage by ~450.
+21470100 Moon Butterfly Hat         - INT +1, Poison Aura
+21470101 Moon Butterfly Wings       - Jump without sprinting, reduces Falling Damage, Poison Aura
+21470102 Moon Butterfly Cuffs       - Poison Aura
+21470103 Moon Butterfly Skirt       - Jump without sprinting, reduces Falling Damage, Poison Aura
+21501100 Black Witch Hat            - Attunement Slot +1
+21502100 Black Witch Domino Mask    - HP -15%, Spell Damage +3%
+21610100 Northwarder Hood           - Spell Duration +5%
+21610101 Northwarder Robe           - Spell Duration +2.5%
+21610102 Northwarder Manchettes     - Spell Duration +12.5%
+21610103 Northwarder Trousers       - Spell Duration +2.5%
+21630100 Crown of the Old Iron King - Every 2 minutes, restores 20% spell uses
+21640100 Crown of the Ivory King    - Restores 2 HP every 3 seconds
+21650100 Crown of the Sunken King   - STR +1, DEX +1, INT +1, FTH +1, END +1, VIG -1, VIT -1
+21660100 Old Bell Helm              - Prevents damage from headshots
+21670100 Hollow Skin                - Shows developer messages
+21680100 Pharros Mask               - Soaks wearer in water, increasing Fire Defence by 100, lower Lightning Defence by 100
+21690103 Flower Skirt               - VIG +2, END +1
+21710100 Symbol of Avarice          - +2.5% souls, increases Item Discovery, -5 HP every 2 seconds
+22060100 White Priest Headpiece     - FTH +1
+22062100 Priestess Headpiece        - FTH +1
+22180100 Black Hollow Mage Hood     - INT +1
+22182100 White Hollow Mage Hood     - INT +1
+22190101 Lion Mage Robe             - Casting Speed +5%
+22190102 Lion Mage Cuffs            - Casting Speed +5%
+22190103 Lion Mage Skirt            - Casting Speed +5%
+22230102 Shadow Gauntlets           -
+22270100 Prisoner's Hood            - Item Discovery
+22270101 Prisoner's Tatters         - Item Discovery
+22271100 Prisoner's Hood            - Item Discovery
+22271101 Prisoner's Tatters         - Item Discovery
+22310100 Archdrake Helm             - INT +1
+22360100 Dark Mask                  - INT +1, FTH +1
+22370100 Warlock Mask               - INT +2, +2.5% souls
+22460100 Tseldora Cap               - Souls +2.5% 
+22460101 Tseldora Robe              - Souls +5%
+22460102 Tseldora Manchettes        - Souls +10%
+22460103 Tseldora Trousers          - Souls +5%
+22480100 Peasant Hat                - FTH +2
+22480101 Peasant Attire             - ADP +2
+22480102 Peasant Long Gloves        - ADP +2
+22480103 Peasant Trousers           - ADP +2
+22510100 Ironclad Helm              - Immune to headshot stagger
+22510101 Ironclad Armor             - Immune to backstabs
+22512100 Old Ironclad Helm          - Immune to headshot stagger
+22512101 Old Ironclad Armor         - Immune to backstabs
+23070100 Vengarl's Helm             - VIT +2
+23160100 Desert Sorceress Hood      - INT +3
+23171100 Dragon Sage Hood           - INT +1, FTH +1
+23330100 Velstadt's Helm            - END +1, VIT +1
+25040100 Looking Glass Mask         - FTH +1
+25060102 Agdayne's Cuffs            - FTH +1
+25090100 Leydia Black Hood          - INT +1, FTH +1
+25100100 Insolent Helm              - FTH +2
+25130100 King's Crown               - INT +3, FTH +3
+26260100 Penal Mask                 - Equip. Load +3% 
+26260102 Penal Handcuffs            - Pyromancies +7.5%
+26650103 Sanctum Knight Leggings    - Reduces Falling damage by -300, silences footsteps
+26660102 Sanctum Soldier Gauntlet   - Boosts Poison damage (25/50/60).
+26700100 Sanctum Priestess Tiara    - Immune to staggering when casting spells.
+26880100 Loyce Helm                 - Absorb 10 HP on kill (female only)
+26880101 Loyce Armor                - Absorb 10 HP on kill (female only)
+26880102 Loyce Gauntlets            - Absorb 10 HP on kill (female only)
+26880103 Loyce Leggings             - Absorb 10 HP on kill (female only)
+26890100 Charred Loyce Helm         - Absorb 10 HP on kill (female only)
+26890101 Charred Loyce Armor        - Absorb 10 HP on kill (female only)
+26890102 Charred Loyce Gauntlets    - Absorb 10 HP on kill (female only)
+26890103 Charred Loyce Leggings     - Absorb 10 HP on kill (female only)
+26900100 Ivory King Helm            - Absorb 10 HP on kill (female only)
+26900101 Ivory King Armor           - Absorb 10 HP on kill (female only)
+26900102 Ivory King Gauntlets       - Absorb 10 HP on kill (female only)
+26900103 Ivory King Leggings        - Absorb 10 HP on kill (female only)
+27510100 Cale's Helm                - END +1, DEX +2
+27550100 Mad Warrior Mask           - ADP +2
+27680100 Black Hood                 - INT +2, FTH +2, Casting Speed +12%
+27690100 Saint's Hood               - FTH +1, Spell Uses +1
+27700100 Hexer's Hood               - INT +1, FTH +1, Spell Uses +10%
+27710100 Chaos Hood                 - INT +3, Casting Speed +5%
+27830100 Nahr Alma Hood             - Souls +2.5%
+27830101 Nahr Alma Robes            - Souls +10%
+
+#--------------------------------------------
+# Spells
+#--------------------------------------------
+31070000 Homing Soulmass
+31080000 Homing Crystal Soulmass
+31180000 Magic Weapon
+31190000 Great Magic Weapon
+31200000 Crystal Magic Weapon
+31210000 Strong Magic Shield
+31230000 Hush
+31240000 Fall Control
+31260000 Repair
+31270000 Cast Light
+31280000 Chameleon
+31290000 Unleash Magic
+32010000 Heal
+32020000 Med Heal
+32030000 Great Heal Excerpt
+32040000 Great Heal
+32050000 Soothing Sunlight
+32060000 Replenishment
+32070000 Resplendent Life
+32080000 Bountiful Sunlight
+32090000 Caressing Prayer
+32190000 Magic Barrier
+32200000 Great Magic Barrier
+32210000 Homeward
+32220000 Guidance
+32230000 Sacred Oath
+32240000 Unveil
+32250000 Perseverance
+32260000 Sunlight Blade
+32300000 Denial
+33170000 Flame Weapon
+33180000 Flash Sweat
+33190000 Iron Flesh
+33200000 Warmth
+33210000 Immolation
+34040000 Affinity
+34050000 Dead Again
+34060000 Dark Weapon
+34070000 Whisper of Despair
+34080000 Repel
+34090000 Twisted Barricade
+34100000 Numbness
+35060000 Resonant Flesh
+35070000 Resonant Weapon
+35090000 Profound Still
+35300000 Promised Walk of Peace
+
+#--------------------------------------------
+# Rings
+#--------------------------------------------
+40010000 Life Ring                          - +5% HP
+40010001 Life Ring+1                        - +7.5% HP
+40010002 Life Ring+2                        - +12.5% HP
+40010003 Life Ring+3                        - +15% HP
+40020000 Chloranthy Ring                    - 12.5% Stamina
+40020001 Chloranthy Ring+1                  - 20% Stamina
+40020002 Chloranthy Ring+2                  - 25% Stamina
+40030000 Royal Soldier's Ring               - 10% Equip. Load
+40030001 Royal Soldier's Ring+1             - 15% Equip. Load
+40030002 Royal Soldier's Ring+2             - 20% Equip. Load
+40040000 First Dragon Ring                  - +3% HP, +5% Stamina, +5% Equip. Load
+40040001 Second Dragon Ring                 - +5% HP, +10% Stamina, +10% Equip. Load
+40040002 Third Dragon Ring                  - +7.5% HP, +12.5% Stamina, +12.5% Equip. Load
+40050000 Ring of Steel Protection           - Physical defence +50
+40050001 Ring of Steel Protection+1         - Physical defence +74
+40050002 Ring of Steel Protection+2         - Physical defence +100
+40060000 Spell Quartz Ring                  - Magic defence +50
+40060001 Spell Quartz Ring+1                - Magic defence +80
+40060002 Spell Quartz Ring+2                - Magic defence +100
+40060003 Spell Quartz Ring+3                - Magic defence +150
+40070000 Flame Quartz Ring                  - Fire defence +50
+40070001 Flame Quartz Ring+1                - Fire defence +80
+40070002 Flame Quartz Ring+2                - Fire defence +100
+40070003 Flame Quartz Ring+3                - Fire defence +150
+40080000 Thunder Quartz Ring                - Lightning defence +50
+40080001 Thunder Quartz Ring+1              - Lightning defence +80
+40080002 Thunder Quartz Ring+2              - Lightning defence +100
+40080003 Thunder Quartz Ring+3              - Lightning defence +150
+40090000 Dark Quartz Ring                   - Dark defence +50
+40090001 Dark Quartz Ring+1                 - Dark defence +80
+40090002 Dark Quartz Ring+2                 - Dark defence +100
+40090003 Dark Quartz Ring+3                 - Dark defence +150
+40100000 Poisonbite Ring                    - Poison resist +150
+40100001 Poisonbite Ring+1                  - Poison resist +300
+40110000 Bloodbite Ring                     - Bleed resist +150
+40110001 Bloodbite Ring+1                   - Bleed resist +300
+40120000 Bracing Knuckle Ring               - Item Degradation -20%
+40120001 Bracing Knuckle Ring+1             - Item Degradation -35%
+40120002 Bracing Knuckle Ring+2             - Item Degradation -50%
+40130000 Cursebite Ring                     - Curse resist +400
+40135000 Ash Knuckle Ring                   - Petrify resist +400
+40140000 Dispelling Ring                    - Magic/Fire/Lightning/Dark defence +60
+40140001 Dispelling Ring+1                  - Magic/Fire/Lightning/Dark defence +120
+40150000 Ring of Resistance                 - Poison/Bleed/Curse/Petrify resist +120
+40150001 Ring of Resistance+1               - Poison/Bleed/Curse/Petrify resist +200
+40160000 Ring of Blades                     - Increases physical damage by 20
+40160001 Ring of Blades+1                   - Increases physical damage by 35
+40160002 Ring of Blades+2                   - Increases physical damage by 50
+40210000 Ring of Knowledge                  - INT +5
+40220000 Ring of Prayer                     - FTH +5
+40230000 Stone Ring                         - Increases poise damage.
+40260000 Red Tearstone Ring                 - Damage +20% whilst below 30% HP
+40280000 Blue Tearstone Ring                - -35% physical damage taken whilst below 30% HP
+40290000 Ring of Giants                     - Poise +10
+40290001 Ring of Giants+1                   - Poise +20
+40290002 Ring of Giants+2                   - Poise +30
+40295000 Old Leo Ring                       - Boosts thrust counter damage by 12.5%
+40300000 Ring of Soul Protection            - Retain souls and humanity upon death, even from Petrify
+40310000 Ring of Life Protection            - Retain souls and humanity upon death
+40320000 Lingering Dragoncrest Ring         - Spell Duration +15%
+40320001 Lingering Dragoncrest Ring+1       - Spell Duration +25%
+40320002 Lingering Dragoncrest Ring+2       - Spell Duration +50%
+40330000 Clear Bluestone Ring               - Casting Speed +20%
+40330001 Clear Bluestone Ring+1             - Casting Speed +35%
+40330002 Clear Bluestone Ring+2             - Casting Speed +50%
+40340000 Northern Ritual Band               - Spell Uses +10%, -20% HP
+40340001 Northern Ritual Band+1             - Spell Uses +20%, -35% HP
+40340002 Northern Ritual Band+2             - Spell Uses +30%, -50% HP
+40350000 Southern Ritual Band               - Attunement Slot +1
+40350001 Southern Ritual Band+1             - Attunement Slot +2
+40350002 Southern Ritual Band+2             - Attunement Slot +3
+40360000 Covetous Gold Serpent Ring         - Item Discovery +50
+40360001 Covetous Gold Serpent Ring+1       - Item Discovery +75
+40360002 Covetous Gold Serpent Ring+2       - Item Discovery +100
+40370000 Covetous Silver Serpent Ring       - Souls +10%
+40370001 Covetous Silver Serpent Ring+1     - Souls +20%
+40370002 Covetous Silver Serpent Ring+2     - Souls +30%
+40390000 Ring of the Evil Eye               - Absorb 30 HP on kill
+40390001 Ring of the Evil Eye+1             - Absorb 50 HP on kill
+40390002 Ring of the Evil Eye+2             - Absorb 80 HP on kill
+40400000 Ring of Restoration                - Grants 2 HP every second
+40410000 Ring of Binding                    - Limits hollowing reduction by 25%, max reduction set to 20%.
+40420000 Silvercat Ring                     - Reduces Falling damage by -600
+40430000 Redeye Ring                        - Draws aggro of enemies
+40440000 Gower's Ring of Protection         - Immune to backstabs, -20% damage from behind
+40450000 Name-engraved Ring                 - Limits online interactions to specificed group
+40460000 Slumbering Dragoncrest Ring        - Silences footsteps
+40470000 Hawk Ring                          - Increases bow range by 8%
+40480000 Old Sun Ring                       - Explodes after taking damage
+40500000 Illusory Ring of a Conqueror       - Hides left-hand weapon
+40510000 King's Ring                        - Fire damage +2.5%, opens King's Gates
+40520000 Ring of the Dead                   - Keeps human apperance even whilst Hollow
+40530000 Ring of Thorns                     - 30% chance to auto-counter when damaged
+40530001 Ring of Thorns+1                   - 50% chance to auto-counter when damaged
+40530002 Ring of Thorns+2                   - 70% chance to auto-counter when damaged
+40540000 Delicate String                    - Increases invasion chance
+40550000 White Ring                         - Appear as white phantom
+40560000 Illusory Ring of the Vengeful      -
+40570000 Illusory Ring of the Guilty        -
+40610000 Ring of Whispers                   -
+40620000 Illusory Ring of the Exalted       - Hides right-hand weapon
+40700000 Crest of the Rat                   - Increases Poison damage (25/50/60).
+40710000 Bell Keeper's Seal                 - 
+40720000 Guardian's Seal                    -
+40730000 Crest of Blood                     - Increases Bleed damage (25/50/60).
+40740000 Blue Seal                          - HP +3%
+40750000 Abyss Seal                         - Hexes +7%, lose 30 HP on spell cast
+40760000 Vanquisher's Seal                  - Boosts fist damage massively 
+40770000 Sun Seal                           - Miracles +5%
+40780000 Ancient Dragon Seal                - +50 HP restored per estus
+41000000 Simpleton's Ring                   - Invisible rolling, ADP +5
+41010000 Strength Ring                      - STR +5
+41020000 Dexterity Ring                     - DEX +5
+41030000 Ivory Warrior Ring                 - Increases stamina damage by 20%
+41040000 Sorcery Clutch Ring                - Boosts magic damage, -80 Strike, Thrust and Slash defence
+41050000 Lightning Clutch Ring              - Boosts lightning damage, -80 Strike, Thrust and Slash defence
+41060000 Fire Clutch Ring                   - Boosts fire damage, -80 Strike, Thrust and Slash defence
+41070000 Dark Clutch Ring                   - Boosts dark damage, -80 Strike, Thrust and Slash defence
+41090000 Baneful Bird Ring                  - Weapon/shield stability +5
+41100000 Flynn's Ring                       - Boosts physical damage, scaling negatively with weight
+41110000 Ring of the Embedded               - Boosts BIG, END, VIT based on base value, +8% damage taken
+41120000 Ring of the Living                 - Keep human apperance in phantom form
+41130000 Yorgh's Ring                       - 50% chance to deflect spells
+42000000 Agape Ring                         - Absorbs souls
+
+#--------------------------------------------
+# Keys
+#--------------------------------------------
+50600000 Soldier Key
+50610000 Key to King's Passage
+50800000 Bastille Key
+50810000 Iron Key
+50820000 Forgotten Key
+50830000 Brightstone Key
+50840000 Antiquated Key
+50850000 Fang Key
+50860000 House Key
+50870000 Lenigrast's Key
+50880000 Smooth & Silky Stone
+50885000 Small Smooth & Silky Stone
+50890000 Rotunda Lockstone
+50900000 Giant's Kinship
+50910000 Ashen Mist Heart
+50920000 Soul of a Giant
+50930000 Tseldora Den Key
+50940000 Champion's Tablet
+50950000 Ladder Miniature
+50960000 Soul Vessel
+50970000 Undead Lockaway Key
+50990000 Dull Ember
+51000000 Crushed Eye Orb
+51010000 Simpleton's Spice
+51020000 Skeptic's Spice
+51030000 Aldia Key
+
+#--------------------------------------------
+# Utility
+#--------------------------------------------
+60355000 Aged Feather
+60360000 Darksign
+60405000 Dragon Head Stone
+60405010 Dragon Head Stone
+60406000 Dragon Torso Stone
+60406010 Dragon Torso Stone
+60470000 Hello Carving
+60480000 Thank You Carving
+60490000 I'm Sorry Carving
+60500000 Very Good! Carving
+62000000 Dried Fingers
+62020000 Bone of Order
+62030000 White Sign Soapstone
+62040000 Small White Sign Soapstone
+62045000 Red Sign Soapstone
+62070000 Dragon Eye
+62100000 Token of Fidelity
+62110000 Token of Spite
+62160000 Black Separation Crystal
+
+#--------------------------------------------
+# Thrown
+#--------------------------------------------
+60540000 Throwing Knife
+60550000 Witching Urn
+60560000 Lightning Urn
+60570000 Firebomb
+60575000 Black Firebomb
+60580000 Hexing Urn
+60590000 Poison Throwing Knife
+60595000 Dung Pie
+60600000 Lacerating Knife
+60610000 Corrosive Urn
+60620000 Holy Water Urn
+
+#--------------------------------------------
+# Consumables
+#--------------------------------------------
+60010000 Lifegem
+60020000 Radiant Lifegem
+60030000 Old Radiant Lifegem
+60035000 Elizabeth Mushroom
+60036000 Dried Root
+60040000 Amber Herb
+60050000 Twilight Herb
+60060000 Wilted Dusk Herb
+60070000 Poison Moss
+60090000 Monastery Charm
+60100000 Dragon Charm
+60105000 Divine Blessing
+60110000 Rouge Water
+60120000 Crimson Water
+60151000 Human Effigy
+60155010 Estus Flask
+60155020 Estus Flask
+60155030 Estus Flask
+60160000 Small Blue Burr
+60170000 Small Yellow Burr
+60180000 Small Orange Burr
+60190000 Dark Troches
+60200000 Common Fruit
+60210000 Red Leech Troches
+60230000 Triclops Snake Troches
+60235000 Old Growth Balm
+60236000 Vine Balm
+60237000 Blackweed Balm
+60238000 Goldenfruit Balm
+60239000 Brightbug
+60240000 Aromatic Ooze
+60250000 Gold Pine Resin
+60260000 Charcoal Pine Resin
+60270000 Dark Pine Resin
+60280000 Rotten Pine Resin
+60290000 Bleeding Serum
+60310000 Green Blossom
+60320000 Rusted Coin
+60350000 Homeward Bone
+60370000 Silver Talisman
+60410000 Repair Powder
+60430000 Flame Butterfly
+60450000 Prism Stone
+60530000 Alluring Skull
+60531000 Lloyd's Talisman
+62050000 Cracked Blue Eye Orb
+62060000 Cracked Red Eye Orb
+62170000 Seed of a Tree of Giants
+
+#--------------------------------------------
+# Souls
+#--------------------------------------------
+60625000 Fading Soul
+60630000 Soul of a Lost Undead
+60640000 Large Soul of a Lost Undead
+60650000 Soul of a Nameless Soldier
+60660000 Large Soul of a Nameless Soldier
+60670000 Soul of a Proud Knight
+60680000 Large Soul of a Proud Knight
+60690000 Soul of a Brave Warrior
+60700000 Large Soul of a Brave Warrior
+60710000 Soul of a Hero
+60720000 Soul of a Great Hero
+64000000 Soul of the Pursuer
+64010000 Soul of the Last Giant
+64020000 Dragonrider Soul
+64030000 Old Dragonslayer Soul
+64040000 Flexile Sentry Soul
+64050000 Ruin Sentinel Soul
+64060000 Soul of the Lost Sinner
+64070000 Executioner's Chariot Soul
+64080000 Skeleton Lord's Soul
+64090000 Covetous Demon Soul
+64100000 Mytha, the Baneful Queen Soul
+64110000 Smelter Demon Soul
+64120000 Old Iron King Soul
+64130000 Royal Rat Vanguard Soul
+64140000 Soul of the Rotten
+64150000 Scorpioness Najka Soul
+64160000 Royal Rat Authority Soul
+64170000 Soul of the Duke's Dear Freja
+64180000 Looking Glass Knight Soul
+64190000 Demon of Song Soul
+64200000 Soul of Velstadt
+64210000 Soul of the King
+64220000 Guardian Dragon Soul
+64230000 Ancient Dragon Soul
+64240000 Giant Lord Soul
+64250000 Soul of Nashandra
+64260000 Throne Defender Soul
+64270000 Throne Watcher Soul
+64280000 Darklurker Soul
+64290000 Belfry Gargoyle Soul
+64300000 Old Witch Soul
+64310000 Old King Soul
+64320000 Old Dead One Soul
+64330000 Old Paledrake Soul
+64500000 Soul of Sinh, the Slumbering Dragon
+64510000 Soul of the Fume Knight
+64520000 Soul of Aava, the King's Pet
+64530000 Soul of Elana, Squalid Queen
+64540000 Soul of Nadalia, Bride of Ash
+64550000 Soul of Alsanna, Silent Oracle
+64560000 Soul of Sir Alonne
+64580000 Soul of the Ivory King
+64590000 Soul of Zallen, the King's Pet
+64600000 Loyce Soul
+64610000 Soul of Lud, the King's Pet
+
+#--------------------------------------------
+# Ammunition
+#--------------------------------------------
+60760000 Wood Arrow
+60770000 Iron Arrow
+60780000 Magic Arrow
+60790000 Lightning Arrow
+60800000 Fire Arrow
+60810000 Dark Arrow
+60820000 Poison Arrow
+60830000 Lacerating Arrow
+60850000 Iron Greatarrow
+60870000 Lightning Greatarrow
+60880000 Fire Greatarrow
+60900000 Destructive Greatarrow
+60910000 Wood Bolt
+60920000 Heavy Bolt
+60930000 Magic Bolt
+60940000 Lightning Bolt
+60950000 Fire Bolt
+60960000 Dark Bolt

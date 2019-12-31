@@ -1,0 +1,113 @@
+﻿#------------------------------
+# Game State
+#------------------------------
+100100 NG+1
+100110 NG+2
+100420 Visited Shrine of Winter
+100958 Visited Drangleic Castle
+100975 Visited Vendrick in Undead Crypt
+
+#------------------------------
+# Bosses
+#------------------------------
+100904 Soul - Vendrick
+100905 Soul - Ancient Dragon
+100950 Soul - Demon of Song
+100951 Soul - The Duke's Dear Freja
+100952 Soul - Old Iron King
+100953 Soul - Executioner's Chariot
+100954 Soul - Skeleton Lord's Soul
+100955 Soul - Covetous Demon Soul
+100956 Soul - Mytha, the Baneful Queen
+100957 Soul - Scorpioness Najka
+100958 Soul - Looking Glass Knight
+100959 Soul - Dragonrider
+100960 Soul - Old Dragonslayer
+100961 Soul - Flexile Sentry
+100962 Soul - Ruin Sentinels
+100963 Soul - The Lost Sinner
+100964 Soul - Smelter Demon
+100965 Soul - Royal Rat Vanguard
+100966 Soul - The Rotten
+100967 Soul - Royal Rat Authority
+100968 Soul - The Pursuer
+100970 Soul - Guardian Dragon
+100971 Soul - The Last Giant
+100972 Soul - Giant Lord
+100973 Soul - Nashandra
+100974 Soul - Throne Defenders
+100975 Soul - Velstadt
+100979 Soul - Darklurker
+101001 Soul - Belfry Gargoyles
+
+101100 Old Paledrake Soul
+101101 Old King Soul
+101102 Old Witch Soul
+101103 Old Dead One Soul
+
+101200 Soul - Elana, Squalid Queen
+101201 Soul - Sinh, the Slumbering Dragon
+101210 Soul - Nadalia, Bride of Ash
+101211 Soul - Fume Knight
+101212 Soul - Sir Alonne
+101213 Soul - Smelter Demon (blue)
+
+101220 Soul - Alsanna, Silent Oracle
+101221 Soul - Aava, the King's Pet
+101222 Soul - Lud and Zallen
+101223 Soul - Burnt Ivory King
+
+#------------------------------
+# Characters
+#------------------------------
+104010 Kill - Grave Warden Agdayne
+104190 Kill - Lucatiel of Mirrah
+104380 Kill - Titchy Gren
+104430 Kill - Manscorpion Tark
+104160 Kill - Benhart of Jugo
+104170 Kill - Mild Mannered Pate
+104150 Kill - Creighton the Wanderer
+104180 Kill - Cale the Cartographer
+104310 Kill - Straid of Olaphis
+104320 Kill - Licia of Lindeldt
+104330 Kill - Felkin the Outcast
+104340 Kill - Royal Sorcerer Navlaan
+104400 Kill - Blue Sentinel Targray
+
+102346 Gavlan - In Harvest Valley
+102349 Gavlan - In Doors of Pharros
+
+203850 Melentia - In Majula
+100963 Melentia - In Majula
+100620 Melentia - Brightbug Restock - Old Iron King
+100621 Melentia - Brightbug Restock - The Duke's Dear Freja
+100622 Melentia - Brightbug Restock - The Lost Sinner
+100623 Melentia - Brightbug Restock - The Rotten
+100624 Melentia - Brightbug Restock - Looking Glass Knight
+100625 Melentia - Brightbug Restock - 
+
+102611 Maughlin - Spent 1000 souls
+102612 Maughlin - Spent 1000 souls 
+102612 Maughlin - Spent 15000 souls
+102601 Maughlin - Kill - Smelter Demon
+102602 Maughlin - Kill - Looking Glass Knight
+102603 Maughlin - Kill - Lost Sinner
+102605 Maughlin - Kill - Velstadt
+102604 Maughlin - Kill - Throne Defenders
+102607 Maughlin - NG+3
+102606 Maughlin - NG+2
+103303 Maughlin - Kill - Burnt Ivory King and 50 Loyce Souls
+
+102682 McDuff - Moved to Anvil
+
+102750 Straid - 1 Forlon Kills
+102751 Straid - 2 Forlon Kills
+102752 Straid - 3 Forlon Kills
+102753 Straid - 4 Forlon Kills
+102754 Straid - 5 Forlon Kills
+
+102822 Magerold of Lanafir - NG+2
+101061 Magerold of Lanafir - Fume Knight
+101062 Magerold of Lanafir - Sir Alonne
+
+102860 Shalquoir - Kill - Royal Rat Authority and Vanguard

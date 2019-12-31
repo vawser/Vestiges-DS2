@@ -1,0 +1,18 @@
+# FlexHEX bookmark and data field definitions
+# Created on 23 September 2019 16:24:16
+# Based on treasureboxparam_m10_02_00_00.param
+
+[Version]
+3
+
+[Bookmarks]
+
+[DataFields]
+0,Unk00,4,1,0,24200
+
+[StickyFields]
+
+[Structures]
+
+[BlockColoring]
+

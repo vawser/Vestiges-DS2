@@ -1,0 +1,476 @@
+#-----------------------------
+# Weapons
+#-----------------------------
+1000    Dagger
+1010    Bandit's Knife
+1040    Mytha's Bent Blade
+1050    Shadow Dagger
+1070    Broken Thief Sword
+1100    Parrying Dagger
+1110    Manikin Knife
+1130    Royal Dirk
+5500    Black Flamestone Dagger
+1140    Blue Dagger
+1150    Umbral Dagger
+1160    Retainer's Short Sword
+
+1200    Broken Straight Sword
+1210    Shortsword
+1220    Longsword
+1230    Broadsword
+1280    Blue Flame
+1850    Drangleic Sword
+1240    Foot Soldier Sword
+1270    Varangian Sword
+1320    Heide Knight Sword
+1330    Red Rust Sword
+1360    Sun Sword
+1370    Drakekeeper's Sword
+1350    Black Dragon Sword
+5510    Yellow Quartz Longsword
+1260    Possessed Armor Sword
+1380    Ashen Warrior Sword
+1250    Puzzling Stone Sword
+1290    Fume Sword
+1390    Ivory Straight Sword
+
+1800    Bastard Sword
+1880    Mastadon Greatsword
+1940    Royal Greatsword
+1930    Black Knight Greatsword
+1860    Thorned Greatsword
+1980    Key to the Embedded
+1950    Old Knight Greatsword
+1970    Watcher Greatsword
+1900    Ruler's Sword
+1920    Black Dragon Greatsword
+1830    Majestic Greatsword
+1990    Drakeblood Greatsword
+1995    Loyce Greatsword
+1996    Charred Loyce Greatsword
+1997    Greatsword of the Forlorn
+
+5210    Greatsword
+5200    Zweihander
+5220    Smelter Sword
+5295    Lost Sinner's Sword
+5270    Pursuers Ultra Greatsword
+5230    Drakewing Ultra Greatsword
+5280    Crypt Blacksword
+5285    Old Knight Ultra Greatsword
+5290    Black Knight Ultra Greatsword
+5240    King's Ultra Greatsword
+5250    Fume Ultra Greatsword
+5225    Aged Smelter Sword
+5255    Ivory King Ultra Greatsword
+
+1600    Falchion
+1610    Shotel
+1650    Scimitar
+1620    Warped Sword
+1640    Manikin Sabre
+1690    Monastery Scimitar
+1680    Melu Scimitar
+1660    Red Rust Scimitar
+1670    Spider Fang
+1630    Eleum Loyce
+
+5000    Murakumo
+5010    Arced Sword
+5040    Curved Dragon Greatsword
+5050    Curved Nil Greatsword
+
+1700    Uchigatana
+1710    Washing Pole
+1720    Chaos Blade
+1730    Blacksteel Katana
+1740    Manslayer
+1770    Beserker Blade
+1760    Darkdrift
+1790    Bewitched Alonne Sword
+
+1400    Estoc
+1410    Mail Breaker
+1530    Ricard's Rapier
+1430    Spider's Silk
+1500    Rapier
+1420    Chaos Rapier
+1440    Espada Ropera
+1520    Black Scorpion Stinger
+1580    Ice Rapier
+
+2000    Hand Axe
+2010    Battle Axe
+2030    Infantry Axe
+2020    Bandit Axe
+2090    Butcher's Knife
+2080    Dragonslayer's Crescent Axe
+2070    Gyrm Axe
+5520    Bound Hand Axe
+
+2210    Greataxe
+2200    Crescent Axe
+2220    Bandit Greataxe
+2300    Black Knight Greataxe
+2250    Giant Stone Axe
+2240    Lion Greataxe
+2260    Gyrm Greataxe
+2310    Drakekeeper's Greataxe
+2290    Black Dragon Greataxe
+
+2400    Club
+2410    Mace
+2420    Morning Star
+2430    Reinforced Club
+2440    Craftman's Hammer
+2500    Handmaid's Ladle
+2480    Mace of the Indolent
+2540    Aldia Hammer
+2560    Barbed Club
+2530    Black Dragon Warpick
+5530    Homunculus Mace
+
+2600    Large Club
+2620    Great Club
+2730    Old Knight Hammer
+2720    Archdrake Mace
+2670    Malformed Skull
+2680    Dragon Tooth
+2700    Malformed Shell
+2750    Sacred Chime Hammer
+2660    Iron King Hammer
+2610    Pickaxe
+2690    Giant Warrior Club
+2630    Gyrm Great Hammer
+2740    Drakekeeper's Great Hammer
+3350    Drakekeeper's Warpick
+2710    Demon's Great Hammer
+2760    Sanctum Mace
+2960    Smelter Hammer
+
+2800    Spear
+2810    Winged Spear
+2830    Partizan
+2840    Stone Soldier Spear
+2890    Channeler's Trident
+2896    Dragonslayer Spear
+2895    Gargoyle Bident
+2820    Pike
+2860    Silverback Spear
+2870    Heide Spear
+2880    Pate's Spear
+2850    Spitefire Spear
+2855    Yorgh's Spear
+3910    Pilgrim's Spontoon
+
+3200    Lucerne
+3210    Scythe (Glaive)
+3220    Halberd
+3270    Mastadon Halberd
+3330    Old Knight Halberd
+3340    Old Knight Pike
+3300    Black Knight Halberd
+3320    Roaring Halberd
+3240    Helix Halberd
+3250    Santier's Spear
+3290    Dragonrider's Halberd
+3280    Blue Knight's Halberd
+3310    Syan's Halberd
+3370    Wrathful Axe
+
+3000    Great Scythe
+2100    Silverblack Sickle
+3060    Bone Scythe
+3010    Great Machete
+3020    Full Moon Sickle
+3040    Crescent Sickle
+3050    Scythe of Nahr Alma
+3070    Scythe of Want
+3080    Scythe of the Forlorn
+
+2900    Heide Lance
+2920    Heide Greatlance
+2930    Grand Lance
+2940    Chariot Lance
+2950    Rampart Golem Lance
+
+5340    Twinblade
+5360    Curved Twinblade
+5310    Stone Twinblade
+5350    Red Iron Twinblade
+5330    Dragonrider Twinblade
+5370    Sorcerer's Twinblade
+
+3600    Whip
+3610    Notched Whip
+3660    Old Whip
+3620    Bloodied Whip
+3630    Spotted Whip
+
+3410    Claws
+3430    Manikin Claws
+3420    Malformed Claws
+3440    Work Hook
+
+3500    Caestus
+3530    Bone Fist
+
+3800    Sorcerer's Staff
+3810    Staff of Amana
+3820    Witchtree Branch
+3830    Lizard Staff
+3870    Bat Staff
+3880    Bone Staff
+3890    Staff of Wisdom
+3900    Sunset Staff
+3850    Olenford's Staff
+4150    Black Witch's Staff
+5540    Trangressor's Staff
+3930    Azal's Staff
+3940    Retainer's Staff
+
+4010    Cleric's Sacred Chime
+4020    Witchtree Bellvine
+4030    Priest's Chime
+4040    Dragon Chime
+4060    Archdrake Chime
+4080    Idol's Chime
+4090    Caitha's Chime
+4100    Protective Chime
+4110    Disc Chime
+4050    Chime of Want
+4120    Chime of Screams
+
+4200    Short Bow
+4220    Composite Bow
+4210    Long Bow
+4230    Sea Bow
+4270    Bell Keeper Bow
+4290    Hunter's Blackbow
+4240    Dragonrider Bow
+4280    Bow of Want
+
+4400    Alonne Greatbow
+4420    Dragonslayer Greatbow
+4430    Possessed Armor Greatbow
+4440    Twin-headed Greatbow
+
+4600    Light Crossbow
+4610    Heavy Crossbow
+4660    Avelyn
+4630    Shield Crossbow
+4670    Sanctum Crossbow
+4680    Sanctum Repeating Crossbow
+
+6100    Binoculars
+
+#-----------------------------
+# Shields
+#-----------------------------
+1000    Buckler
+1010    Small Leather Shield
+1040    Target Shield
+1091    Crimson Parma
+1020    Iron Parma
+1030    Foot Soldier Shield
+1050    Golden Falcon Shield
+1110    Cleric's Parma
+1120    Cleric's Small Shield
+1130    Magic Shield
+1070    Manikin Shield
+1005    Benhart's Parma
+1080    Llewellyn Shield
+1140    Cursed Bone Shield
+1160    Varangian Shield
+1185    Watcher's Shield
+1700    Phoenix Parma
+1710    Sunlight Parma
+1840    Trangressor's Leather Shield
+1150    Sanctum Shield
+
+1200    Large Leather Shield
+1210    Blue Wooden Shield
+1220    Silver Eagle Kite Shield
+1230    Drangleic Shield
+1310    Golden Wing Shield
+1350    Silverblack Shield
+1490    Porcine Shield
+1720    Watchdragon Parma
+1730    Blossom Kite Shield
+1280    Old Knight's Shield
+1240    Lion Clawn Shield
+1250    Archdrake Shield
+1270    Mirrah Shield
+1260    King's Shield
+1300    Spirit Tree Shield
+1310    Golden Wing Shield
+1380    Moon Butterfly Shield
+1330    Shield of Insolent
+1395    Chaos Shield
+1370    Grand Spirit Tree Shield
+1390    Slumbering Dragon Shield
+1400    Wooden Shield
+1420    Hollow Soldier Shield
+1430    Royal Kite Shield
+1495    Bone Shield
+1485    Drakekeeper's Shield
+1470    Bell Keeper Shield
+1450    Red Rust Shield
+1475    Defender's Shield
+1480    Black Dragon Shield
+1800    Black Flamestone Parma
+1810    Yellow Quartz Shield
+1820    Bound Wooden Shield
+1830    Homunculus Wooden Shield
+1455    Rampart Golem Shield
+1290    Loyce Shield
+1295    Charred Loyce Shield
+1320    Vessel Shield
+
+1500    Twin Dragon Greatshield
+1510    Tower Shield
+1630    Old Knight Greatshield
+1590    Havel's Greatshield
+1560    Dragonrider Greatshield
+1740    Rebel's Greatshield
+1750    Wicked Eye Greatshield
+1600    Gyrm Greatshield
+1650    Greatshield of Glory
+1640    Drakekeeper's Greatshield
+1620    Pate's Shield
+1570    Mastadon Greatshield
+1610    Pursuer's Greatshield
+1530    Orma's Greatshield
+1540    Reeve's Greatshield
+1550    King's Mirror
+
+#-----------------------------
+# Armor
+#-----------------------------
+1010    Pate's Set
+1020    Black Leather Set
+1030    Rogue Set
+1040    Pharis Set
+1041    Hat with Feather ?
+1050    Knight Set
+1060    Elite Knight Set
+1070    Pointed Hood ?
+1080    Brigand Set
+1100    Imported Set
+1140    Traveling Merchant Set
+1160    Havel's Set    
+1210    Jester's Set
+1230    Astrologist's Set
+1320    Faraam Set
+1330    Black Dragon Set
+1340    Xanthous Set
+1350    Judgement Set
+1360    Aurous Set
+1361    Auruous Set (Transparent)
+1370    Monastery Set
+1380    Empty ?
+1390    Dingy Set (~)
+1450    ?
+1470    Moon Butterfly Set
+1480    Catarina Set
+1490    Alva Set
+1500    Black Witch Set
+1600    Drakeblood Set
+1610    Northwarder Set
+1620    Knight Set
+1630    Crown of the Old Iron King 
+1640    Crown of the Ivory King 
+1650    Crown of the Sunken King 
+1660    Bell Keeper Helm
+1670    Hollow Skin
+1680    Pharros Mask
+1700    Minotaur Helm
+1710    Symbol of Avarice
+2020    Royal Soldier Set
+2021    Royal Soldier Set
+2030    Infantry Set
+2031    Infantry Set
+2060    White Priest Set
+2062    Priestess Set
+2080    Hood with Trailing Back ?
+2110    Steel Set
+2130    Varangian Set
+2180    White Hollow Mage Set
+2182    Black Hollow Mage Set
+2190    ?
+2220    Benhart Set
+2230    Shadow Set
+2240    Manikin Set
+2270    Master's Set
+2271    Master's Set
+2310    Archdrake Set
+2340    Gyrm Set
+2350    Gyrm Warrior Set
+2360    Dark Set
+2460    Neck ?
+2480    Peasant Set
+2481    Peasant Hood
+2510    Ironclad Set
+2512    Old Ironclad Set
+2520    Royal Swordsman Set
+2530    Royal Soldier Set
+2540    Bone King Set
+3010    Heide Set
+3011    Heide Iron Helm
+3040    ?
+3050    Smelter Set
+3060    Alonne Captain Set
+3061    Alonne Knight Set
+3070    Vengarl Set
+3080    ?
+3081    Lion Warrior Set
+3120    Grave Warden Set
+3130    Falconer Set
+3140    Mastadon Set
+3150    Mastadon Set
+3160    Black Set?
+3170    Dragon Acolyte Set
+3190    Alonne Set
+3250    Ruin Set
+3300    Old Knight Set
+3310    Drakekeeper Set
+3320    Throne Defender Set
+3330    Velstadt's Set
+3340    Throne Watcher Set
+5040    Looking Glass Knight Set
+5060    ?
+5090    Leydia Black Set
+5100    ?
+5110    Imperious Set
+5120    Hood ?
+5130    King's Set
+6100    Dragonrider Set
+6180    Executioner Set
+6260    Penal Set
+6510    Fume Sorcerer Set
+6590    Fume Sorcerer Helm
+6650    ?
+6700    Sanctum Priestess Tiara
+6750    Raime's Set
+6770    Knight Helm
+6800    Alonne's Set
+6880    Loyce Set
+6890    Charred Loyce Set
+6900    Ivory King Set
+6940    Hood ?
+7210    ?
+7240    Drangleic Set
+7420    Creighton's Set
+7430    ?
+7440    Insolent Set
+7510    Cale's Set
+7520    Lucatiel's Set
+7521    Lucatiel's Hat (no mask)
+7530    Bellkeeper's Set
+7550    Mad Warrior Set
+7680    Black Set
+7690    Saint's Set
+7700    Hexer's Set
+7710    Chaos Set
+7830    Nahr Alma Set
+7950    Targray's Set

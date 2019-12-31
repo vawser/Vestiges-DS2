@@ -1,0 +1,3 @@
+﻿Spawn Location
+ 1 = Shooter
+ 2 = Parent Expiration

@@ -1,0 +1,14 @@
+b8, b32 - true or false
+fixstr, fixstrW - text
+f32 - real number
+
+u8 - unsigned integer, 0 - 255
+x8 - hex integer, 0x00 - 0xFF
+s8 - signed integer, -128 - 127
+u16 - unsigned integer, 0 - 65,535
+x16 - hex integer, 0x0000 - 0xFFFF
+s16 - signed integer, -32,768 - 32,767
+u32 - unsigned integer, 0 - 4,294,967,295
+x32 - hex integer, 0x00000000 - 0xFFFFFFFF
+s32 - signed integer, -2,147,483,648 - 2,147,483,647
+

@@ -1,0 +1,5 @@
+﻿Apply Type
+ 1 Remove 
+ 2 Overwrite
+ 3 Set and prevent overwriting
+ 4 Stack

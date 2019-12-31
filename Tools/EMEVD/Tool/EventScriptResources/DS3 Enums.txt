@@ -1,0 +1,511 @@
+﻿Enums:
+ON/OFF = {
+ 0: OFF
+ 1: ON
+}
+
+ON/OFF/CHANGE = {
+ 0: OFF
+ 1: ON
+ 2: CHANGE
+}
+
+Target Event Flag Type = {
+ 0: Event Flag
+ 1: Event ID
+ 2: Event ID + Slot Number
+}
+
+Comparison Type = {
+ 0: ==
+ 1: !=
+ 2: >
+ 3: <
+ 4: >=
+ 5: <=
+}
+
+Logical Operation Type = {
+ 0: All ON
+ 1: All OFF
+ 2: Not All OFF
+ 3: Not All ON
+}
+
+Calculation Type = {
+ 0: +
+ 1: -
+ 2: ×
+ 3: ÷
+ 4: mod
+ 5: :=
+}
+
+Condition Group = {
+ -15: OR(15)
+ -14: OR(14)
+ -13: OR(13)
+ -12: OR(12)
+ -11: OR(11)
+ -10: OR(10)
+ -9: OR(09)
+ -8: OR(08)
+ -7: OR(07)
+ -6: OR(06)
+ -5: OR(05)
+ -4: OR(04)
+ -3: OR(03)
+ -2: OR(02)
+ -1: OR(01)
+ 0: MAIN
+ 1: AND(01)
+ 2: AND(02)
+ 3: AND(03)
+ 4: AND(04)
+ 5: AND(05)
+ 6: AND(06)
+ 7: AND(07)
+ 8: AND(08)
+ 9: AND(09)
+ 10: AND(10)
+ 11: AND(11)
+ 12: AND(12)
+ 13: AND(13)
+ 14: AND(14)
+ 15: AND(15)
+}
+
+Count Direction = {
+ 0: Count Up
+ 1: Count Down
+}
+
+Cutscene Play Mode = {
+ 0: Skippable
+ 2: Unskippable
+ 8: Skippable With Fade-Out
+ 10: Unskippable With Fade-Out
+}
+
+BOOL = {
+ 0: FALSE
+ 1: TRUE
+}
+
+○/× = {
+ 0: ×
+ 1: ○
+}
+
+Destruction State = {
+ 0: Undestroyed
+ 1: Destroyed
+}
+
+Inside/Outside State = {
+ 0: Outside
+ 1: Inside
+}
+
+Condition State = {
+ 0: FAIL
+ 1: PASS
+}
+
+Death State = {
+ 0: Alive
+ 1: Dead
+}
+
+Ownership State = {
+ 0: Doesn't Own
+ 1: Owns
+}
+
+Event End Type = {
+ 0: End
+ 1: Restart
+}
+
+Team Type = {
+ -1: Default
+ 0: Disabled
+ 1: Human
+ 2: White Phantom
+ 3: Black Phantom
+ 4: Hollow
+ 5: Wandering Phantom
+ 6: Enemy
+ 7: Strong Enemy
+ 8: Ally
+ 9: Hostile Ally
+ 10: Decoy Enemy
+ 11: Child of Red
+ 12: Friendly Enemy
+ 13: Invader
+ 19: Host
+ 20: Co-op
+ 21: Hostile
+ 22: Wandering Phantom
+ 23: Enemy 1
+ 24: Enemy 2
+ 25: Strong Enemy 1
+ 26: Friendly NPC
+ 27: Hostile NPC
+ 28: Co-op NPC
+ 29: Indiscriminate
+ 30: Object
+ 31: White Berserker
+ 32: Red Berserker
+ 33: Arch Enemy Team
+}
+
+Target Entity Type = {
+ 0: Object
+ 1: Area
+ 2: Character
+}
+
+Disabled/Enabled = {
+ 0: Disabled
+ 1: Enabled
+}
+
+Bitop Type = {
+ 0: Add
+ 1: Delete
+ 2: Invert
+}
+
+Navimesh Type = {
+ 1: Solid
+ 2: Exit
+ 4: Obstacle
+ 8: Wall
+ 64: Landing Point
+ 128: Event
+ 256: Cliff
+ 512: Open Space
+ 1024: Ladder
+ 2048: Hole
+ 4096: Door
+ 8192: Closed Door
+ 32: Wall-touching Floor
+}
+
+Prompt Type = {
+ 0: YES/NO
+ 1: OK/CANCEL
+}
+
+Number of Options = {
+ 1: 1 Button
+ 2: 2 Buttons
+ 6: No Button
+}
+
+Event State = {
+ 0: Completed
+ 1: Restart
+ 2: Waiting
+ 3: Running
+}
+
+Sound Type = {
+ 0: a: Environmental Sound
+ 1: c: Character Motion
+ 2: f: Menu SE
+ 3: o: Object
+ 4: p: Cutscene SE
+ 5: s: SFX
+ 6: m: BGM
+ 7: v: Voice
+ 8: x: Depends On Floor Material
+ 9: b: Depends On Armor Material
+ 10: g: Ghost
+}
+
+Damage Target Type = {
+ 1: Character
+ 2: Map
+ 3: Character & Map
+}
+
+Item Type = {
+ 0: Weapon
+ 1: Armor
+ 2: Ring
+ 3: Goods
+}
+
+Reaction Type = {
+ 48: Hollow & Human
+ 255: All
+}
+
+Call Type = {
+ 0: Object Action
+ 1: Wandering System
+ 255: Other
+}
+
+Target Type = {
+ 0: Alive
+ 1: White Phantom
+ 2: Black Phantom
+ 8: Hollow
+ 12: Invader
+}
+
+Statue Type = {
+ 0: Stone Statue
+ 1: Crystal Statue
+}
+
+Text Banner Type = {
+ 1: Heir of Fire Destroyed
+ 2: Dead
+ 3: Revival
+ 4: Soul Recovery
+ 5: Target Defeated
+ 6: Phantom Death
+ 7: Black Phantom Death
+ 8: Map Name
+ 12: Begin Match
+ 14: Hollow Arena Draw
+ 15: Hollow Arena Win
+ 16: Hollow Arena Loss
+ 17: UNKNOWN
+ 19: Duty Fulfilled
+ 22: Lord of Cinder Fallen
+}
+
+Multiplayer State = {
+ 0: Host
+ 1: Client
+ 2: Trying to Create Session
+ 3: Trying to Join Session
+ 4: Leaving Session
+ 5: Failed to Create Session
+}
+
+NPC Part Type = {
+ 1: Part 1
+ 2: Part 2
+ 3: Part 3
+ 4: Part 4
+ 5: Part 5
+ 6: Part 6
+ 7: Part 7
+ 8: Part 8
+ 9: Part 9
+ 10: Part 10
+ 11: Part 11
+ 12: Part 12
+ 13: Part 13
+ 14: Part 14
+ 15: Part 15
+ 16: Part 16
+ 17: Part 17
+ 18: Part 18
+ 19: Part 19
+ 20: Part 20
+ 21: Part 21
+ 22: Part 22
+ 23: Part 23
+ 24: Part 24
+ 25: Part 25
+ 26: Part 26
+ 27: Part 27
+ 28: Part 28
+ 29: Part 29
+ 30: Part 30
+ 31: Weak Point
+}
+
+Authority Level = {
+ 0: Normal
+ 4095: Forced
+}
+
+Handle Respawn Type = {
+ 0: Ignore
+ 1: Restart Event
+ 2: End Event
+}
+
+AI State Type = {
+ 0: Normal
+ 1: Recognition
+ 2: Alert
+ 3: Combat
+}
+
+Summon Sign Type = {
+ 0: White Sign
+ 1: Black Sign
+ 2: Red Sign
+ 3: Detection Sign
+ 4: White Relief Sign
+ 5: Black Relief Sign
+}
+
+Class Type = {
+ 0: Warrior
+ 1: Knight
+ 2: Wanderer
+ 3: Thief
+ 4: Bandit
+ 5: Hunter
+ 6: Sorcerer
+ 7: Pyromancer
+ 8: Cleric
+ 9: Deprived
+ 20: Temp: Warrior
+ 21: Temp: Knight
+ 22: Temp: Sorcerer
+ 23: Temp: Pyromancer
+ 24: Chi: Warrior
+ 25: Chi: Knight
+ 26: Chi: Sorcerer
+ 27: Chi: Pyromancer
+}
+
+Character Update Frequency = {
+ -1: No Update
+ 0: Always Update
+ 2: Every 2 Frames
+ 5: Every 5 Frames
+}
+
+Tendency Type = {
+ 0: White Tendency
+ 1: Black Tendency
+}
+
+Interpolation = {
+ 0: Interpolated
+ 1: Uninterpolated
+}
+
+Display State = {
+ 0: Hide
+ 1: Display
+}
+
+Add/Delete = {
+ 0: Delete
+ 1: Add
+}
+
+Damage Type = {
+ 0: Unspecified
+ 1: Fire
+ 2: Magic
+ 3: Lightning
+ 4: Blunt
+ 5: Slash
+ 6: Thrust
+ 7: None
+ 8: All Physical
+}
+
+Label = {
+ 0: LABEL 0
+ 1: LABEL 1
+ 2: LABEL 2
+ 3: LABEL 3
+ 4: LABEL 4
+ 5: LABEL 5
+ 6: LABEL 6
+ 7: LABEL 7
+ 8: LABEL 8
+ 9: LABEL 9
+ 10: LABEL 10
+ 11: LABEL 11
+ 12: LABEL 12
+ 13: LABEL 13
+ 14: LABEL 14
+ 15: LABEL 15
+ 16: LABEL 16
+ 17: LABEL 17
+ 18: LABEL 18
+ 19: LABEL 19
+ 20: LABEL 20
+}
+
+Armor Type = {
+ 0: Head
+ 1: Body
+ 2: Arms
+ 3: Legs
+}
+
+Player PlayLog Parameter = {
+ 0: Primary Parameters
+ 1: Temporary Parameters
+ 2: Weapon
+ 3: Armor
+}
+
+PlayLog Multiplayer Type = {
+ 0: Host Only
+ 1: Guest Only
+ 2: Both
+}
+
+Singleplayer Summon Sign Type = {
+ 0: Normal Co-op
+ 1: Scripted Invasion
+ 2: Scripted Invasion (Wide Area)
+}
+
+Gender = {
+ 0: Male
+ 1: Female
+}
+
+Door State = {
+ 0: Door Closed
+ 1: Door Open
+ 2: Door Closing
+ 3: Door Opening
+}
+
+Client Type = {
+ 0: Co-op
+ 1: Invader
+ 2: Betrayal Invader
+}
+
+Generic Dialog Result = {
+ 0: Cancel
+ 1: Left
+ 2: Right
+ 3: Leave
+}
+
+PlayGo State = {
+ 0: Downloaded 1st Chunk
+ 1: BD Installing
+ 2: Installed
+}
+
+Hollow Arena Match Type = {
+ 0: Duel
+ 1: 2 Player Brawl
+ 2: 4 Player Brawl
+ 3: 6 Player Brawl
+ 4: 2 Versus 2
+ 5: 3 Versus 3
+}
+
+Hollow Arena Result = {
+ 0: Win
+ 1: Draw
+}
+
+Gender = {
+ 0: Male
+ 1: Female
+}

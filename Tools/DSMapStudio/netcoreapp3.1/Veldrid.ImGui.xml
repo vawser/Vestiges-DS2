@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Veldrid.ImGui</name>
+    </assembly>
+    <members>
+        <member name="T:Veldrid.ColorSpaceHandling">
+            <summary>
+            Identifies the kind of color space handling that an <see cref="T:Veldrid.ImGuiRenderer"/> uses.
+            </summary>
+        </member>
+        <member name="F:Veldrid.ColorSpaceHandling.Legacy">
+            <summary>
+            Legacy-style color space handling. In this mode, the renderer will not convert sRGB vertex colors into linear space
+            before blending them.
+            </summary>
+        </member>
+        <member name="F:Veldrid.ColorSpaceHandling.Linear">
+            <summary>
+            Improved color space handling. In this mode, the render will convert sRGB vertex colors into linear space before
+            blending them with colors from user Textures.
+            </summary>
+        </member>
+        <member name="T:Veldrid.ImGuiRenderer">
+            <summary>
+            Can render draw lists produced by ImGui.
+            Also provides functions for updating ImGui input.
+            </summary>
+        </member>
+        <member name="M:Veldrid.ImGuiRenderer.#ctor(Veldrid.GraphicsDevice,Veldrid.OutputDescription,System.Int32,System.Int32)">
+            <summary>
+            Constructs a new ImGuiRenderer.
+            </summary>
+            <param name="gd">The GraphicsDevice used to create and update resources.</param>
+            <param name="outputDescription">The output format.</param>
+            <param name="width">The initial width of the rendering target. Can be resized.</param>
+            <param name="height">The initial height of the rendering target. Can be resized.</param>
+        </member>
+        <member name="M:Veldrid.ImGuiRenderer.#ctor(Veldrid.GraphicsDevice,Veldrid.OutputDescription,System.Int32,System.Int32,Veldrid.ColorSpaceHandling)">
+            <summary>
+            Constructs a new ImGuiRenderer.
+            </summary>
+            <param name="gd">The GraphicsDevice used to create and update resources.</param>
+            <param name="outputDescription">The output format.</param>
+            <param name="width">The initial width of the rendering target. Can be resized.</param>
+            <param name="height">The initial height of the rendering target. Can be resized.</param>
+            <param name="colorSpaceHandling">Identifies how the renderer should treat vertex colors.</param>
+        </member>
+        <member name="M:Veldrid.ImGuiRenderer.GetOrCreateImGuiBinding(Veldrid.ResourceFactory,Veldrid.TextureView)">
+            <summary>
+            Gets or creates a handle for a texture to be drawn with ImGui.
+            Pass the returned handle to Image() or ImageButton().
+            </summary>
+        </member>
+        <member name="M:Veldrid.ImGuiRenderer.GetOrCreateImGuiBinding(Veldrid.ResourceFactory,Veldrid.Texture)">
+            <summary>
+            Gets or creates a handle for a texture to be drawn with ImGui.
+            Pass the returned handle to Image() or ImageButton().
+            </summary>
+        </member>
+        <member name="M:Veldrid.ImGuiRenderer.GetImageResourceSet(System.IntPtr)">
+            <summary>
+            Retrieves the shader texture binding for the given helper handle.
+            </summary>
+        </member>
+        <member name="M:Veldrid.ImGuiRenderer.RecreateFontDeviceTexture">
+            <summary>
+            Recreates the device texture used to render text.
+            </summary>
+        </member>
+        <member name="M:Veldrid.ImGuiRenderer.RecreateFontDeviceTexture(Veldrid.GraphicsDevice)">
+            <summary>
+            Recreates the device texture used to render text.
+            </summary>
+        </member>
+        <member name="M:Veldrid.ImGuiRenderer.Render(Veldrid.GraphicsDevice,Veldrid.CommandList)">
+            <summary>
+            Renders the ImGui draw list data.
+            </summary>
+        </member>
+        <member name="M:Veldrid.ImGuiRenderer.Update(System.Single,Veldrid.InputSnapshot)">
+            <summary>
+            Updates ImGui input and IO configuration state.
+            </summary>
+        </member>
+        <member name="M:Veldrid.ImGuiRenderer.BeginUpdate(System.Single)">
+            <summary>
+            Called before we handle the input in <see cref="M:Veldrid.ImGuiRenderer.Update(System.Single,Veldrid.InputSnapshot)"/>.
+            This render ImGui and update the state.
+            </summary>
+        </member>
+        <member name="M:Veldrid.ImGuiRenderer.EndUpdate">
+            <summary>
+            Called at the end of <see cref="M:Veldrid.ImGuiRenderer.Update(System.Single,Veldrid.InputSnapshot)"/>.
+            This tells ImGui that we are on the next frame.
+            </summary>
+        </member>
+        <member name="M:Veldrid.ImGuiRenderer.SetPerFrameImGuiData(System.Single)">
+            <summary>
+            Sets per-frame data based on the associated window.
+            This is called by Update(float).
+            </summary>
+        </member>
+        <member name="M:Veldrid.ImGuiRenderer.Dispose">
+            <summary>
+            Frees all graphics resources used by the renderer.
+            </summary>
+        </member>
+    </members>
+</doc>

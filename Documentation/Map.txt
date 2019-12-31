@@ -1,52 +1,27 @@
 ﻿Things Betwixt:             10 02 00 00
-
 Majula:                     10 04 00 00
-
 Forest of Fallen Giants:    10 10 00 00
-
 Brightstone Cove:           10 14 00 00
-
 Aldia's Keep:               10 15 00 00
-
 Lost Bastille:              10 16 00 00
-
 Harvest Valley:             10 17 00 00
-
 No Man's Wharf:             10 18 00 00
-
 Iron Keep:                  10 19 00 00
-
 Huntsman's Copse:           10 23 00 00
-
 The Gutter:                 10 25 00 00
-
 Dragon Aerie:               10 27 00 00
-
 Path to Shaded Woods:       10 29 00 00
-
 Unseen Path to Heide:       10 30 00 00
-
 Heide's Tower of Flame:     10 31 00 00
-
 Shaded Woods:               10 32 00 00
-
 Doors of Pharros:           10 33 00 00
-
 Grave of Saints:            10 34 00 00
-
 Giant Memories:             20 10 00 00
-
 Shrine of Amana:            20 11 00 00
-
 Drangleic Castle:           20 21 00 00
-
 Undead Crypt:               20 24 00 00
-
 Crown of the Shulva:        50 35 00 00
-
 Crown of the Iron King:     50 36 00 00
-
 Crown of the Ivory King:    50 37 00 00
-
 Undead Crypt Tomb:          50 38 00 00
 

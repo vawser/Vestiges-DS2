@@ -2,11 +2,11 @@
 1020100 [Unknown] None
 1020200 [Unknown] None
 1020300 [Unknown] Petrified Something
-1040000 [Unknown] Human Effigy
-1040100 [Unknown] Cracked Red Eye Orb
+1040000 [Things Betwixt - Skeleton] Human Effigy
+1040100 [Things Betwixt - Small Boar] Cracked Red Eye Orb
 1040200 [Unknown] None
-1040300 [Unknown] Cracked Red Eye Orb
-1040400 [Unknown] Cracked Red Eye Orb
+1040300 [Things Betwixt - Undead Boar] Cracked Red Eye Orb
+1040400 [Things Betwixt - Giant Undead Boar] Cracked Red Eye Orb
 1040500 [Unknown] Rusted Coin
 1100000 [Unknown] Cracked Red Eye Orb
 1100100 [Unknown] Hollow Soldier Set, Winged Spear, Hollow Soldier Shield, Firebomb

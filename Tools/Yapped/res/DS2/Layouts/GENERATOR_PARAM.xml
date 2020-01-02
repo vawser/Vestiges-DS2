@@ -2,26 +2,11 @@
 <layout>
   <entry>
     <name>Unk00</name>
-    <type>u8</type>
+    <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk01</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk02</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk03</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk04</name>
+    <name>DeathEventID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
@@ -32,36 +17,22 @@
   </entry>
   <entry>
     <name>Unk0C</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk0D</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk0E</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk0F</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>EventFlagID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk14</name>
+    <name>ApperanceEventID</name>
+    <type>u32</type>
+    <default>0</default>
+    <description>1 through to 7 are used to determine NG+ apperance.</description>
+  </entry>
+  <entry>
+    <name>PreviousHostileEventID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk18</name>
+    <name>PreviousHostileEventID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
@@ -120,14 +91,31 @@
     <type>u32</type>
     <default>0</default>
   </entry>
+  
   <entry>
     <name>Unk48</name>
-    <type>u32</type>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
+    <name>Unk49</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk4A</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk4B</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  
+  <entry>
     <name>Unk4C</name>
-    <type>u32</type>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
@@ -141,27 +129,27 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk58</name>
+    <name>AIThinkID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk5C</name>
+    <name>ConversationEventID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>EventFlagID</name>
+    <name>ActivationEventID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk64</name>
+    <name>HostileEventID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk68</name>
+    <name>HostileEventID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
@@ -201,23 +189,23 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk88</name>
+    <name>ItemLotID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk8C</name>
+    <name>ItemLotID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk90</name>
+    <name>GraveEventID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
     <name>Unk94</name>
-    <type>u32</type>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>

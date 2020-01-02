@@ -40,6 +40,15 @@ Does the AI value determine the last two digits to look for in the EnemyBehavior
 #-----------------------------------------
 # TODO
 #-----------------------------------------
-Finish labelling the generator params
-Label some of the important map object params
-Archive the names for future usage
+event_m10_02_x4(
+    z66=102010100, Ghost Appearance: Area Other Flag
+    z67=102020101, 
+    z68=104100, 
+    z69=10024300, 
+    z70=111152, Grave event ID
+    npc1=7230)
+    
+    event_m10_02_x1(
+    z71=104100, Global event flag
+    z72=10024300, 
+    z73=16, z74=7230)

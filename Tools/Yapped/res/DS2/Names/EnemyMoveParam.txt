@@ -29,7 +29,7 @@
 139000 Artificial Undead
 141000 Undead Aberration
 146000 Headless Vengarl
-147000 Undead with Head Bandage
+147000 Undead Supplicant
 148000 Undead Peasant
 149000 Undead Steelworker
 150000 Stone Knight
@@ -38,7 +38,7 @@
 153000 Syan Knight
 154000 Skeleton Lord
 155000 Amana Aberration
-157000 Skeleton Lords - Skeleton
+157000 Dual-wielding Skeleton
 201000 Small Boar
 201100 Small Boar
 202000 Undead Boar
@@ -91,7 +91,7 @@
 332000 Throne Defender
 333000 Velstadt
 334000 Throne Watcher
-337000 Abandoned Hollow
+337000 Captive Undead
 500000 Covetous Demon
 501000 Mytha, the Baneful Queen
 502000 Manscorpion Tark
@@ -148,13 +148,17 @@
 688000 Loyce Knight
 689000 Charred Loyce Knight
 690000 Burnt Ivory King
-700000 Shanalotte
+692000 Aldia, Scholar of the First Sin
+700000 Emerald Herald
 704500 Laddersmith Gilligan
 705000 Strowen
 721100 Chancellor Wellager
 723000 Milibeth
 724000 Captain Drummond
 725000 Darkdiver Grandahl
+726000 Lonesome Gavlan
+730000 Looking Glass Phantom
+732000 Unknown NPC
 742000 Creighton the Wanderer
 743000 Benhart of Jugo
 744000 Mild Mannered Pate
@@ -163,12 +167,20 @@
 753000 Bell Keeper
 754000 Merchant Hag Melentia
 760000 Milfanito
+760200 Imprisoned Milfanito
+761000 Maughlin the Armourer
 762000 Stone Trader Chloanne
+763000 Rosabeth of Melfia
 764000 Blacksmith Lenigrast
+766000 Carhillion of the Fold
 768000 Straid of Olaphis
 769000 Licia of Lindeldt
 770000 Felkin the Outcast
 771000 Royal Sorcerer Navlaan
+772000 Magerold of Lanafir
+776000 Weaponsmith Ornifex
 777000 Sweet Shalquoir
 783000 Titchy Gren
+784000 Cromwell the Pardoner
 785000 Blue Sentinel Targray
+786000 Dyna & Tillo

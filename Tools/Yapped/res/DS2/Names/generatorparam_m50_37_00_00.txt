@@ -1,0 +1,224 @@
+340 Retainer
+342 Voice Marker (Alsanna)
+343 Voice Marker (Alsanna)
+344 Voice Marker (Alsanna)
+760 Castaway Witch Donna
+761 Hexer Nicholai
+762 Holy Knight Aurheim
+770 Lucatiel of Mirrah
+771 Twiggy Shei
+772 Masterless Glencour
+773 Steelheart Ellie
+774 Vengarl
+775 Abbess Feeva
+776 Manhunter O'Harrah
+777 Sellsword Luet
+790 Loyce Knight
+791 Loyce Knight
+792 Loyce Knight
+794 Loyce Knight
+795 Loyce Knight
+796 Loyce Knight
+797 Loyce Knight
+907 Lud, the King's Pet
+908 Burnt Ivory King
+909 Aava, the King's Pet
+910 Aava, the King's Pet
+980 Forlorn (Scythe)
+1000 Spellsword
+1001 Spellsword
+1002 Spellsword
+1003 Spellsword
+1010 Spellsword
+1100 Retainer
+1200 Spellsword
+1201 Spellsword
+1210 Stray Dog
+1211 Stray Dog
+1212 Stray Dog
+1300 Retainer
+1400 Retainer
+1402 Retainer
+1410 Spellsword
+1411 Spellsword
+1412 Spellsword
+1420 Spellsword
+1502 Retainer
+1510 Spellsword
+1511 Spellsword
+1600 Spellsword
+1610 Spellsword
+1611 Spellsword
+1613 Spellsword
+1614 Spellsword
+1615 Spellsword
+1620 Retainer
+1621 Retainer
+1630 Ice Golem
+1640 Stray Dog
+1710 Retainer
+1800 Flexile Sentry
+1801 Flexile Sentry
+1810 Retainer
+1811 Retainer
+1812 Retainer
+1813 Retainer
+1814 Retainer
+1815 Retainer
+1816 Retainer
+1900 Spellsword
+1901 Spellsword
+1911 Retainer
+1912 Retainer
+1913 Retainer
+1920 Undead Laborer
+1923 Undead Laborer
+1930 Ice Golem
+1931 Ice Golem
+1932 Ice Golem
+2000 Ice Golem
+2001 Ice Golem
+2010 Spellsword
+2020 Retainer
+2021 Retainer
+2022 Retainer
+2023 Retainer
+2030 Ice Golem
+2031 Ice Golem
+2100 Rampart Golem
+2200 Rampart Golem
+2210 Undead Laborer
+2212 Undead Laborer
+2214 Undead Laborer
+2300 Mimic
+2310 Spellsword
+2400 Rampart Golem
+2410 Retainer
+2500 Rampart Golem
+2602 Spellsword
+2620 Wall Watchman
+2621 Wall Watchman
+2630 Retainer
+2700 Wall Watchman
+2800 Spellsword
+2801 Spellsword
+2810 Stray Dog
+2811 Stray Dog
+2812 Stray Dog
+2813 Stray Dog
+2814 Stray Dog
+2900 Rampart Golem
+2910 Rampart Golem
+3000 Retainer
+3010 Facsimile Giant
+3011 Facsimile Giant
+3020 Mimic
+3100 Spellsword
+3101 Spellsword
+3102 Spellsword
+3110 Retainer
+3111 Retainer
+3200 Retainer
+3400 Spellsword
+3700 Facsimile Giant
+3701 Facsimile Giant
+3702 Facsimile Giant
+3710 Spellsword
+3810 Rampart Golem
+3811 Rampart Golem
+3812 Spellsword
+3813 Spellsword
+3900 Retainer
+3901 Spellsword
+3902 Spellsword
+3911 Facsimile Giant
+3912 Facsimile Giant
+4110 Charred Loyce Knight
+4111 Charred Loyce Knight
+4112 Charred Loyce Knight
+4113 Charred Loyce Knight
+4114 Charred Loyce Knight
+4115 Charred Loyce Knight
+4116 Charred Loyce Knight
+4117 Charred Loyce Knight
+4118 Charred Loyce Knight
+4119 Charred Loyce Knight
+4120 Charred Loyce Knight
+4121 Charred Loyce Knight
+5000 Rampart Hedgehog
+5100 Rampart Hedgehog
+5101 Rampart Hedgehog
+5102 Rampart Hedgehog
+5200 Rampart Hedgehog
+5201 Rampart Hedgehog
+5202 Rampart Hedgehog
+5203 Rampart Hedgehog
+5210 Forest Spirit
+5211 Forest Spirit
+5212 Forest Spirit
+5320 Teeth-chattering Dan
+5330 Rampart Hedgehog
+5500 Facsimile Giant
+5501 Facsimile Giant
+5503 Facsimile Giant
+5504 Facsimile Giant
+5510 Rampart Hedgehog
+5511 Rampart Hedgehog
+5512 Rampart Hedgehog
+5513 Rampart Hedgehog
+5514 Rampart Hedgehog
+5700 Ice Golem
+5701 Ice Golem
+5702 Ice Golem
+5710 Rampart Golem
+5730 Rampart Hedgehog
+5731 Rampart Hedgehog
+5732 Rampart Hedgehog
+5800 Ice Golem
+5801 Ice Golem
+5802 Ice Golem
+5900 Covetous Demon (snow)
+5910 Rampart Hedgehog
+5911 Rampart Hedgehog
+5912 Rampart Hedgehog
+5913 Rampart Hedgehog
+6000 Spellsword
+6001 Spellsword
+6002 Spellsword
+6003 Spellsword
+6004 Spellsword
+6010 Spellsword
+6100 Spellsword
+6110 Rampart Golem
+6200 Stray Dog
+6201 Stray Dog
+6202 Stray Dog
+6203 Stray Dog
+6204 Stray Dog
+6205 Stray Dog
+6206 Stray Dog
+6300 Rampart Golem
+7000 Frozen Reindeer
+7001 Frozen Reindeer
+7004 Frozen Reindeer
+7005 Frozen Reindeer
+7008 Frozen Reindeer
+7009 Frozen Reindeer
+7010 Frozen Reindeer
+7012 Frozen Reindeer
+7020 Frozen Reindeer
+7101 Undead Laborer
+7102 Undead Laborer
+7103 Undead Laborer
+7104 Undead Laborer
+7105 Undead Laborer
+7107 Undead Laborer
+7108 Undead Laborer
+7200 Rampart Golem
+7201 Rampart Golem
+7202 Rampart Golem
+7505 Unknown Phantom
+7506 Unknown Phantom
+7600 Unknown Phantom
+7602 Unknown Phantom
+7603 Unknown Phantom

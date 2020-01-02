@@ -238,6 +238,3 @@
 - Added Bat Staff treasure.
 - Added Lizard Staff treasure.
 
-#-----------------------------------------
-# TODO
-#-----------------------------------------

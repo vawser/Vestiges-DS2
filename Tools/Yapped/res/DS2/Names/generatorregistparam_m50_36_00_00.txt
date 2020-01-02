@@ -94,7 +94,7 @@
 82100042 Evangelist Scion Waslo
 82100043 Swashbuckling Matelas
 82100044 Evangelist Scion Waslo
-84000000 Altar of Sunlight
+84000000 Voice Marker
 87500000 Steel-willed Lorrie
 87500100 Steel-willed Lorrie
 87600000 Drifter Swordsman Aidel

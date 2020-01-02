@@ -28,4 +28,4 @@
 83710001 Foreign Wanderer
 83720000 Greatsword Foreigner Phantom
 83720100 Goblin Phantom
-90000000 Player Character
+90000000 Player Character - Start Sequence

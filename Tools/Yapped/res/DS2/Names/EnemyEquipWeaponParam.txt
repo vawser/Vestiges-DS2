@@ -80,10 +80,10 @@
 12500200 Rupturing Hollow
 12500300 Rupturing Hollow
 12500400 Rupturing Hollow
-12700000 Abandoned Hollow
-12701000 Abandoned Hollow
-12701100 Abandoned Hollow
-12702000 Abandoned Hollow
+12700000 Captive Undead
+12701000 Captive Undead
+12701100 Captive Undead
+12702000 Captive Undead
 12900000 Forest Spirit
 12901000 Forest Spirit
 13100000 Lindelt Cleric
@@ -111,7 +111,7 @@
 14600000 Headless Vengarl
 14601000 Headless Vengarl
 14602000 Headless Vengarl
-14700000 Undead with Head Bandage
+14700000 Undead Supplicant
 14800000 Undead Peasant
 14801000 Undead Peasant
 14802000 Undead Peasant
@@ -134,10 +134,10 @@
 15401000 Skeleton Lord
 15402000 Skeleton Lord
 15500000 Amana Aberration
-15700000 Skeleton Lords - Skeleton
-15701000 Skeleton Lords - Skeleton
-15702000 Skeleton Lords - Skeleton
-15703000 Skeleton Lords - Skeleton
+15700000 Dual-wielding Skeleton
+15701000 Dual-wielding Skeleton
+15702000 Dual-wielding Skeleton
+15703000 Dual-wielding Skeleton
 20100000 Small Boar
 20110000 Small Boar
 20200000 Undead Boar
@@ -229,16 +229,17 @@
 33201000 Throne Defender
 33300000 Velstadt
 33400000 Throne Watcher
-33700000 Abandoned Hollow
-33701000 Abandoned Hollow
-33702000 Abandoned Hollow
-33702001 Abandoned Hollow
+33700000 Captive Undead
+33701000 Captive Undead
+33702000 Captive Undead
+33702001 Captive Undead
 50000000 Covetous Demon
 50100000 Mytha, the Baneful Queen
 50200000 Manscorpion Tark
 50300000 Scorpioness Najka
-50400000 Mirror Knight
+50400000 Looking Glass Knight
 50610000 Darklurker
+50620000 Darklurker (Clone)
 50650000 Grave Warden Agdayne
 50900000 Leydia Witch
 51100000 Imperious Knight
@@ -330,8 +331,12 @@
 68903000 Charred Loyce Knight
 69000000 Burnt Ivory King
 69001000 Burnt Ivory King
-70050000 Shanalotte
-70051000 Shanalotte
+69200000 Aldia, Scholar of the First Sin
+69201000 Aldia, Scholar of the First Sin
+69202000 Aldia, Scholar of the First Sin
+69203000 Aldia, Scholar of the First Sin
+70050000 Emerald Herald
+70051000 Emerald Herald
 70360000 Nashandra (human)
 70450000 Laddersmith Gilligan
 70451000 Laddersmith Gilligan
@@ -344,14 +349,20 @@
 72301000 Milibeth
 72400000 Captain Drummond
 72500000 Darkdiver Grandahl
+73000000 Looking Glass Phantom (Faraam)
+73001000 Looking Glass Phantom (Faraam)
+73002000 Looking Glass Phantom (Faraam)
+73100000 Looking Glass Phantom (Knight)
+73101000 Looking Glass Phantom (Knight)
+73102000 Looking Glass Phantom (Knight)
 74200000 Creighton the Wanderer
 74201000 Creighton the Wanderer
 74300000 Benhart of Jugo
 74300100 Benhart of Jugo
 74301000 Benhart of Jugo
 74400000 Mild Mannered Pate
-75100000 Chainmail Man with Katana
-75200000 Aslatiel of Mirrah
+75100000 Cartographer Cale
+75200000 Lucatiel of Mirrah
 75300000 Bell Keeper
 75300001 Bell Keeper
 75301000 Bell Keeper
@@ -362,18 +373,27 @@
 76020000 Milfanito
 76030000 Milfanito
 76040000 Milfanito
+76100000 Maughlin the Armourer
+76101000 Maughlin the Armourer
 76200000 Stone Trader Chloanne
+76300000 Rosabeth of Melfia
+76301000 Rosabeth of Melfia
 76400000 Blacksmith Lenigrast
 76401000 Blacksmith Lenigrast
 76430000 Steady Hand McDuff
 76431000 Steady Hand McDuff
+76600000 Carhillion of the Fold
+76601000 Carhillion of the Fold
 76800000 Straid of Olaphis
 76900000 Licia of Lindeldt
 77000000 Felkin the Outcast
 77001000 Felkin the Outcast
 77100000 Royal Sorcerer Navlaan
+77200000 Magerold of Lanafir
 77700000 Sweet Shalquoir
 77701000 Sweet Shalquoir
 78300000 Titchy Gren
+78400000 Cromwell the Pardoner
 78500000 Blue Sentinel Targray
 78501000 Blue Sentinel Targray
+78600000 Dyna & Tillo

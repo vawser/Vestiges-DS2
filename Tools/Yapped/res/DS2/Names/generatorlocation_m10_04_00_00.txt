@@ -1,0 +1,56 @@
+45 Laddersmith Gilligan
+46 Laddersmith Gilligan
+47 Laddersmith Gilligan
+60 Benhart of Jugo
+85 Cartographer Cale
+86 Cartographer Cale
+100 Crestfallen Saulden
+101 Crestfallen Saulden
+105 Maughlin the Armourer
+106 Maughlin the Armourer
+107 Maughlin the Armourer
+108 Maughlin the Armourer
+110 Stone Trader Chloanne
+111 Stone Trader Chloanne
+115 Rosabeth of Melfia
+116 Rosabeth of Melfia
+120 Blacksmith Lenigrast
+121 Blacksmith Lenigrast
+122 Blacksmith Lenigrast
+135 Carhillion of the Fold
+136 Carhillion of the Fold
+150 Licia of Lindeldt
+151 Licia of Lindeldt
+152 Licia of Lindeldt
+205 Emerald Herald
+207 Emerald Herald
+260 Merchant Hag Melentia
+261 Merchant Hag Melentia
+270 Sweet Shalquoir
+400 Emerald Herald
+401 Emerald Herald
+402 Emerald Herald
+405 Emerald Herald
+410 Sweet Shalquoir
+413 Sweet Shalquoir
+414 Sweet Shalquoir
+415 Sweet Shalquoir
+1000 Small Boar
+1001 Small Boar
+1002 Small Boar
+1010 Undead Boar
+1011 Undead Boar
+1020 Giant Undead Boar
+1100 Skeleton
+1101 Skeleton
+1102 Skeleton
+1103 Armored Skeleton
+1104 Armored Skeleton
+1105 Armored Skeleton
+1106 Skeleton
+1107 Skeleton
+2000 Mimic
+3101 Foreign Wanderer
+3230 Greatsword Foreigner Phantom
+4000 Foreign Wanderer Phantom
+9000 Voice Marker

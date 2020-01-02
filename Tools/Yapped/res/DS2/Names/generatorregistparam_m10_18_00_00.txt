@@ -21,7 +21,7 @@
 11300123 Varangian Sailor
 12300200 Suspicious Shadow
 12302200 Suspicious Shadow
-12701100 Abandoned Hollow
+12701100 Captive Undead
 21300000 Crystal Lizard
 21700000 Dark Stalker
 22700000 Stray Dog

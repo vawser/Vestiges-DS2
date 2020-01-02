@@ -6,12 +6,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Self Effect</name>
+    <name>Damage ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk08</name>
+    <name>Base Damage ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -47,7 +47,22 @@
   </entry>
   <entry>
     <name>Unk24</name>
-    <type>s32</type>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk25</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk26</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk27</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
@@ -62,7 +77,22 @@
   </entry>
   <entry>
     <name>Unk30</name>
-    <type>s32</type>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk31</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk32</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk33</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>

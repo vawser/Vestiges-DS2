@@ -31,12 +31,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Bullet ID</name>
+    <name>Unknown ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>Bullet ID</name>
+    <name>Unknown ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
@@ -51,12 +51,12 @@
     <default>-1</default>
   </entry>
   <entry>
-    <name>Unk1C</name>
+    <name>Unknown ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>Unk20</name>
+    <name>Unknown ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
@@ -76,12 +76,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk30</name>
+    <name>Unknown ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>Unk34</name>
+    <name>Unknown ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
@@ -101,12 +101,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk44</name>
+    <name>Unknown ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>Unk48</name>
+    <name>Unknown ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
@@ -126,12 +126,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk58</name>
+    <name>Unknown ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>Unk5C</name>
+    <name>Unknown ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
@@ -151,12 +151,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk6C</name>
+    <name>Unknown ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>Unk70</name>
+    <name>Unknown ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
@@ -176,12 +176,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk80</name>
+    <name>Unknown ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>Unk84</name>
+    <name>Unknown ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
@@ -201,12 +201,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk94</name>
+    <name>Unknown ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>Unk98</name>
+    <name>Unknown ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
@@ -226,12 +226,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkA8</name>
+    <name>Unknown ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>UnkAC</name>
+    <name>Unknown ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
@@ -405,12 +405,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk100</name>
+    <name>Unknown ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>
   <entry>
-    <name>Unk104</name>
+    <name>Unknown ID</name>
     <type>s32</type>
     <default>-1</default>
   </entry>

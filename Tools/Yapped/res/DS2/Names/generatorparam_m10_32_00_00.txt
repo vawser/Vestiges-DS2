@@ -1,0 +1,71 @@
+255 Vengarl
+257 Vengarl
+265 Weaponsmith Ornifex
+266 Weaponsmith Ornifex
+325 Manscorpion Tark
+326 Manscorpion Tark
+626 Manscorpion Tark
+627 Bradley of the Old Guard
+824 Scorpioness Najka
+956 Forlorn
+1025 Forest Grotesque
+1026 Forest Grotesque
+1100 Forest Grotesque
+1101 Forest Grotesque
+1102 Forest Grotesque
+1103 Forest Grotesque
+1110 Forest Grotesque
+1111 Forest Grotesque
+1112 Forest Grotesque
+1113 Forest Grotesque
+1200 Hollow Falconer
+1201 Hollow Falconer
+1202 Hollow Falconer
+1204 Hollow Falconer
+1205 Hollow Falconer
+1250 Forest Guardian
+1260 Forest Grotesque
+1261 Forest Grotesque
+1300 Forest Guardian
+1310 Forest Guardian
+2000 Forest Guardian
+2001 Forest Guardian
+2002 Forest Guardian
+2003 Forest Guardian
+2006 Forest Guardian
+2007 Forest Guardian
+2009 Forest Guardian
+2040 Lion Clan Warrior
+2041 Lion Clan Warrior
+2101 Lion Clan Warrior
+2102 Lion Clan Warrior
+2103 Lion Clan Warrior
+2110 Lion Clan Warrior
+2210 Lion Clan Warrior
+2220 Headless Vengarl
+2230 Basilisk
+2231 Basilisk
+2234 Basilisk
+2235 Basilisk
+2300 Syan Knight
+2310 Lion Clan Warrior
+2320 Crystal Lizard
+2400 Forest Guardian
+2410 Forest Guardian
+2420 Forest Guardian
+2421 Forest Guardian
+2430 Forest Guardian
+2440 Forest Guardian
+2450 Forest Guardian
+2460 Forest Guardian
+2500 Lion Clan Warrior
+2600 Basilisk
+5000 Kobold
+5010 Kobold
+5050 Ogre
+9000 Kobold
+9001 Syan Knight
+9002 Mimic
+9500 Poison Moth
+9501 Poison Moth
+9502 Poison Moth

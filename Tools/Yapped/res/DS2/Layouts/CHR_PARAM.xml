@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout>
   <entry>
-    <name>Unk00</name>
+    <name>Chr ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Common / Logic / Move ID</name>
+    <name>Behavior 1 ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Common / Logic / Move ID</name>
+    <name>Behavior 2 ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Common / Logic / Move ID</name>
+    <name>Behavior 3 ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -25,11 +25,18 @@
     <type>s32</type>
     <default>0</default>
   </entry>
+  
   <entry>
     <name>Unk14</name>
-    <type>s32</type>
+    <type>u16</type>
     <default>0</default>
   </entry>
+  <entry>
+    <name>Unk16</name>
+    <type>u16</type>
+    <default>0</default>
+  </entry>
+  
   <entry>
     <name>Unk18</name>
     <type>s32</type>
@@ -126,12 +133,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk40</name>
+    <name>Unknown ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk44</name>
+    <name>Unknown ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -382,7 +389,7 @@
   </entry>
   <entry>
     <name>Unk10C</name>
-    <type>s32</type>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
@@ -392,12 +399,12 @@
   </entry>
   <entry>
     <name>Unk114</name>
-    <type>s32</type>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
     <name>Unk118</name>
-    <type>s32</type>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
@@ -422,14 +429,31 @@
   </entry>
   <entry>
     <name>Unk12C</name>
-    <type>s32</type>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  
+  <entry>
+    <name>Unk130</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk130</name>
-    <type>s32</type>
+    <name>Unk131</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
+  <entry>
+    <name>Unk132</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk133</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  
   <entry>
     <name>Itemlot ID</name>
     <type>s32</type>

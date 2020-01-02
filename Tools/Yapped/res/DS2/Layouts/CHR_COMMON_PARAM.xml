@@ -142,7 +142,12 @@
   </entry>
   <entry>
     <name>Unk70</name>
-    <type>s32</type>
+    <type>u16</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk72</name>
+    <type>u16</type>
     <default>0</default>
   </entry>
   <entry>

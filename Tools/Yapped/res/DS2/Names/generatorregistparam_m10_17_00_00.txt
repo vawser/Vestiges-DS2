@@ -13,19 +13,19 @@
 12405010 Manikin
 12406000 Manikin
 12407000 Manikin
-12700000 Abandoned Hollow
-12700010 Abandoned Hollow
-12700020 Abandoned Hollow
-12700030 Abandoned Hollow
-12700040 Abandoned Hollow
-12700050 Abandoned Hollow
-12700090 Abandoned Hollow
+12700000 Captive Undead
+12700010 Captive Undead
+12700020 Captive Undead
+12700030 Captive Undead
+12700040 Captive Undead
+12700050 Captive Undead
+12700090 Captive Undead
 13200000 Skeleton
 13200100 Skeleton
 13200200 Skeleton
 13900001 Artificial Undead
 13900011 Artificial Undead
-14700000 Undead with Head Bandage
+14700000 Undead Supplicant
 14900000 Undead Steelworker
 14900100 Undead Steelworker
 20400000 Poison Moth
@@ -51,6 +51,6 @@
 76200000 Stone Trader Chloanne
 76200001 Stone Trader Chloanne
 82950000 Bashful Ray
-84100000 Altar of Sunlight
+84100000 Voice Marker (Altar of Sunlight)
 84910000 Jester Thomas
 89150000 Devotee Scarlett

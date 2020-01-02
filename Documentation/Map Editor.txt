@@ -36,3 +36,10 @@ Undead Crypt Tomb:          50 38 00 00
 
 # Interactions
 Does the AI value determine the last two digits to look for in the EnemyBehaviorParam ID (i.e. 7300xx)
+
+#-----------------------------------------
+# TODO
+#-----------------------------------------
+Finish labelling the generator params
+Label some of the important map object params
+Archive the names for future usage

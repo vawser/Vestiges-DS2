@@ -1,0 +1,105 @@
+40 Darkdiver Grandahl
+41 Darkdiver Grandahl
+90 Lucatiel of Mirrah
+91 Lucatiel of Mirrah
+590 Melinda the Butcher
+591 Royal Sorcerer Navlaan
+592 Woodland Child Victor
+593 Woodland Child Gully
+594 Gutter Denizen
+596 Lucatiel of Mirrah
+597 Lone Hunter Schmidt
+598 Bashful Ray
+851 The Rotten
+914 Aldia, Scholar of the First Sin
+947 Forlorn
+1000 Captive Undead
+1100 Captive Undead
+1110 Captive Undead
+1111 Captive Undead
+1120 Captive Undead
+1210 Captive Undead
+1211 Captive Undead
+1301 Captive Undead
+1305 Captive Undead
+1310 Captive Undead
+1324 Captive Undead
+1325 Captive Undead
+1327 Captive Undead
+1329 Captive Undead
+1360 Darksucker
+1400 Captive Undead
+1402 Captive Undead
+1410 Captive Undead
+1411 Captive Undead
+1420 Rupturing Hollow
+1421 Rupturing Hollow
+1490 Mimic
+1500 Captive Undead
+1530 Rupturing Hollow
+1531 Rupturing Hollow
+1532 Rupturing Hollow
+1560 Captive Undead
+1561 Captive Undead
+1562 Hunting Dog
+1570 Captive Undead
+1571 Captive Undead
+1580 Captive Undead
+2020 Captive Undead
+2021 Captive Undead
+2080 Captive Undead
+2081 Captive Undead
+2090 Heide Knight
+2300 Hunting Dog
+2400 Captive Undead
+2500 Captive Undead
+2503 Captive Undead
+2505 Rupturing Hollow
+2510 Hunting Dog
+2520 Rotten Vermin
+2521 Rotten Vermin
+2522 Rotten Vermin
+2523 Rotten Vermin
+2700 Rotten Vermin
+2710 Poison Horn Beetle
+2711 Poison Horn Beetle
+2712 Poison Horn Beetle
+3000 Rupturing Hollow
+3100 Captive Undead
+3101 Captive Undead
+3110 Captive Undead
+3111 Captive Undead
+3112 Rupturing Hollow
+3120 Captive Undead
+3121 Captive Undead
+3123 Captive Undead
+3124 Captive Undead
+4210 Darksucker
+4211 Darksucker
+4212 Darksucker
+4213 Darksucker
+4260 Razorback Nightcrawler
+4310 Razorback Nightcrawler
+4400 Darksucker
+4401 Darksucker
+4402 Darksucker
+4403 Darksucker
+4404 Darksucker
+4405 Darksucker
+4500 Poison Statue Cluster
+6000 Forgotten Giant
+6001 Forgotten Giant
+6010 Forgotten Giant
+6020 Forgotten Giant
+7001 Captive Undead
+7002 Captive Undead
+7003 Captive Undead
+7005 Captive Undead
+7006 Captive Undead
+8000 Undead Traveler
+8500 Poison Moth
+9500 Invisible Hollow
+9501 Invisible Hollow
+9502 Invisible Hollow
+9503 Invisible Hollow
+9504 Invisible Hollow

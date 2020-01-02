@@ -1,1103 +1,1253 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout>
   <entry>
-    <name>Unk00</name>
+    <name>Group 1: Enemy Damage ID 0</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk04</name>
+    <name>Group 1: Enemy Damage ID 1</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk08</name>
+    <name>Group 1: Enemy Damage ID 2</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk0C</name>
+    <name>Group 1: Enemy Damage ID 3</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk10</name>
+    <name>Group 1: Enemy Damage ID 4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk14</name>
+    <name>Group 1: Enemy Damage ID 5</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk18</name>
+    <name>Group 1: Unk18</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1C</name>
-    <type>s32</type>
+    <name>Group 1: Unk1C</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk20</name>
-    <type>s32</type>
+    <name>Group 1: Unk1D</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk24</name>
-    <type>s32</type>
+    <name>Group 1: Unk1E</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk28</name>
-    <type>s32</type>
+    <name>Group 1: Unk1F</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2C</name>
+    <name>Group 1: Enemy Damage ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk30</name>
+    <name>Group 1: Unk24</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk34</name>
+    <name>Group 1: Unk28</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk38</name>
-    <type>s32</type>
+    <name>Group 1: Unk2C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3C</name>
-    <type>s32</type>
+    <name>Group 1: Unk30</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk40</name>
-    <type>s32</type>
+    <name>Group 1: Unk34</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk44</name>
-    <type>s32</type>
+    <name>Group 1: Unk38</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk48</name>
-    <type>s32</type>
+    <name>Group 1: Unk3C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4C</name>
-    <type>s32</type>
+    <name>Group 1: Unk40</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk50</name>
-    <type>s32</type>
+    <name>Group 1: Unk44</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk54</name>
-    <type>s32</type>
+    <name>Group 1: Unk48</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Damage ID</name>
+    <name>Group 1: Unk4C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Damage ID</name>
-    <type>s32</type>
+    <name>Group 1: Unk50</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk60</name>
+    <name>Group 1: Unk54</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+    <entry>
+    <name>Group 2: Enemy Damage ID 0</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk64</name>
+    <name>Group 2: Enemy Damage ID 1</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk68</name>
+    <name>Group 2: Enemy Damage ID 2</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk6C</name>
+    <name>Group 2: Enemy Damage ID 3</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk70</name>
+    <name>Group 2: Enemy Damage ID 4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk74</name>
+    <name>Group 2: Enemy Damage ID 5</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk78</name>
+    <name>Group 2: Unk18</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk7C</name>
-    <type>s32</type>
+    <name>Group 2: Unk1C</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk80</name>
-    <type>s32</type>
+    <name>Group 2: Unk1D</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk84</name>
-    <type>s32</type>
+    <name>Group 2: Unk1E</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk88</name>
-    <type>s32</type>
+    <name>Group 2: Unk1F</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk8C</name>
+    <name>Group 2: Enemy Damage ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk90</name>
+    <name>Group 2: Unk24</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk94</name>
+    <name>Group 2: Unk28</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk98</name>
-    <type>s32</type>
+    <name>Group 2: Unk2C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk9C</name>
-    <type>s32</type>
+    <name>Group 2: Unk30</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkA0</name>
-    <type>s32</type>
+    <name>Group 2: Unk34</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkA4</name>
-    <type>s32</type>
+    <name>Group 2: Unk38</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkA8</name>
-    <type>s32</type>
+    <name>Group 2: Unk3C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkAC</name>
-    <type>s32</type>
+    <name>Group 2: Unk40</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkB0</name>
-    <type>s32</type>
+    <name>Group 2: Unk44</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkB4</name>
-    <type>s32</type>
+    <name>Group 2: Unk48</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkB8</name>
+    <name>Group 2: Unk4C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkBC</name>
-    <type>s32</type>
+    <name>Group 2: Unk50</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkC0</name>
+    <name>Group 2: Unk54</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+    <entry>
+    <name>Group 3: Enemy Damage ID 0</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkC4</name>
+    <name>Group 3: Enemy Damage ID 1</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkC8</name>
+    <name>Group 3: Enemy Damage ID 2</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkCC</name>
+    <name>Group 3: Enemy Damage ID 3</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkD0</name>
+    <name>Group 3: Enemy Damage ID 4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkD4</name>
+    <name>Group 3: Enemy Damage ID 5</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkD8</name>
+    <name>Group 3: Unk18</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkDC</name>
-    <type>s32</type>
+    <name>Group 3: Unk1C</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkE0</name>
-    <type>s32</type>
+    <name>Group 3: Unk1D</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkE4</name>
-    <type>s32</type>
+    <name>Group 3: Unk1E</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkE8</name>
-    <type>s32</type>
+    <name>Group 3: Unk1F</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkEC</name>
+    <name>Group 3: Enemy Damage ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkF0</name>
+    <name>Group 3: Unk24</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkF4</name>
+    <name>Group 3: Unk28</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkF8</name>
-    <type>s32</type>
+    <name>Group 3: Unk2C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkFC</name>
-    <type>s32</type>
+    <name>Group 3: Unk30</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk100</name>
-    <type>s32</type>
+    <name>Group 3: Unk34</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk104</name>
-    <type>s32</type>
+    <name>Group 3: Unk38</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk108</name>
-    <type>s32</type>
+    <name>Group 3: Unk3C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk10C</name>
-    <type>s32</type>
+    <name>Group 3: Unk40</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk110</name>
-    <type>s32</type>
+    <name>Group 3: Unk44</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk114</name>
-    <type>s32</type>
+    <name>Group 3: Unk48</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk118</name>
+    <name>Group 3: Unk4C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk11C</name>
-    <type>s32</type>
+    <name>Group 3: Unk50</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk120</name>
+    <name>Group 3: Unk54</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+    <entry>
+    <name>Group 4: Enemy Damage ID 0</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk124</name>
+    <name>Group 4: Enemy Damage ID 1</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk128</name>
+    <name>Group 4: Enemy Damage ID 2</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk12C</name>
+    <name>Group 4: Enemy Damage ID 3</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk130</name>
+    <name>Group 4: Enemy Damage ID 4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk134</name>
+    <name>Group 4: Enemy Damage ID 5</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk138</name>
+    <name>Group 4: Unk18</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk13C</name>
-    <type>s32</type>
+    <name>Group 4: Unk1C</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk140</name>
-    <type>s32</type>
+    <name>Group 4: Unk1D</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk144</name>
-    <type>s32</type>
+    <name>Group 4: Unk1E</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk148</name>
-    <type>s32</type>
+    <name>Group 4: Unk1F</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk14C</name>
+    <name>Group 4: Enemy Damage ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk150</name>
+    <name>Group 4: Unk24</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk154</name>
+    <name>Group 4: Unk28</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk158</name>
-    <type>s32</type>
+    <name>Group 4: Unk2C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk15C</name>
-    <type>s32</type>
+    <name>Group 4: Unk30</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk160</name>
-    <type>s32</type>
+    <name>Group 4: Unk34</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk164</name>
-    <type>s32</type>
+    <name>Group 4: Unk38</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk168</name>
-    <type>s32</type>
+    <name>Group 4: Unk3C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk16C</name>
-    <type>s32</type>
+    <name>Group 4: Unk40</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk170</name>
-    <type>s32</type>
+    <name>Group 4: Unk44</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk174</name>
-    <type>s32</type>
+    <name>Group 4: Unk48</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk178</name>
+    <name>Group 4: Unk4C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk17C</name>
-    <type>s32</type>
+    <name>Group 4: Unk50</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk180</name>
+    <name>Group 4: Unk54</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+    <entry>
+    <name>Group 5: Enemy Damage ID 0</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk184</name>
+    <name>Group 5: Enemy Damage ID 1</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk188</name>
+    <name>Group 5: Enemy Damage ID 2</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk18C</name>
+    <name>Group 5: Enemy Damage ID 3</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk190</name>
+    <name>Group 5: Enemy Damage ID 4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk194</name>
+    <name>Group 5: Enemy Damage ID 5</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk198</name>
+    <name>Group 5: Unk18</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk19C</name>
-    <type>s32</type>
+    <name>Group 5: Unk1C</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1A0</name>
-    <type>s32</type>
+    <name>Group 5: Unk1D</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1A4</name>
-    <type>s32</type>
+    <name>Group 5: Unk1E</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1A8</name>
-    <type>s32</type>
+    <name>Group 5: Unk1F</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1AC</name>
+    <name>Group 5: Enemy Damage ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1B0</name>
+    <name>Group 5: Unk24</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1B4</name>
+    <name>Group 5: Unk28</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1B8</name>
-    <type>s32</type>
+    <name>Group 5: Unk2C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1BC</name>
-    <type>s32</type>
+    <name>Group 5: Unk30</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1C0</name>
-    <type>s32</type>
+    <name>Group 5: Unk34</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1C4</name>
-    <type>s32</type>
+    <name>Group 5: Unk38</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1C8</name>
-    <type>s32</type>
+    <name>Group 5: Unk3C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1CC</name>
-    <type>s32</type>
+    <name>Group 5: Unk40</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1D0</name>
-    <type>s32</type>
+    <name>Group 5: Unk44</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1D4</name>
-    <type>s32</type>
+    <name>Group 5: Unk48</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1D8</name>
+    <name>Group 5: Unk4C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1DC</name>
-    <type>s32</type>
+    <name>Group 5: Unk50</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1E0</name>
+    <name>Group 5: Unk54</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+    <entry>
+    <name>Group 6: Enemy Damage ID 0</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1E4</name>
+    <name>Group 6: Enemy Damage ID 1</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1E8</name>
+    <name>Group 6: Enemy Damage ID 2</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1EC</name>
+    <name>Group 6: Enemy Damage ID 3</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1F0</name>
+    <name>Group 6: Enemy Damage ID 4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1F4</name>
+    <name>Group 6: Enemy Damage ID 5</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1F8</name>
+    <name>Group 6: Unk18</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1FC</name>
-    <type>s32</type>
+    <name>Group 6: Unk1C</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk200</name>
-    <type>s32</type>
+    <name>Group 6: Unk1D</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk204</name>
-    <type>s32</type>
+    <name>Group 6: Unk1E</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk208</name>
-    <type>s32</type>
+    <name>Group 6: Unk1F</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk20C</name>
+    <name>Group 6: Enemy Damage ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk210</name>
+    <name>Group 6: Unk24</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk214</name>
+    <name>Group 6: Unk28</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk218</name>
-    <type>s32</type>
+    <name>Group 6: Unk2C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk21C</name>
-    <type>s32</type>
+    <name>Group 6: Unk30</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk220</name>
-    <type>s32</type>
+    <name>Group 6: Unk34</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk224</name>
-    <type>s32</type>
+    <name>Group 6: Unk38</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk228</name>
-    <type>s32</type>
+    <name>Group 6: Unk3C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk22C</name>
-    <type>s32</type>
+    <name>Group 6: Unk40</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk230</name>
-    <type>s32</type>
+    <name>Group 6: Unk44</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk234</name>
-    <type>s32</type>
+    <name>Group 6: Unk48</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk238</name>
+    <name>Group 6: Unk4C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk23C</name>
-    <type>s32</type>
+    <name>Group 6: Unk50</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk240</name>
+    <name>Group 6: Unk54</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+    <entry>
+    <name>Group 7: Enemy Damage ID 0</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk244</name>
+    <name>Group 7: Enemy Damage ID 1</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk248</name>
+    <name>Group 7: Enemy Damage ID 2</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk24C</name>
+    <name>Group 7: Enemy Damage ID 3</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk250</name>
+    <name>Group 7: Enemy Damage ID 4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk254</name>
+    <name>Group 7: Enemy Damage ID 5</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk258</name>
+    <name>Group 7: Unk18</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk25C</name>
-    <type>s32</type>
+    <name>Group 7: Unk1C</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk260</name>
-    <type>s32</type>
+    <name>Group 7: Unk1D</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk264</name>
-    <type>s32</type>
+    <name>Group 7: Unk1E</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk268</name>
-    <type>s32</type>
+    <name>Group 7: Unk1F</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk26C</name>
+    <name>Group 7: Enemy Damage ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk270</name>
+    <name>Group 7: Unk24</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk274</name>
+    <name>Group 7: Unk28</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk278</name>
-    <type>s32</type>
+    <name>Group 7: Unk2C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk27C</name>
-    <type>s32</type>
+    <name>Group 7: Unk30</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk280</name>
-    <type>s32</type>
+    <name>Group 7: Unk34</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk284</name>
-    <type>s32</type>
+    <name>Group 7: Unk38</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk288</name>
-    <type>s32</type>
+    <name>Group 7: Unk3C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk28C</name>
-    <type>s32</type>
+    <name>Group 7: Unk40</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk290</name>
-    <type>s32</type>
+    <name>Group 7: Unk44</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk294</name>
-    <type>s32</type>
+    <name>Group 7: Unk48</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk298</name>
+    <name>Group 7: Unk4C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk29C</name>
-    <type>s32</type>
+    <name>Group 7: Unk50</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2A0</name>
+    <name>Group 7: Unk54</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+    <entry>
+    <name>Group 8: Enemy Damage ID 0</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2A4</name>
+    <name>Group 8: Enemy Damage ID 1</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2A8</name>
+    <name>Group 8: Enemy Damage ID 2</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2AC</name>
+    <name>Group 8: Enemy Damage ID 3</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2B0</name>
+    <name>Group 8: Enemy Damage ID 4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2B4</name>
+    <name>Group 8: Enemy Damage ID 5</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2B8</name>
+    <name>Group 8: Unk18</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2BC</name>
-    <type>s32</type>
+    <name>Group 8: Unk1C</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2C0</name>
-    <type>s32</type>
+    <name>Group 8: Unk1D</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2C4</name>
-    <type>s32</type>
+    <name>Group 8: Unk1E</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2C8</name>
-    <type>s32</type>
+    <name>Group 8: Unk1F</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2CC</name>
+    <name>Group 8: Enemy Damage ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2D0</name>
+    <name>Group 8: Unk24</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2D4</name>
+    <name>Group 8: Unk28</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2D8</name>
-    <type>s32</type>
+    <name>Group 8: Unk2C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2DC</name>
-    <type>s32</type>
+    <name>Group 8: Unk30</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2E0</name>
-    <type>s32</type>
+    <name>Group 8: Unk34</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2E4</name>
-    <type>s32</type>
+    <name>Group 8: Unk38</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2E8</name>
-    <type>s32</type>
+    <name>Group 8: Unk3C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2EC</name>
-    <type>s32</type>
+    <name>Group 8: Unk40</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2F0</name>
-    <type>s32</type>
+    <name>Group 8: Unk44</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2F4</name>
-    <type>s32</type>
+    <name>Group 8: Unk48</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2F8</name>
+    <name>Group 8: Unk4C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2FC</name>
-    <type>s32</type>
+    <name>Group 8: Unk50</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk300</name>
+    <name>Group 8: Unk54</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+    <entry>
+    <name>Group 9: Enemy Damage ID 0</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk304</name>
+    <name>Group 9: Enemy Damage ID 1</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk308</name>
+    <name>Group 9: Enemy Damage ID 2</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk30C</name>
+    <name>Group 9: Enemy Damage ID 3</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk310</name>
+    <name>Group 9: Enemy Damage ID 4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk314</name>
+    <name>Group 9: Enemy Damage ID 5</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk318</name>
+    <name>Group 9: Unk18</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk31C</name>
-    <type>s32</type>
+    <name>Group 9: Unk1C</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk320</name>
-    <type>s32</type>
+    <name>Group 9: Unk1D</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk324</name>
-    <type>s32</type>
+    <name>Group 9: Unk1E</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk328</name>
-    <type>s32</type>
+    <name>Group 9: Unk1F</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk32C</name>
+    <name>Group 9: Enemy Damage ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk330</name>
+    <name>Group 9: Unk24</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk334</name>
+    <name>Group 9: Unk28</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk338</name>
-    <type>s32</type>
+    <name>Group 9: Unk2C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk33C</name>
-    <type>s32</type>
+    <name>Group 9: Unk30</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Group 9: Unk34</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Group 9: Unk38</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Group 9: Unk3C</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Group 9: Unk40</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Group 9: Unk44</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Group 9: Unk48</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk340</name>
+    <name>Group 9: Unk4C</name>
     <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Group 9: Unk50</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk344</name>
+    <name>Group 9: Unk54</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+    <entry>
+    <name>Group 10: Enemy Damage ID 0</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk348</name>
+    <name>Group 10: Enemy Damage ID 1</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk34C</name>
+    <name>Group 10: Enemy Damage ID 2</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk350</name>
+    <name>Group 10: Enemy Damage ID 3</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk354</name>
+    <name>Group 10: Enemy Damage ID 4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk358</name>
+    <name>Group 10: Enemy Damage ID 5</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk35C</name>
+    <name>Group 10: Unk18</name>
     <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Group 10: Unk1C</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Group 10: Unk1D</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk360</name>
+    <name>Group 10: Unk1E</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Group 10: Unk1F</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Group 10: Enemy Damage ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk364</name>
+    <name>Group 10: Unk24</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk368</name>
+    <name>Group 10: Unk28</name>
     <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Group 10: Unk2C</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Group 10: Unk30</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk36C</name>
+    <name>Group 10: Unk34</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Group 10: Unk38</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Group 10: Unk3C</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Group 10: Unk40</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Group 10: Unk44</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Group 10: Unk48</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Group 10: Unk4C</name>
     <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Group 10: Unk50</name>
+    <type>f32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Group 10: Unk54</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
 </layout>

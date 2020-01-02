@@ -1,1892 +1,1892 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout>
   <entry>
-    <name>Unk00</name>
+    <name>Group 1: Unk00</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk04</name>
+    <name>Group 1: Unk04</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk08</name>
+    <name>Group 1: Enemy Damage ID 1</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk0C</name>
+    <name>Group 1: Enemy Damage ID 2</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk10</name>
+    <name>Group 1: Enemy Damage ID 3</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk14</name>
+    <name>Group 1: Enemy Damage ID 4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk18</name>
+    <name>Group 1: Enemy Damage ID 5</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1C</name>
+    <name>Group 1: Unk1C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk20</name>
+    <name>Group 1: Unk20</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk24</name>
+    <name>Group 1: Unk24</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk28</name>
+    <name>Group 1: Unk28</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2C</name>
+    <name>Group 1: Unk2C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk30</name>
+    <name>Group 1: Unk30</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk34</name>
+    <name>Group 1: Unk34</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk38</name>
+    <name>Group 1: Unk38</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3C</name>
+    <name>Group 1: Unk3C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk40</name>
+    <name>Group 1: Unk40</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk44</name>
+    <name>Group 1: Unk44</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk48</name>
+    <name>Group 1: Unk48</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4C</name>
+    <name>Group 1: Unk4C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk50</name>
-    <type>s32</type>
+    <name>Group 1: Unk50</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk54</name>
-    <type>s32</type>
+    <name>Group 1: Unk54</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk58</name>
-    <type>s32</type>
+    <name>Group 1: Unk58</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk5C</name>
-    <type>s32</type>
+    <name>Group 1: Unk5C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk60</name>
-    <type>s32</type>
+    <name>Group 1: Unk60</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk64</name>
-    <type>s32</type>
+    <name>Group 1: Unk64</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk68</name>
-    <type>s32</type>
+    <name>Group 1: Unk68</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk6C</name>
-    <type>s32</type>
+    <name>Group 1: Unk6C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk70</name>
-    <type>s32</type>
+    <name>Group 1: Unk70</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk74</name>
-    <type>s32</type>
+    <name>Group 1: Unk74</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk78</name>
-    <type>s32</type>
+    <name>Group 1: Unk78</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk7C</name>
-    <type>s32</type>
+    <name>Group 1: Unk7C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk80</name>
-    <type>s32</type>
+    <name>Group 1: Unk80</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk84</name>
-    <type>s32</type>
+    <name>Group 1: Unk84</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk88</name>
-    <type>s32</type>
+    <name>Group 1: Unk88</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk8C</name>
-    <type>s32</type>
+    <name>Group 1: Unk8C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk90</name>
-    <type>s32</type>
+    <name>Group 1: Unk90</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk94</name>
-    <type>s32</type>
+    <name>Group 1: Unk94</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk98</name>
-    <type>s32</type>
+    <name>Group 1: Unk98</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk9C</name>
-    <type>s32</type>
+    <name>Group 1: Unk9C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkA0</name>
-    <type>s32</type>
+    <name>Group 1: UnkA0</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkA4</name>
-    <type>s32</type>
+    <name>Group 1: UnkA4</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkA8</name>
-    <type>s32</type>
+    <name>Group 1: UnkA8</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkAC</name>
-    <type>s32</type>
+    <name>Group 1: UnkAC</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkB0</name>
-    <type>s32</type>
+    <name>Group 1: UnkB0</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkB4</name>
-    <type>s32</type>
+    <name>Group 1: UnkB4</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkB8</name>
-    <type>s32</type>
+    <name>Group 1: UnkB8</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkBC</name>
-    <type>s32</type>
+    <name>Group 1: UnkBC</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkC0</name>
-    <type>s32</type>
+    <name>Group 1: UnkC0</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkC4</name>
+    <name>Group 1: UnkC4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkC8</name>
+    <name>Group 1: UnkC8</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkCC</name>
+    <name>Group 1: UnkCC</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkD0</name>
+    <name>Group 1: UnkD0</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkD4</name>
+    <name>Group 1: UnkD4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
-  <entry>
-    <name>UnkD8</name>
+    <entry>
+    <name>Group 2: Unk00</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkDC</name>
+    <name>Group 2: Unk04</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkE0</name>
+    <name>Group 2: Enemy Damage ID 1</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkE4</name>
+    <name>Group 2: Enemy Damage ID 2</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkE8</name>
+    <name>Group 2: Enemy Damage ID 3</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkEC</name>
+    <name>Group 2: Enemy Damage ID 4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkF0</name>
+    <name>Group 2: Enemy Damage ID 5</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkF4</name>
+    <name>Group 2: Unk1C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkF8</name>
+    <name>Group 2: Unk20</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkFC</name>
+    <name>Group 2: Unk24</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk100</name>
+    <name>Group 2: Unk28</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk104</name>
+    <name>Group 2: Unk2C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk108</name>
+    <name>Group 2: Unk30</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk10C</name>
+    <name>Group 2: Unk34</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk110</name>
+    <name>Group 2: Unk38</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk114</name>
+    <name>Group 2: Unk3C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk118</name>
+    <name>Group 2: Unk40</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk11C</name>
+    <name>Group 2: Unk44</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk120</name>
+    <name>Group 2: Unk48</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk124</name>
+    <name>Group 2: Unk4C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk128</name>
-    <type>s32</type>
+    <name>Group 2: Unk50</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk12C</name>
-    <type>s32</type>
+    <name>Group 2: Unk54</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk130</name>
-    <type>s32</type>
+    <name>Group 2: Unk58</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk134</name>
-    <type>s32</type>
+    <name>Group 2: Unk5C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk138</name>
-    <type>s32</type>
+    <name>Group 2: Unk60</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk13C</name>
-    <type>s32</type>
+    <name>Group 2: Unk64</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk140</name>
-    <type>s32</type>
+    <name>Group 2: Unk68</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk144</name>
-    <type>s32</type>
+    <name>Group 2: Unk6C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk148</name>
-    <type>s32</type>
+    <name>Group 2: Unk70</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk14C</name>
-    <type>s32</type>
+    <name>Group 2: Unk74</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk150</name>
-    <type>s32</type>
+    <name>Group 2: Unk78</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk154</name>
-    <type>s32</type>
+    <name>Group 2: Unk7C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk158</name>
-    <type>s32</type>
+    <name>Group 2: Unk80</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk15C</name>
-    <type>s32</type>
+    <name>Group 2: Unk84</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk160</name>
-    <type>s32</type>
+    <name>Group 2: Unk88</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk164</name>
-    <type>s32</type>
+    <name>Group 2: Unk8C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk168</name>
-    <type>s32</type>
+    <name>Group 2: Unk90</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk16C</name>
-    <type>s32</type>
+    <name>Group 2: Unk94</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk170</name>
-    <type>s32</type>
+    <name>Group 2: Unk98</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk174</name>
-    <type>s32</type>
+    <name>Group 2: Unk9C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk178</name>
-    <type>s32</type>
+    <name>Group 2: UnkA0</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk17C</name>
-    <type>s32</type>
+    <name>Group 2: UnkA4</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk180</name>
-    <type>s32</type>
+    <name>Group 2: UnkA8</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk184</name>
-    <type>s32</type>
+    <name>Group 2: UnkAC</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk188</name>
-    <type>s32</type>
+    <name>Group 2: UnkB0</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk18C</name>
-    <type>s32</type>
+    <name>Group 2: UnkB4</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk190</name>
-    <type>s32</type>
+    <name>Group 2: UnkB8</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk194</name>
-    <type>s32</type>
+    <name>Group 2: UnkBC</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk198</name>
-    <type>s32</type>
+    <name>Group 2: UnkC0</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk19C</name>
+    <name>Group 2: UnkC4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1A0</name>
+    <name>Group 2: UnkC8</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1A4</name>
+    <name>Group 2: UnkCC</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1A8</name>
+    <name>Group 2: UnkD0</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1AC</name>
+    <name>Group 2: UnkD4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
-  <entry>
-    <name>Unk1B0</name>
+    <entry>
+    <name>Group 3: Unk00</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1B4</name>
+    <name>Group 3: Unk04</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1B8</name>
+    <name>Group 3: Enemy Damage ID 1</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1BC</name>
+    <name>Group 3: Enemy Damage ID 2</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1C0</name>
+    <name>Group 3: Enemy Damage ID 3</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1C4</name>
+    <name>Group 3: Enemy Damage ID 4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1C8</name>
+    <name>Group 3: Enemy Damage ID 5</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1CC</name>
+    <name>Group 3: Unk1C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1D0</name>
+    <name>Group 3: Unk20</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1D4</name>
+    <name>Group 3: Unk24</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1D8</name>
+    <name>Group 3: Unk28</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1DC</name>
+    <name>Group 3: Unk2C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1E0</name>
+    <name>Group 3: Unk30</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1E4</name>
+    <name>Group 3: Unk34</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1E8</name>
+    <name>Group 3: Unk38</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1EC</name>
+    <name>Group 3: Unk3C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1F0</name>
+    <name>Group 3: Unk40</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1F4</name>
+    <name>Group 3: Unk44</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1F8</name>
+    <name>Group 3: Unk48</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1FC</name>
+    <name>Group 3: Unk4C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk200</name>
-    <type>s32</type>
+    <name>Group 3: Unk50</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk204</name>
-    <type>s32</type>
+    <name>Group 3: Unk54</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk208</name>
-    <type>s32</type>
+    <name>Group 3: Unk58</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk20C</name>
-    <type>s32</type>
+    <name>Group 3: Unk5C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk210</name>
-    <type>s32</type>
+    <name>Group 3: Unk60</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk214</name>
-    <type>s32</type>
+    <name>Group 3: Unk64</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk218</name>
-    <type>s32</type>
+    <name>Group 3: Unk68</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk21C</name>
-    <type>s32</type>
+    <name>Group 3: Unk6C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk220</name>
-    <type>s32</type>
+    <name>Group 3: Unk70</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk224</name>
-    <type>s32</type>
+    <name>Group 3: Unk74</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk228</name>
-    <type>s32</type>
+    <name>Group 3: Unk78</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk22C</name>
-    <type>s32</type>
+    <name>Group 3: Unk7C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk230</name>
-    <type>s32</type>
+    <name>Group 3: Unk80</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk234</name>
-    <type>s32</type>
+    <name>Group 3: Unk84</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk238</name>
-    <type>s32</type>
+    <name>Group 3: Unk88</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk23C</name>
-    <type>s32</type>
+    <name>Group 3: Unk8C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk240</name>
-    <type>s32</type>
+    <name>Group 3: Unk90</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk244</name>
-    <type>s32</type>
+    <name>Group 3: Unk94</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk248</name>
-    <type>s32</type>
+    <name>Group 3: Unk98</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk24C</name>
-    <type>s32</type>
+    <name>Group 3: Unk9C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk250</name>
-    <type>s32</type>
+    <name>Group 3: UnkA0</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk254</name>
-    <type>s32</type>
+    <name>Group 3: UnkA4</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk258</name>
-    <type>s32</type>
+    <name>Group 3: UnkA8</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk25C</name>
-    <type>s32</type>
+    <name>Group 3: UnkAC</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk260</name>
-    <type>s32</type>
+    <name>Group 3: UnkB0</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk264</name>
-    <type>s32</type>
+    <name>Group 3: UnkB4</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk268</name>
-    <type>s32</type>
+    <name>Group 3: UnkB8</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk26C</name>
-    <type>s32</type>
+    <name>Group 3: UnkBC</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk270</name>
-    <type>s32</type>
+    <name>Group 3: UnkC0</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk274</name>
+    <name>Group 3: UnkC4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk278</name>
+    <name>Group 3: UnkC8</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk27C</name>
+    <name>Group 3: UnkCC</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk280</name>
+    <name>Group 3: UnkD0</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk284</name>
+    <name>Group 3: UnkD4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
-  <entry>
-    <name>Unk288</name>
+    <entry>
+    <name>Group 4: Unk00</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk28C</name>
+    <name>Group 4: Unk04</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk290</name>
+    <name>Group 4: Enemy Damage ID 1</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk294</name>
+    <name>Group 4: Enemy Damage ID 2</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk298</name>
+    <name>Group 4: Enemy Damage ID 3</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk29C</name>
+    <name>Group 4: Enemy Damage ID 4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2A0</name>
+    <name>Group 4: Enemy Damage ID 5</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2A4</name>
+    <name>Group 4: Unk1C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2A8</name>
+    <name>Group 4: Unk20</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2AC</name>
+    <name>Group 4: Unk24</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2B0</name>
+    <name>Group 4: Unk28</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2B4</name>
+    <name>Group 4: Unk2C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2B8</name>
+    <name>Group 4: Unk30</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2BC</name>
+    <name>Group 4: Unk34</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2C0</name>
+    <name>Group 4: Unk38</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2C4</name>
+    <name>Group 4: Unk3C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2C8</name>
+    <name>Group 4: Unk40</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2CC</name>
+    <name>Group 4: Unk44</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2D0</name>
+    <name>Group 4: Unk48</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2D4</name>
+    <name>Group 4: Unk4C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2D8</name>
-    <type>s32</type>
+    <name>Group 4: Unk50</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2DC</name>
-    <type>s32</type>
+    <name>Group 4: Unk54</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2E0</name>
-    <type>s32</type>
+    <name>Group 4: Unk58</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2E4</name>
-    <type>s32</type>
+    <name>Group 4: Unk5C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2E8</name>
-    <type>s32</type>
+    <name>Group 4: Unk60</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2EC</name>
-    <type>s32</type>
+    <name>Group 4: Unk64</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2F0</name>
-    <type>s32</type>
+    <name>Group 4: Unk68</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2F4</name>
-    <type>s32</type>
+    <name>Group 4: Unk6C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2F8</name>
-    <type>s32</type>
+    <name>Group 4: Unk70</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2FC</name>
-    <type>s32</type>
+    <name>Group 4: Unk74</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk300</name>
-    <type>s32</type>
+    <name>Group 4: Unk78</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk304</name>
-    <type>s32</type>
+    <name>Group 4: Unk7C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk308</name>
-    <type>s32</type>
+    <name>Group 4: Unk80</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk30C</name>
-    <type>s32</type>
+    <name>Group 4: Unk84</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk310</name>
-    <type>s32</type>
+    <name>Group 4: Unk88</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk314</name>
-    <type>s32</type>
+    <name>Group 4: Unk8C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk318</name>
-    <type>s32</type>
+    <name>Group 4: Unk90</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk31C</name>
-    <type>s32</type>
+    <name>Group 4: Unk94</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk320</name>
-    <type>s32</type>
+    <name>Group 4: Unk98</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk324</name>
-    <type>s32</type>
+    <name>Group 4: Unk9C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk328</name>
-    <type>s32</type>
+    <name>Group 4: UnkA0</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk32C</name>
-    <type>s32</type>
+    <name>Group 4: UnkA4</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk330</name>
-    <type>s32</type>
+    <name>Group 4: UnkA8</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk334</name>
-    <type>s32</type>
+    <name>Group 4: UnkAC</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk338</name>
-    <type>s32</type>
+    <name>Group 4: UnkB0</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk33C</name>
-    <type>s32</type>
+    <name>Group 4: UnkB4</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk340</name>
-    <type>s32</type>
+    <name>Group 4: UnkB8</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk344</name>
-    <type>s32</type>
+    <name>Group 4: UnkBC</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk348</name>
-    <type>s32</type>
+    <name>Group 4: UnkC0</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk34C</name>
+    <name>Group 4: UnkC4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk350</name>
+    <name>Group 4: UnkC8</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk354</name>
+    <name>Group 4: UnkCC</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk358</name>
+    <name>Group 4: UnkD0</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk35C</name>
+    <name>Group 4: UnkD4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
-  <entry>
-    <name>Unk360</name>
+    <entry>
+    <name>Group 5: Unk00</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk364</name>
+    <name>Group 5: Unk04</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk368</name>
+    <name>Group 5: Enemy Damage ID 1</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk36C</name>
+    <name>Group 5: Enemy Damage ID 2</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk370</name>
+    <name>Group 5: Enemy Damage ID 3</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk374</name>
+    <name>Group 5: Enemy Damage ID 4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk378</name>
+    <name>Group 5: Enemy Damage ID 5</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk37C</name>
+    <name>Group 5: Unk1C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk380</name>
+    <name>Group 5: Unk20</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk384</name>
+    <name>Group 5: Unk24</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk388</name>
+    <name>Group 5: Unk28</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk38C</name>
+    <name>Group 5: Unk2C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk390</name>
+    <name>Group 5: Unk30</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk394</name>
+    <name>Group 5: Unk34</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk398</name>
+    <name>Group 5: Unk38</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk39C</name>
+    <name>Group 5: Unk3C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3A0</name>
+    <name>Group 5: Unk40</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3A4</name>
+    <name>Group 5: Unk44</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3A8</name>
+    <name>Group 5: Unk48</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3AC</name>
+    <name>Group 5: Unk4C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3B0</name>
-    <type>s32</type>
+    <name>Group 5: Unk50</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3B4</name>
-    <type>s32</type>
+    <name>Group 5: Unk54</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3B8</name>
-    <type>s32</type>
+    <name>Group 5: Unk58</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3BC</name>
-    <type>s32</type>
+    <name>Group 5: Unk5C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3C0</name>
-    <type>s32</type>
+    <name>Group 5: Unk60</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3C4</name>
-    <type>s32</type>
+    <name>Group 5: Unk64</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3C8</name>
-    <type>s32</type>
+    <name>Group 5: Unk68</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3CC</name>
-    <type>s32</type>
+    <name>Group 5: Unk6C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3D0</name>
-    <type>s32</type>
+    <name>Group 5: Unk70</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3D4</name>
-    <type>s32</type>
+    <name>Group 5: Unk74</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3D8</name>
-    <type>s32</type>
+    <name>Group 5: Unk78</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3DC</name>
-    <type>s32</type>
+    <name>Group 5: Unk7C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3E0</name>
-    <type>s32</type>
+    <name>Group 5: Unk80</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3E4</name>
-    <type>s32</type>
+    <name>Group 5: Unk84</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3E8</name>
-    <type>s32</type>
+    <name>Group 5: Unk88</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3EC</name>
-    <type>s32</type>
+    <name>Group 5: Unk8C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3F0</name>
-    <type>s32</type>
+    <name>Group 5: Unk90</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3F4</name>
-    <type>s32</type>
+    <name>Group 5: Unk94</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3F8</name>
-    <type>s32</type>
+    <name>Group 5: Unk98</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3FC</name>
-    <type>s32</type>
+    <name>Group 5: Unk9C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk400</name>
-    <type>s32</type>
+    <name>Group 5: UnkA0</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk404</name>
-    <type>s32</type>
+    <name>Group 5: UnkA4</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk408</name>
-    <type>s32</type>
+    <name>Group 5: UnkA8</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk40C</name>
-    <type>s32</type>
+    <name>Group 5: UnkAC</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk410</name>
-    <type>s32</type>
+    <name>Group 5: UnkB0</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk414</name>
-    <type>s32</type>
+    <name>Group 5: UnkB4</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk418</name>
-    <type>s32</type>
+    <name>Group 5: UnkB8</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk41C</name>
-    <type>s32</type>
+    <name>Group 5: UnkBC</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk420</name>
-    <type>s32</type>
+    <name>Group 5: UnkC0</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk424</name>
+    <name>Group 5: UnkC4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk428</name>
+    <name>Group 5: UnkC8</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk42C</name>
+    <name>Group 5: UnkCC</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk430</name>
+    <name>Group 5: UnkD0</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk434</name>
+    <name>Group 5: UnkD4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
-  <entry>
-    <name>Unk438</name>
+    <entry>
+    <name>Group 6: Unk00</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk43C</name>
+    <name>Group 6: Unk04</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk440</name>
+    <name>Group 6: Enemy Damage ID 1</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk444</name>
+    <name>Group 6: Enemy Damage ID 2</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk448</name>
+    <name>Group 6: Enemy Damage ID 3</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk44C</name>
+    <name>Group 6: Enemy Damage ID 4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk450</name>
+    <name>Group 6: Enemy Damage ID 5</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk454</name>
+    <name>Group 6: Unk1C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk458</name>
+    <name>Group 6: Unk20</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk45C</name>
+    <name>Group 6: Unk24</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk460</name>
+    <name>Group 6: Unk28</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk464</name>
+    <name>Group 6: Unk2C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk468</name>
+    <name>Group 6: Unk30</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk46C</name>
+    <name>Group 6: Unk34</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk470</name>
+    <name>Group 6: Unk38</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk474</name>
+    <name>Group 6: Unk3C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk478</name>
+    <name>Group 6: Unk40</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk47C</name>
+    <name>Group 6: Unk44</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk480</name>
+    <name>Group 6: Unk48</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk484</name>
+    <name>Group 6: Unk4C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk488</name>
-    <type>s32</type>
+    <name>Group 6: Unk50</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk48C</name>
-    <type>s32</type>
+    <name>Group 6: Unk54</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk490</name>
-    <type>s32</type>
+    <name>Group 6: Unk58</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk494</name>
-    <type>s32</type>
+    <name>Group 6: Unk5C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk498</name>
-    <type>s32</type>
+    <name>Group 6: Unk60</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk49C</name>
-    <type>s32</type>
+    <name>Group 6: Unk64</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4A0</name>
-    <type>s32</type>
+    <name>Group 6: Unk68</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4A4</name>
-    <type>s32</type>
+    <name>Group 6: Unk6C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4A8</name>
-    <type>s32</type>
+    <name>Group 6: Unk70</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4AC</name>
-    <type>s32</type>
+    <name>Group 6: Unk74</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4B0</name>
-    <type>s32</type>
+    <name>Group 6: Unk78</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4B4</name>
-    <type>s32</type>
+    <name>Group 6: Unk7C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4B8</name>
-    <type>s32</type>
+    <name>Group 6: Unk80</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4BC</name>
-    <type>s32</type>
+    <name>Group 6: Unk84</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4C0</name>
-    <type>s32</type>
+    <name>Group 6: Unk88</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4C4</name>
-    <type>s32</type>
+    <name>Group 6: Unk8C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4C8</name>
-    <type>s32</type>
+    <name>Group 6: Unk90</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4CC</name>
-    <type>s32</type>
+    <name>Group 6: Unk94</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4D0</name>
-    <type>s32</type>
+    <name>Group 6: Unk98</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4D4</name>
-    <type>s32</type>
+    <name>Group 6: Unk9C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4D8</name>
-    <type>s32</type>
+    <name>Group 6: UnkA0</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4DC</name>
-    <type>s32</type>
+    <name>Group 6: UnkA4</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4E0</name>
-    <type>s32</type>
+    <name>Group 6: UnkA8</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4E4</name>
-    <type>s32</type>
+    <name>Group 6: UnkAC</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4E8</name>
-    <type>s32</type>
+    <name>Group 6: UnkB0</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4EC</name>
-    <type>s32</type>
+    <name>Group 6: UnkB4</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4F0</name>
-    <type>s32</type>
+    <name>Group 6: UnkB8</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4F4</name>
-    <type>s32</type>
+    <name>Group 6: UnkBC</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4F8</name>
-    <type>s32</type>
+    <name>Group 6: UnkC0</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk4FC</name>
+    <name>Group 6: UnkC4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk500</name>
+    <name>Group 6: UnkC8</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk504</name>
+    <name>Group 6: UnkCC</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk508</name>
+    <name>Group 6: UnkD0</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk50C</name>
+    <name>Group 6: UnkD4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
-  <entry>
-    <name>Unk510</name>
+    <entry>
+    <name>Group 7: Unk00</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk514</name>
+    <name>Group 7: Unk04</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk518</name>
+    <name>Group 7: Enemy Damage ID 1</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk51C</name>
+    <name>Group 7: Enemy Damage ID 2</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk520</name>
+    <name>Group 7: Enemy Damage ID 3</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk524</name>
+    <name>Group 7: Enemy Damage ID 4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk528</name>
+    <name>Group 7: Enemy Damage ID 5</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk52C</name>
+    <name>Group 7: Unk1C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk530</name>
+    <name>Group 7: Unk20</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk534</name>
+    <name>Group 7: Unk24</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk538</name>
+    <name>Group 7: Unk28</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk53C</name>
+    <name>Group 7: Unk2C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk540</name>
+    <name>Group 7: Unk30</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk544</name>
+    <name>Group 7: Unk34</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk548</name>
+    <name>Group 7: Unk38</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk54C</name>
+    <name>Group 7: Unk3C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk550</name>
+    <name>Group 7: Unk40</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk554</name>
+    <name>Group 7: Unk44</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk558</name>
+    <name>Group 7: Unk48</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk55C</name>
+    <name>Group 7: Unk4C</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk560</name>
-    <type>s32</type>
+    <name>Group 7: Unk50</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk564</name>
-    <type>s32</type>
+    <name>Group 7: Unk54</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk568</name>
-    <type>s32</type>
+    <name>Group 7: Unk58</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk56C</name>
-    <type>s32</type>
+    <name>Group 7: Unk5C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk570</name>
-    <type>s32</type>
+    <name>Group 7: Unk60</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk574</name>
-    <type>s32</type>
+    <name>Group 7: Unk64</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk578</name>
-    <type>s32</type>
+    <name>Group 7: Unk68</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk57C</name>
-    <type>s32</type>
+    <name>Group 7: Unk6C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk580</name>
-    <type>s32</type>
+    <name>Group 7: Unk70</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk584</name>
-    <type>s32</type>
+    <name>Group 7: Unk74</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk588</name>
-    <type>s32</type>
+    <name>Group 7: Unk78</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk58C</name>
-    <type>s32</type>
+    <name>Group 7: Unk7C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk590</name>
-    <type>s32</type>
+    <name>Group 7: Unk80</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk594</name>
-    <type>s32</type>
+    <name>Group 7: Unk84</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk598</name>
-    <type>s32</type>
+    <name>Group 7: Unk88</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk59C</name>
-    <type>s32</type>
+    <name>Group 7: Unk8C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk5A0</name>
-    <type>s32</type>
+    <name>Group 7: Unk90</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk5A4</name>
-    <type>s32</type>
+    <name>Group 7: Unk94</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk5A8</name>
-    <type>s32</type>
+    <name>Group 7: Unk98</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk5AC</name>
-    <type>s32</type>
+    <name>Group 7: Unk9C</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk5B0</name>
-    <type>s32</type>
+    <name>Group 7: UnkA0</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk5B4</name>
-    <type>s32</type>
+    <name>Group 7: UnkA4</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk5B8</name>
-    <type>s32</type>
+    <name>Group 7: UnkA8</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk5BC</name>
-    <type>s32</type>
+    <name>Group 7: UnkAC</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk5C0</name>
-    <type>s32</type>
+    <name>Group 7: UnkB0</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk5C4</name>
-    <type>s32</type>
+    <name>Group 7: UnkB4</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk5C8</name>
-    <type>s32</type>
+    <name>Group 7: UnkB8</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk5CC</name>
-    <type>s32</type>
+    <name>Group 7: UnkBC</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk5D0</name>
-    <type>s32</type>
+    <name>Group 7: UnkC0</name>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk5D4</name>
+    <name>Group 7: UnkC4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk5D8</name>
+    <name>Group 7: UnkC8</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk5DC</name>
+    <name>Group 7: UnkCC</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk5E0</name>
+    <name>Group 7: UnkD0</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk5E4</name>
+    <name>Group 7: UnkD4</name>
     <type>s32</type>
     <default>0</default>
   </entry>

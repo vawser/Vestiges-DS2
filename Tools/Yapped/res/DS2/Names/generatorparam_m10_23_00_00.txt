@@ -1,0 +1,140 @@
+55 Creighton the Wanderer
+56 Creighton the Wanderer
+155 Felkin the Outcast
+156 Felkin the Outcast
+275 Titchy Gren
+276 Titchy Gren
+580 Merciless Roenna
+586 Bashful Ray
+587 Creighton the Wanderer
+816 Executioner's Chariot
+839 Skeleton Lord
+840 Skeleton Lord
+841 Skeleton Lord
+944 Forlorn
+1111 Captive Undead
+1112 Captive Undead
+1114 Captive Undead
+1115 Captive Undead
+1121 Captive Undead
+1122 Captive Undead
+1123 Giant Basilisk
+1125 Captive Undead
+1200 Poison Moth
+1205 Poison Moth
+1206 Poison Moth
+1500 Captive Undead
+2000 Captive Undead
+2002 Captive Undead
+2005 Captive Undead
+2006 Captive Undead
+2010 Hollow Rogue
+2011 Hollow Rogue
+2014 Hollow Rogue
+2015 Hollow Rogue
+2016 Captive Undead
+2017 Captive Undead
+2020 Hollow Rogue
+2021 Hollow Rogue
+2026 Hollow Rogue
+2029 Torturer
+2030 Hollow Rogue
+2100 Captive Undead
+2401 Captive Undead
+2402 Captive Undead
+2500 Captive Undead
+2700 Syan Knight
+3000 Captive Undead
+3001 Captive Undead
+3016 Hollow Rogue
+3101 Artificial Undead
+3103 Poison Moth
+3105 Artificial Undead
+3111 Captive Undead
+3112 Captive Undead
+3123 Poison Moth
+3201 Hollow Rogue
+3210 Hollow Rogue
+3220 Stray Dog
+3250 Hollow Rogue
+3261 Captive Undead
+3310 Captive Undead
+3400 Hollow Rogue
+3500 Captive Undead
+4000 Dual-wielding Skeleton
+4003 Dual-wielding Skeleton
+4010 Dual-wielding Skeleton
+4012 Dual-wielding Skeleton
+4013 Dual-wielding Skeleton
+4020 Black Hollow Mage
+4050 Dual-wielding Skeleton
+4053 Dual-wielding Skeleton
+4054 Dual-wielding Skeleton
+4055 Dual-wielding Skeleton
+4060 Dual-wielding Skeleton
+4100 Hollow Rogue
+4102 Hollow Rogue
+4105 Hollow Rogue
+4107 Hollow Rogue
+4110 Hollow Rogue
+4111 Hollow Rogue
+4112 Crystal Lizard
+4122 Artificial Undead
+4125 Hollow Rogue
+4126 Hollow Rogue
+4127 Captive Undead
+4128 Captive Undead
+4130 Hollow Rogue
+4140 Poison Moth
+4200 Artificial Undead
+5000 Torturer
+5003 Torturer
+5005 Captive Undead
+5010 Torturer
+5011 Torturer
+5012 Torturer
+5013 Torturer
+5014 Torturer
+5015 Torturer
+5016 Torturer
+5017 Torturer
+5020 Dual-wielding Skeleton
+5101 Captive Undead
+5102 Captive Undead
+5200 Skeleton
+5201 Skeleton
+5210 Dual-wielding Skeleton
+5211 Dual-wielding Skeleton
+5212 Dual-wielding Skeleton
+5213 Dual-wielding Skeleton
+5214 Dual-wielding Skeleton
+5220 Dual-wielding Skeleton
+5221 Dual-wielding Skeleton
+5222 Dual-wielding Skeleton
+5223 Dual-wielding Skeleton
+5224 Dual-wielding Skeleton
+5225 Dual-wielding Skeleton
+5226 Dual-wielding Skeleton
+5227 Dual-wielding Skeleton
+5228 Dual-wielding Skeleton
+5229 Dual-wielding Skeleton
+5230 Dual-wielding Skeleton
+5231 Dual-wielding Skeleton
+6000 Dual-wielding Skeleton
+6001 Dual-wielding Skeleton
+6002 Dual-wielding Skeleton
+6003 Dual-wielding Skeleton
+6004 Dual-wielding Skeleton
+6005 Dual-wielding Skeleton
+6006 Dual-wielding Skeleton
+6030 Black Hollow Mage
+6031 Black Hollow Mage
+8000 Greatsword Phantom
+8001 Greatsword Phantom
+8500 Skeleton
+9000 Poison Moth
+9001 Poison Moth
+9002 Poison Moth
+9003 Poison Moth
+9004 Poison Moth
+9500 Invisible Hollow

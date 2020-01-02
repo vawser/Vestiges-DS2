@@ -4,10 +4,10 @@
 10700001 Parasitized Undead
 10700100 Parasitized Undead
 11820000 White Hollow Mage
-12700000 Abandoned Hollow
+12700000 Captive Undead
 13700000 Dragon Acolyte
 14601000 Headless Vengarl
-14700000 Undead with Head Bandage
+14700000 Undead Supplicant
 14800000 Undead Peasant
 14800001 Undead Peasant
 14800010 Undead Peasant

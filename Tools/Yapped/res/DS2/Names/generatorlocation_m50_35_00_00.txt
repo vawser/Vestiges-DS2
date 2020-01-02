@@ -1,0 +1,153 @@
+700 Jester Thomas
+710 Abbess Feeva
+711 Ruined Aflis
+712 Steelheart Ellie
+713 Transcendent Edde
+714 Rapacious Andrei
+715 Benhart of Jugo
+720 Rockshield Baldyr
+721 Rhoy the Explorer
+722 Stewart the Explorer
+723 Courh the Explorer
+900 Elana, Squalid Queen
+901 Sinh, the Slumbering Dragon
+974 Forlorn (Scythe)
+1010 Sanctum Soldier
+1050 Sanctum Soldier
+1051 Sanctum Soldier
+1052 Sanctum Soldier
+1060 Sanctum Soldier
+1061 Sanctum Soldier
+1062 Sanctum Soldier
+1063 Sanctum Soldier
+1070 Sanctum Soldier
+1100 Sanctum Soldier
+1101 Sanctum Soldier
+1200 Rotten Vermin
+1201 Rotten Vermin
+1400 Sanctum Soldier
+1410 No Match
+1411 Rotten Vermin
+1600 Sanctum Soldier
+1601 Sanctum Soldier
+1800 Rotten Vermin
+1801 Rotten Vermin
+1802 Rotten Vermin
+1803 Rotten Vermin
+1804 Rotten Vermin
+2000 Poison Statue Cluster
+2001 No Match
+2002 No Match
+2200 Sanctum Soldier
+2201 Sanctum Soldier
+2400 Sanctum Soldier
+2401 Sanctum Soldier
+2402 No Match
+2403 Sanctum Soldier
+2404 Sanctum Soldier
+2405 Sanctum Soldier
+2410 Poison Statue Cluster
+2500 Pagan Tree
+2501 Poison Statue Cluster
+2502 Poison Statue Cluster
+2503 Poison Statue Cluster
+2600 Sanctum Soldier
+2601 Sanctum Soldier
+2602 Sanctum Soldier
+2700 No Match
+2701 No Match
+3000 No Match
+3200 Sanctum Soldier
+3201 Sanctum Soldier
+4001 Sanctum Knight
+4002 Sanctum Knight
+4200 Sanctum Soldier
+4201 Sanctum Soldier
+4202 Sanctum Soldier
+4203 Sanctum Soldier
+4400 Sanctum Soldier
+4401 No Match
+4402 Sanctum Priestess
+4410 Sanctum Soldier
+4600 Sanctum Soldier
+4601 Sanctum Soldier
+4602 Sanctum Soldier
+4800 Rotten Vermin
+4801 Rotten Vermin
+4802 Rotten Vermin
+4803 Rotten Vermin
+4804 Rotten Vermin
+4805 Rotten Vermin
+4806 Rotten Vermin
+4807 Rotten Vermin
+4808 Rotten Vermin
+4809 Rotten Vermin
+4810 Rotten Vermin
+5000 Sanctum Knight
+5002 Sanctum Knight
+5200 Sanctum Priestess
+5201 Sanctum Priestess
+5202 Sanctum Knight
+5400 Sanctum Knight
+5401 No Match
+5800 Sanctum Knight
+5801 Sanctum Knight
+5802 Sanctum Knight
+6000 Imperfect
+6001 Imperfect
+6002 Imperfect
+6003 Imperfect
+6004 Imperfect
+6500 Drakeblood Knight Rondor
+6510 Drakeblood Knight Rondor
+6520 No Match
+6530 Drakeblood Knight Rondor
+6531 Drakeblood Knight Rondor
+6540 Drakeblood Knight Rondor
+6550 Drakeblood Knight Rondor
+6600 Crystal Lizard
+6601 Crystal Lizard
+6602 Crystal Lizard
+6603 Crystal Lizard
+6700 Sanctum Knight
+7000 Sanctum Priestess
+7001 Sanctum Priestess
+7010 Rotten Vermin
+7011 Rotten Vermin
+7012 Rotten Vermin
+8000 Sanctum Soldier
+8001 Sanctum Soldier
+8002 Sanctum Soldier
+8003 Sanctum Soldier
+8010 Sanctum Soldier
+8200 Sanctum Soldier
+8201 Sanctum Soldier
+8202 Sanctum Soldier
+8203 Poison Statue Cluster
+8204 Poison Statue Cluster
+8205 Poison Statue Cluster
+8206 Poison Statue Cluster
+8300 Sanctum Soldier
+8301 Sanctum Soldier
+8302 Sanctum Soldier
+8400 No Match
+8401 Poison Statue Cluster
+8402 No Match
+8403 No Match
+8404 Poison Statue Cluster
+8405 Poison Statue Cluster
+8410 Poison Statue Cluster
+8411 No Match
+8412 No Match
+8413 No Match
+8420 Razorback Nightcrawler
+8500 Skeleton (Elana)
+8501 Skeleton (Elana)
+8502 Skeleton (Elana)
+8503 Small Undead Boar (Elana)
+8504 Small Undead Boar (Elana)
+8505 Small Undead Boar (Elana)
+8506 Velstadt (Elana)
+8507 Skeleton (Elana)
+8508 Skeleton (Elana)
+9000 Sinh, the Slumbering Dragon

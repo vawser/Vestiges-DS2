@@ -46,7 +46,7 @@
 30000000 Ogre
 30000010 Ogre
 30100000 Heide Knight
-30960000 The Last Giant [Boss]
+30960000 The Last Giant
 31800000 The Pursuer [Boss]
 31800010 The Pursuer
 60100000 Flame Lizard

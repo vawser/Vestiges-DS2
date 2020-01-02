@@ -1,0 +1,131 @@
+20 Milfanito
+21 Milfanito
+25 Milfanito
+26 Milfanito
+660 Peculiar Kindalur
+666 Felicia the Brave
+667 Lone Hunter Schmidt
+802 Demon of Song
+965 Forlorn
+1300 Amana Aberration
+1400 Amana Aberration
+1410 Lindelt Cleric
+1500 Amana Aberration
+1501 Amana Aberration
+1600 Amana Aberration
+1700 Amana Aberration
+1810 Amana Aberration
+2000 Amana Aberration
+2100 Amana Aberration
+2200 Amana Aberration
+2302 Amana Aberration
+2303 Amana Aberration
+2304 Amana Aberration
+2305 Amana Aberration
+2310 Acid Horn Beetle
+2400 Amana Aberration
+2410 Amana Aberration
+2800 Amana Shrine Maiden
+2810 Amana Aberration
+2900 Amana Aberration
+2901 Amana Aberration
+2902 Amana Aberration
+2910 Amana Aberration
+2911 Amana Aberration
+3000 Amana Aberration
+3001 Amana Aberration
+3002 Amana Aberration
+3003 Amana Aberration
+3010 Amana Shrine Maiden
+3100 Peculiar Kindalur Phantom
+3110 Amana Shrine Maiden
+3200 Amana Shrine Maiden
+3201 Amana Shrine Maiden
+3210 Amana Aberration
+3300 Amana Aberration
+3311 Amana Shrine Maiden
+3320 Amana Aberration
+3321 Amana Aberration
+3323 Amana Aberration
+3324 Amana Aberration
+3325 Amana Aberration
+3340 Ogre
+3400 Amana Aberration
+3500 Amana Shrine Maiden
+3501 Amana Shrine Maiden
+3502 Amana Shrine Maiden
+3503 Amana Shrine Maiden
+3504 Amana Shrine Maiden
+3650 Amana Shrine Maiden
+3651 Lindelt Cleric
+3670 Acid Horn Beetle
+3671 Acid Horn Beetle
+3672 Acid Horn Beetle
+3673 Acid Horn Beetle
+3680 Acid Horn Beetle
+3681 Acid Horn Beetle
+3682 Acid Horn Beetle
+3683 Acid Horn Beetle
+3684 Giant Acid Horn Beetle
+3710 Amana Shrine Maiden
+3800 Ogre
+3900 Amana Shrine Maiden
+4000 Amana Shrine Maiden
+4100 Milfanito
+4210 Amana Aberration
+4220 Amana Aberration
+4250 Amana Aberration
+4260 Amana Shrine Maiden
+4270 Amana Shrine Maiden
+4280 Amana Aberration
+4300 Amana Shrine Maiden
+4400 Lindelt Cleric
+4401 Lindelt Cleric
+4410 Amana Shrine Maiden
+5000 Undead Supplicant
+5001 Undead Supplicant
+5002 Undead Supplicant
+5300 Undead Traveler
+6010 Syan Knight
+6020 Butcher Phantom
+6021 Butcher Phantom
+6022 Butcher Phantom
+6110 Old Knight
+6200 Basilisk
+6210 Lindelt Cleric
+6300 Amana Aberration
+6301 Amana Aberration
+6302 Amana Aberration
+6303 Amana Aberration
+6310 Basilisk
+6311 Basilisk
+6312 Basilisk
+6400 Poison Moth
+6402 Poison Moth
+6403 Poison Moth
+6500 Dragonrider
+6600 Invisible Hollow
+6601 Invisible Hollow
+8033 Amana Aberration
+8051 Amana Shrine Maiden
+8052 Amana Aberration
+8053 Amana Aberration
+8055 Amana Aberration
+8056 Amana Aberration
+8057 Lindelt Cleric
+8058 Lindelt Cleric
+8059 Lindelt Cleric
+8060 Amana Aberration
+8061 Lindelt Cleric
+8062 Lindelt Cleric
+8063 Lindelt Cleric
+8500 Amana Aberration
+8521 Amana Aberration
+8531 Amana Aberration
+8532 Amana Aberration
+8540 Lindelt Cleric
+8541 Lindelt Cleric
+8542 Lindelt Cleric
+8543 Lindelt Cleric
+8544 Amana Shrine Maiden
+8551 Lindelt Cleric

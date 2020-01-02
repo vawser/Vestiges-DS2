@@ -67,9 +67,9 @@
 125002 Rupturing Hollow
 125003 Rupturing Hollow
 125004 Rupturing Hollow
-127000 Abandoned Hollow
-127010 Abandoned Hollow
-127020 Abandoned Hollow
+127000 Captive Undead
+127010 Captive Undead
+127020 Captive Undead
 129000 Forest Spirit
 129010 Forest Spirit
 131000 Lindelt Cleric

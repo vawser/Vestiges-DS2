@@ -20,21 +20,21 @@
 10800055 Hollow Rogue
 11800000 Black Hollow Mage
 11800001 Black Hollow Mage
-12700000 Abandoned Hollow
-12700001 Abandoned Hollow
-12700002 Abandoned Hollow
-12700003 Abandoned Hollow
-12700009 Abandoned Hollow
-12700050 Abandoned Hollow
-12700051 Abandoned Hollow
-12700052 Abandoned Hollow
-12700099 Abandoned Hollow
-12701009 Abandoned Hollow
-13200003 Armored Skeleton
-13200010 Armored Skeleton
-13200032 Armored Skeleton
-13202235 Armored Skeleton
-13205000 Armored Skeleton
+12700000 Captive Undead
+12700001 Captive Undead
+12700002 Captive Undead
+12700003 Captive Undead
+12700009 Captive Undead
+12700050 Captive Undead
+12700051 Captive Undead
+12700052 Captive Undead
+12700099 Captive Undead
+12701009 Captive Undead
+13200003 Dual-wielding Skeleton
+13200010 Dual-wielding Skeleton
+13200032 Dual-wielding Skeleton
+13202235 Dual-wielding Skeleton
+13205000 Dual-wielding Skeleton
 13209000 Skeleton
 13300101 Skeleton
 13800000 Torturer
@@ -51,34 +51,34 @@
 15400000 Skeleton Lord
 15400001 Skeleton Lord
 15400002 Skeleton Lord
-15600000 Armored Skeleton
-15700012 Armored Skeleton
-15700014 Armored Skeleton
-15700020 Armored Skeleton
-15700022 Armored Skeleton
-15700023 Armored Skeleton
-15700500 Armored Skeleton
-15700600 Armored Skeleton
-15701400 Armored Skeleton
-15701500 Armored Skeleton
-15702300 Armored Skeleton
-15702600 Armored Skeleton
-15703300 Armored Skeleton
-15705800 Armored Skeleton
-15706802 Armored Skeleton
+15600000 Dual-wielding Skeleton
+15700012 Dual-wielding Skeleton
+15700014 Dual-wielding Skeleton
+15700020 Dual-wielding Skeleton
+15700022 Dual-wielding Skeleton
+15700023 Dual-wielding Skeleton
+15700500 Dual-wielding Skeleton
+15700600 Dual-wielding Skeleton
+15701400 Dual-wielding Skeleton
+15701500 Dual-wielding Skeleton
+15702300 Dual-wielding Skeleton
+15702600 Dual-wielding Skeleton
+15703300 Dual-wielding Skeleton
+15705800 Dual-wielding Skeleton
+15706802 Dual-wielding Skeleton
 20400000 Poison Moth
 21300000 Crystal Lizard
 22200000 Giant Basilisk
 22700000 Stray Dog
-32700010 Abandoned Hollow
-32700020 Abandoned Hollow
-32700021 Abandoned Hollow
-32700022 Abandoned Hollow
-32700023 Abandoned Hollow
-32700024 Abandoned Hollow
-32700031 Abandoned Hollow
-32700033 Abandoned Hollow
-32700039 Abandoned Hollow
+32700010 Captive Undead
+32700020 Captive Undead
+32700021 Captive Undead
+32700022 Captive Undead
+32700023 Captive Undead
+32700024 Captive Undead
+32700031 Captive Undead
+32700033 Captive Undead
+32700039 Captive Undead
 61910000 Executioner's Chariot [Boss]
 69400000 Forlorn
 69600000 Invisible Hollow

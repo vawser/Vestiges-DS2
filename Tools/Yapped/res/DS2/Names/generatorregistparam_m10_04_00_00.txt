@@ -48,7 +48,7 @@
 77700005 Sweet Shalquoir
 77700006 Sweet Shalquoir
 77700007 Sweet Shalquoir
-78600000 Voice Marker
+78600000 Victor's Stone
 83700000 Foreign Wanderer Phantom
 83710001 Foreign Wanderer
 83720000 Greatsword Foreigner Phantom

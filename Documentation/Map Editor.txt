@@ -26,3 +26,13 @@ Crown of the Iron King:     50 36 00 00
 Crown of the Ivory King:    50 37 00 00
 Undead Crypt Tomb:          50 38 00 00
 
+# Common Objects
+0100 - Bonfire
+0200 - Wooden Chest
+0210 - Metal Chest
+0240 - Corpse
+0400 - Door
+0500 - Fogwall
+
+# Interactions
+Does the AI value determine the last two digits to look for in the EnemyBehaviorParam ID (i.e. 7300xx)

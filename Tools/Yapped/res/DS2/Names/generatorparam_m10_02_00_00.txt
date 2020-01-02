@@ -1,0 +1,10 @@
+1000 Kobold
+1001 Kobold
+1002 Kobold
+1003 Kobold
+1010 Kobold
+1012 Kobold
+3240 Basilisk
+3241 Basilisk
+3242 Basilisk
+3250 Basilisk

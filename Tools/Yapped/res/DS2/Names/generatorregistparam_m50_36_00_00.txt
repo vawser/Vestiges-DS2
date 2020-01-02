@@ -1,0 +1,101 @@
+21301400 Crystal Lizard
+30600700 Alonne Captain
+30600701 Alonne Captain
+30601901 Alonne Captain
+31900800 Alonne Knight
+31901100 Alonne Knight
+65000000 Iron Warrior
+65000001 Iron Warrior
+65000002 Iron Warrior
+65000010 Iron Warrior
+65000011 Iron Warrior
+65000012 Iron Warrior
+65000020 Iron Warrior
+65000021 Iron Warrior
+65000022 Iron Warrior
+65000030 Iron Warrior
+65000031 Iron Warrior
+65001000 Iron Warrior
+65001001 Iron Warrior
+65001010 Iron Warrior
+65001011 Iron Warrior
+65001020 Iron Warrior
+65001021 Iron Warrior
+65001030 Iron Warrior
+65001031 Iron Warrior
+65100000 Fume Sorcerer
+65100001 Fume Sorcerer
+65100010 Fume Sorcerer
+65100011 Fume Sorcerer
+65100020 Fume Sorcerer
+65100021 Fume Sorcerer
+65100030 Fume Sorcerer
+65300000 Ashen Warrior
+65300001 Ashen Warrior
+65300010 Ashen Warrior
+65300011 Ashen Warrior
+65300020 Ashen Warrior
+65300021 Ashen Warrior
+65300100 Ashen Warrior
+65300101 Ashen Warrior
+65300400 Ashen Warrior
+65300401 Ashen Warrior
+65300402 Ashen Warrior
+65300500 Ashen Warrior
+65300501 Ashen Warrior
+65300600 Ashen Warrior
+65300601 Ashen Warrior
+65301000 Ashen Warrior
+65301001 Ashen Warrior
+65301010 Ashen Warrior
+65301011 Ashen Warrior
+65301012 Ashen Warrior
+65301020 Ashen Warrior
+65301021 Ashen Warrior
+65302000 Ashen Warrior
+65302001 Ashen Warrior
+65302010 Ashen Warrior
+65302011 Ashen Warrior
+65302012 Ashen Warrior
+65302013 Ashen Warrior
+65302020 Ashen Warrior
+65302021 Ashen Warrior
+65303000 Ashen Warrior
+65303001 Ashen Warrior
+65303010 Ashen Warrior
+65303011 Ashen Warrior
+65303020 Ashen Warrior
+65303021 Ashen Warrior
+65400000 Ashen Crawler
+65600000 Possessed Armor
+65600001 Possessed Armor
+65600010 Possessed Armor
+65600011 Possessed Armor
+65600020 Possessed Armor
+65600021 Possessed Armor
+65600030 Possessed Armor
+65700000 Barrel Carrier
+65700001 Barrel Carrier
+65700002 Barrel Carrier
+65700010 Barrel Carrier
+65700011 Barrel Carrier
+65700012 Barrel Carrier
+67500000 Fume Knight [Boss]
+68000000 Sir Alonne [Boss]
+68800000 Flame Lizard
+68900000 Blue Smelter Demon [Boss]
+69400000 Forlorn (Scythe)
+82100010 Steelheart Ellie
+82100021 Carhillion of the Fold
+82100030 Prowlers
+82100031 Prowlers
+82100040 Quicksword Rachel
+82100041 Maldron the Assassin
+82100042 Evangelist Scion Waslo
+82100043 Swashbuckling Matelas
+82100044 Evangelist Scion Waslo
+84000000 Altar of Sunlight
+87500000 Steel-willed Lorrie
+87500100 Steel-willed Lorrie
+87600000 Drifter Swordsman Aidel
+87600100 Drifter Swordsman Aidel

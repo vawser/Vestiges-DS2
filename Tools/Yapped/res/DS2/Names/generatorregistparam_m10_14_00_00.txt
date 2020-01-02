@@ -1,0 +1,83 @@
+10600001 Hollow Priest
+10600010 Hollow Priest
+10700000 Parasitized Undead
+10700001 Parasitized Undead
+10700100 Parasitized Undead
+11820000 White Hollow Mage
+12700000 Abandoned Hollow
+13700000 Dragon Acolyte
+14601000 Headless Vengarl
+14700000 Undead with Head Bandage
+14800000 Undead Peasant
+14800001 Undead Peasant
+14800010 Undead Peasant
+14800050 Undead Peasant
+14800100 Undead Peasant
+14800110 Undead Peasant
+14800120 Undead Peasant
+14800200 Undead Peasant
+14800220 Undead Peasant
+14801000 Undead Peasant
+14801100 Undead Peasant
+20110000 Small Boar
+20210000 Undead Boar
+20300000 Parasite Spider
+20300002 Parasite Spider
+20300010 Parasite Spider
+20300011 Parasite Spider
+20300020 Parasite Spider
+20300021 Parasite Spider
+20300050 Parasite Spider
+20300051 Parasite Spider
+20300060 Parasite Spider
+20300070 Parasite Spider
+20300075 Parasite Spider
+20300080 Parasite Spider
+20301000 Parasite Spider
+20301010 Parasite Spider
+20301020 Parasite Spider
+20301030 Parasite Spider
+20301040 Parasite Spider
+20301100 Parasite Spider
+20301110 Parasite Spider
+20301120 Parasite Spider
+20301130 Parasite Spider
+20301140 Parasite Spider
+20302000 Parasite Spider
+20302010 Parasite Spider
+20302040 Parasite Spider
+20302502 Parasite Spider
+20302511 Parasite Spider
+20302520 Parasite Spider
+20302521 Parasite Spider
+20302551 Parasite Spider
+20400000 Poison Moth
+21000000 Basilisk
+21300000 Crystal Lizard
+21310000 Red Crystal Lizard
+21400000 Giant Undead Boar
+31300000 Hollow Falconer
+31300010 Hollow Falconer
+31300020 Hollow Falconer
+32100000 Mimic
+60300000 The Duke's Dear Freja
+60301000 The Duke's Dear Freja
+69300000 Aldia, Scholar of the First Sin
+69400000 Forlorn
+74200000 Creighton the Wanderer
+74200001 Creighton the Wanderer
+74300000 Benhart of Jugo
+74400000 Mild Mannered Pate
+74400001 Mild Mannered Pate
+77100000 Royal Sorcerer Navlaan
+77600000 Weaponsmith Ornifex
+77600001 Weaponsmith Ornifex
+78400000 Cromwell the Pardoner
+78400001 Cromwell the Pardoner
+84600000 Porcine Peasant Phantom
+84800000 Dual Wielding Swordsman Phantom
+85300000 Bowman Guthry
+85310000 Ashen Knight Boyd
+85500000 Mocking Voice (Creighton/Pate)
+89200000 Manhunter O'Harrah
+89250000 Bashful Ray

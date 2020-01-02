@@ -1,0 +1,18 @@
+6940 Forlorn
+6950 Forlorn
+7410 Crestfallen Saulden
+7610 Maughlin the Armourer
+7630 Rosabeth of Melfia
+7660 Carhillion of the Fold
+7720 Magerold of Lanafir
+7840 Cromwell the Pardoner
+8100 Masterless Glencour
+8110 Lone Hunter Schmidt
+8120 Pilgrim Bellclaire
+8130 Felicia the Brave
+8140 Melinda the Butcher
+8200 Vorgel the Sinner
+8210 Merciless Roenna
+8220 Peculiar Kindalur
+8230 Dragonfang Villard
+8240 Aslatiel of Mirrah

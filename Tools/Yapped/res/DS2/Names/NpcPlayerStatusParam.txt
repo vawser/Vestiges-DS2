@@ -1,0 +1,59 @@
+6940 Forlorn
+6950 Forlorn
+7410 Crestfallen Saulden
+7610 Maughlin the Armourer
+7630 Rosabeth of Melfia
+7660 Carhillion of the Fold
+7720 Magerold of Lanafir
+7840 Cromwell the Pardoner
+8100 Masterless Glencour
+8110 Lone Hunter Schmidt
+8120 Pilgrim Bellclaire
+8130 Felicia the Brave
+8140 Melinda the Butcher
+8200 Vorgel the Sinner
+8210 Merciless Roenna
+8220 Peculiar Kindalur
+8230 Dragonfang Villard
+8240 Aslatiel of Mirrah
+8490 Nameless Usurper
+8491 Jester Thomas
+8492 Rhoy the Explorer
+8530 Bowman Guthry
+8531 Ashen Knight Boyd
+8600 Rockshield Baldyr
+8610 Jester Thomas
+8620 Rhoy the Explorer
+8630 Stewart the Explorer
+8640 Courh the Explorer
+8650 Abbess Feeva
+8660 Ruined Aflis
+8670 Steelheart Ellie
+8671 Steelheart Ellie
+8680 Transcendent Edde
+8681 Transcendent Edde
+8690 Rapacious Andrei
+8700 Quicksword Rachel
+8710 Maldron the Assassin
+8711 Teeth-chattering Dan
+8720 Evangelist Scion Waslo
+8730 Swashbuckling Matelas
+8740 Carhillion of the Fold
+8750 Steel-willed Lorrie
+8760 Drifter Swordsman Aidel
+8770 Castaway Witch Donna
+8780 Hexer Nicholai
+8790 Holy Knight Aurheim
+8800 Drakeblood Knight Rondor
+8840 Twiggy Shei
+8870 Gutter Denizen
+8910 Sellsword Luet
+8915 Devotee Scarlett
+8920 Manhunter O'Harrah
+8925 Bashful Ray
+8930 Bradley of the Old Guard
+8960 Woodland Child Victor
+8965 Woodland Child Gully
+8970 Fencer Sharron
+8975 Armorer Dennis
+8980 Oliver the Collector

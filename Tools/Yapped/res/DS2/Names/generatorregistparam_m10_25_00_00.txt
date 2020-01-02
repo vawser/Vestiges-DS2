@@ -1,0 +1,64 @@
+11500000 Undead Traveler
+12501300 Rupturing Hollow
+12501304 Rupturing Hollow
+12501600 Rupturing Hollow
+20400000 Poison Moth
+20500100 Poison Horn Beetle
+20600000 Razorback Nightcrawler
+20900200 Hunting Dog
+22400000 Darksucker
+30100000 Heide Knight
+30900100 Forgotten Giant
+32100000 Mimic
+32600000 The Rotten [Boss]
+33700200 Abandoned Hollow
+33700203 Abandoned Hollow
+33700204 Abandoned Hollow
+33700207 Abandoned Hollow
+33700210 Abandoned Hollow
+33700211 Abandoned Hollow
+33700212 Abandoned Hollow
+33700213 Abandoned Hollow
+33700214 Abandoned Hollow
+33700215 Abandoned Hollow
+33700217 Abandoned Hollow
+33700220 Abandoned Hollow
+33700221 Abandoned Hollow
+33700222 Abandoned Hollow
+33700225 Abandoned Hollow
+33700226 Abandoned Hollow
+33700227 Abandoned Hollow
+33700228 Abandoned Hollow
+33701101 Abandoned Hollow
+33701102 Abandoned Hollow
+33701105 Abandoned Hollow
+33701110 Abandoned Hollow
+33702200 Abandoned Hollow
+33702201 Abandoned Hollow
+33702210 Abandoned Hollow
+33702211 Abandoned Hollow
+33702212 Abandoned Hollow
+33702213 Abandoned Hollow
+33702214 Abandoned Hollow
+33702217 Abandoned Hollow
+33702220 Abandoned Hollow
+33702221 Abandoned Hollow
+33702222 Abandoned Hollow
+60800000 Rotten Vermin
+67100000 Poison Statue Cluster
+67200000 Rotten Vermin
+69300000 Aldia, Scholar of the First Sin
+69500000 Forlorn
+69600000 Invisible Hollow
+72500100 Darkdiver Grandahl
+72500200 Darkdiver Grandahl
+75200100 Lucatiel of Mirrah
+75200500 Lucatiel of Mirrah
+75200600 Lucatiel of Mirrah
+77100500 Royal Sorcerer Navlaan
+81100000 Lone Hunter Schmidt
+81400900 Melinda the Butcher
+82950000 Bashful Ray
+88700000 Gutter Denizen
+89600000 Woodland Child Victor
+89650000 Woodland Child Gully

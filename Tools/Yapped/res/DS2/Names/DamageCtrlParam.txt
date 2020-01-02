@@ -1,0 +1,19 @@
+81050010 Emit Force
+81060000 Soul Arrow / Great Soul Arrow / Soul Shower
+81060010 Heavy Soul Arrow / Great Heavy Soul Arrow
+81060020 Soul Spear
+81060030 Crystal Soul Spear
+81061000 Blinding Bolt
+81062010 Great Chaos Fireball
+81062020 Fireball / Fire Orb / Great Fireball
+81062030 Forbidden Sun
+81063010 Dark Orb
+81063020 Resonant Soul
+81063030 Climax
+99986021 Spells
+99986023 Shockwave
+99986040 Dark Hail
+100000060 Lightning Spear
+100000070 Great Lightning Spear
+100000080 Sunlight Spear
+100000100 Soul Spear Barrage

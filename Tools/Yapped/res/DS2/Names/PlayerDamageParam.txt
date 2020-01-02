@@ -1,0 +1,490 @@
+31010000 Soul Arrow
+31020000 Great Soul Arrow
+31030000 Heavy Soul Arrow
+31040000 Great Heavy Soul Arrow
+31050000 Homing Soul Arrow
+31050010 Homing Soul Arrow
+31060000 Heavy Homing Soul Arrow
+31060010 Heavy Homing Soul Arrow
+31070000 Homing Soulmass
+31070010 Homing Soulmass
+31070060 Homing Soulmass
+31080000 Homing Crystal Soulmass
+31080010 Homing Crystal Soulmass
+31080060 Homing Crystal Soulmass
+31090000 Soul Spear
+31100000 Crystal Soul Spear
+31110000 Shockwave
+31110010 Shockwave
+31120000 Soul Spear Barrage
+31130000 Soul Shower
+31130010 Soul Shower
+31140000 Soul Greatsword
+31140010 Soul Greatsword
+31140020 Soul Greatsword
+31150000 Soul Vortex
+31150010 Soul Vortex
+31160000 Soul Bolt
+31160001 Soul Bolt
+31160002 Soul Bolt
+31160010 Soul Bolt
+31160011 Soul Bolt
+31170000 Soul Geyser
+31170001 Soul Geyser
+31170002 Soul Geyser
+31170010 Soul Geyser
+31170011 Soul Geyser
+31170012 Soul Geyser
+31170013 Soul Geyser
+31180000 Magic Weapon
+31180001 Magic Weapon
+31181000 Magic Weapon
+31181001 Magic Weapon
+31190000 Great Magic Weapon
+31190001 Great Magic Weapon
+31191000 Great Magic Weapon
+31191001 Great Magic Weapon
+31200000 Crystal Magic Weapon
+31200001 Crystal Magic Weapon
+31201000 Crystal Magic Weapon
+31201001 Crystal Magic Weapon
+31210000 Strong Magic Shield
+31210001 Strong Magic Shield
+31211000 Strong Magic Shield
+31211001 Strong Magic Shield
+31220000 Yearn
+31220001 Yearn
+31220010 Yearn
+31230000 Hush
+31240000 Fall Control
+31250000 Hidden Weapon
+31250001 Hidden Weapon
+31250002 Hidden Weapon
+31251000 Hidden Weapon
+31251001 Hidden Weapon
+31251002 Hidden Weapon
+31260000 Repair
+31270000 Cast Light
+31270001 Cast Light
+31280000 Chameleon
+31280010 Chameleon
+31290000 Unleash Magic
+31290001 Unleash Magic
+31300000 Soul Flash
+31300010 Soul Flash
+31300020 Soul Flash
+31310000 Focus Souls
+31310001 Focus Souls
+31310002 Focus Souls
+31310003 Focus Souls
+31310010 Focus Souls
+31310011 Focus Souls
+31310012 Focus Souls
+31310013 Focus Souls
+31310014 Focus Souls
+31310020 Focus Souls
+31310021 Focus Souls
+31310022 Focus Souls
+31310023 Focus Souls
+31310024 Focus Souls
+31310030 Focus Souls
+31310031 Focus Souls
+31310032 Focus Souls
+31310033 Focus Souls
+31310034 Focus Souls
+31310040 Focus Souls
+31310041 Focus Souls
+31310042 Focus Souls
+31310043 Focus Souls
+31310044 Focus Souls
+32010000 Heal
+32010010 Heal
+32010011 Heal
+32010012 Heal
+32010013 Heal
+32010014 Heal
+32020000 Med Heal
+32020010 Med Heal
+32020011 Med Heal
+32020012 Med Heal
+32020013 Med Heal
+32020014 Med Heal
+32030000 Great Heal Excerpt
+32030001 Great Heal Excerpt
+32040000 Great Heal
+32040010 Great Heal
+32040011 Great Heal
+32040012 Great Heal
+32040013 Great Heal
+32040014 Great Heal
+32050000 Soothing Sunlight
+32050010 Soothing Sunlight
+32050011 Soothing Sunlight
+32050012 Soothing Sunlight
+32050013 Soothing Sunlight
+32050014 Soothing Sunlight
+32060000 Replenishment
+32060001 Replenishment
+32070000 Resplendent Life
+32070001 Resplendent Life
+32080000 Bountiful Sunlight
+32080010 Bountiful Sunlight
+32080011 Bountiful Sunlight
+32080012 Bountiful Sunlight
+32080013 Bountiful Sunlight
+32080014 Bountiful Sunlight
+32080050 Bountiful Sunlight
+32090000 Caressing Prayer
+32090001 Caressing Prayer
+32100000 Force
+32100001 Force
+32110000 Wrath of the Gods
+32110001 Wrath of the Gods
+32120000 Emit Force
+32120010 Emit Force
+32130000 Heavenly Thunder
+32130001 Heavenly Thunder
+32130010 Heavenly Thunder
+32130020 Heavenly Thunder
+32130021 Heavenly Thunder
+32130030 Heavenly Thunder
+32130031 Heavenly Thunder
+32140000 Lightning Spear
+32140010 Lightning Spear
+32140020 Lightning Spear
+32140021 Lightning Spear
+32140030 Lightning Spear
+32140031 Lightning Spear
+32150000 Great Lightning Spear
+32150010 Great Lightning Spear
+32150020 Great Lightning Spear
+32150021 Great Lightning Spear
+32150030 Great Lightning Spear
+32150031 Great Lightning Spear
+32160000 Sunlight Spear
+32160010 Sunlight Spear
+32160020 Sunlight Spear
+32160021 Sunlight Spear
+32160030 Sunlight Spear
+32160031 Sunlight Spear
+32170000 Soul Appease
+32170010 Soul Appease
+32170011 Soul Appease
+32180000 Blinding Bolt
+32180001 Blinding Bolt
+32180010 Blinding Bolt
+32180011 Blinding Bolt
+32180020 Blinding Bolt
+32180021 Blinding Bolt
+32180030 Blinding Bolt
+32180031 Blinding Bolt
+32190000 Magic Barrier
+32190010 Magic Barrier
+32190011 Magic Barrier
+32190012 Magic Barrier
+32190013 Magic Barrier
+32190014 Magic Barrier
+32200000 Great Magic Barrier
+32200001 Great Magic Barrier
+32210000 Homeward
+32220000 Guidance
+32220001 Guidance
+32230000 Sacred Oath
+32230010 Sacred Oath
+32230011 Sacred Oath
+32230012 Sacred Oath
+32230013 Sacred Oath
+32230014 Sacred Oath
+32230050 Sacred Oath
+32240000 Unveil
+32250000 Perseverance
+32250001 Perseverance
+32260000 Sunlight Blade
+32261000 Sunlight Blade
+32300000 Denial
+32300001 Denial
+32300005 Denial
+32300010 Denial
+32310000 Splintering Lightning Spear
+32310001 Splintering Lightning Spear
+32310002 Splintering Lightning Spear
+32310003 Splintering Lightning Spear
+32310004 Splintering Lightning Spear
+32310005 Splintering Lightning Spear
+32310006 Splintering Lightning Spear
+32310007 Splintering Lightning Spear
+32310008 Splintering Lightning Spear
+32310009 Splintering Lightning Spear
+32310010 Splintering Lightning Spear
+32310011 Splintering Lightning Spear
+32310020 Splintering Lightning Spear
+32310021 Splintering Lightning Spear
+32310040 Splintering Lightning Spear
+32310041 Splintering Lightning Spear
+32310042 Splintering Lightning Spear
+32310050 Splintering Lightning Spear
+32310051 Splintering Lightning Spear
+32310060 Splintering Lightning Spear
+32310061 Splintering Lightning Spear
+33010000 Fireball
+33010001 Fireball
+33010010 Fireball
+33020000 Fire Orb
+33020001 Fire Orb
+33020010 Fire Orb
+33030000 Great Fireball
+33030001 Great Fireball
+33030010 Great Fireball
+33040000 Great Chaos Fireball
+33040001 Great Chaos Fireball
+33040002 Great Chaos Fireball
+33040010 Great Chaos Fireball
+33040020 Great Chaos Fireball
+33040021 Great Chaos Fireball
+33050000 Firestorm
+33050001 Firestorm
+33050002 Firestorm
+33050003 Firestorm
+33050004 Firestorm
+33050010 Firestorm
+33050011 Firestorm
+33050020 Firestorm
+33050021 Firestorm
+33050030 Firestorm
+33050031 Firestorm
+33050040 Firestorm
+33060000 Fire Tempest
+33060001 Fire Tempest
+33060002 Fire Tempest
+33060003 Fire Tempest
+33060004 Fire Tempest
+33060010 Fire Tempest
+33060011 Fire Tempest
+33060020 Fire Tempest
+33060021 Fire Tempest
+33060030 Fire Tempest
+33060031 Fire Tempest
+33060040 Fire Tempest
+33070000 Chaos Storm
+33070001 Chaos Storm
+33070002 Chaos Storm
+33070003 Chaos Storm
+33070004 Chaos Storm
+33070010 Chaos Storm
+33070011 Chaos Storm
+33070020 Chaos Storm
+33070021 Chaos Storm
+33070030 Chaos Storm
+33070031 Chaos Storm
+33070040 Chaos Storm
+33070050 Chaos Storm
+33080000 Combustion
+33080010 Combustion
+33090000 Great Combustion
+33090010 Great Combustion
+33100000 Fire Whip
+33100001 Fire Whip
+33100010 Fire Whip
+33110000 Poison Mist
+33110010 Poison Mist
+33110011 Poison Mist
+33120000 Toxic Mist
+33120010 Toxic Mist
+33120011 Toxic Mist
+33130000 Acid Surge
+33130010 Acid Surge
+33130011 Acid Surge
+33140000 Lingering Flame
+33140001 Lingering Flame
+33140010 Lingering Flame
+33140011 Lingering Flame
+33150000 Flame Swathe
+33150001 Flame Swathe
+33150010 Flame Swathe
+33150011 Flame Swathe
+33160000 Forbidden Sun
+33160001 Forbidden Sun
+33160002 Forbidden Sun
+33160010 Forbidden Sun
+33160020 Forbidden Sun
+33160021 Forbidden Sun
+33170000 Flame Weapon
+33171000 Flame Weapon
+33180000 Flash Sweat
+33180010 Flash Sweat
+33190000 Iron Flesh
+33190010 Iron Flesh
+33200000 Warmth
+33210000 Immolation
+33210005 Immolation
+33210010 Immolation
+33210020 Immolation
+33210021 Immolation
+33210022 Immolation
+33300000 Fire Snake
+33300001 Fire Snake
+33300010 Fire Snake
+33300020 Fire Snake
+33300021 Fire Snake
+33300030 Fire Snake
+33300031 Fire Snake
+33300040 Fire Snake
+33300041 Fire Snake
+33300050 Fire Snake
+33300051 Fire Snake
+33300060 Fire Snake
+33300061 Fire Snake
+33300070 Fire Snake
+33300071 Fire Snake
+33300080 Fire Snake
+33300081 Fire Snake
+33300090 Fire Snake
+33310000 Dance of Fire
+33310010 Dance of Fire
+33310020 Dance of Fire
+33310030 Dance of Fire
+33310031 Dance of Fire
+33311000 Dance of Fire
+33311010 Dance of Fire
+33311020 Dance of Fire
+33311030 Dance of Fire
+33311031 Dance of Fire
+33320000 Outcry
+33320001 Outcry
+33320002 Outcry
+33320003 Outcry
+33320004 Outcry
+33320010 Outcry
+33320011 Outcry
+33320020 Outcry
+33320021 Outcry
+33320030 Outcry
+33320031 Outcry
+33320040 Outcry
+33320050 Outcry
+33320051 Outcry
+34010000 Dark Orb
+34020000 Dark Hail
+34020001 Dark Hail
+34030000 Dark Fog
+34030010 Dark Fog
+34030011 Dark Fog
+34040000 Affinity
+34040010 Affinity
+34040060 Affinity
+34050000 Dead Again
+34050001 Dead Again
+34050010 Dead Again
+34050011 Dead Again
+34050012 Dead Again
+34060000 Dark Weapon
+34061000 Dark Weapon
+34070000 Whisper of Despair
+34070010 Whisper of Despair
+34070011 Whisper of Despair
+34070012 Whisper of Despair
+34070013 Whisper of Despair
+34070014 Whisper of Despair
+34080000 Repel
+34090000 Twisted Barricade
+34100000 Numbness
+34100010 Numbness
+34300000 Dark Greatsword
+34300010 Dark Greatsword
+34300020 Dark Greatsword
+34300021 Dark Greatsword
+34300022 Dark Greatsword
+34300030 Dark Greatsword
+34300031 Dark Greatsword
+34310000 Recollection
+34310010 Recollection
+34310011 Recollection
+35010000 Scraps of Life
+35010001 Scraps of Life
+35010002 Scraps of Life
+35010011 Scraps of Life
+35010012 Scraps of Life
+35010020 Scraps of Life
+35010021 Scraps of Life
+35010030 Scraps of Life
+35010031 Scraps of Life
+35010040 Scraps of Life
+35010050 Scraps of Life
+35020000 Darkstorm
+35020010 Darkstorm
+35020011 Darkstorm
+35020012 Darkstorm
+35030000 Resonant Soul
+35030001 Resonant Soul
+35030002 Resonant Soul
+35030003 Resonant Soul
+35030004 Resonant Soul
+35040000 Great Resonant Soul
+35040001 Great Resonant Soul
+35040002 Great Resonant Soul
+35040003 Great Resonant Soul
+35040004 Great Resonant Soul
+35050000 Climax
+35050001 Climax
+35050002 Climax
+35050003 Climax
+35050004 Climax
+35060000 Resonant Flesh
+35060001 Resonant Flesh
+35060002 Resonant Flesh
+35060003 Resonant Flesh
+35060004 Resonant Flesh
+35060010 Resonant Flesh
+35060011 Resonant Flesh
+35060012 Resonant Flesh
+35060013 Resonant Flesh
+35060014 Resonant Flesh
+35070000 Resonant Weapon
+35070001 Resonant Weapon
+35070002 Resonant Weapon
+35070003 Resonant Weapon
+35070004 Resonant Weapon
+35071000 Resonant Weapon
+35071001 Resonant Weapon
+35071002 Resonant Weapon
+35071003 Resonant Weapon
+35071004 Resonant Weapon
+35071010 Resonant Weapon
+35080000 Lifedrain Patch
+35080001 Lifedrain Patch
+35080002 Lifedrain Patch
+35080010 Lifedrain Patch
+35080011 Lifedrain Patch
+35080012 Lifedrain Patch
+35080020 Lifedrain Patch
+35080021 Lifedrain Patch
+35080022 Lifedrain Patch
+35080030 Lifedrain Patch
+35080031 Lifedrain Patch
+35080032 Lifedrain Patch
+35080040 Lifedrain Patch
+35080041 Lifedrain Patch
+35080042 Lifedrain Patch
+35090000 Profound Still
+35090010 Profound Still
+35090011 Profound Still
+35090012 Profound Still
+35090013 Profound Still
+35090014 Profound Still
+35300000 Promised Walk of Peace
+35300010 Promised Walk of Peace
+35300011 Promised Walk of Peace
+35300012 Promised Walk of Peace
+35300013 Promised Walk of Peace
+35300014 Promised Walk of Peace
+35310000 Dark Dance
+35310010 Dark Dance
+35310011 Dark Dance
+35310020 Dark Dance
+35310021 Dark Dance
+35310030 Dark Dance
+35310040 Dark Dance
+35310100 Dark Dance
+35310200 Dark Dance
+35310300 Dark Dance
+35310400 Dark Dance

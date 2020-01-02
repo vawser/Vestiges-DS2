@@ -1,0 +1,13 @@
+12500000 Rupturing Hollow
+15301400 Syan Knight
+21300000 Crystal Lizard
+22600000 Corpse Rat
+22600010 Corpse Rat
+22600060 Corpse Rat
+22620000 Corpse Rat
+22620001 Corpse Rat
+33700015 Captive Undead
+33700020 Captive Undead
+81100000 Dingy Cleric Phantom
+81110000 Faraam Knight Phantom
+84920000 Rhoy the Explorer

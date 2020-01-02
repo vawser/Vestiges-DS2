@@ -1,0 +1,94 @@
+10800000 Hollow Rogue
+10800001 Hollow Rogue
+10800002 Hollow Rogue
+10800003 Hollow Rogue
+10800004 Hollow Rogue
+10800005 Hollow Rogue
+10800006 Hollow Rogue
+10800007 Hollow Rogue
+10800008 Hollow Rogue
+10800010 Hollow Rogue
+10800013 Hollow Rogue
+10800014 Hollow Rogue
+10800015 Hollow Rogue
+10800016 Hollow Rogue
+10800021 Hollow Rogue
+10800030 Hollow Rogue
+10800031 Hollow Rogue
+10800050 Hollow Rogue
+10800051 Hollow Rogue
+10800055 Hollow Rogue
+11800000 Black Hollow Mage
+11800001 Black Hollow Mage
+12700000 Abandoned Hollow
+12700001 Abandoned Hollow
+12700002 Abandoned Hollow
+12700003 Abandoned Hollow
+12700009 Abandoned Hollow
+12700050 Abandoned Hollow
+12700051 Abandoned Hollow
+12700052 Abandoned Hollow
+12700099 Abandoned Hollow
+12701009 Abandoned Hollow
+13200003 Armored Skeleton
+13200010 Armored Skeleton
+13200032 Armored Skeleton
+13202235 Armored Skeleton
+13205000 Armored Skeleton
+13209000 Skeleton
+13300101 Skeleton
+13800000 Torturer
+13800001 Torturer
+13800002 Torturer
+13800004 Torturer
+13800005 Torturer
+13800010 Torturer
+13900000 Artificial Undead
+13900001 Artificial Undead
+13900900 Artificial Undead
+13900901 Artificial Undead
+15300000 Syan Knight
+15400000 Skeleton Lord
+15400001 Skeleton Lord
+15400002 Skeleton Lord
+15600000 Armored Skeleton
+15700012 Armored Skeleton
+15700014 Armored Skeleton
+15700020 Armored Skeleton
+15700022 Armored Skeleton
+15700023 Armored Skeleton
+15700500 Armored Skeleton
+15700600 Armored Skeleton
+15701400 Armored Skeleton
+15701500 Armored Skeleton
+15702300 Armored Skeleton
+15702600 Armored Skeleton
+15703300 Armored Skeleton
+15705800 Armored Skeleton
+15706802 Armored Skeleton
+20400000 Poison Moth
+21300000 Crystal Lizard
+22200000 Giant Basilisk
+22700000 Stray Dog
+32700010 Abandoned Hollow
+32700020 Abandoned Hollow
+32700021 Abandoned Hollow
+32700022 Abandoned Hollow
+32700023 Abandoned Hollow
+32700024 Abandoned Hollow
+32700031 Abandoned Hollow
+32700033 Abandoned Hollow
+32700039 Abandoned Hollow
+61910000 Executioner's Chariot [Boss]
+69400000 Forlorn
+69600000 Invisible Hollow
+74200000 Creighton the Wanderer
+74200001 Creighton the Wanderer
+77000000 Felkin the Outcast
+77000001 Felkin the Outcast
+78300000 Titchy Gren
+78300001 Titchy Gren
+82100000 Merciless Roenna
+85200000 Greatsword Phantom
+90000000 Creighton the Wanderer
+90000100 Bashful Ray

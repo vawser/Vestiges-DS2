@@ -1,0 +1,105 @@
+30710000 Vengarl
+32100000 Mimic
+32100010 Mimic
+65800000 Retainer
+65900000 Rampart Golem
+65900001 Rampart Golem
+65900010 Rampart Golem
+65900011 Rampart Golem
+65900020 Rampart Golem
+65900021 Rampart Golem
+65900022 Rampart Golem
+65900023 Rampart Golem
+65900300 Rampart Golem
+66000000 Ice Golem
+66000001 Ice Golem
+66000200 Ice Golem
+66100000 Frozen Reindeer
+66100001 Frozen Reindeer
+66200000 Rampart Hedgehog
+66200001 Rampart Hedgehog
+66200002 Rampart Hedgehog
+66200010 Rampart Hedgehog
+66200011 Rampart Hedgehog
+66200012 Rampart Hedgehog
+66300000 Spellsword
+66300001 Spellsword
+66300100 Spellsword
+66300101 Spellsword
+66300400 Spellsword
+66301000 Spellsword
+66301001 Spellsword
+66301100 Spellsword
+66301101 Spellsword
+67700000 Retainer
+67700001 Retainer
+67700100 Retainer
+67700101 Retainer
+67800000 Facsimile Giant
+67800001 Facsimile Giant
+67800002 Facsimile Giant
+67800010 Facsimile Giant
+67800011 Facsimile Giant
+67800012 Facsimile Giant
+67800100 Facsimile Giant
+67800101 Facsimile Giant
+67800102 Facsimile Giant
+67800110 Facsimile Giant
+67800111 Facsimile Giant
+67800112 Facsimile Giant
+67900000 Lud, the King's Pet [Boss]
+67900100 Aava, the King's Pet [Boss]
+67900200 Aava, the King's Pet [Boss]
+69400000 Forlorn (Scythe)
+75201000 Lucatiel of Mirrah
+80000010 Loyce Knight
+80000011 Loyce Knight
+80000020 Burnt Ivory King [Boss]
+80000030 Charred Loyce Knight
+80000031 Charred Loyce Knight
+80000032 Charred Loyce Knight
+80000033 Charred Loyce Knight
+80000034 Charred Loyce Knight
+80000035 Charred Loyce Knight
+80000036 Charred Loyce Knight
+80000037 Charred Loyce Knight
+80000100 Loyce Knight
+80000101 Loyce Knight
+80000200 Loyce Knight
+80000201 Loyce Knight
+80000300 Loyce Knight
+80000301 Loyce Knight
+81000500 Masterless Glencour
+83710001 Drakeblood Knight Rondor
+83720000 Greatsword Foreigner Phantom
+84100000 Voice Marker (Alsanna)
+86200000 Twiggy Shei
+86500000 Abbess Feeva
+86710000 Steelheart Ellie
+87110000 Teeth-chattering Dan
+87700000 Castaway Witch Donna
+87800000 Hexer Nicholai
+87900000 Holy Knight Aurheim
+88300000 Wall Watchman
+88310000 Wall Watchman
+88320000 Wall Watchman
+88500000 Unknown Phantom
+88500001 Unknown Phantom
+88510000 Unknown Phantom
+88510001 Unknown Phantom
+89000000 Swashbuckling Matelas
+89100400 Sellsword Luet
+89200200 Manhunter O'Harrah
+90000010 Forest Spirit
+90000020 Covetous Demon (snow)
+90000030 Stray Dog
+90000040 Undead Laborer
+90000041 Undead Laborer
+90000042 Undead Laborer
+90000043 Undead Laborer
+90000044 Undead Laborer
+90000045 Undead Laborer
+90000046 Undead Laborer
+90000047 Undead Laborer
+90000048 Undead Laborer
+90000050 Flexile Sentry

@@ -1,0 +1,37 @@
+10100000 Kobold
+11500000 Undead Traveler
+13701000 Dragon Acolyte
+13900000 Artificial Undead
+14100000 Undead Aberration
+15300000 Syan Knight
+20400200 Poison Moth
+20900000 Hunting Dog
+21000010 Basilisk
+21200000 Guardian Dragon [Boss]
+21310000 Red Crystal Lizard
+22000000 Giant Acid Horn Beetle
+22200000 Giant Basilisk
+30000000 Ogre
+30000001 Ogre
+30000050 Ogre
+31700000 Dragon Acolyte
+32100000 Mimic
+32100010 Mimic
+32100011 Mimic
+32100012 Mimic
+32401000 Belfry Gargoyle
+32700000 Dragon Skeleton
+69400000 Forlorn
+69400001 Forlorn
+69600000 Invisible Hollow
+70000000 Emerald Herald
+73000000 Phantom
+73100000 Phantom
+75200000 Lucatiel of Mirrah
+75200001 Lucatiel of Mirrah
+77100000 Royal Sorcerer Navlaan
+77100001 Royal Sorcerer Navlaan
+77100002 Royal Sorcerer Navlaan
+82400000 Aslatiel of Mirrah
+85000000 Painting Guardian Phantom
+86600000 Sellsword Luet

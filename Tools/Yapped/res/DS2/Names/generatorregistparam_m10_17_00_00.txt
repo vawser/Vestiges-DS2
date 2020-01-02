@@ -1,56 +1,56 @@
-12300000 Suspicious Shadow
-12400000 Manikin
-12400001 Manikin
-12400030 Manikin
-12401000 Manikin
-12401001 Manikin
-12401020 Manikin
-12402000 Manikin
-12402030 Manikin
-12403000 Manikin
-12404000 Manikin
-12405000 Manikin
-12405010 Manikin
-12406000 Manikin
-12407000 Manikin
-12700000 Captive Undead
-12700010 Captive Undead
-12700020 Captive Undead
-12700030 Captive Undead
-12700040 Captive Undead
-12700050 Captive Undead
-12700090 Captive Undead
-13200000 Skeleton
-13200100 Skeleton
-13200200 Skeleton
-13900001 Artificial Undead
-13900011 Artificial Undead
-14700000 Undead Supplicant
-14900000 Undead Steelworker
-14900100 Undead Steelworker
-20400000 Poison Moth
-20500000 Poison Horn Beetle
-21300000 Crystal Lizard
-31100000 Mounted Overseer
-31200000 Grave Warden
-31200001 Grave Warden
-31600000 Desert Sorceress
-32100000 Mimic
-50000000 Covetous Demon [Boss]
-50100000 Mytha, the Baneful Queen [Boss]
-69400000 Forlorn
-70400000 Laddersmith Gilligan
-70400001 Laddersmith Gilligan
-70401000 Laddersmith Gilligan
-72600000 Lonesome Gavlan
-72600001 Lonesome Gavlan
-74400000 Mild Mannered Pate
-74400001 Mild Mannered Pate
-75200000 Lucatiel of Mirrah
-75200001 Lucatiel of Mirrah
-76200000 Stone Trader Chloanne
-76200001 Stone Trader Chloanne
-82950000 Bashful Ray
-84100000 Voice Marker (Altar of Sunlight)
-84910000 Jester Thomas
-89150000 Devotee Scarlett
+12300000 [REG] Suspicious Shadow
+12400000 [REG] Manikin
+12400001 [REG] Manikin
+12400030 [REG] Manikin
+12401000 [REG] Manikin
+12401001 [REG] Manikin
+12401020 [REG] Manikin
+12402000 [REG] Manikin
+12402030 [REG] Manikin
+12403000 [REG] Manikin
+12404000 [REG] Manikin
+12405000 [REG] Manikin
+12405010 [REG] Manikin
+12406000 [REG] Manikin
+12407000 [REG] Manikin
+12700000 [REG] Captive Undead
+12700010 [REG] Captive Undead
+12700020 [REG] Captive Undead
+12700030 [REG] Captive Undead
+12700040 [REG] Captive Undead
+12700050 [REG] Captive Undead
+12700090 [REG] Captive Undead
+13200000 [REG] Skeleton
+13200100 [REG] Skeleton
+13200200 [REG] Skeleton
+13900001 [REG] Artificial Undead
+13900011 [REG] Artificial Undead
+14700000 [REG] Undead Supplicant
+14900000 [REG] Undead Steelworker
+14900100 [REG] Undead Steelworker
+20400000 [REG] Poison Moth
+20500000 [REG] Poison Horn Beetle
+21300000 [REG] Crystal Lizard
+31100000 [REG] Mounted Overseer
+31200000 [REG] Grave Warden
+31200001 [REG] Grave Warden
+31600000 [REG] Desert Sorceress
+32100000 [REG] Mimic
+50000000 [REG] Covetous Demon [Boss]
+50100000 [REG] Mytha, the Baneful Queen [Boss]
+69400000 [REG] Forlorn
+70400000 [REG] Laddersmith Gilligan
+70400001 [REG] Laddersmith Gilligan
+70401000 [REG] Laddersmith Gilligan
+72600000 [REG] Lonesome Gavlan
+72600001 [REG] Lonesome Gavlan
+74400000 [REG] Mild Mannered Pate
+74400001 [REG] Mild Mannered Pate
+75200000 [REG] Lucatiel of Mirrah
+75200001 [REG] Lucatiel of Mirrah
+76200000 [REG] Stone Trader Chloanne
+76200001 [REG] Stone Trader Chloanne
+82950000 [REG] Bashful Ray
+84100000 [REG] Voice Marker (Altar of Sunlight)
+84910000 [REG] Jester Thomas
+89150000 [REG] Devotee Scarlett

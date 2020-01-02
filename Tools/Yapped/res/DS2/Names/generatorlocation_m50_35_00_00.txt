@@ -1,153 +1,153 @@
-700 Jester Thomas
-710 Abbess Feeva
-711 Ruined Aflis
-712 Steelheart Ellie
-713 Transcendent Edde
-714 Rapacious Andrei
-715 Benhart of Jugo
-720 Rockshield Baldyr
-721 Rhoy the Explorer
-722 Stewart the Explorer
-723 Courh the Explorer
-900 Elana, Squalid Queen
-901 Sinh, the Slumbering Dragon
-974 Forlorn (Scythe)
-1010 Sanctum Soldier
-1050 Sanctum Soldier
-1051 Sanctum Soldier
-1052 Sanctum Soldier
-1060 Sanctum Soldier
-1061 Sanctum Soldier
-1062 Sanctum Soldier
-1063 Sanctum Soldier
-1070 Sanctum Soldier
-1100 Sanctum Soldier
-1101 Sanctum Soldier
-1200 Rotten Vermin
-1201 Rotten Vermin
-1400 Sanctum Soldier
-1410 No Match
-1411 Rotten Vermin
-1600 Sanctum Soldier
-1601 Sanctum Soldier
-1800 Rotten Vermin
-1801 Rotten Vermin
-1802 Rotten Vermin
-1803 Rotten Vermin
-1804 Rotten Vermin
-2000 Poison Statue Cluster
-2001 No Match
-2002 No Match
-2200 Sanctum Soldier
-2201 Sanctum Soldier
-2400 Sanctum Soldier
-2401 Sanctum Soldier
-2402 No Match
-2403 Sanctum Soldier
-2404 Sanctum Soldier
-2405 Sanctum Soldier
-2410 Poison Statue Cluster
-2500 Pagan Tree
-2501 Poison Statue Cluster
-2502 Poison Statue Cluster
-2503 Poison Statue Cluster
-2600 Sanctum Soldier
-2601 Sanctum Soldier
-2602 Sanctum Soldier
-2700 No Match
-2701 No Match
-3000 No Match
-3200 Sanctum Soldier
-3201 Sanctum Soldier
-4001 Sanctum Knight
-4002 Sanctum Knight
-4200 Sanctum Soldier
-4201 Sanctum Soldier
-4202 Sanctum Soldier
-4203 Sanctum Soldier
-4400 Sanctum Soldier
-4401 No Match
-4402 Sanctum Priestess
-4410 Sanctum Soldier
-4600 Sanctum Soldier
-4601 Sanctum Soldier
-4602 Sanctum Soldier
-4800 Rotten Vermin
-4801 Rotten Vermin
-4802 Rotten Vermin
-4803 Rotten Vermin
-4804 Rotten Vermin
-4805 Rotten Vermin
-4806 Rotten Vermin
-4807 Rotten Vermin
-4808 Rotten Vermin
-4809 Rotten Vermin
-4810 Rotten Vermin
-5000 Sanctum Knight
-5002 Sanctum Knight
-5200 Sanctum Priestess
-5201 Sanctum Priestess
-5202 Sanctum Knight
-5400 Sanctum Knight
-5401 No Match
-5800 Sanctum Knight
-5801 Sanctum Knight
-5802 Sanctum Knight
-6000 Imperfect
-6001 Imperfect
-6002 Imperfect
-6003 Imperfect
-6004 Imperfect
-6500 Drakeblood Knight Rondor
-6510 Drakeblood Knight Rondor
-6520 No Match
-6530 Drakeblood Knight Rondor
-6531 Drakeblood Knight Rondor
-6540 Drakeblood Knight Rondor
-6550 Drakeblood Knight Rondor
-6600 Crystal Lizard
-6601 Crystal Lizard
-6602 Crystal Lizard
-6603 Crystal Lizard
-6700 Sanctum Knight
-7000 Sanctum Priestess
-7001 Sanctum Priestess
-7010 Rotten Vermin
-7011 Rotten Vermin
-7012 Rotten Vermin
-8000 Sanctum Soldier
-8001 Sanctum Soldier
-8002 Sanctum Soldier
-8003 Sanctum Soldier
-8010 Sanctum Soldier
-8200 Sanctum Soldier
-8201 Sanctum Soldier
-8202 Sanctum Soldier
-8203 Poison Statue Cluster
-8204 Poison Statue Cluster
-8205 Poison Statue Cluster
-8206 Poison Statue Cluster
-8300 Sanctum Soldier
-8301 Sanctum Soldier
-8302 Sanctum Soldier
-8400 No Match
-8401 Poison Statue Cluster
-8402 No Match
-8403 No Match
-8404 Poison Statue Cluster
-8405 Poison Statue Cluster
-8410 Poison Statue Cluster
-8411 No Match
-8412 No Match
-8413 No Match
-8420 Razorback Nightcrawler
-8500 Skeleton (Elana)
-8501 Skeleton (Elana)
-8502 Skeleton (Elana)
-8503 Small Undead Boar (Elana)
-8504 Small Undead Boar (Elana)
-8505 Small Undead Boar (Elana)
-8506 Velstadt (Elana)
-8507 Skeleton (Elana)
-8508 Skeleton (Elana)
-9000 Sinh, the Slumbering Dragon
+700 [LOC] Jester Thomas
+710 [LOC] Abbess Feeva
+711 [LOC] Ruined Aflis
+712 [LOC] Steelheart Ellie
+713 [LOC] Transcendent Edde
+714 [LOC] Rapacious Andrei
+715 [LOC] Benhart of Jugo
+720 [LOC] Rockshield Baldyr
+721 [LOC] Rhoy the Explorer
+722 [LOC] Stewart the Explorer
+723 [LOC] Courh the Explorer
+900 [LOC] Elana, Squalid Queen
+901 [LOC] Sinh, the Slumbering Dragon
+974 [LOC] Forlorn (Scythe)
+1010 [LOC] Sanctum Soldier
+1050 [LOC] Sanctum Soldier
+1051 [LOC] Sanctum Soldier
+1052 [LOC] Sanctum Soldier
+1060 [LOC] Sanctum Soldier
+1061 [LOC] Sanctum Soldier
+1062 [LOC] Sanctum Soldier
+1063 [LOC] Sanctum Soldier
+1070 [LOC] Sanctum Soldier
+1100 [LOC] Sanctum Soldier
+1101 [LOC] Sanctum Soldier
+1200 [LOC] Rotten Vermin
+1201 [LOC] Rotten Vermin
+1400 [LOC] Sanctum Soldier
+1410 [LOC] NO MATCH
+1411 [LOC] Rotten Vermin
+1600 [LOC] Sanctum Soldier
+1601 [LOC] Sanctum Soldier
+1800 [LOC] Rotten Vermin
+1801 [LOC] Rotten Vermin
+1802 [LOC] Rotten Vermin
+1803 [LOC] Rotten Vermin
+1804 [LOC] Rotten Vermin
+2000 [LOC] Poison Statue Cluster
+2001 [LOC] NO MATCH
+2002 [LOC] NO MATCH
+2200 [LOC] Sanctum Soldier
+2201 [LOC] Sanctum Soldier
+2400 [LOC] Sanctum Soldier
+2401 [LOC] Sanctum Soldier
+2402 [LOC] NO MATCH
+2403 [LOC] Sanctum Soldier
+2404 [LOC] Sanctum Soldier
+2405 [LOC] Sanctum Soldier
+2410 [LOC] Poison Statue Cluster
+2500 [LOC] Pagan Tree
+2501 [LOC] Poison Statue Cluster
+2502 [LOC] Poison Statue Cluster
+2503 [LOC] Poison Statue Cluster
+2600 [LOC] Sanctum Soldier
+2601 [LOC] Sanctum Soldier
+2602 [LOC] Sanctum Soldier
+2700 [LOC] NO MATCH
+2701 [LOC] NO MATCH
+3000 [LOC] NO MATCH
+3200 [LOC] Sanctum Soldier
+3201 [LOC] Sanctum Soldier
+4001 [LOC] Sanctum Knight
+4002 [LOC] Sanctum Knight
+4200 [LOC] Sanctum Soldier
+4201 [LOC] Sanctum Soldier
+4202 [LOC] Sanctum Soldier
+4203 [LOC] Sanctum Soldier
+4400 [LOC] Sanctum Soldier
+4401 [LOC] NO MATCH
+4402 [LOC] Sanctum Priestess
+4410 [LOC] Sanctum Soldier
+4600 [LOC] Sanctum Soldier
+4601 [LOC] Sanctum Soldier
+4602 [LOC] Sanctum Soldier
+4800 [LOC] Rotten Vermin
+4801 [LOC] Rotten Vermin
+4802 [LOC] Rotten Vermin
+4803 [LOC] Rotten Vermin
+4804 [LOC] Rotten Vermin
+4805 [LOC] Rotten Vermin
+4806 [LOC] Rotten Vermin
+4807 [LOC] Rotten Vermin
+4808 [LOC] Rotten Vermin
+4809 [LOC] Rotten Vermin
+4810 [LOC] Rotten Vermin
+5000 [LOC] Sanctum Knight
+5002 [LOC] Sanctum Knight
+5200 [LOC] Sanctum Priestess
+5201 [LOC] Sanctum Priestess
+5202 [LOC] Sanctum Knight
+5400 [LOC] Sanctum Knight
+5401 [LOC] NO MATCH
+5800 [LOC] Sanctum Knight
+5801 [LOC] Sanctum Knight
+5802 [LOC] Sanctum Knight
+6000 [LOC] Imperfect
+6001 [LOC] Imperfect
+6002 [LOC] Imperfect
+6003 [LOC] Imperfect
+6004 [LOC] Imperfect
+6500 [LOC] Drakeblood Knight Rondor
+6510 [LOC] Drakeblood Knight Rondor
+6520 [LOC] NO MATCH
+6530 [LOC] Drakeblood Knight Rondor
+6531 [LOC] Drakeblood Knight Rondor
+6540 [LOC] Drakeblood Knight Rondor
+6550 [LOC] Drakeblood Knight Rondor
+6600 [LOC] Crystal Lizard
+6601 [LOC] Crystal Lizard
+6602 [LOC] Crystal Lizard
+6603 [LOC] Crystal Lizard
+6700 [LOC] Sanctum Knight
+7000 [LOC] Sanctum Priestess
+7001 [LOC] Sanctum Priestess
+7010 [LOC] Rotten Vermin
+7011 [LOC] Rotten Vermin
+7012 [LOC] Rotten Vermin
+8000 [LOC] Sanctum Soldier
+8001 [LOC] Sanctum Soldier
+8002 [LOC] Sanctum Soldier
+8003 [LOC] Sanctum Soldier
+8010 [LOC] Sanctum Soldier
+8200 [LOC] Sanctum Soldier
+8201 [LOC] Sanctum Soldier
+8202 [LOC] Sanctum Soldier
+8203 [LOC] Poison Statue Cluster
+8204 [LOC] Poison Statue Cluster
+8205 [LOC] Poison Statue Cluster
+8206 [LOC] Poison Statue Cluster
+8300 [LOC] Sanctum Soldier
+8301 [LOC] Sanctum Soldier
+8302 [LOC] Sanctum Soldier
+8400 [LOC] NO MATCH
+8401 [LOC] Poison Statue Cluster
+8402 [LOC] NO MATCH
+8403 [LOC] NO MATCH
+8404 [LOC] Poison Statue Cluster
+8405 [LOC] Poison Statue Cluster
+8410 [LOC] Poison Statue Cluster
+8411 [LOC] NO MATCH
+8412 [LOC] NO MATCH
+8413 [LOC] NO MATCH
+8420 [LOC] Razorback Nightcrawler
+8500 [LOC] Skeleton (Elana)
+8501 [LOC] Skeleton (Elana)
+8502 [LOC] Skeleton (Elana)
+8503 [LOC] Small Undead Boar (Elana)
+8504 [LOC] Small Undead Boar (Elana)
+8505 [LOC] Small Undead Boar (Elana)
+8506 [LOC] Velstadt (Elana)
+8507 [LOC] Skeleton (Elana)
+8508 [LOC] Skeleton (Elana)
+9000 [LOC] Sinh, the Slumbering Dragon

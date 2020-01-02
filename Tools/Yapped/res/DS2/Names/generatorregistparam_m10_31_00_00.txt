@@ -1,19 +1,19 @@
-21200000 Guardian Dragon
-30100000 Heide Knight
-30100100 Heide Knight
-33000000 Old Knight
-33000001 Old Knight
-33000010 Old Knight
-33000019 Old Knight
-33000040 Old Knight
-33000049 Old Knight
-61100000 Dragonrider [Boss]
-62500000 Old Dragonslayer [Boss]
-76900000 Licia of Lindeldt
-76900001 Licia of Lindeldt
-78500000 Blue Sentinel Targray
-78500001 Blue Sentinel Targray
-81100000 Masterless Glencour
-81250000 Sentinel Phantom
-84700000 Executioner Phantom
-89150000 Devotee Scarlett
+21200000 [REG] Guardian Dragon
+30100000 [REG] Heide Knight
+30100100 [REG] Heide Knight
+33000000 [REG] Old Knight
+33000001 [REG] Old Knight
+33000010 [REG] Old Knight
+33000019 [REG] Old Knight
+33000040 [REG] Old Knight
+33000049 [REG] Old Knight
+61100000 [REG] Dragonrider [Boss]
+62500000 [REG] Old Dragonslayer [Boss]
+76900000 [REG] Licia of Lindeldt
+76900001 [REG] Licia of Lindeldt
+78500000 [REG] Blue Sentinel Targray
+78500001 [REG] Blue Sentinel Targray
+81100000 [REG] Masterless Glencour
+81250000 [REG] Sentinel Phantom
+84700000 [REG] Executioner Phantom
+89150000 [REG] Devotee Scarlett

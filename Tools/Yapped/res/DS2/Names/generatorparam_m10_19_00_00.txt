@@ -1,76 +1,76 @@
-95 Bell Keeper
-96 Bell Keeper
-175 Magerold of Lanafir
-176 Magerold of Lanafir
-570 Bell Keeper
-571 Oliver the Collector
-572 Fencer Sharron
-573 Armorer Dennis
-576 Lucatiel of Mirrah
-577 Manhunter O'Harrah
-578 Drifter Swordsman Aidel
-806 Smelter Demon
-807 Old Iron King
-913 Aldia, Scholar of the First Sin
-941 Forlorn
-1021 Alonne Knight
-2000 Alonne Knight
-2016 Alonne Knight
-2020 Alonne Knight
-2030 Alonne Knight
-2040 Alonne Captain
-3020 Alonne Knight
-3021 Alonne Knight
-3025 Alonne Knight
-3030 Alonne Captain
-3040 Alonne Captain
-3060 Alonne Knight
-3065 Alonne Knight
-3070 Alonne Captain
-3071 Alonne Captain
-3080 Alonne Captain
-3090 Alonne Captain
-3095 Alonne Knight
-3096 Alonne Knight
-3120 Alonne Knight
-3121 Alonne Knight
-4010 Ironclad Soldier
-4015 Alonne Knight
-4016 Alonne Knight
-4020 Alonne Captain
-4025 Alonne Knight
-4026 Alonne Knight
-4029 Alonne Knight
-4030 Alonne Knight
-4031 Ironclad Soldier
-4032 Ironclad Soldier
-4033 Alonne Captain
-4035 Mimic
-4036 Alonne Knight
-4037 Alonne Knight
-4039 Crystal Lizard
-4040 Alonne Knight
-4041 Alonne Knight
-4050 Alonne Captain
-4051 Alonne Captain
-4052 Alonne Captain
-4100 Ironclad Soldier
-5000 The Pursuer
-7002 Alonne Captain
-7003 Ironclad Soldier
-7005 Ironclad Soldier
-7006 Ironclad Warrior Phantom
-7007 Mad Warrior Phantom
-7008 Alonne Knight
-7009 Alonne Knight
-7011 Ironclad Soldier
-8000 Greatsword Bell Keeper Phantom
-8005 Dual Avelyn Bell Keeper Phantom
-8015 Bell Keeper Mage Phantom
-8020 Greatsword Bell Keeper Phantom
-8025 Dual Avelyn Bell Keeper Phantom
-8100 Bell Keeper
-8110 Bell Keeper
-8120 Bell Keeper
-8130 Bell Keeper
-8140 Bell Keeper
+95 [GEN] Bell Keeper
+96 [GEN] Bell Keeper
+175 [GEN] Magerold of Lanafir
+176 [GEN] Magerold of Lanafir
+570 [GEN] Bell Keeper
+571 [GEN] Oliver the Collector
+572 [GEN] Fencer Sharron
+573 [GEN] Armorer Dennis
+576 [GEN] Lucatiel of Mirrah
+577 [GEN] Manhunter O'Harrah
+578 [GEN] Drifter Swordsman Aidel
+806 [GEN] Smelter Demon
+807 [GEN] Old Iron King
+913 [GEN] Aldia, Scholar of the First Sin
+941 [GEN] Forlorn
+1021 [GEN] Alonne Knight
+2000 [GEN] Alonne Knight
+2016 [GEN] Alonne Knight
+2020 [GEN] Alonne Knight
+2030 [GEN] Alonne Knight
+2040 [GEN] Alonne Captain
+3020 [GEN] Alonne Knight
+3021 [GEN] Alonne Knight
+3025 [GEN] Alonne Knight
+3030 [GEN] Alonne Captain
+3040 [GEN] Alonne Captain
+3060 [GEN] Alonne Knight
+3065 [GEN] Alonne Knight
+3070 [GEN] Alonne Captain
+3071 [GEN] Alonne Captain
+3080 [GEN] Alonne Captain
+3090 [GEN] Alonne Captain
+3095 [GEN] Alonne Knight
+3096 [GEN] Alonne Knight
+3120 [GEN] Alonne Knight
+3121 [GEN] Alonne Knight
+4010 [GEN] Ironclad Soldier
+4015 [GEN] Alonne Knight
+4016 [GEN] Alonne Knight
+4020 [GEN] Alonne Captain
+4025 [GEN] Alonne Knight
+4026 [GEN] Alonne Knight
+4029 [GEN] Alonne Knight
+4030 [GEN] Alonne Knight
+4031 [GEN] Ironclad Soldier
+4032 [GEN] Ironclad Soldier
+4033 [GEN] Alonne Captain
+4035 [GEN] Mimic
+4036 [GEN] Alonne Knight
+4037 [GEN] Alonne Knight
+4039 [GEN] Crystal Lizard
+4040 [GEN] Alonne Knight
+4041 [GEN] Alonne Knight
+4050 [GEN] Alonne Captain
+4051 [GEN] Alonne Captain
+4052 [GEN] Alonne Captain
+4100 [GEN] Ironclad Soldier
+5000 [GEN] The Pursuer
+7002 [GEN] Alonne Captain
+7003 [GEN] Ironclad Soldier
+7005 [GEN] Ironclad Soldier
+7006 [GEN] Ironclad Warrior Phantom
+7007 [GEN] Mad Warrior Phantom
+7008 [GEN] Alonne Knight
+7009 [GEN] Alonne Knight
+7011 [GEN] Ironclad Soldier
+8000 [GEN] Greatsword Bell Keeper Phantom
+8005 [GEN] Dual Avelyn Bell Keeper Phantom
+8015 [GEN] Bell Keeper Mage Phantom
+8020 [GEN] Greatsword Bell Keeper Phantom
+8025 [GEN] Dual Avelyn Bell Keeper Phantom
+8100 [GEN] Bell Keeper
+8110 [GEN] Bell Keeper
+8120 [GEN] Bell Keeper
+8130 [GEN] Bell Keeper
+8140 [GEN] Bell Keeper

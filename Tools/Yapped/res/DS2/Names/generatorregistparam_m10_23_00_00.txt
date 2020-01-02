@@ -1,94 +1,94 @@
-10800000 Hollow Rogue
-10800001 Hollow Rogue
-10800002 Hollow Rogue
-10800003 Hollow Rogue
-10800004 Hollow Rogue
-10800005 Hollow Rogue
-10800006 Hollow Rogue
-10800007 Hollow Rogue
-10800008 Hollow Rogue
-10800010 Hollow Rogue
-10800013 Hollow Rogue
-10800014 Hollow Rogue
-10800015 Hollow Rogue
-10800016 Hollow Rogue
-10800021 Hollow Rogue
-10800030 Hollow Rogue
-10800031 Hollow Rogue
-10800050 Hollow Rogue
-10800051 Hollow Rogue
-10800055 Hollow Rogue
-11800000 Black Hollow Mage
-11800001 Black Hollow Mage
-12700000 Captive Undead
-12700001 Captive Undead
-12700002 Captive Undead
-12700003 Captive Undead
-12700009 Captive Undead
-12700050 Captive Undead
-12700051 Captive Undead
-12700052 Captive Undead
-12700099 Captive Undead
-12701009 Captive Undead
-13200003 Dual-wielding Skeleton
-13200010 Dual-wielding Skeleton
-13200032 Dual-wielding Skeleton
-13202235 Dual-wielding Skeleton
-13205000 Dual-wielding Skeleton
-13209000 Skeleton
-13300101 Skeleton
-13800000 Torturer
-13800001 Torturer
-13800002 Torturer
-13800004 Torturer
-13800005 Torturer
-13800010 Torturer
-13900000 Artificial Undead
-13900001 Artificial Undead
-13900900 Artificial Undead
-13900901 Artificial Undead
-15300000 Syan Knight
-15400000 Skeleton Lord
-15400001 Skeleton Lord
-15400002 Skeleton Lord
-15600000 Dual-wielding Skeleton
-15700012 Dual-wielding Skeleton
-15700014 Dual-wielding Skeleton
-15700020 Dual-wielding Skeleton
-15700022 Dual-wielding Skeleton
-15700023 Dual-wielding Skeleton
-15700500 Dual-wielding Skeleton
-15700600 Dual-wielding Skeleton
-15701400 Dual-wielding Skeleton
-15701500 Dual-wielding Skeleton
-15702300 Dual-wielding Skeleton
-15702600 Dual-wielding Skeleton
-15703300 Dual-wielding Skeleton
-15705800 Dual-wielding Skeleton
-15706802 Dual-wielding Skeleton
-20400000 Poison Moth
-21300000 Crystal Lizard
-22200000 Giant Basilisk
-22700000 Stray Dog
-32700010 Captive Undead
-32700020 Captive Undead
-32700021 Captive Undead
-32700022 Captive Undead
-32700023 Captive Undead
-32700024 Captive Undead
-32700031 Captive Undead
-32700033 Captive Undead
-32700039 Captive Undead
-61910000 Executioner's Chariot [Boss]
-69400000 Forlorn
-69600000 Invisible Hollow
-74200000 Creighton the Wanderer
-74200001 Creighton the Wanderer
-77000000 Felkin the Outcast
-77000001 Felkin the Outcast
-78300000 Titchy Gren
-78300001 Titchy Gren
-82100000 Merciless Roenna
-85200000 Greatsword Phantom
-90000000 Creighton the Wanderer
-90000100 Bashful Ray
+10800000 [REG] Hollow Rogue
+10800001 [REG] Hollow Rogue
+10800002 [REG] Hollow Rogue
+10800003 [REG] Hollow Rogue
+10800004 [REG] Hollow Rogue
+10800005 [REG] Hollow Rogue
+10800006 [REG] Hollow Rogue
+10800007 [REG] Hollow Rogue
+10800008 [REG] Hollow Rogue
+10800010 [REG] Hollow Rogue
+10800013 [REG] Hollow Rogue
+10800014 [REG] Hollow Rogue
+10800015 [REG] Hollow Rogue
+10800016 [REG] Hollow Rogue
+10800021 [REG] Hollow Rogue
+10800030 [REG] Hollow Rogue
+10800031 [REG] Hollow Rogue
+10800050 [REG] Hollow Rogue
+10800051 [REG] Hollow Rogue
+10800055 [REG] Hollow Rogue
+11800000 [REG] Black Hollow Mage
+11800001 [REG] Black Hollow Mage
+12700000 [REG] Captive Undead
+12700001 [REG] Captive Undead
+12700002 [REG] Captive Undead
+12700003 [REG] Captive Undead
+12700009 [REG] Captive Undead
+12700050 [REG] Captive Undead
+12700051 [REG] Captive Undead
+12700052 [REG] Captive Undead
+12700099 [REG] Captive Undead
+12701009 [REG] Captive Undead
+13200003 [REG] Dual-wielding Skeleton
+13200010 [REG] Dual-wielding Skeleton
+13200032 [REG] Dual-wielding Skeleton
+13202235 [REG] Dual-wielding Skeleton
+13205000 [REG] Dual-wielding Skeleton
+13209000 [REG] Skeleton
+13300101 [REG] Skeleton
+13800000 [REG] Torturer
+13800001 [REG] Torturer
+13800002 [REG] Torturer
+13800004 [REG] Torturer
+13800005 [REG] Torturer
+13800010 [REG] Torturer
+13900000 [REG] Artificial Undead
+13900001 [REG] Artificial Undead
+13900900 [REG] Artificial Undead
+13900901 [REG] Artificial Undead
+15300000 [REG] Syan Knight
+15400000 [REG] Skeleton Lord
+15400001 [REG] Skeleton Lord
+15400002 [REG] Skeleton Lord
+15600000 [REG] Dual-wielding Skeleton
+15700012 [REG] Dual-wielding Skeleton
+15700014 [REG] Dual-wielding Skeleton
+15700020 [REG] Dual-wielding Skeleton
+15700022 [REG] Dual-wielding Skeleton
+15700023 [REG] Dual-wielding Skeleton
+15700500 [REG] Dual-wielding Skeleton
+15700600 [REG] Dual-wielding Skeleton
+15701400 [REG] Dual-wielding Skeleton
+15701500 [REG] Dual-wielding Skeleton
+15702300 [REG] Dual-wielding Skeleton
+15702600 [REG] Dual-wielding Skeleton
+15703300 [REG] Dual-wielding Skeleton
+15705800 [REG] Dual-wielding Skeleton
+15706802 [REG] Dual-wielding Skeleton
+20400000 [REG] Poison Moth
+21300000 [REG] Crystal Lizard
+22200000 [REG] Giant Basilisk
+22700000 [REG] Stray Dog
+32700010 [REG] Captive Undead
+32700020 [REG] Captive Undead
+32700021 [REG] Captive Undead
+32700022 [REG] Captive Undead
+32700023 [REG] Captive Undead
+32700024 [REG] Captive Undead
+32700031 [REG] Captive Undead
+32700033 [REG] Captive Undead
+32700039 [REG] Captive Undead
+61910000 [REG] Executioner's Chariot [Boss]
+69400000 [REG] Forlorn
+69600000 [REG] Invisible Hollow
+74200000 [REG] Creighton the Wanderer
+74200001 [REG] Creighton the Wanderer
+77000000 [REG] Felkin the Outcast
+77000001 [REG] Felkin the Outcast
+78300000 [REG] Titchy Gren
+78300001 [REG] Titchy Gren
+82100000 [REG] Merciless Roenna
+85200000 [REG] Greatsword Phantom
+90000000 [REG] Creighton the Wanderer
+90000100 [REG] Bashful Ray

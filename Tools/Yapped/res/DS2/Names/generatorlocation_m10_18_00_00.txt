@@ -1,86 +1,86 @@
-90 Lucatiel of Mirrah
-91 Lucatiel of Mirrah
-135 Carhillion of the Fold
-136 Carhillion of the Fold
-245 Lonesome Gavlan
-246 Lonesome Gavlan
-566 Lucatiel of Mirrah
-567 Bradley of the Old Guard
-844 Flexile Sentry
-938 Forlorn
-1000 Hollow Infantry
-1100 Hollow Infantry
-1110 Hollow Infantry
-1220 Varangian Sailor
-1500 Hollow Infantry
-1510 Varangian Sailor
-1600 Varangian Sailor
-2000 Varangian Sailor
-2100 Captive Undead
-2110 No Match
-2200 Hollow Infantry
-2201 Hollow Infantry
-2300 Hollow Infantry
-2301 Hollow Infantry
-2500 Varangian Sailor
-2600 Varangian Sailor
-2605 Varangian Sailor
-2610 Varangian Sailor
-3010 Stray Dog
-3500 Stray Dog
-3501 Stray Dog
-3502 Stray Dog
-3510 Varangian Sailor
-3511 Varangian Sailor
-3520 Varangian Sailor
-3600 Varangian Sailor
-3620 Varangian Sailor
-3630 Varangian Sailor
-3700 Varangian Sailor
-3710 Varangian Sailor
-3800 Varangian Sailor
-3810 Varangian Sailor
-4100 Dark Stalker
-4110 Dark Stalker
-4120 Dark Stalker
-4200 Dark Stalker
-4210 Dark Stalker
-4220 Dark Stalker
-4230 Dark Stalker
-4300 Varangian Sailor
-4301 No Match
-4302 Varangian Sailor
-4500 Varangian Sailor
-4540 Varangian Sailor
-4550 Bradley of the Old Guard
-4560 Varangian Sailor
-4600 Dark Stalker
-4610 Dark Stalker
-4720 Varangian Sailor
-4800 Varangian Sailor
-4810 Varangian Sailor
-4850 Crystal Lizard
-5000 Dark Stalker
-5010 Suspicious Shadow
-5011 Suspicious Shadow
-5030 Dark Stalker
-5040 Varangian Sailor
-5041 Varangian Sailor
-5050 Varangian Sailor
-5200 Varangian Sailor
-5201 Varangian Sailor
-5210 No Match
-5211 No Match
-5220 Suspicious Shadow
-5221 Suspicious Shadow
-5230 Undead Jailer
-6000 Hollow Infantry
-6010 Hollow Infantry
-6020 No Match
-6030 Hollow Infantry
-6040 No Match
-6050 Hollow Infantry
-6100 Stray Dog
-6110 Stray Dog
-6120 Stray Dog
-9000 Invisible Hollow
+90 [LOC] Lucatiel of Mirrah
+91 [LOC] Lucatiel of Mirrah
+135 [LOC] Carhillion of the Fold
+136 [LOC] Carhillion of the Fold
+245 [LOC] Lonesome Gavlan
+246 [LOC] Lonesome Gavlan
+566 [LOC] Lucatiel of Mirrah
+567 [LOC] Bradley of the Old Guard
+844 [LOC] Flexile Sentry
+938 [LOC] Forlorn
+1000 [LOC] Hollow Infantry
+1100 [LOC] Hollow Infantry
+1110 [LOC] Hollow Infantry
+1220 [LOC] Varangian Sailor
+1500 [LOC] Hollow Infantry
+1510 [LOC] Varangian Sailor
+1600 [LOC] Varangian Sailor
+2000 [LOC] Varangian Sailor
+2100 [LOC] Captive Undead
+2110 [LOC] NO MATCH
+2200 [LOC] Hollow Infantry
+2201 [LOC] Hollow Infantry
+2300 [LOC] Hollow Infantry
+2301 [LOC] Hollow Infantry
+2500 [LOC] Varangian Sailor
+2600 [LOC] Varangian Sailor
+2605 [LOC] Varangian Sailor
+2610 [LOC] Varangian Sailor
+3010 [LOC] Stray Dog
+3500 [LOC] Stray Dog
+3501 [LOC] Stray Dog
+3502 [LOC] Stray Dog
+3510 [LOC] Varangian Sailor
+3511 [LOC] Varangian Sailor
+3520 [LOC] Varangian Sailor
+3600 [LOC] Varangian Sailor
+3620 [LOC] Varangian Sailor
+3630 [LOC] Varangian Sailor
+3700 [LOC] Varangian Sailor
+3710 [LOC] Varangian Sailor
+3800 [LOC] Varangian Sailor
+3810 [LOC] Varangian Sailor
+4100 [LOC] Dark Stalker
+4110 [LOC] Dark Stalker
+4120 [LOC] Dark Stalker
+4200 [LOC] Dark Stalker
+4210 [LOC] Dark Stalker
+4220 [LOC] Dark Stalker
+4230 [LOC] Dark Stalker
+4300 [LOC] Varangian Sailor
+4301 [LOC] NO MATCH
+4302 [LOC] Varangian Sailor
+4500 [LOC] Varangian Sailor
+4540 [LOC] Varangian Sailor
+4550 [LOC] Bradley of the Old Guard
+4560 [LOC] Varangian Sailor
+4600 [LOC] Dark Stalker
+4610 [LOC] Dark Stalker
+4720 [LOC] Varangian Sailor
+4800 [LOC] Varangian Sailor
+4810 [LOC] Varangian Sailor
+4850 [LOC] Crystal Lizard
+5000 [LOC] Dark Stalker
+5010 [LOC] Suspicious Shadow
+5011 [LOC] Suspicious Shadow
+5030 [LOC] Dark Stalker
+5040 [LOC] Varangian Sailor
+5041 [LOC] Varangian Sailor
+5050 [LOC] Varangian Sailor
+5200 [LOC] Varangian Sailor
+5201 [LOC] Varangian Sailor
+5210 [LOC] NO MATCH
+5211 [LOC] NO MATCH
+5220 [LOC] Suspicious Shadow
+5221 [LOC] Suspicious Shadow
+5230 [LOC] Undead Jailer
+6000 [LOC] Hollow Infantry
+6010 [LOC] Hollow Infantry
+6020 [LOC] NO MATCH
+6030 [LOC] Hollow Infantry
+6040 [LOC] NO MATCH
+6050 [LOC] Hollow Infantry
+6100 [LOC] Stray Dog
+6110 [LOC] Stray Dog
+6120 [LOC] Stray Dog
+9000 [LOC] Invisible Hollow

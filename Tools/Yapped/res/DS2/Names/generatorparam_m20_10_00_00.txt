@@ -1,61 +1,61 @@
-30 Captain Drummond
-32 Captain Drummond
-60 Benhart of Jugo
-61 Benhart of Jugo
-656 Benhart of Jugo
-657 Captain Drummond
-800 Giant Lord
-1120 Giant
-1130 Giant
-1210 Royal Soldier
-1231 Royal Soldier
-1232 Royal Soldier
-1234 Ironclad Soldier
-1235 Ironclad Soldier
-1236 Royal Soldier
-1238 Royal Soldier
-1239 Royal Soldier
-1240 Royal Soldier
-1300 Giant
-1310 Giant
-1311 Giant
-1331 Giant
-1400 Forgotten Giant
-1600 Forgotten Giant
-2200 Drangleic Infantry
-2201 Drangleic Infantry
-2202 Drangleic Infantry
-2230 Drangleic Infantry
-2300 Royal Soldier
-2302 Royal Soldier
-2303 Royal Soldier
-2400 Forgotten Giant
-2410 Royal Soldier
-2411 Royal Soldier
-2420 Ironclad Soldier
-2421 Ironclad Soldier
-2510 Royal Soldier
-2511 Royal Soldier
-2520 Giant
-2600 Royal Soldier
-2610 Royal Soldier
-2620 Royal Soldier
-2640 Royal Soldier
-2900 Giant
-2910 Giant
-2920 Giant
-3000 Forgotten Giant
-3010 Royal Soldier
-3012 Royal Soldier
-3021 Royal Soldier
-3022 Royal Soldier
-3031 Ironclad Soldier
-3032 Ironclad Soldier
-3100 Forgotten Giant
-3110 Royal Soldier
-3120 Royal Soldier
-3121 Royal Soldier
-3122 Royal Soldier
-3131 Ironclad Soldier
-3132 Royal Soldier
-9990 Giant
+30 [GEN] Captain Drummond
+32 [GEN] Captain Drummond
+60 [GEN] Benhart of Jugo
+61 [GEN] Benhart of Jugo
+656 [GEN] Benhart of Jugo
+657 [GEN] Captain Drummond
+800 [GEN] Giant Lord
+1120 [GEN] Giant
+1130 [GEN] Giant
+1210 [GEN] Royal Soldier
+1231 [GEN] Royal Soldier
+1232 [GEN] Royal Soldier
+1234 [GEN] Ironclad Soldier
+1235 [GEN] Ironclad Soldier
+1236 [GEN] Royal Soldier
+1238 [GEN] Royal Soldier
+1239 [GEN] Royal Soldier
+1240 [GEN] Royal Soldier
+1300 [GEN] Giant
+1310 [GEN] Giant
+1311 [GEN] Giant
+1331 [GEN] Giant
+1400 [GEN] Forgotten Giant
+1600 [GEN] Forgotten Giant
+2200 [GEN] Drangleic Infantry
+2201 [GEN] Drangleic Infantry
+2202 [GEN] Drangleic Infantry
+2230 [GEN] Drangleic Infantry
+2300 [GEN] Royal Soldier
+2302 [GEN] Royal Soldier
+2303 [GEN] Royal Soldier
+2400 [GEN] Forgotten Giant
+2410 [GEN] Royal Soldier
+2411 [GEN] Royal Soldier
+2420 [GEN] Ironclad Soldier
+2421 [GEN] Ironclad Soldier
+2510 [GEN] Royal Soldier
+2511 [GEN] Royal Soldier
+2520 [GEN] Giant
+2600 [GEN] Royal Soldier
+2610 [GEN] Royal Soldier
+2620 [GEN] Royal Soldier
+2640 [GEN] Royal Soldier
+2900 [GEN] Giant
+2910 [GEN] Giant
+2920 [GEN] Giant
+3000 [GEN] Forgotten Giant
+3010 [GEN] Royal Soldier
+3012 [GEN] Royal Soldier
+3021 [GEN] Royal Soldier
+3022 [GEN] Royal Soldier
+3031 [GEN] Ironclad Soldier
+3032 [GEN] Ironclad Soldier
+3100 [GEN] Forgotten Giant
+3110 [GEN] Royal Soldier
+3120 [GEN] Royal Soldier
+3121 [GEN] Royal Soldier
+3122 [GEN] Royal Soldier
+3131 [GEN] Ironclad Soldier
+3132 [GEN] Royal Soldier
+9990 [GEN] Giant

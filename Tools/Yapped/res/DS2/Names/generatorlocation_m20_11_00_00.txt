@@ -1,191 +1,191 @@
-20 Milfanito
-21 Milfanito
-25 Milfanito
-26 Milfanito
-660 Peculiar Kindalur
-666 Felicia the Brave
-667 Lone Hunter Schmidt
-802 Demon of Song
-965 Forlorn
-1100 No Match
-1200 No Match
-1300 Amana Aberration
-1400 Amana Aberration
-1410 Lindelt Cleric
-1500 Amana Aberration
-1501 Amana Aberration
-1600 Amana Aberration
-1700 Amana Aberration
-1800 No Match
-1810 Amana Aberration
-1900 No Match
-1910 No Match
-2000 Amana Aberration
-2010 No Match
-2100 Amana Aberration
-2200 Amana Aberration
-2300 No Match
-2301 No Match
-2302 Amana Aberration
-2303 Amana Aberration
-2304 Amana Aberration
-2305 Amana Aberration
-2310 Acid Horn Beetle
-2400 Amana Aberration
-2410 Amana Aberration
-2500 No Match
-2600 No Match
-2700 No Match
-2800 Amana Shrine Maiden
-2810 Amana Aberration
-2820 No Match
-2900 Amana Aberration
-2901 Amana Aberration
-2902 Amana Aberration
-2903 No Match
-2910 Amana Aberration
-2911 Amana Aberration
-3000 Amana Aberration
-3001 Amana Aberration
-3002 Amana Aberration
-3003 Amana Aberration
-3010 Amana Shrine Maiden
-3100 Peculiar Kindalur Phantom
-3110 Amana Shrine Maiden
-3200 Amana Shrine Maiden
-3201 Amana Shrine Maiden
-3202 No Match
-3210 Amana Aberration
-3300 Amana Aberration
-3310 No Match
-3311 Amana Shrine Maiden
-3320 Amana Aberration
-3321 Amana Aberration
-3322 No Match
-3323 Amana Aberration
-3324 Amana Aberration
-3325 Amana Aberration
-3340 Ogre
-3400 Amana Aberration
-3500 Amana Shrine Maiden
-3501 Amana Shrine Maiden
-3502 Amana Shrine Maiden
-3503 Amana Shrine Maiden
-3504 Amana Shrine Maiden
-3510 No Match
-3520 No Match
-3600 No Match
-3650 Amana Shrine Maiden
-3651 Lindelt Cleric
-3670 Acid Horn Beetle
-3671 Acid Horn Beetle
-3672 Acid Horn Beetle
-3673 Acid Horn Beetle
-3680 Acid Horn Beetle
-3681 Acid Horn Beetle
-3682 Acid Horn Beetle
-3683 Acid Horn Beetle
-3684 Giant Acid Horn Beetle
-3700 No Match
-3710 Amana Shrine Maiden
-3800 Ogre
-3900 Amana Shrine Maiden
-4000 Amana Shrine Maiden
-4100 Milfanito
-4200 No Match
-4210 Amana Aberration
-4220 Amana Aberration
-4230 No Match
-4240 No Match
-4250 Amana Aberration
-4260 Amana Shrine Maiden
-4270 Amana Shrine Maiden
-4280 Amana Aberration
-4300 Amana Shrine Maiden
-4400 Lindelt Cleric
-4401 Lindelt Cleric
-4410 Amana Shrine Maiden
-5000 Undead Supplicant
-5001 Undead Supplicant
-5002 Undead Supplicant
-5010 No Match
-5300 Undead Traveler
-6000 No Match
-6001 No Match
-6002 No Match
-6003 No Match
-6004 No Match
-6005 No Match
-6010 Syan Knight
-6020 Butcher Phantom
-6021 Butcher Phantom
-6022 Butcher Phantom
-6100 No Match
-6110 Old Knight
-6200 Basilisk
-6210 Lindelt Cleric
-6300 Amana Aberration
-6301 Amana Aberration
-6302 Amana Aberration
-6303 Amana Aberration
-6310 Basilisk
-6311 Basilisk
-6312 Basilisk
-6400 Poison Moth
-6401 No Match
-6402 Poison Moth
-6403 Poison Moth
-6500 Dragonrider
-6600 Invisible Hollow
-6601 Invisible Hollow
-8000 No Match
-8010 No Match
-8020 No Match
-8030 No Match
-8031 No Match
-8032 No Match
-8033 Amana Aberration
-8034 No Match
-8040 No Match
-8050 No Match
-8051 Amana Shrine Maiden
-8052 Amana Aberration
-8053 Amana Aberration
-8054 No Match
-8055 Amana Aberration
-8056 Amana Aberration
-8057 Lindelt Cleric
-8058 Lindelt Cleric
-8059 Lindelt Cleric
-8060 Amana Aberration
-8061 Lindelt Cleric
-8062 Lindelt Cleric
-8063 Lindelt Cleric
-8500 Amana Aberration
-8501 No Match
-8510 No Match
-8520 No Match
-8521 Amana Aberration
-8530 No Match
-8531 Amana Aberration
-8532 Amana Aberration
-8540 Lindelt Cleric
-8541 Lindelt Cleric
-8542 Lindelt Cleric
-8543 Lindelt Cleric
-8544 Amana Shrine Maiden
-8550 No Match
-8551 Lindelt Cleric
-8552 No Match
-8600 No Match
-8601 No Match
-8602 No Match
-8650 No Match
-8700 No Match
-8850 No Match
-8851 No Match
-8852 No Match
-8860 No Match
-8861 No Match
-8862 No Match
-8880 No Match
+20 [LOC] Milfanito
+21 [LOC] Milfanito
+25 [LOC] Milfanito
+26 [LOC] Milfanito
+660 [LOC] Peculiar Kindalur
+666 [LOC] Felicia the Brave
+667 [LOC] Lone Hunter Schmidt
+802 [LOC] Demon of Song
+965 [LOC] Forlorn
+1100 [LOC] NO MATCH
+1200 [LOC] NO MATCH
+1300 [LOC] Amana Aberration
+1400 [LOC] Amana Aberration
+1410 [LOC] Lindelt Cleric
+1500 [LOC] Amana Aberration
+1501 [LOC] Amana Aberration
+1600 [LOC] Amana Aberration
+1700 [LOC] Amana Aberration
+1800 [LOC] NO MATCH
+1810 [LOC] Amana Aberration
+1900 [LOC] NO MATCH
+1910 [LOC] NO MATCH
+2000 [LOC] Amana Aberration
+2010 [LOC] NO MATCH
+2100 [LOC] Amana Aberration
+2200 [LOC] Amana Aberration
+2300 [LOC] NO MATCH
+2301 [LOC] NO MATCH
+2302 [LOC] Amana Aberration
+2303 [LOC] Amana Aberration
+2304 [LOC] Amana Aberration
+2305 [LOC] Amana Aberration
+2310 [LOC] Acid Horn Beetle
+2400 [LOC] Amana Aberration
+2410 [LOC] Amana Aberration
+2500 [LOC] NO MATCH
+2600 [LOC] NO MATCH
+2700 [LOC] NO MATCH
+2800 [LOC] Amana Shrine Maiden
+2810 [LOC] Amana Aberration
+2820 [LOC] NO MATCH
+2900 [LOC] Amana Aberration
+2901 [LOC] Amana Aberration
+2902 [LOC] Amana Aberration
+2903 [LOC] NO MATCH
+2910 [LOC] Amana Aberration
+2911 [LOC] Amana Aberration
+3000 [LOC] Amana Aberration
+3001 [LOC] Amana Aberration
+3002 [LOC] Amana Aberration
+3003 [LOC] Amana Aberration
+3010 [LOC] Amana Shrine Maiden
+3100 [LOC] Peculiar Kindalur Phantom
+3110 [LOC] Amana Shrine Maiden
+3200 [LOC] Amana Shrine Maiden
+3201 [LOC] Amana Shrine Maiden
+3202 [LOC] NO MATCH
+3210 [LOC] Amana Aberration
+3300 [LOC] Amana Aberration
+3310 [LOC] NO MATCH
+3311 [LOC] Amana Shrine Maiden
+3320 [LOC] Amana Aberration
+3321 [LOC] Amana Aberration
+3322 [LOC] NO MATCH
+3323 [LOC] Amana Aberration
+3324 [LOC] Amana Aberration
+3325 [LOC] Amana Aberration
+3340 [LOC] Ogre
+3400 [LOC] Amana Aberration
+3500 [LOC] Amana Shrine Maiden
+3501 [LOC] Amana Shrine Maiden
+3502 [LOC] Amana Shrine Maiden
+3503 [LOC] Amana Shrine Maiden
+3504 [LOC] Amana Shrine Maiden
+3510 [LOC] NO MATCH
+3520 [LOC] NO MATCH
+3600 [LOC] NO MATCH
+3650 [LOC] Amana Shrine Maiden
+3651 [LOC] Lindelt Cleric
+3670 [LOC] Acid Horn Beetle
+3671 [LOC] Acid Horn Beetle
+3672 [LOC] Acid Horn Beetle
+3673 [LOC] Acid Horn Beetle
+3680 [LOC] Acid Horn Beetle
+3681 [LOC] Acid Horn Beetle
+3682 [LOC] Acid Horn Beetle
+3683 [LOC] Acid Horn Beetle
+3684 [LOC] Giant Acid Horn Beetle
+3700 [LOC] NO MATCH
+3710 [LOC] Amana Shrine Maiden
+3800 [LOC] Ogre
+3900 [LOC] Amana Shrine Maiden
+4000 [LOC] Amana Shrine Maiden
+4100 [LOC] Milfanito
+4200 [LOC] NO MATCH
+4210 [LOC] Amana Aberration
+4220 [LOC] Amana Aberration
+4230 [LOC] NO MATCH
+4240 [LOC] NO MATCH
+4250 [LOC] Amana Aberration
+4260 [LOC] Amana Shrine Maiden
+4270 [LOC] Amana Shrine Maiden
+4280 [LOC] Amana Aberration
+4300 [LOC] Amana Shrine Maiden
+4400 [LOC] Lindelt Cleric
+4401 [LOC] Lindelt Cleric
+4410 [LOC] Amana Shrine Maiden
+5000 [LOC] Undead Supplicant
+5001 [LOC] Undead Supplicant
+5002 [LOC] Undead Supplicant
+5010 [LOC] NO MATCH
+5300 [LOC] Undead Traveler
+6000 [LOC] NO MATCH
+6001 [LOC] NO MATCH
+6002 [LOC] NO MATCH
+6003 [LOC] NO MATCH
+6004 [LOC] NO MATCH
+6005 [LOC] NO MATCH
+6010 [LOC] Syan Knight
+6020 [LOC] Butcher Phantom
+6021 [LOC] Butcher Phantom
+6022 [LOC] Butcher Phantom
+6100 [LOC] NO MATCH
+6110 [LOC] Old Knight
+6200 [LOC] Basilisk
+6210 [LOC] Lindelt Cleric
+6300 [LOC] Amana Aberration
+6301 [LOC] Amana Aberration
+6302 [LOC] Amana Aberration
+6303 [LOC] Amana Aberration
+6310 [LOC] Basilisk
+6311 [LOC] Basilisk
+6312 [LOC] Basilisk
+6400 [LOC] Poison Moth
+6401 [LOC] NO MATCH
+6402 [LOC] Poison Moth
+6403 [LOC] Poison Moth
+6500 [LOC] Dragonrider
+6600 [LOC] Invisible Hollow
+6601 [LOC] Invisible Hollow
+8000 [LOC] NO MATCH
+8010 [LOC] NO MATCH
+8020 [LOC] NO MATCH
+8030 [LOC] NO MATCH
+8031 [LOC] NO MATCH
+8032 [LOC] NO MATCH
+8033 [LOC] Amana Aberration
+8034 [LOC] NO MATCH
+8040 [LOC] NO MATCH
+8050 [LOC] NO MATCH
+8051 [LOC] Amana Shrine Maiden
+8052 [LOC] Amana Aberration
+8053 [LOC] Amana Aberration
+8054 [LOC] NO MATCH
+8055 [LOC] Amana Aberration
+8056 [LOC] Amana Aberration
+8057 [LOC] Lindelt Cleric
+8058 [LOC] Lindelt Cleric
+8059 [LOC] Lindelt Cleric
+8060 [LOC] Amana Aberration
+8061 [LOC] Lindelt Cleric
+8062 [LOC] Lindelt Cleric
+8063 [LOC] Lindelt Cleric
+8500 [LOC] Amana Aberration
+8501 [LOC] NO MATCH
+8510 [LOC] NO MATCH
+8520 [LOC] NO MATCH
+8521 [LOC] Amana Aberration
+8530 [LOC] NO MATCH
+8531 [LOC] Amana Aberration
+8532 [LOC] Amana Aberration
+8540 [LOC] Lindelt Cleric
+8541 [LOC] Lindelt Cleric
+8542 [LOC] Lindelt Cleric
+8543 [LOC] Lindelt Cleric
+8544 [LOC] Amana Shrine Maiden
+8550 [LOC] NO MATCH
+8551 [LOC] Lindelt Cleric
+8552 [LOC] NO MATCH
+8600 [LOC] NO MATCH
+8601 [LOC] NO MATCH
+8602 [LOC] NO MATCH
+8650 [LOC] NO MATCH
+8700 [LOC] NO MATCH
+8850 [LOC] NO MATCH
+8851 [LOC] NO MATCH
+8852 [LOC] NO MATCH
+8860 [LOC] NO MATCH
+8861 [LOC] NO MATCH
+8862 [LOC] NO MATCH
+8880 [LOC] NO MATCH

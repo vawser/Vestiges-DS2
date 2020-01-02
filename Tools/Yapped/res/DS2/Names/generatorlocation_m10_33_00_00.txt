@@ -1,37 +1,37 @@
-245 Lonesome Gavlan
-246 Lonesome Gavlan
-285 Corpse Rat
-286 Corpse Rat
-630 Bowman Guthry
-631 Bowman Guthry
-852 Royal Rat Authority
-1000 Hollow Primal Knight
-1050 Gyrm Warrior
-1060 Gyrm
-1300 Gyrm Warrior
-1400 Crystal Lizard
-1410 Gyrm
-1500 Gyrm Warrior
-1600 Hollow Primal Knight
-1610 Mongrel Rat
-1700 Gyrm
-1800 Gyrm
-1900 Mongrel Rat
-2000 Hollow Primal Knight
-2110 Mongrel Rat
-2120 Mongrel Rat
-2200 Gyrm
-2300 Gyrm
-2400 Gyrm Warrior
-2410 Gyrm Warrior
-2420 Gyrm Warrior
-2500 Gyrm Warrior
-2510 Gyrm Warrior
-2600 Gyrm
-2700 Hollow Primal Knight
-2710 Gyrm Warrior
-2800 Mongrel Rat
-2810 Mongrel Rat
-2820 Mongrel Rat
-2830 Mongrel Rat
-9000 Invisible Hollow
+245 [LOC] Lonesome Gavlan
+246 [LOC] Lonesome Gavlan
+285 [LOC] Corpse Rat
+286 [LOC] Corpse Rat
+630 [LOC] Bowman Guthry
+631 [LOC] Bowman Guthry
+852 [LOC] Royal Rat Authority
+1000 [LOC] Hollow Primal Knight
+1050 [LOC] Gyrm Warrior
+1060 [LOC] Gyrm
+1300 [LOC] Gyrm Warrior
+1400 [LOC] Crystal Lizard
+1410 [LOC] Gyrm
+1500 [LOC] Gyrm Warrior
+1600 [LOC] Hollow Primal Knight
+1610 [LOC] Mongrel Rat
+1700 [LOC] Gyrm
+1800 [LOC] Gyrm
+1900 [LOC] Mongrel Rat
+2000 [LOC] Hollow Primal Knight
+2110 [LOC] Mongrel Rat
+2120 [LOC] Mongrel Rat
+2200 [LOC] Gyrm
+2300 [LOC] Gyrm
+2400 [LOC] Gyrm Warrior
+2410 [LOC] Gyrm Warrior
+2420 [LOC] Gyrm Warrior
+2500 [LOC] Gyrm Warrior
+2510 [LOC] Gyrm Warrior
+2600 [LOC] Gyrm
+2700 [LOC] Hollow Primal Knight
+2710 [LOC] Gyrm Warrior
+2800 [LOC] Mongrel Rat
+2810 [LOC] Mongrel Rat
+2820 [LOC] Mongrel Rat
+2830 [LOC] Mongrel Rat
+9000 [LOC] Invisible Hollow

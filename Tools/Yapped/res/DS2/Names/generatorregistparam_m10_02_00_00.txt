@@ -1,31 +1,31 @@
-10000060 Forest Grotesque
-10100000 Kobold
-11500000 Undead Traveler
-11500001 Undead Traveler
-11500006 Undead Traveler
-11500100 Undead Traveler
-21000000 Basilisk
-30000000 Ogre
-30000001 Ogre
-31300000 Hollow Falconer
-31300001 Hollow Falconer
-31800000 The Pursuer
-70500000 Strowen
-70500001 Strowen
-70500002 Strowen
-70510000 Griant
-70510001 Griant
-70510002 Griant
-70530000 Morrel
-70530001 Morrel
-70530002 Morrel
-72300000 Milibeth
-72300001 Milibeth
-72300002 Milibeth
-78600000 Dyna & Tillo
-80500000 Imported Hollow
-83700000 Foreign Wanderer Phantom
-83710001 Foreign Wanderer
-83720000 Greatsword Foreigner Phantom
-83720100 Goblin Phantom
-90000000 Player Character - Start Sequence
+10000060 [REG] Forest Grotesque
+10100000 [REG] Kobold
+11500000 [REG] Undead Traveler
+11500001 [REG] Undead Traveler
+11500006 [REG] Undead Traveler
+11500100 [REG] Undead Traveler
+21000000 [REG] Basilisk
+30000000 [REG] Ogre
+30000001 [REG] Ogre
+31300000 [REG] Hollow Falconer
+31300001 [REG] Hollow Falconer
+31800000 [REG] The Pursuer
+70500000 [REG] Strowen
+70500001 [REG] Strowen
+70500002 [REG] Strowen
+70510000 [REG] Griant
+70510001 [REG] Griant
+70510002 [REG] Griant
+70530000 [REG] Morrel
+70530001 [REG] Morrel
+70530002 [REG] Morrel
+72300000 [REG] Milibeth
+72300001 [REG] Milibeth
+72300002 [REG] Milibeth
+78600000 [REG] Dyna & Tillo
+80500000 [REG] Imported Hollow
+83700000 [REG] Foreign Wanderer Phantom
+83710001 [REG] Foreign Wanderer
+83720000 [REG] Greatsword Foreigner Phantom
+83720100 [REG] Goblin Phantom
+90000000 [REG] Player Character - Start Sequence

@@ -1,37 +1,37 @@
-245 Lonesome Gavlan
-246 Lonesome Gavlan
-285 Corpse Rat
-286 Corpse Rat
-630 Bowman Guthry
-631 Bowman Guthry
-852 Royal Rat Authority
-1000 Hollow Primal Knight
-1050 Gyrm Warrior
-1060 Gyrm
-1300 Gyrm Warrior
-1400 Crystal Lizard
-1410 Gyrm
-1500 Gyrm Warrior
-1600 Hollow Primal Knight
-1610 Mongrel Rat
-1700 Gyrm
-1800 Gyrm
-1900 Mongrel Rat
-2000 Hollow Primal Knight
-2110 Mongrel Rat
-2120 Mongrel Rat
-2200 Gyrm
-2300 Gyrm
-2400 Gyrm Warrior
-2410 Gyrm Warrior
-2420 Gyrm Warrior
-2500 Gyrm Warrior
-2510 Gyrm Warrior
-2600 Gyrm
-2700 Hollow Primal Knight
-2710 Gyrm Warrior
-2800 Mongrel Rat
-2810 Mongrel Rat
-2820 Mongrel Rat
-2830 Mongrel Rat
-9000 Invisible Hollow
+245 [GEN] Lonesome Gavlan
+246 [GEN] Lonesome Gavlan
+285 [GEN] Corpse Rat
+286 [GEN] Corpse Rat
+630 [GEN] Bowman Guthry
+631 [GEN] Bowman Guthry
+852 [GEN] Royal Rat Authority
+1000 [GEN] Hollow Primal Knight
+1050 [GEN] Gyrm Warrior
+1060 [GEN] Gyrm
+1300 [GEN] Gyrm Warrior
+1400 [GEN] Crystal Lizard
+1410 [GEN] Gyrm
+1500 [GEN] Gyrm Warrior
+1600 [GEN] Hollow Primal Knight
+1610 [GEN] Mongrel Rat
+1700 [GEN] Gyrm
+1800 [GEN] Gyrm
+1900 [GEN] Mongrel Rat
+2000 [GEN] Hollow Primal Knight
+2110 [GEN] Mongrel Rat
+2120 [GEN] Mongrel Rat
+2200 [GEN] Gyrm
+2300 [GEN] Gyrm
+2400 [GEN] Gyrm Warrior
+2410 [GEN] Gyrm Warrior
+2420 [GEN] Gyrm Warrior
+2500 [GEN] Gyrm Warrior
+2510 [GEN] Gyrm Warrior
+2600 [GEN] Gyrm
+2700 [GEN] Hollow Primal Knight
+2710 [GEN] Gyrm Warrior
+2800 [GEN] Mongrel Rat
+2810 [GEN] Mongrel Rat
+2820 [GEN] Mongrel Rat
+2830 [GEN] Mongrel Rat
+9000 [GEN] Invisible Hollow

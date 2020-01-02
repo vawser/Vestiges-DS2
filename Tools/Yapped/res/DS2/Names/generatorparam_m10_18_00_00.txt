@@ -1,80 +1,80 @@
-90 Lucatiel of Mirrah
-91 Lucatiel of Mirrah
-135 Carhillion of the Fold
-136 Carhillion of the Fold
-245 Lonesome Gavlan
-246 Lonesome Gavlan
-566 Lucatiel of Mirrah
-567 Bradley of the Old Guard
-844 Flexile Sentry
-938 Forlorn
-1000 Hollow Infantry
-1100 Hollow Infantry
-1110 Hollow Infantry
-1220 Varangian Sailor
-1500 Hollow Infantry
-1510 Varangian Sailor
-1600 Varangian Sailor
-2000 Varangian Sailor
-2100 Captive Undead
-2200 Hollow Infantry
-2201 Hollow Infantry
-2300 Hollow Infantry
-2301 Hollow Infantry
-2500 Varangian Sailor
-2600 Varangian Sailor
-2605 Varangian Sailor
-2610 Varangian Sailor
-3010 Stray Dog
-3500 Stray Dog
-3501 Stray Dog
-3502 Stray Dog
-3510 Varangian Sailor
-3511 Varangian Sailor
-3520 Varangian Sailor
-3600 Varangian Sailor
-3620 Varangian Sailor
-3630 Varangian Sailor
-3700 Varangian Sailor
-3710 Varangian Sailor
-3800 Varangian Sailor
-3810 Varangian Sailor
-4100 Dark Stalker
-4110 Dark Stalker
-4120 Dark Stalker
-4200 Dark Stalker
-4210 Dark Stalker
-4220 Dark Stalker
-4230 Dark Stalker
-4300 Varangian Sailor
-4302 Varangian Sailor
-4500 Varangian Sailor
-4540 Varangian Sailor
-4550 Bradley of the Old Guard
-4560 Varangian Sailor
-4600 Dark Stalker
-4610 Dark Stalker
-4720 Varangian Sailor
-4800 Varangian Sailor
-4810 Varangian Sailor
-4850 Crystal Lizard
-5000 Dark Stalker
-5010 Suspicious Shadow
-5011 Suspicious Shadow
-5030 Dark Stalker
-5040 Varangian Sailor
-5041 Varangian Sailor
-5050 Varangian Sailor
-5200 Varangian Sailor
-5201 Varangian Sailor
-5220 Suspicious Shadow
-5221 Suspicious Shadow
-5230 Undead Jailer
-6000 Hollow Infantry
-6010 Hollow Infantry
-6030 Hollow Infantry
-6050 Hollow Infantry
-6100 Stray Dog
-6110 Stray Dog
-6120 Stray Dog
-9000 Invisible Hollow
+90 [GEN] Lucatiel of Mirrah
+91 [GEN] Lucatiel of Mirrah
+135 [GEN] Carhillion of the Fold
+136 [GEN] Carhillion of the Fold
+245 [GEN] Lonesome Gavlan
+246 [GEN] Lonesome Gavlan
+566 [GEN] Lucatiel of Mirrah
+567 [GEN] Bradley of the Old Guard
+844 [GEN] Flexile Sentry
+938 [GEN] Forlorn
+1000 [GEN] Hollow Infantry
+1100 [GEN] Hollow Infantry
+1110 [GEN] Hollow Infantry
+1220 [GEN] Varangian Sailor
+1500 [GEN] Hollow Infantry
+1510 [GEN] Varangian Sailor
+1600 [GEN] Varangian Sailor
+2000 [GEN] Varangian Sailor
+2100 [GEN] Captive Undead
+2200 [GEN] Hollow Infantry
+2201 [GEN] Hollow Infantry
+2300 [GEN] Hollow Infantry
+2301 [GEN] Hollow Infantry
+2500 [GEN] Varangian Sailor
+2600 [GEN] Varangian Sailor
+2605 [GEN] Varangian Sailor
+2610 [GEN] Varangian Sailor
+3010 [GEN] Stray Dog
+3500 [GEN] Stray Dog
+3501 [GEN] Stray Dog
+3502 [GEN] Stray Dog
+3510 [GEN] Varangian Sailor
+3511 [GEN] Varangian Sailor
+3520 [GEN] Varangian Sailor
+3600 [GEN] Varangian Sailor
+3620 [GEN] Varangian Sailor
+3630 [GEN] Varangian Sailor
+3700 [GEN] Varangian Sailor
+3710 [GEN] Varangian Sailor
+3800 [GEN] Varangian Sailor
+3810 [GEN] Varangian Sailor
+4100 [GEN] Dark Stalker
+4110 [GEN] Dark Stalker
+4120 [GEN] Dark Stalker
+4200 [GEN] Dark Stalker
+4210 [GEN] Dark Stalker
+4220 [GEN] Dark Stalker
+4230 [GEN] Dark Stalker
+4300 [GEN] Varangian Sailor
+4302 [GEN] Varangian Sailor
+4500 [GEN] Varangian Sailor
+4540 [GEN] Varangian Sailor
+4550 [GEN] Bradley of the Old Guard
+4560 [GEN] Varangian Sailor
+4600 [GEN] Dark Stalker
+4610 [GEN] Dark Stalker
+4720 [GEN] Varangian Sailor
+4800 [GEN] Varangian Sailor
+4810 [GEN] Varangian Sailor
+4850 [GEN] Crystal Lizard
+5000 [GEN] Dark Stalker
+5010 [GEN] Suspicious Shadow
+5011 [GEN] Suspicious Shadow
+5030 [GEN] Dark Stalker
+5040 [GEN] Varangian Sailor
+5041 [GEN] Varangian Sailor
+5050 [GEN] Varangian Sailor
+5200 [GEN] Varangian Sailor
+5201 [GEN] Varangian Sailor
+5220 [GEN] Suspicious Shadow
+5221 [GEN] Suspicious Shadow
+5230 [GEN] Undead Jailer
+6000 [GEN] Hollow Infantry
+6010 [GEN] Hollow Infantry
+6030 [GEN] Hollow Infantry
+6050 [GEN] Hollow Infantry
+6100 [GEN] Stray Dog
+6110 [GEN] Stray Dog
+6120 [GEN] Stray Dog
+9000 [GEN] Invisible Hollow

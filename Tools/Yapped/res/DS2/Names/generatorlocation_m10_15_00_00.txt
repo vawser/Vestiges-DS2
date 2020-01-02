@@ -1,65 +1,65 @@
-90 Lucatiel of Mirrah
-91 Lucatiel of Mirrah
-160 Royal Sorcerer Navlaan
-161 Royal Sorcerer Navlaan
-205 Emerald Herald
-530 Royal Sorcerer Navlaan
-531 Aslatiel of Mirrah
-532 Painting Guardian Phantom
-540 Sellsword Luet
-800 Guardian Dragon [Boss]
-1000 Syan Knight
-1010 Kobold
-1011 Kobold
-1012 Kobold
-1013 Kobold
-1014 Kobold
-1400 Basilisk
-1700 Red Crystal Lizard
-1850 Mimic
-2000 Poison Moth
-2500 Ogre
-3100 Ogre
-3200 Basilisk
-3220 Basilisk
-3801 Dragon Acolyte
-3802 Dragon Acolyte
-4030 Giant Acid Horn Beetle
-4060 Dragon Acolyte
-4061 Dragon Acolyte
-4062 Dragon Acolyte
-4063 Dragon Acolyte
-4200 Dragon Acolyte
-5000 Dragon Skeleton
-6000 Ogre
-6010 Ogre
-7000 Forlorn
-7001 Forlorn
-7002 Forlorn
-7003 Forlorn
-7100 Invisible Hollow
-7101 Invisible Hollow
-7102 Invisible Hollow
-8000 Belfry Gargoyle
-8010 Mimic
-8011 Mimic
-8012 Mimic
-8013 Mimic
-8014 Mimic
-8020 Undead Aberration
-8030 Ogre
-8040 Basilisk
-8041 No Match
-8042 No Match
-8043 No Match
-8500 Dragon Acolyte
-8510 No Match
-8511 No Match
-8600 Undead Traveler
-8601 Undead Traveler
-9000 Looking Glass Phantom
-9001 Looking Glass Phantom
-9004 Looking Glass Phantom
-9010 Giant Basilisk
-9100 Hunting Dog
-9101 Hunting Dog
+90 [LOC] Lucatiel of Mirrah
+91 [LOC] Lucatiel of Mirrah
+160 [LOC] Royal Sorcerer Navlaan
+161 [LOC] Royal Sorcerer Navlaan
+205 [LOC] Emerald Herald
+530 [LOC] Royal Sorcerer Navlaan
+531 [LOC] Aslatiel of Mirrah
+532 [LOC] Painting Guardian Phantom
+540 [LOC] Sellsword Luet
+800 [LOC] Guardian Dragon [Boss]
+1000 [LOC] Syan Knight
+1010 [LOC] Kobold
+1011 [LOC] Kobold
+1012 [LOC] Kobold
+1013 [LOC] Kobold
+1014 [LOC] Kobold
+1400 [LOC] Basilisk
+1700 [LOC] Red Crystal Lizard
+1850 [LOC] Mimic
+2000 [LOC] Poison Moth
+2500 [LOC] Ogre
+3100 [LOC] Ogre
+3200 [LOC] Basilisk
+3220 [LOC] Basilisk
+3801 [LOC] Dragon Acolyte
+3802 [LOC] Dragon Acolyte
+4030 [LOC] Giant Acid Horn Beetle
+4060 [LOC] Dragon Acolyte
+4061 [LOC] Dragon Acolyte
+4062 [LOC] Dragon Acolyte
+4063 [LOC] Dragon Acolyte
+4200 [LOC] Dragon Acolyte
+5000 [LOC] Dragon Skeleton
+6000 [LOC] Ogre
+6010 [LOC] Ogre
+7000 [LOC] Forlorn
+7001 [LOC] Forlorn
+7002 [LOC] Forlorn
+7003 [LOC] Forlorn
+7100 [LOC] Invisible Hollow
+7101 [LOC] Invisible Hollow
+7102 [LOC] Invisible Hollow
+8000 [LOC] Belfry Gargoyle
+8010 [LOC] Mimic
+8011 [LOC] Mimic
+8012 [LOC] Mimic
+8013 [LOC] Mimic
+8014 [LOC] Mimic
+8020 [LOC] Undead Aberration
+8030 [LOC] Ogre
+8040 [LOC] Basilisk
+8041 [LOC] NO MATCH
+8042 [LOC] NO MATCH
+8043 [LOC] NO MATCH
+8500 [LOC] Dragon Acolyte
+8510 [LOC] NO MATCH
+8511 [LOC] NO MATCH
+8600 [LOC] Undead Traveler
+8601 [LOC] Undead Traveler
+9000 [LOC] Looking Glass Phantom
+9001 [LOC] Looking Glass Phantom
+9004 [LOC] Looking Glass Phantom
+9010 [LOC] Giant Basilisk
+9100 [LOC] Hunting Dog
+9101 [LOC] Hunting Dog

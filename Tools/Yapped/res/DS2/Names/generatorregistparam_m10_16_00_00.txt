@@ -1,62 +1,62 @@
-11300000 Varangian Sailor
-11300001 Varangian Sailor
-11500000 Undead Traveler
-12302200 Suspicious Shadow
-12302201 Suspicious Shadow
-12500000 Rupturing Hollow
-12500001 Rupturing Hollow
-12500005 Rupturing Hollow
-12500006 Rupturing Hollow
-12500007 Rupturing Hollow
-12500010 Rupturing Hollow
-12500012 Rupturing Hollow
-12500020 Rupturing Hollow
-12500021 Rupturing Hollow
-12500022 Rupturing Hollow
-12500030 Rupturing Hollow
-12500040 Rupturing Hollow
-12500050 Rupturing Hollow
-12500051 Rupturing Hollow
-12500052 Rupturing Hollow
-12500053 Rupturing Hollow
-14100000 Undead Aberration
-15200000 Royal Soldier
-15201000 Royal Soldier
-20400000 Poison Moth
-22700000 Stray Dog
-22700010 Stray Dog
-30102000 Heide Knight
-30200000 Undead Jailer
-30200010 Undead Jailer
-30200100 Undead Jailer
-30200900 Undead Jailer
-30200910 Undead Jailer
-30330000 Flexile Sentry
-31802000 The Pursuer
-32400000 Belfry Gargoyle [Boss]
-32400001 Belfry Gargoyle [Boss]
-32500000 Ruin Sentinel [Boss]
-62600000 Lost Sinner [Boss]
-69300000 Aldia, Scholar of the First Sin
-69600000 Invisible Hollow
-73200000 Belfry Gargoyle
-73330000 Belfry Gargoyle
-75200000 Lucatiel of Mirrah
-75200001 Lucatiel of Mirrah
-75200900 Lucatiel of Mirrah
-75300000 Bell Keeper
-75300001 Bell Keeper
-75300900 Bell Keeper
-75301000 Bell Keeper
-76430000 Steady Hand McDuff
-76430001 Steady Hand McDuff
-76430002 Steady Hand McDuff
-76800000 Straid of Olaphis
-76800001 Straid of Olaphis
-76800002 Straid of Olaphis
-81200000 Pilgrim Bellclaire
-82000000 Vorgel the Sinner
-85000000 Felicia the Brave
-85000001 Sellsword Luet
-85000002 Masterless Glencour
-85100000 Forlorn
+11300000 [REG] Varangian Sailor
+11300001 [REG] Varangian Sailor
+11500000 [REG] Undead Traveler
+12302200 [REG] Suspicious Shadow
+12302201 [REG] Suspicious Shadow
+12500000 [REG] Rupturing Hollow
+12500001 [REG] Rupturing Hollow
+12500005 [REG] Rupturing Hollow
+12500006 [REG] Rupturing Hollow
+12500007 [REG] Rupturing Hollow
+12500010 [REG] Rupturing Hollow
+12500012 [REG] Rupturing Hollow
+12500020 [REG] Rupturing Hollow
+12500021 [REG] Rupturing Hollow
+12500022 [REG] Rupturing Hollow
+12500030 [REG] Rupturing Hollow
+12500040 [REG] Rupturing Hollow
+12500050 [REG] Rupturing Hollow
+12500051 [REG] Rupturing Hollow
+12500052 [REG] Rupturing Hollow
+12500053 [REG] Rupturing Hollow
+14100000 [REG] Undead Aberration
+15200000 [REG] Royal Soldier
+15201000 [REG] Royal Soldier
+20400000 [REG] Poison Moth
+22700000 [REG] Stray Dog
+22700010 [REG] Stray Dog
+30102000 [REG] Heide Knight
+30200000 [REG] Undead Jailer
+30200010 [REG] Undead Jailer
+30200100 [REG] Undead Jailer
+30200900 [REG] Undead Jailer
+30200910 [REG] Undead Jailer
+30330000 [REG] Flexile Sentry
+31802000 [REG] The Pursuer
+32400000 [REG] Belfry Gargoyle [Boss]
+32400001 [REG] Belfry Gargoyle [Boss]
+32500000 [REG] Ruin Sentinel [Boss]
+62600000 [REG] Lost Sinner [Boss]
+69300000 [REG] Aldia, Scholar of the First Sin
+69600000 [REG] Invisible Hollow
+73200000 [REG] Belfry Gargoyle
+73330000 [REG] Belfry Gargoyle
+75200000 [REG] Lucatiel of Mirrah
+75200001 [REG] Lucatiel of Mirrah
+75200900 [REG] Lucatiel of Mirrah
+75300000 [REG] Bell Keeper
+75300001 [REG] Bell Keeper
+75300900 [REG] Bell Keeper
+75301000 [REG] Bell Keeper
+76430000 [REG] Steady Hand McDuff
+76430001 [REG] Steady Hand McDuff
+76430002 [REG] Steady Hand McDuff
+76800000 [REG] Straid of Olaphis
+76800001 [REG] Straid of Olaphis
+76800002 [REG] Straid of Olaphis
+81200000 [REG] Pilgrim Bellclaire
+82000000 [REG] Vorgel the Sinner
+85000000 [REG] Felicia the Brave
+85000001 [REG] Sellsword Luet
+85000002 [REG] Masterless Glencour
+85100000 [REG] Forlorn

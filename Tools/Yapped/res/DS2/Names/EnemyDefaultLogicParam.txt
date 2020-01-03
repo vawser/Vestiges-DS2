@@ -1,3 +1,63 @@
+1 UNKNOWN
+1000 UNKNOWN
+1001 UNKNOWN
+1002 UNKNOWN
+1010 UNKNOWN
+2910 UNKNOWN
+3000 UNKNOWN
+3060 UNKNOWN
+3061 UNKNOWN
+6010 UNKNOWN
+6060 UNKNOWN
+8100 UNKNOWN
+9000 UNKNOWN
+9010 UNKNOWN
+9020 UNKNOWN
+9030 UNKNOWN
+9061 UNKNOWN
+9062 UNKNOWN
+9100 UNKNOWN
+9101 UNKNOWN
+9111 UNKNOWN
+9112 UNKNOWN
+9113 UNKNOWN
+9120 UNKNOWN
+9140 UNKNOWN
+9150 UNKNOWN
+9160 UNKNOWN
+9170 UNKNOWN
+9200 UNKNOWN
+9300 UNKNOWN
+9333 UNKNOWN
+9334 UNKNOWN
+9400 UNKNOWN
+9500 UNKNOWN
+9501 UNKNOWN
+9502 UNKNOWN
+9503 UNKNOWN
+9504 UNKNOWN
+9601 UNKNOWN
+9602 UNKNOWN
+9603 UNKNOWN
+9604 UNKNOWN
+9605 UNKNOWN
+9606 UNKNOWN
+9607 UNKNOWN
+9608 UNKNOWN
+9609 UNKNOWN
+9610 UNKNOWN
+9611 UNKNOWN
+9612 UNKNOWN
+9613 UNKNOWN
+9700 UNKNOWN
+9701 UNKNOWN
+9702 UNKNOWN
+9703 UNKNOWN
+9704 UNKNOWN
+9705 UNKNOWN
+9706 UNKNOWN
+9707 UNKNOWN
+9900 UNKNOWN
 100000 Forest Grotesque
 100008 Forest Grotesque
 100009 Forest Grotesque
@@ -96,6 +156,14 @@
 121010 Giant
 121020 Giant
 121030 Giant
+122000 UNKNOWN
+122010 UNKNOWN
+122020 UNKNOWN
+122030 UNKNOWN
+122100 UNKNOWN
+122110 UNKNOWN
+122120 UNKNOWN
+122130 UNKNOWN
 123000 Suspicious Shadow
 123002 Suspicious Shadow
 123010 Suspicious Shadow
@@ -153,6 +221,12 @@
 129030 Forest Spirit
 129040 Forest Spirit
 129050 Forest Spirit
+129100 UNKNOWN
+129110 UNKNOWN
+129120 UNKNOWN
+129130 UNKNOWN
+129140 UNKNOWN
+129150 UNKNOWN
 131000 Lindelt Cleric
 131010 Lindelt Cleric
 131020 Lindelt Cleric
@@ -183,6 +257,9 @@
 135030 Gyrm Warrior
 135040 Gyrm Warrior
 135050 Gyrm Warrior
+136000 UNKNOWN
+136001 UNKNOWN
+136020 UNKNOWN
 137000 Dragon Acolyte
 137010 Dragon Acolyte
 137020 Dragon Acolyte
@@ -197,6 +274,7 @@
 139008 Artificial Undead
 139009 Artificial Undead
 139010 Artificial Undead
+140000 UNKNOWN
 141000 Undead Aberration
 141002 Undead Aberration
 146000 Headless Vengarl
@@ -243,6 +321,14 @@
 154010 Skeleton Lord
 154020 Skeleton Lord
 155000 Amana Aberration
+156000 UNKNOWN
+156001 UNKNOWN
+156010 UNKNOWN
+156011 UNKNOWN
+156020 UNKNOWN
+156021 UNKNOWN
+156030 UNKNOWN
+156031 UNKNOWN
 157000 Dual-wielding Skeleton
 157001 Dual-wielding Skeleton
 157002 Dual-wielding Skeleton
@@ -362,6 +448,11 @@
 216003 Wall Ghost
 216004 Wall Ghost
 217000 Dark Stalker
+218000 UNKNOWN
+218100 UNKNOWN
+218200 UNKNOWN
+218201 UNKNOWN
+219000 UNKNOWN
 220000 Giant Acid Horn Beetle
 220002 Giant Acid Horn Beetle
 222000 Giant Basilisk
@@ -371,6 +462,7 @@
 223200 Mongrel Rat
 223300 Mongrel Rat
 224000 Darksucker
+225000 UNKNOWN
 226000 Corpse Rat
 226001 Corpse Rat
 226100 Corpse Rat
@@ -522,10 +614,15 @@
 506500 Grave Warden Agdayne
 506501 Grave Warden Agdayne
 506509 Grave Warden Agdayne
+507000 UNKNOWN
+508000 UNKNOWN
 509000 Leydia Witch
 509009 Leydia Witch
 511000 Imperious Knight
 512000 Leydia Pyromancer
+513000 UNKNOWN
+514000 UNKNOWN
+514500 UNKNOWN
 514600 Vendrick (hollow)
 600000 Ancient Dragon
 601000 Flame Lizard
@@ -536,12 +633,20 @@
 603100 The Duke's Dear Freja
 607000 Old Iron King
 608000 Rotten Vermin
+609000 UNKNOWN
+609010 UNKNOWN
+609100 UNKNOWN
 611000 Dragonrider
 611010 Dragonrider
 611500 Dragonrider [Boss]
 611510 Dragonrider [Boss] (Heide's Tower of Flame)
 619100 Executioner's Chariot
 619110 Executioner's Chariot
+621000 UNKNOWN
+622000 UNKNOWN
+623000 UNKNOWN
+624000 UNKNOWN
+624500 UNKNOWN
 625000 Old Dragonslayer
 626000 Lost Sinner
 627000 Nashandra
@@ -602,13 +707,18 @@
 690000 Burnt Ivory King
 692000 Aldia, Scholar of the First Sin
 694000 Forlorn
+700000 UNKNOWN
 700500 Emerald Herald
 700501 Emerald Herald
 700502 Emerald Herald
 700503 Emerald Herald
 701000 Emerald Herald
 701500 Emerald Herald
+702000 UNKNOWN
+703000 UNKNOWN
+703500 UNKNOWN
 703600 Nashandra (human)
+704000 UNKNOWN
 704500 Laddersmith Gilligan
 704501 Laddersmith Gilligan
 704510 Laddersmith Gilligan
@@ -623,6 +733,7 @@
 705801 Griant
 721000 Chancellor Wellager
 721100 Chancellor Wellager
+722000 UNKNOWN
 723000 Milibeth
 723001 Milibeth
 723010 Milibeth
@@ -647,6 +758,7 @@
 731020 Looking Glass Phantom (Knight)
 732000 Unknown NPC
 733000 Unknown NPC
+740000 UNKNOWN
 741000 Crestfallen Saulden
 741001 Crestfallen Saulden
 742000 Creighton the Wanderer
@@ -667,6 +779,7 @@
 744002 Mild Mannered Pate
 744003 Mild Mannered Pate
 744009 Mild Mannered Pate
+746000 UNKNOWN
 751000 Cartographer Cale
 751001 Cartographer Cale
 752000 Lucatiel of Mirrah
@@ -688,24 +801,35 @@
 753009 Bell Keeper
 754000 Merchant Hag Melentia
 754001 Merchant Hag Melentia
+755000 UNKNOWN
+755010 UNKNOWN
+755020 UNKNOWN
 760000 Milfanito
 760001 Milfanito
 760100 Milfanito
 760101 Milfanito
 760200 Imprisoned Milfanito
 760201 Imprisoned Milfanito
+760300 UNKNOWN
+760400 UNKNOWN
 761000 Maughlin the Armourer
 761001 Maughlin the Armourer
 762000 Stone Trader Chloanne
 762001 Stone Trader Chloanne
 763000 Rosabeth of Melfia
 763001 Rosabeth of Melfia
+763010 UNKNOWN
 764000 Blacksmith Lenigrast
 764001 Blacksmith Lenigrast
+764010 UNKNOWN
 764300 Steady Hand McDuff
 764309 Steady Hand McDuff
+764310 UNKNOWN
+765000 UNKNOWN
 766000 Carhillion of the Fold
 766001 Carhillion of the Fold
+766010 UNKNOWN
+767000 UNKNOWN
 768000 Straid of Olaphis
 768001 Straid of Olaphis
 769000 Licia of Lindeldt
@@ -726,14 +850,21 @@
 776001 Weaponsmith Ornifex
 776002 Weaponsmith Ornifex
 777000 Sweet Shalquoir
+778000 UNKNOWN
+780000 UNKNOWN
 783000 Titchy Gren
 783001 Titchy Gren
+783100 UNKNOWN
 784000 Cromwell the Pardoner
 784001 Cromwell the Pardoner
 785000 Blue Sentinel Targray
 785001 Blue Sentinel Targray
 785010 Blue Sentinel Targray
 786000 Dyna & Tillo
+787000 UNKNOWN
+800000 UNKNOWN
+800100 UNKNOWN
+800300 UNKNOWN
 810000 Masterless Glencour
 810001 Masterless Glencour
 810002 Masterless Glencour
@@ -766,6 +897,8 @@
 832600 A Chip Off the Ol Rock
 832700 Shadowveil Assasin
 833000 Peculiar Kindalur Phantom
+834000 UNKNOWN
+834100 UNKNOWN
 835000 Black Dragon Knight
 835001 Black Dragon Knight
 835100 Black Dragon Knight
@@ -779,6 +912,8 @@
 837100 Foreign Wanderer
 837200 Greatsword Foreigner Phantom
 837400 Player Character - Start Sequence
+838000 UNKNOWN
+838100 UNKNOWN
 840000 Voice Marker
 841000 Voice Marker
 842000 Syan Knight Phantom
@@ -806,9 +941,11 @@
 860000 Rockshield Baldyr
 861000 Jester Thomas
 862000 Rhoy the Explorer
+862001 UNKNOWN
 863000 Stewart the Explorer
 864000 Courh the Explorer
 865000 Abbess Feeva
+865001 UNKNOWN
 866000 Ruined Aflis
 867000 Steelheart Ellie
 867001 Steelheart Ellie
@@ -829,6 +966,7 @@
 880000 Drakeblood Knight Rondor
 881000 Prowlers
 882000 Prowlers
+884000 UNKNOWN
 884001 Twiggy Shei
 885000 Unknown Phantom
 885100 Unknown Phantom

@@ -15,11 +15,28 @@
     <type>s32</type>
     <default>0</default>
   </entry>
+  
   <entry>
     <name>Unk0C</name>
-    <type>s32</type>
+    <type>u8</type>
     <default>0</default>
   </entry>
+  <entry>
+    <name>Unk0D</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk0E</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk0F</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  
   <entry>
     <name>Unk10</name>
     <type>s32</type>
@@ -30,11 +47,28 @@
     <type>s32</type>
     <default>0</default>
   </entry>
+  
   <entry>
     <name>Unk18</name>
-    <type>s32</type>
+    <type>u8</type>
     <default>0</default>
   </entry>
+  <entry>
+    <name>Unk19</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk1A</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk1B</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  
   <entry>
     <name>Damage Multiplier</name>
     <type>f32</type>
@@ -107,7 +141,7 @@
   </entry>
   <entry>
     <name>Unk3C</name>
-    <type>s32</type>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
@@ -190,21 +224,70 @@
     <type>s32</type>
     <default>0</default>
   </entry>
+  
   <entry>
     <name>Unk5C</name>
-    <type>s32</type>
+    <type>u8</type>
     <default>0</default>
   </entry>
+  <entry>
+    <name>Unk5D</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk5E</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk5F</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  
   <entry>
     <name>Unk60</name>
-    <type>s32</type>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk64</name>
-    <type>s32</type>
+    <name>Unk61</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
+  <entry>
+    <name>Unk62</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk63</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  
+  <entry>
+    <name>Unk64</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk65</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk66</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk67</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  
   <entry>
     <name>Unk68</name>
     <type>f32</type>
@@ -222,12 +305,12 @@
   </entry>
   <entry>
     <name>Unk74</name>
-    <type>s32</type>
+    <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
     <name>Unk78</name>
-    <type>s32</type>
+    <type>f32</type>
     <default>0</default>
   </entry>
 </layout>

@@ -1,3 +1,5 @@
+10 UNKNOWN
+9400 UNKNOWN
 100000 Forest Grotesque
 101000 Kobold
 102000 Hollow Soldier
@@ -45,6 +47,7 @@
 153000 Syan Knight
 154000 Skeleton Lord
 155000 Amana Aberration
+156000 UNKNOWN
 157000 Dual-wielding Skeleton
 201100 Small Boar
 202000 Undead Boar
@@ -64,6 +67,7 @@
 223000 Mongrel Rat
 223500 Mongrel Rat
 224000 Darksucker
+225000 UNKNOWN
 226000 Corpse Rat
 226001 Corpse Rat
 226100 Corpse Rat
@@ -175,6 +179,7 @@
 689000 Charred Loyce Knight
 690000 Burnt Ivory King
 692000 Aldia, Scholar of the First Sin
+700000 UNKNOWN
 701000 Emerald Herald
 703600 Nashandra (human)
 704500 Laddersmith Gilligan
@@ -193,6 +198,7 @@
 752000 Lucatiel of Mirrah
 753000 Bell Keeper
 754000 Merchant Hag Melentia
+755000 UNKNOWN
 760000 Milfanito
 760200 Imprisoned Milfanito
 761000 Maughlin the Armourer
@@ -211,4 +217,9 @@
 784000 Cromwell the Pardoner
 785000 Blue Sentinel Targray
 786000 Dyna & Tillo
+800000 UNKNOWN
+800001 UNKNOWN
+800002 UNKNOWN
+800003 UNKNOWN
+801000 UNKNOWN
 812000 Pilgrim Bellclaire

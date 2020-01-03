@@ -455,16 +455,49 @@
     <type>s32</type>
     <default>0</default>
   </entry>
+  
   <entry>
     <name>Unk100</name>
-    <type>s32</type>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk104</name>
-    <type>s32</type>
+    <name>Unk101</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
+  <entry>
+    <name>Unk102</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk103</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  
+  <entry>
+    <name>Unk104</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk105</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk106</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk107</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  
   <entry>
     <name>Unk108</name>
     <type>f32</type>

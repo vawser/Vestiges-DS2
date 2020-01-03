@@ -523,3 +523,37 @@ Rings: SpEffectRing.emevd
 60940000 Lightning Bolt
 60950000 Fire Bolt
 60960000 Dark Bolt
+
+#--------------------------------------------
+# Special
+#--------------------------------------------
+1        Acid Pool
+10       Bonfire Rest
+96740000 Repair Equipment (On Self)
+96650000 Sanctum Ghost form
+96790010 Snow Invisibility
+98830010 Snow Invisibility
+98830000 Snow Transparency
+96790000 Snow Transparency
+96790020 Snow Transparency
+93050010 Fire Aura
+91320010 Purple Light
+93330010 Velstadt
+98382000 Invisible Rogue
+96960000 Invisible Hollow
+91270000 Aldia
+96940000 Neck Fire
+96920000 Reduced Damage
+96920010 Reduced Damage
+96560410 Snow Spray
+96560310 Snow Spray
+96560000 Big Snow Spray
+96560420 Snow Wind
+96560300 Snow Aura
+96560400 Snow Poof
+96500020 Fire Spray
+96500010 Fire from Hand
+96570000 ?
+96560100 Ash Coating
+96850000 Elana Summon Coating
+93050011 Blue Smelter Buff

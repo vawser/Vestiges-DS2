@@ -19,6 +19,8 @@
 72500000 Darkdiver Grandahl
 72500001 Darkdiver Grandahl
 72600000 Lonesome Gavlan
+73000000 UNKNOWN
+73100000 UNKNOWN
 74100000 Crestfallen Saulden
 74100001 Crestfallen Saulden
 74200000 Creighton the Wanderer
@@ -68,3 +70,4 @@
 82100000 Merciless Roenna
 82200000 Peculiar Kindalur
 82300000 Dragonfang Villard
+99999999 UNKNOWN

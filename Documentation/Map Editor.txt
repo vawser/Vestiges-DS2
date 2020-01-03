@@ -21,6 +21,8 @@ Giant Memories:             20 10 00 00
 Shrine of Amana:            20 11 00 00
 Drangleic Castle:           20 21 00 00
 Undead Crypt:               20 24 00 00
+Dragon Memories:            20 26 00 00
+Dark Chasm of Old:          40 03 00 00
 Crown of the Shulva:        50 35 00 00
 Crown of the Iron King:     50 36 00 00
 Crown of the Ivory King:    50 37 00 00
@@ -34,21 +36,21 @@ Undead Crypt Tomb:          50 38 00 00
 0400 - Door
 0500 - Fogwall
 
-# Interactions
-Does the AI value determine the last two digits to look for in the EnemyBehaviorParam ID (i.e. 7300xx)
-
 #-----------------------------------------
 # TODO
 #-----------------------------------------
-event_m10_02_x4(
-    z66=102010100, Ghost Appearance: Area Other Flag
-    z67=102020101, 
-    z68=104100, 
-    z69=10024300, 
-    z70=111152, Grave event ID
-    npc1=7230)
-    
-    event_m10_02_x1(
-    z71=104100, Global event flag
-    z72=10024300, 
-    z73=16, z74=7230)
+Params to add to Yapped
+ DEMO_POINT_LIGHT_PARAM
+ DEMO_SPOT_LIGHT_PARAM
+ EVENT_PARAM
+ GENERATOR_DBG_LOCATION_PARAM
+ HIT_GROUP_PARAM
+ INTRUDE_POINT_PARAM
+ MAP_TARGET_DIRECTION_PARAM
+ NPC_TALK_PARAM_ST
+ MAP_OBJECT_TREASURE_BOX_PARAM
+ 
+Look at DS2 cheat tables for more info
+
+BulletParam
+PlayerDamageParam

@@ -1,3 +1,9 @@
+1000 UNKNOWN
+1001 UNKNOWN
+9111 UNKNOWN
+9113 UNKNOWN
+9150 UNKNOWN
+9170 UNKNOWN
 100000 Forest Grotesque
 100001 Forest Grotesque
 100010 Forest Grotesque
@@ -93,6 +99,7 @@
 138010 Torturer
 139000 Artificial Undead
 139010 Artificial Undead
+140000 UNKNOWN
 141000 Undead Aberration
 146000 Headless Vengarl
 146001 Headless Vengarl
@@ -219,6 +226,7 @@
 509100 Leydia Witch
 511000 Imperious Knight
 512000 Leydia Pyromancer
+514500 UNKNOWN
 514600 Vendrick (hollow)
 600000 Ancient Dragon
 601000 Flame Lizard
@@ -285,6 +293,7 @@
 690010 Burnt Ivory King
 692000 Aldia, Scholar of the First Sin
 692010 Aldia, Scholar of the First Sin
+700000 UNKNOWN
 700500 Emerald Herald
 700510 Emerald Herald
 701000 Emerald Herald
@@ -337,5 +346,8 @@
 785000 Blue Sentinel Targray
 785010 Blue Sentinel Targray
 786000 Dyna & Tillo
+800000 UNKNOWN
+800100 UNKNOWN
+800300 UNKNOWN
 810000 Masterless Glencour
 890000 Unknown Phantom

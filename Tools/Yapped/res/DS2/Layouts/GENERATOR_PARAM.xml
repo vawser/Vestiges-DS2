@@ -2,39 +2,53 @@
 <layout>
   <entry>
     <name>Unk00</name>
-    <type>u32</type>
+    <type>u16</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk02</name>
+    <type>u16</type>
     <default>0</default>
   </entry>
   <entry>
     <name>DeathEventID</name>
     <type>u32</type>
     <default>0</default>
+    <description>Used in ESD. Determines if Death state is active.</description>
   </entry>
   <entry>
     <name>GeneratorRegistParam</name>
     <type>u32</type>
     <default>0</default>
+    <description>Determines which registration to use.</description>
   </entry>
   <entry>
     <name>Unk0C</name>
-    <type>u32</type>
+    <type>u16</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk0C</name>
+    <type>u16</type>
     <default>0</default>
   </entry>
   <entry>
     <name>ApperanceEventID</name>
     <type>u32</type>
     <default>0</default>
-    <description>1 through to 7 are used to determine NG+ apperance.</description>
+    <description>Used in ESD. 1 through to 7 are used to determine NG+ apperance.</description>
   </entry>
   <entry>
     <name>PreviousHostileEventID</name>
     <type>u32</type>
     <default>0</default>
+    <description>Used in ESD. Determines if Previous Hostile state is active.</description>
   </entry>
   <entry>
     <name>PreviousHostileEventID</name>
     <type>u32</type>
     <default>0</default>
+    <description>Used in ESD. Determines if Previous Hostile state is active.</description>
   </entry>
   <entry>
     <name>Unk1C</name>
@@ -57,27 +71,27 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2C</name>
+    <name>LocationEventID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk30</name>
+    <name>LocationEventID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk34</name>
+    <name>LocationEventID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk38</name>
+    <name>LocationEventID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3C</name>
+    <name>LocationEventID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
@@ -94,37 +108,27 @@
   
   <entry>
     <name>Unk48</name>
-    <type>u8</type>
+    <type>u16</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk49</name>
-    <type>u8</type>
+    <name>Unk48</name>
+    <type>u16</type>
     <default>0</default>
   </entry>
-  <entry>
-    <name>Unk4A</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk4B</name>
-    <type>u8</type>
-    <default>0</default>
-  </entry>
-  
+
   <entry>
     <name>Unk4C</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk50</name>
+    <name>LocationEventID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk54</name>
+    <name>LocationEventID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
@@ -132,39 +136,49 @@
     <name>AIThinkID</name>
     <type>u32</type>
     <default>0</default>
-  </entry>
-  <entry>
-    <name>ConversationEventID</name>
-    <type>u32</type>
-    <default>0</default>
+    <description>Determines AI used by enemy.</description>
   </entry>
   <entry>
     <name>ActivationEventID</name>
     <type>u32</type>
     <default>0</default>
+    <description>Used in ESD. Determines if Activation state is active.</description>
+  </entry>
+  <entry>
+    <name>ActivationEventID</name>
+    <type>u32</type>
+    <default>0</default>
+    <description>Used in ESD. Determines if Activation state is active.</description>
   </entry>
   <entry>
     <name>HostileEventID</name>
     <type>u32</type>
     <default>0</default>
+    <description>Used in ESD. Determines if Hostile state is active.</description>
   </entry>
   <entry>
     <name>HostileEventID</name>
     <type>u32</type>
     <default>0</default>
+    <description>Used in ESD. Determines if Hostile state is active.</description>
   </entry>
   <entry>
     <name>Unk6C</name>
+    <type>u16</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk71</name>
+    <type>u16</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>LocationEventID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk70</name>
-    <type>u32</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk74</name>
+    <name>LocationEventID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
@@ -192,16 +206,19 @@
     <name>ItemLotID</name>
     <type>u32</type>
     <default>0</default>
+    <description>Adds itemlot to drop when this enemy is killed.</description>
   </entry>
   <entry>
     <name>ItemLotID</name>
     <type>u32</type>
     <default>0</default>
+    <description>Adds itemlot to drop when this enemy is killed. Overkill version.</description>
   </entry>
   <entry>
     <name>GraveEventID</name>
     <type>u32</type>
     <default>0</default>
+    <description>Used in ESD. Determines if Gravestone state is active.</description>
   </entry>
   <entry>
     <name>Unk94</name>

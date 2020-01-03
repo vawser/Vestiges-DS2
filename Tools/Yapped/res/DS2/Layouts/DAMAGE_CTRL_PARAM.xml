@@ -2,9 +2,25 @@
 <layout>
   <entry>
     <name>Unk00</name>
-    <type>s32</type>
+    <type>u8</type>
     <default>0</default>
   </entry>
+  <entry>
+    <name>Unk01</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk02</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk03</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  
   <entry>
     <name>Unk04</name>
     <type>f32</type>
@@ -20,16 +36,34 @@
     <type>s32</type>
     <default>0</default>
   </entry>
+  
   <entry>
     <name>Unk10</name>
-    <type>s32</type>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk14</name>
-    <type>s32</type>
+    <name>Unk11</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
+  <entry>
+    <name>Unk12</name>
+    <type>u16</type>
+    <default>0</default>
+  </entry>
+  
+  <entry>
+    <name>Unk14</name>
+    <type>u16</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk16</name>
+    <type>u16</type>
+    <default>0</default>
+  </entry>
+  
   <entry>
     <name>Unk18</name>
     <type>f32</type>
@@ -95,26 +129,36 @@
     <type>f32</type>
     <default>0</default>
   </entry>
+  
   <entry>
     <name>Unk4C</name>
-    <type>s32</type>
+    <type>u16</type>
     <default>0</default>
   </entry>
+  <entry>
+    <name>Unk4E</name>
+    <type>u16</type>
+    <default>0</default>
+  </entry>
+  
   <entry>
     <name>Unk50</name>
     <type>s32</type>
     <default>0</default>
   </entry>
+  
   <entry>
-    <name>Unk54</name>
-    <type>f32</type>
+    <name>Camera Noise Param ID</name>
+    <type>s32</type>
     <default>0</default>
   </entry>
+  
   <entry>
-    <name>Unk58</name>
-    <type>f32</type>
+    <name>Pad Rumble Param ID</name>
+    <type>s32</type>
     <default>0</default>
   </entry>
+  
   <entry>
     <name>Unk5C</name>
     <type>f32</type>
@@ -166,7 +210,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk84</name>
+    <name>Damage Window Category ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -185,11 +229,28 @@
     <type>f32</type>
     <default>0</default>
   </entry>
+  
   <entry>
     <name>Unk94</name>
-    <type>s32</type>
+    <type>u8</type>
     <default>0</default>
   </entry>
+  <entry>
+    <name>Unk95</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk96</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk97</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  
   <entry>
     <name>Unk98</name>
     <type>f32</type>

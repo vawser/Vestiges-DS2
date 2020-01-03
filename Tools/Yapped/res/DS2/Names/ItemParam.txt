@@ -1,3 +1,5 @@
+10 UNKNOWN
+100 UNKNOWN
 1000000 Dagger
 1010000 Bandit's Knife
 1040000 Mytha's Bent Blade
@@ -164,6 +166,8 @@
 3340000 Old Knight Pike
 3350000 Drakekeeper's Warpick
 3370000 Wrathful Axe
+3400000 UNKNOWN
+3401000 UNKNOWN
 3410000 Claws
 3420000 Malformed Claws
 3430000 Manikin Claws
@@ -331,6 +335,10 @@
 11820000 Bound Wooden Shield
 11830000 Homunculus Wooden Shield
 11840000 Transgressor's Leather Shield
+21001100 UNKNOWN
+21001101 UNKNOWN
+21001102 UNKNOWN
+21001103 UNKNOWN
 21010100 Pate's Helm
 21010101 Pate's Armor
 21010102 Pate's Gloves
@@ -436,22 +444,34 @@
 21500103 Black Witch Trousers
 21501100 Black Witch Hat
 21502100 Black Witch Domino Mask
+21600000 UNKNOWN
 21600100 Drakeblood Helm
 21600101 Drakeblood Armor
 21600102 Drakeblood Gauntlets
 21600103 Drakeblood Leggings
+21610000 UNKNOWN
 21610100 Northwarder Hood
 21610101 Northwarder Robe
 21610102 Northwarder Manchettes
 21610103 Northwarder Trousers
+21620000 UNKNOWN
+21630000 UNKNOWN
 21630100 Crown of the Old Iron King
+21640000 UNKNOWN
 21640100 Crown of the Ivory King
+21650000 UNKNOWN
 21650100 Crown of the Sunken King
+21660000 UNKNOWN
 21660100 Old Bell Helm
+21670000 UNKNOWN
 21670100 Hollow Skin
+21680000 UNKNOWN
 21680100 Pharros Mask
+21690000 UNKNOWN
 21690103 Flower Skirt
+21700000 UNKNOWN
 21700100 Minotaur Helm
+21710000 UNKNOWN
 21710100 Symbol of Avarice
 22020100 Hollow Soldier Helm
 22020101 Hollow Soldier Armor
@@ -674,6 +694,7 @@
 26510101 Fume Sorcerer Robes
 26510102 Fume Sorcerer Gloves
 26510103 Fume Sorcerer Boots
+26590000 UNKNOWN
 26590100 Rampart Golem Helm
 26590101 Rampart Golem Armor
 26590102 Rampart Golem Gauntlets
@@ -684,11 +705,14 @@
 26650103 Sanctum Knight Leggings
 26660102 Sanctum Soldier Gauntlet
 26700100 Sanctum Priestess Tiara
+26750000 UNKNOWN
 26750100 Raime's Helm
 26750101 Raime's Armor
 26750102 Raime's Gauntlets
 26750103 Raime's Leggings
+26770000 UNKNOWN
 26770101 Retainer Robe
+26800000 UNKNOWN
 26800100 Alonne's Helm
 26800101 Alonne's Armor
 26800102 Alonne's Gauntlets
@@ -701,10 +725,12 @@
 26890101 Charred Loyce Armor
 26890102 Charred Loyce Gauntlets
 26890103 Charred Loyce Leggings
+26900000 UNKNOWN
 26900100 Ivory King Helm
 26900101 Ivory King Armor
 26900102 Ivory King Gauntlets
 26900103 Ivory King Leggings
+26940000 UNKNOWN
 26940100 Hood of the Forlorn
 26940101 Armor of the Forlorn
 26940102 Gauntlets of the Forlorn
@@ -735,6 +761,7 @@
 27520101 Lucatiel's Vest
 27520102 Lucatiel's Gloves
 27520103 Lucatiel's Trousers
+27521000 UNKNOWN
 27521100 Mirrah Hat
 27530100 Bell Keeper Helmet
 27530101 Bell Keeper Bellyband
@@ -1074,6 +1101,7 @@
 60355000 Aged Feather
 60360000 Darksign
 60370000 Silver Talisman
+60375000 UNKNOWN
 60405000 Dragon Head Stone
 60405010 Dragon Head Stone
 60406000 Dragon Torso Stone
@@ -1234,3 +1262,11 @@
 64590000 Soul of Zallen, the King's Pet
 64600000 Loyce Soul
 64610000 Soul of Lud, the King's Pet
+65240000 UNKNOWN
+65250000 UNKNOWN
+65260000 UNKNOWN
+65270000 UNKNOWN
+65280000 UNKNOWN
+65290000 UNKNOWN
+900008182 UNKNOWN
+900008183 UNKNOWN

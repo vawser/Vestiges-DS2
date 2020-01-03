@@ -336,19 +336,22 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkDC</name>
+    <name>Player Status Item ID</name>
     <type>s32</type>
     <default>0</default>
+    <description>Determines starting inventory.</description>
   </entry>
   <entry>
-    <name>UnkE0</name>
+    <name>Player Status Item ID</name>
     <type>s32</type>
     <default>0</default>
+    <description>Determines starting inventory.</description>
   </entry>
   <entry>
-    <name>UnkE4</name>
+    <name>Player Status Item ID</name>
     <type>s32</type>
     <default>0</default>
+    <description>Determines starting inventory.</description>
   </entry>
   <entry>
     <name>UnkE8</name>

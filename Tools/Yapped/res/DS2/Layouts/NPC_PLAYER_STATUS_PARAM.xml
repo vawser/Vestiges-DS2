@@ -146,6 +146,11 @@
     <default>0</default>
   </entry>
   <entry>
+    <name>Item 9 ID</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
     <name>Spell 1 ID</name>
     <type>s32</type>
     <default>0</default>
@@ -196,32 +201,27 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Spell 11 ID</name>
-    <type>s32</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Enemy Param ID</name>
-    <type>s32</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Enemy Param ID</name>
-    <type>s32</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk74</name>
-    <type>s32</type>
-    <default>0</default>
-  </entry>
-  <entry>
-    <name>Unk78</name>
+    <name>Right Weapon ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
     <name>Right Weapon ID</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Right Weapon ID</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Left Weapon ID</name>
+    <type>s32</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Left Weapon ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -271,22 +271,22 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkA4</name>
+    <name>Arrow ID 1</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkA8</name>
+    <name>Arrow ID 2</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkAC</name>
+    <name>Bolt ID 1</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkB0</name>
+    <name>Bolt ID 2</name>
     <type>s32</type>
     <default>0</default>
   </entry>

@@ -15,3 +15,4 @@
 550 [Gift] Seed of a Tree of Giants
 560 [Gift] Bonfire Ascetic
 570 [Gift] Petrified Something
+999999999 UNKNOWN

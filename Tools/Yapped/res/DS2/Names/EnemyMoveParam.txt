@@ -1,3 +1,4 @@
+10 UNKNOWN
 100000 Forest Grotesque
 101000 Kobold
 102000 Hollow Soldier
@@ -29,7 +30,7 @@
 139000 Artificial Undead
 141000 Undead Aberration
 146000 Headless Vengarl
-147000 Undead Supplicant
+147000 Undead with Head Bandage
 148000 Undead Peasant
 149000 Undead Steelworker
 150000 Stone Knight
@@ -38,6 +39,7 @@
 153000 Syan Knight
 154000 Skeleton Lord
 155000 Amana Aberration
+156000 UNKNOWN
 157000 Dual-wielding Skeleton
 201000 Small Boar
 201100 Small Boar
@@ -53,10 +55,13 @@
 214000 Giant Undead Boar
 216000 Wall Ghost
 217000 Dark Stalker
+218000 UNKNOWN
 220000 Giant Acid Horn Beetle
 222000 Giant Basilisk
 223000 Mongrel Rat
+223500 UNKNOWN
 224000 Darksucker
+225000 UNKNOWN
 226000 Corpse Rat
 227000 Stray Dog
 300000 Ogre
@@ -91,7 +96,7 @@
 332000 Throne Defender
 333000 Velstadt
 334000 Throne Watcher
-337000 Captive Undead
+337000 Abandoned Hollow
 500000 Covetous Demon
 501000 Mytha, the Baneful Queen
 502000 Manscorpion Tark
@@ -99,7 +104,10 @@
 504000 Mirror Knight
 506100 Darklurker
 506500 Grave Warden Agdayne
+507000 UNKNOWN
+508000 UNKNOWN
 509000 Leydia Witch
+509100 UNKNOWN
 511000 Imperious Knight
 512000 Leydia Pyromancer
 514600 Vendrick (hollow)
@@ -110,6 +118,7 @@
 603010 The Duke's Dear Freja
 607000 Old Iron King
 608000 Rotten Vermin
+610000 UNKNOWN
 611000 Dragonrider
 611010 Dragonrider
 619100 Executioner's Chariot
@@ -150,6 +159,7 @@
 690000 Burnt Ivory King
 692000 Aldia, Scholar of the First Sin
 700000 Emerald Herald
+701000 UNKNOWN
 704500 Laddersmith Gilligan
 705000 Strowen
 721100 Chancellor Wellager
@@ -166,6 +176,7 @@
 752000 Aslatiel of Mirrah
 753000 Bell Keeper
 754000 Merchant Hag Melentia
+755000 UNKNOWN
 760000 Milfanito
 760200 Imprisoned Milfanito
 761000 Maughlin the Armourer
@@ -184,3 +195,7 @@
 784000 Cromwell the Pardoner
 785000 Blue Sentinel Targray
 786000 Dyna & Tillo
+800000 UNKNOWN
+800001 UNKNOWN
+800010 UNKNOWN
+999999999 UNKNOWN

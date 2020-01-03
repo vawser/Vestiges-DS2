@@ -1,3 +1,4 @@
+0 UNKNOWN
 6940 Forlorn
 6950 Forlorn
 7320 Belfry Gargoyle
@@ -8,6 +9,17 @@
 7660 Carhillion of the Fold
 7720 Magerold of Lanafir
 7840 Cromwell the Pardoner
+8000 UNKNOWN
+8001 UNKNOWN
+8002 UNKNOWN
+8003 UNKNOWN
+8004 UNKNOWN
+8005 UNKNOWN
+8006 UNKNOWN
+8007 UNKNOWN
+8008 UNKNOWN
+8009 UNKNOWN
+8010 UNKNOWN
 8100 Masterless Glencour
 8110 Lone Hunter Schmidt
 8120 Pilgrim Bellclaire
@@ -29,6 +41,8 @@
 8326 A Chip Off the Ol Rock
 8327 Shadowveil Assasin
 8330 Peculiar Kindalur Phantom
+8340 UNKNOWN
+8341 UNKNOWN
 8350 Black Dragon Knight
 8351 Black Dragon Knight
 8352 Black Dragon Knight
@@ -40,4 +54,7 @@
 8370 Foreign Wanderer Phantom
 8371 Foreign Wanderer
 8372 Greatsword Foreigner Phantom
+8373 UNKNOWN
+8380 UNKNOWN
+8381 UNKNOWN
 8900 Unknown Phantom

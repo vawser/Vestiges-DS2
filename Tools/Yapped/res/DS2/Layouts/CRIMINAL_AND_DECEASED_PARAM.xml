@@ -31,7 +31,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk06</name>
+    <name>Hollowing Level for Unknown</name>
     <type>u8</type>
     <default>0</default>
   </entry>
@@ -51,12 +51,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk0A</name>
+    <name>Unknown Percentage</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk0B</name>
+    <name>Unknown Percentage (Wretch)</name>
     <type>u8</type>
     <default>0</default>
   </entry>

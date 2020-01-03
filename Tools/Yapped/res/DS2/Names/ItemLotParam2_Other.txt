@@ -28,6 +28,31 @@
 10260 Human Effigy
 10270 Human Effigy
 10280 Titanite Chunk, Titanite Slab, Twinkling Titanite, Petrified Dragon Bone
+11000 UNKNOWN
+11010 UNKNOWN
+11020 UNKNOWN
+11030 UNKNOWN
+11040 UNKNOWN
+11050 UNKNOWN
+11060 UNKNOWN
+11070 UNKNOWN
+11080 UNKNOWN
+11090 UNKNOWN
+11100 UNKNOWN
+11110 UNKNOWN
+11120 UNKNOWN
+11130 UNKNOWN
+11140 UNKNOWN
+11150 UNKNOWN
+11160 UNKNOWN
+11170 UNKNOWN
+11180 UNKNOWN
+11190 UNKNOWN
+11200 UNKNOWN
+11210 UNKNOWN
+11220 UNKNOWN
+11230 UNKNOWN
+11240 UNKNOWN
 106000 [Boss - Prowling Magus & Congregation] Titanite Slab
 154000 [Boss - Skeleton Lords] Skeleton Lord's Soul
 154001 [Boss - Skeleton Lords NG+] Skeleton Lord's Soul, Clear Bluestone Ring +2
@@ -59,6 +84,7 @@
 504000 [Boss - Looking Glass Knight] Looking Glass Knight Soul
 504001 [Boss - Looking Glass Knight NG+] Looking Glass Knight Soul, Ring of Steel Protection +2
 506100 [Boss - Darklurker] Darklurker Soul
+514500 UNKNOWN
 600000 [Boss - Ancient Dragon] Ashen Mist Heart, Soul of a Giant, Petrified Dragon Bone
 602000 [Boss - Demon of Song] Demon of Song Soul, Key to the Embedded
 603000 [Boss - The Duke's Dear Freja] Soul of the Duke's Dear Freja
@@ -91,6 +117,8 @@
 1701000 [NPC - Emerald Herald] Aged Feather
 1704000 [NPC - Laddersmith Gilligan] Melu Scimitar
 1705000 [NPC - Strowen] Human Effigy (King's Ring)
+1705100 UNKNOWN
+1705300 UNKNOWN
 1721000 [NPC - Chancellor Wellager] Royal Dirk, Espada Ropera, Llewellyn Set
 1723000 [NPC - Housekeeper Milibeth] Handmaid's Ladle
 1724000 [NPC - Captain Drummond] Drangleic Helm
@@ -110,9 +138,13 @@
 1752010 [NPC - Lucatiel of Mirrah] Human Effigy
 1752020 [NPC - Lucatiel of Mirrah] Ring of Steel Protection +1
 1753000 [NPC - Belfry Guard] Rusted Coin
+1753010 UNKNOWN
 1753020 [NPC - Belfry Guard] Bell Keeper's Seal
 1754000 [NPC - Merchant Hag Melentia] Covetous Silver Serpent Ring +1
 1756000 [NPC - The Rat King] Crest of the Rat
+1757000 UNKNOWN
+1758000 UNKNOWN
+1759000 UNKNOWN
 1760000 [NPC - Milfanito] Divine Blessing
 1760010 [NPC - Milfanito] Smooth & Silky Stone
 1760020 [NPC - Milfanito] Divine Blessing
@@ -136,9 +168,11 @@
 1771040 [NPC - Royal Sorcerer Navlaan] Unleash Magic
 1772000 [NPC - Magerold of Lanafir] Covetous Gold Serpent Ring +1
 1776000 [NPC - Unknown] Human Effigy
+1777000 UNKNOWN
 1783040 [NPC - Titchy Gren] Scythe of Nahr Alma, Nahr Alma Set
 1784000 [NPC - Cromwell the Pardoner] Ring of Resistance
 1785040 [NPC - Blue Sentinel Targray] Targray's Set
+1786000 UNKNOWN
 1787000 [NPC - Ancient Dragon] Ashen Mist Heart
 1788000 [NPC - Alsanna, Silent Oracle] Loyce Gauntlets, Leggings
 1788010 [NPC - Alsanna, Silent Oracle] Loyce Armor
@@ -1376,3 +1410,23 @@
 60046001 [Event] Demon of Song Soul
 60050000 [Event] Aldia Key
 70000000 [Unknown] Black Flamestone Dagger, Black Flamestone Parma
+90000000 UNKNOWN
+90000001 UNKNOWN
+99995000 UNKNOWN
+99995001 UNKNOWN
+99995002 UNKNOWN
+99995003 UNKNOWN
+99995004 UNKNOWN
+99995005 UNKNOWN
+99995006 UNKNOWN
+99995007 UNKNOWN
+99995008 UNKNOWN
+99996000 UNKNOWN
+99996001 UNKNOWN
+99996002 UNKNOWN
+99996003 UNKNOWN
+99996004 UNKNOWN
+99996005 UNKNOWN
+99996006 UNKNOWN
+99996007 UNKNOWN
+99996008 UNKNOWN

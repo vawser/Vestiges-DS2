@@ -1,3 +1,4 @@
+0 UNKNOWN
 11000 [Company of Champions] Awestone
 11010 [Rat King] Pharros' Lockstone
 11020 [Dragon Remnants] Dragon Scale
@@ -27,3 +28,5 @@
 11270 [Pilgrims of Dark] Human Effigy
 11280 [Bell Keeper] Titanite Chunk, Titanite Slab, Twinkling Titanite, Petrified Dragon Bone
 10045500 Torch
+90000000 UNKNOWN
+90000001 UNKNOWN

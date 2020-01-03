@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout>
   <entry>
-    <name>Unk00</name>
+    <name>NPC ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -36,52 +36,52 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1C</name>
+    <name>Right Weapon ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk20</name>
+    <name>Right Weapon ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk24</name>
+    <name>Right Weapon ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk28</name>
+    <name>Left Weapon ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2C</name>
+    <name>Left Weapon ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk30</name>
+    <name>Left Weapon ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk34</name>
+    <name>Head Armor ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk38</name>
+    <name>Chest Armor ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk3C</name>
+    <name>Hands Armor ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk40</name>
+    <name>Legs Armor ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>

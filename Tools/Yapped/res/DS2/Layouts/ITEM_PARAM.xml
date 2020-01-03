@@ -107,12 +107,82 @@
   </entry>
   <entry>
     <name>Unk4C</name>
-    <type>s32</type>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk50</name>
-    <type>s32</type>
+    <name>Unknown State</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>Used in items.
+0 - None
+1 - Consumable
+2 - Non-Consumable (except Human Effigy)
+3 - System (Darksign)
+</description>
+  </entry>
+  <entry>
+    <name>Unk4E</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Item Type</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>Used in items.
+0 - Weapon
+1 - Shield
+2 - Head Armor
+3 - Chest Armor
+4 - Hands Armor
+5 - Legs Armor
+6 - Ammunition
+7 - Ring
+8 - Good
+9 - Spell
+10 - Gesture
+</description>
+  </entry>
+  <entry>
+    <name>Unknown State</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>Used in items.
+0 - None
+2 - ?
+3 - ?
+</description>
+  </entry>
+  <entry>
+    <name>Spell School</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>Controls the spell school for the spell.
+0 - None
+2 - Sorcery
+3 - Miracles
+4 - Pyromancy
+5 - Hexes</description>
+  </entry>
+  <entry>
+    <name>Item State</name>
+    <type>u8</type>
+    <default>0</default>
+    <description>Controls the NG+ handling for the item.
+4 - Dragon Stone
+8 - Limited Item
+9 - Remove Ring
+10 - Ladder Miniature
+11 - Remove Good
+12 - No Change
+13 - Estus Flask / Aged Feather / Darksign
+15 - Champion's Tablet
+</description>
+  </entry>
+  <entry>
+    <name>Unk53</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
 </layout>

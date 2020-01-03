@@ -1,12 +1,17 @@
+0 UNKNOWN
+10 UNKNOWN
+20 UNKNOWN
+30 UNKNOWN
+40 UNKNOWN
 1020000 [Unknown] Fading Soul
 1020100 [Unknown] None
 1020200 [Unknown] None
 1020300 [Unknown] Petrified Something
-1040000 [Things Betwixt - Skeleton] Human Effigy
-1040100 [Things Betwixt - Small Boar] Cracked Red Eye Orb
+1040000 [Unknown] Human Effigy
+1040100 [Unknown] Cracked Red Eye Orb
 1040200 [Unknown] None
-1040300 [Things Betwixt - Undead Boar] Cracked Red Eye Orb
-1040400 [Things Betwixt - Giant Undead Boar] Cracked Red Eye Orb
+1040300 [Unknown] Cracked Red Eye Orb
+1040400 [Unknown] Cracked Red Eye Orb
 1040500 [Unknown] Rusted Coin
 1100000 [Unknown] Cracked Red Eye Orb
 1100100 [Unknown] Hollow Soldier Set, Winged Spear, Hollow Soldier Shield, Firebomb
@@ -285,15 +290,15 @@
 12504000 [Rupturing Hollow] Alluring Skull
 12504100 [Rupturing Hollow] Rotten Pine Resin
 12505000 [Rupturing Hollow] None
-12700000 [Captive Undead] Prisoner Set, Small Blue Burr, Small Yellow Burr, Small Orange Burr, Lifegem
-12700100 [Captive Undead] Prisoner Set, Triclops Snake Troches
-12700200 [Captive Undead] Prisoner Set, Small Blue Burr, Small Yellow Burr, Small Orange Burr, Soul of a Lost Undead
-12700300 [Captive Undead] Prisoner Set, Red Leech Troches
-12700400 [Captive Undead] Prisoner Set, Small Blue Burr, Small Yellow Burr, Small Orange Burr, Soul of a Lost Undead
-12700500 [Captive Undead] Prisoner Set, Small Blue Burr, Small Yellow Burr, Small Orange Burr, Soul of a Lost Undead
-12701000 [Captive Undead] Prisoner Set, Torch, Lifegem
-12701100 [Captive Undead] Prisoner Set, Torch
-12702000 [Captive Undead] Prisoner Set, Broken Straight Sword, Small Blue Burr, Small Yellow Burr, Small Orange Burr, Soul of a Lost Undead
+12700000 [Abandoned Hollow] Prisoner Set, Small Blue Burr, Small Yellow Burr, Small Orange Burr, Lifegem
+12700100 [Abandoned Hollow] Prisoner Set, Triclops Snake Troches
+12700200 [Abandoned Hollow] Prisoner Set, Small Blue Burr, Small Yellow Burr, Small Orange Burr, Soul of a Lost Undead
+12700300 [Abandoned Hollow] Prisoner Set, Red Leech Troches
+12700400 [Abandoned Hollow] Prisoner Set, Small Blue Burr, Small Yellow Burr, Small Orange Burr, Soul of a Lost Undead
+12700500 [Abandoned Hollow] Prisoner Set, Small Blue Burr, Small Yellow Burr, Small Orange Burr, Soul of a Lost Undead
+12701000 [Abandoned Hollow] Prisoner Set, Torch, Lifegem
+12701100 [Abandoned Hollow] Prisoner Set, Torch
+12702000 [Abandoned Hollow] Prisoner Set, Broken Straight Sword, Small Blue Burr, Small Yellow Burr, Small Orange Burr, Soul of a Lost Undead
 12900000 [Forest Spirit] Witchtree Branch
 12901000 [Forest Spirit] Witchtree Bellvine
 13100000 [Lindelt Cleric] Archdrake Set, Archdrake Mace, Slumbering Dragon Shield, Old Radiant Lifegem, Twinkling Titanite
@@ -329,8 +334,8 @@
 14600000 [Headless Vengarl] Tseldora Set, Bandit's Knife, Silver Talisman
 14601000 [Headless Vengarl] Tseldora Set, Estoc, Silver Talisman
 14602000 [Headless Vengarl] Tseldora Set, Bandit's Knife, Silver Talisman
-14700000 [Undead Supplicant] Poison Stone, Bleed Stone
-14700100 [Undead Supplicant] Poison Stone, Bleed Stone
+14700000 [Undead with Head Bandage] Poison Stone, Bleed Stone
+14700100 [Undead with Head Bandage] Poison Stone, Bleed Stone
 14800000 [Undead Peasant] Peasant Set, Small Smooth & Silky Stone, Flame Butterfly
 14801000 [Undead Peasant] Peasant Set, Titanite Shard, Large Titanite Shard, Titanite Chunk
 14802000 [Undead Peasant] Peasant Set, Titanite Shard, Large Titanite Shard, Titanite Chunk
@@ -489,19 +494,19 @@
 33200000 [Throne Defender] None
 33300000 [Velstadt] None
 33400000 [Throne Watcher] None
-33700000 [Captive Undead] Prisoner's Set, Small Blue Burr, Small Yellow Burr, Small Orange Burr, Lifegem
-33700100 [Captive Undead] Prisoner's Set, Small Blue Burr, Small Yellow Burr, Small Orange Burr, Soul of a Lost Undead
-33700200 [Captive Undead] Prisoner's Set, Poison Throwing Knife
-33700300 [Captive Undead] Prisoner's Set, Simpleton's Spice, Homeward Bone
-33700400 [Captive Undead] Prisoner's Set, Small Blue Burr, Small Yellow Burr, Small Orange Burr, Soul of a Lost Undead
-33700500 [Captive Undead] Prisoner's Set, Small Blue Burr, Small Yellow Burr, Small Orange Burr, Soul of a Lost Undead
-33700600 [Captive Undead] Prisoner's Set, Small Blue Burr, Small Yellow Burr, Small Orange Burr, Soul of a Lost Undead
-33701000 [Captive Undead] Prisoner's Set, Torch, Lifegem
-33701100 [Captive Undead] Prisoner's Set, Poison Throwing Knife, Torch
-33702000 [Captive Undead] Prisoner's Set, Broken Straight Sword, Small Blue Burr, Small Yellow Burr, Small Orange Burr, Lifegem
-33702100 [Captive Undead] Prisoner's Set, Broken Straight Sword, Poison Throwing Knife
-33702200 [Captive Undead] Prisoner's Set, Broken Straight Sword, Simpleton's Spice, Homeward Bone
-33702300 [Captive Undead] Prisoner's Set, Broken Straight Sword, Small Blue Burr, Small Yellow Burr, Small Orange Burr, Soul of a Lost Undead
+33700000 [Abandoned Hollow] Prisoner's Set, Small Blue Burr, Small Yellow Burr, Small Orange Burr, Lifegem
+33700100 [Abandoned Hollow] Prisoner's Set, Small Blue Burr, Small Yellow Burr, Small Orange Burr, Soul of a Lost Undead
+33700200 [Abandoned Hollow] Prisoner's Set, Poison Throwing Knife
+33700300 [Abandoned Hollow] Prisoner's Set, Simpleton's Spice, Homeward Bone
+33700400 [Abandoned Hollow] Prisoner's Set, Small Blue Burr, Small Yellow Burr, Small Orange Burr, Soul of a Lost Undead
+33700500 [Abandoned Hollow] Prisoner's Set, Small Blue Burr, Small Yellow Burr, Small Orange Burr, Soul of a Lost Undead
+33700600 [Abandoned Hollow] Prisoner's Set, Small Blue Burr, Small Yellow Burr, Small Orange Burr, Soul of a Lost Undead
+33701000 [Abandoned Hollow] Prisoner's Set, Torch, Lifegem
+33701100 [Abandoned Hollow] Prisoner's Set, Poison Throwing Knife, Torch
+33702000 [Abandoned Hollow] Prisoner's Set, Broken Straight Sword, Small Blue Burr, Small Yellow Burr, Small Orange Burr, Lifegem
+33702100 [Abandoned Hollow] Prisoner's Set, Broken Straight Sword, Poison Throwing Knife
+33702200 [Abandoned Hollow] Prisoner's Set, Broken Straight Sword, Simpleton's Spice, Homeward Bone
+33702300 [Abandoned Hollow] Prisoner's Set, Broken Straight Sword, Small Blue Burr, Small Yellow Burr, Small Orange Burr, Soul of a Lost Undead
 50000000 [Covetous Demon] None
 50001000 [Covetous Demon] Ivory Warrior Ring
 50100000 [Mytha, the Baneful Queen] None
@@ -739,3 +744,6 @@
 89700000 [Unknown] Sanctum Priestess Tiara
 89750000 [Unknown] Clear Bluestone Ring+2
 89800000 [Unknown] Minotaur Helm
+99900000 UNKNOWN
+99990000 UNKNOWN
+99990001 UNKNOWN

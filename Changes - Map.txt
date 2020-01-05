@@ -11,6 +11,8 @@
 #-----------------------------------------
 # Forest of Fallen Giants
 #-----------------------------------------
+- Remixed all of the existing enemy placements
+- Adjusted some object placement to make the barren areas less empty.
 
 #-----------------------------------------
 # Brightstone Cove

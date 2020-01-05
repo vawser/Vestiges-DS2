@@ -11,7 +11,7 @@
 #-----------------------------------------
 # Forest of Fallen Giants
 #-----------------------------------------
-- Remixed all of the existing enemy placements
+- Remixed the existing enemy placements.
 - Adjusted some object placement to make the barren areas less empty.
 
 #-----------------------------------------
@@ -37,6 +37,9 @@
 #-----------------------------------------
 # Iron Keep
 #-----------------------------------------
+- Remixed the existing enemy placements.
+- Added two Iron Warriors.
+- Added 4 Possessed Armors.
 
 #-----------------------------------------
 # Huntsman's Copse
@@ -61,6 +64,8 @@
 #-----------------------------------------
 # Heide's Tower of Flame
 #-----------------------------------------
+- Remixed the existing enemy placements.
+- Added 1 Red Crystal Lizard.
 
 #-----------------------------------------
 # Shaded Woods

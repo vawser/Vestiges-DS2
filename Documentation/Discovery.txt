@@ -1,4 +1,9 @@
-﻿# Map IDs
+﻿# Notes
+- enc_regulation has 1 MB limit.
+- enc_regulation is loaded after the param folder.
+- Removing all files from enc_regulation (with the params in the folder) works fine.
+
+# Map IDs
 Things Betwixt:             10 02 00 00
 Majula:                     10 04 00 00
 Forest of Fallen Giants:    10 10 00 00
@@ -36,10 +41,7 @@ Undead Crypt Tomb:          50 38 00 00
 0400 - Door
 0500 - Fogwall
 
-# Notes
-- enc_regulation has 1 MB limit.
-- enc_regulation is loaded after the param folder.
-- Removing all files from enc_regulation (with the params in the folder) works fine.
+
 
 #-----------------------------------------
 # TODO
@@ -55,16 +57,3 @@ Params to add to Yapped
  NPC_TALK_PARAM_ST
  MAP_OBJECT_TREASURE_BOX_PARAM
  
-Look at DS2 cheat tables for more info
-
-:: Copy param files to Vestiges param folder
-copy /b/v/y "E:\Program Files (x86)\SteamLibrary\steamapps\common\Dark Souls II Scholar of the First Sin\Modding\Mod\Tools\Params\params-bnd-dcx\" "E:\Program Files (x86)\SteamLibrary\steamapps\common\Dark Souls II Scholar of the First Sin\Modding\Mod\Vestiges\param\"
-
-:: Delete the yabber xml file from the Vestiges param folder
-del /q "E:\Program Files (x86)\SteamLibrary\steamapps\common\Dark Souls II Scholar of the First Sin\Modding\Mod\Vestiges\param\_yabber-bnd4.xml"
-
-:: Copy param files to Game param folder
-copy /b/v/y "E:\Program Files (x86)\SteamLibrary\steamapps\common\Dark Souls II Scholar of the First Sin\Modding\Mod\Tools\Params\params-bnd-dcx\" "E:\Program Files (x86)\SteamLibrary\steamapps\common\Dark Souls II Scholar of the First Sin\Game\Param\"
-
-:: Delete the yabber xml file from the Game param folder
-del /q "E:\Program Files (x86)\SteamLibrary\steamapps\common\Dark Souls II Scholar of the First Sin\Game\Param\_yabber-bnd4.xml"

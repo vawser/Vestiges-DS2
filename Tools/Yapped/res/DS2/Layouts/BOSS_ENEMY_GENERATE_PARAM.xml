@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout>
   <entry>
-    <name>Unk00</name>
+    <name>Enemy Generator ID 1</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk04</name>
+    <name>Enemy Generator ID 2</name>
     <type>s32</type>
     <default>0</default>
   </entry>

@@ -133,12 +133,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unknown ID</name>
+    <name>Logic Com ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unknown ID</name>
+    <name>Dead Type ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -248,47 +248,47 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk9C</name>
+    <name>Physical Defence</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkA0</name>
+    <name>Magic Defence</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkA4</name>
+    <name>Lightning Defence</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkA8</name>
+    <name>Fire Defence</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkAC</name>
+    <name>Dark Defence</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkB0</name>
+    <name>Poison Resist</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkB4</name>
+    <name>Bleed Resist</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkB8</name>
+    <name>Petrify Resist</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkBC</name>
+    <name>Curse Resist</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -393,9 +393,10 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk110</name>
+    <name>Full Body SFX ID</name>
     <type>s32</type>
     <default>0</default>
+    <description>Refers to ChrFullyBodySfxParam</description>
   </entry>
   <entry>
     <name>Unk114</name>

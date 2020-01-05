@@ -107,14 +107,15 @@
   </entry>
   
   <entry>
-    <name>Unk48</name>
+    <name>Unk46</name>
     <type>u16</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk48</name>
+    <name>Associated Bonfire ID</name>
     <type>u16</type>
     <default>0</default>
+    <description>Refers to MapObjectBonfireParam. Controls which bonfire respawns this enemy.</description>
   </entry>
 
   <entry>

@@ -11,17 +11,17 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk08</name>
+    <name>Itemlot ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk0C</name>
+    <name>Enemy Common ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk10</name>
+    <name>Boss Destruction Flag ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -36,47 +36,47 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1C</name>
+    <name>Camera Follow ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk20</name>
+    <name>Lock-on ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk24</name>
+    <name>Unknown 1</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk25</name>
+    <name>Unknown 2</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk26</name>
+    <name>Unknown 3</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk27</name>
+    <name>Primal Bonfire Boss</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk28</name>
+    <name>Unknown 1</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk29</name>
+    <name>Unknown 2</name>
     <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2A</name>
+    <name>Unknown 3</name>
     <type>u8</type>
     <default>0</default>
   </entry>
@@ -86,17 +86,17 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk2C</name>
+    <name>Name Text ID 1</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk30</name>
+    <name>Name Text ID 2</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk34</name>
+    <name>Name Text ID 3</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -106,7 +106,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Corresponding Bonfire ID</name>
+    <name>Map Object Bonfire ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>

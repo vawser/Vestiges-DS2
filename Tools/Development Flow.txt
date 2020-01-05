@@ -1,0 +1,5 @@
+﻿Edit the params.bnd.dcx with Yapped.
+When done, unpack the params.bnd.dcx with Yabber.
+Run Update Params.bat to push the changed params to the mod and game folder.
+
+Other changes such as map or image changes are just handled manually, copied into the mod folder from the game folder.

@@ -6,32 +6,47 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk04</name>
+    <name>Fully Body SFX ID 1</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk08</name>
+    <name>Fully Body SFX ID 2</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk0C</name>
+    <name>Fully Body SFX ID 3</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk10</name>
+    <name>Fully Body SFX ID 4</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
     <name>Unk14</name>
-    <type>s32</type>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk18</name>
+    <name>Unk15</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk16</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk17</name>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Physics Texture ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -41,7 +56,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk20</name>
+    <name>Dead Type ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>

@@ -17,6 +17,10 @@
 #-----------------------------------------
 # Brightstone Cove
 #-----------------------------------------
+- Remixed the existing enemy placements.
+- Replaced the Hollow Falconers with boars.
+- Re-arranged the Congregation room.
+- Removed the spiders near the Lower Brightstone Cove bonfire.
 
 #-----------------------------------------
 # Aldia's Keep

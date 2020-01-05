@@ -2,7 +2,7 @@
 # Things Betwixt
 #-----------------------------------------
 - Moved Petrified Undead Traveler to long platform above.
-- Moved Estus Shard Fragment next to the scone that is now blocked by the Petrified Undead Traveler.
+- Moved Estus Shard Fragment next to the sconce that is now blocked by the Petrified Undead Traveler.
 
 #-----------------------------------------
 # Majula

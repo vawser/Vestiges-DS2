@@ -6,7 +6,7 @@
 11820000 [REG] White Hollow Mage
 12700000 [REG] Captive Undead
 13700000 [REG] Dragon Acolyte
-14601000 [REG] Headless Vengarl
+14601000 [REG] Lord Tseldora
 14700000 [REG] Undead Supplicant
 14800000 [REG] Undead Peasant
 14800001 [REG] Undead Peasant

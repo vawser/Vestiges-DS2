@@ -25,3 +25,8 @@ Crown of the Iron King:     50 36 00 00
 Crown of the Ivory King:    50 37 00 00
 Undead Crypt Tomb:          50 38 00 00
 
+#-----------------------------------------
+# Notes
+#-----------------------------------------
+GeneratorLocation param has different position floats to the ones displayed in DSMapEditor currently. Use the editor to move stuff for now.
+

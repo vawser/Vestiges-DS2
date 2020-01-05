@@ -36,9 +36,10 @@
     <default>0.0</default>
   </entry>
   <entry>
-    <name>Unk1C</name>
+    <name>Fog Door ID</name>
     <type>s32</type>
     <default>0</default>
+    <description>Refers to MapObjectWhiteDoorParam.</description>
   </entry>
   <entry>
     <name>Unk20</name>
@@ -61,7 +62,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk24</name>
+    <name>Bonfire Lit Flag ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>

@@ -277,11 +277,11 @@
 140000 UNKNOWN
 141000 Undead Aberration
 141002 Undead Aberration
-146000 Headless Vengarl
-146001 Headless Vengarl
-146010 Headless Vengarl
-146011 Headless Vengarl
-146020 Headless Vengarl
+146000 Lord Tseldora
+146001 Lord Tseldora
+146010 Lord Tseldora
+146011 Lord Tseldora
+146020 Lord Tseldora
 147000 Undead Supplicant
 147001 Undead Supplicant
 147002 Undead Supplicant

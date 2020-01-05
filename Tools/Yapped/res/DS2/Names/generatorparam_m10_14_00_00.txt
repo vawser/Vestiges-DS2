@@ -180,6 +180,6 @@
 8013 [GEN] Parasite Spider
 8014 [GEN] Parasite Spider
 8015 [GEN] Parasite Spider
-8500 [GEN] Headless Vengarl
+8500 [GEN] Lord Tseldora
 9000 [GEN] Voice Marker (Creighton/Pate)
 9500 [GEN] Poison Moth

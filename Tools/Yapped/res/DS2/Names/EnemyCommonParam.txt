@@ -37,7 +37,7 @@
 138000 Torturer
 139000 Artificial Undead
 141000 Undead Aberration
-146000 Headless Vengarl
+146000 Lord Tseldora
 147000 Undead Supplicant
 148000 Undead Peasant
 149000 Undead Steelworker

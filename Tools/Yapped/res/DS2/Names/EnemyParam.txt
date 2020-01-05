@@ -222,8 +222,8 @@
 139010 Artificial Undead
 141000 Undead Aberration
 141002 Undead Aberration
-146000 Headless Vengarl
-146010 Headless Vengarl
+146000 Lord Tseldora
+146010 Lord Tseldora
 147001 Undead Supplicant
 147004 Undead Supplicant
 147005 Undead Supplicant

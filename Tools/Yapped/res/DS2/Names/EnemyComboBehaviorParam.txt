@@ -101,8 +101,8 @@
 139010 Artificial Undead
 140000 UNKNOWN
 141000 Undead Aberration
-146000 Headless Vengarl
-146010 Headless Vengarl
+146000 Lord Tseldora
+146010 Lord Tseldora
 147000 Undead Supplicant
 148000 Undead Peasant
 148020 Undead Peasant

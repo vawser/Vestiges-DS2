@@ -6,14 +6,16 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk04</name>
+    <name>LogicParamID</name>
     <type>u32</type>
     <default>0</default>
+    <description>Refers to LogicComParam</description>
   </entry>
   <entry>
-    <name>Unk08</name>
+    <name>DefaultLogicParamID</name>
     <type>u32</type>
     <default>0</default>
+    <description>Refers to EnemyDefaultLogicParam</description>
   </entry>
   <entry>
     <name>SpawnState</name>

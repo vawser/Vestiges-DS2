@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <layout>
   <entry>
-    <name>Unk ID</name>
+    <name>Armor ID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
@@ -21,7 +21,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk ID</name>
+    <name>Equip Interfere ID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
@@ -31,7 +31,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk ID</name>
+    <name>Armor Reinforce ID</name>
     <type>u32</type>
     <default>0</default>
   </entry>

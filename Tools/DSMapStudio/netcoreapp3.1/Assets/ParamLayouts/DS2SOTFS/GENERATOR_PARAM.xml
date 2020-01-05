@@ -21,7 +21,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk04</name>
+    <name>DeathEventID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
@@ -51,7 +51,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>EventFlagID</name>
+    <name>Unk10</name>
     <type>u32</type>
     <default>0</default>
   </entry>
@@ -141,7 +141,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk58</name>
+    <name>AIThinkID</name>
     <type>u32</type>
     <default>0</default>
   </entry>
@@ -151,7 +151,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>EventFlagID</name>
+    <name>Unk60</name>
     <type>u32</type>
     <default>0</default>
   </entry>

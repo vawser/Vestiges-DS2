@@ -1,16 +1,70 @@
-b8, b32 - true or false
-fixstr, fixstrW - text
-f32 - real number
+﻿# Map IDs
+Things Betwixt:             10 02 00 00
+Majula:                     10 04 00 00
+Forest of Fallen Giants:    10 10 00 00
+Brightstone Cove:           10 14 00 00
+Aldia's Keep:               10 15 00 00
+Lost Bastille:              10 16 00 00
+Harvest Valley:             10 17 00 00
+No Man's Wharf:             10 18 00 00
+Iron Keep:                  10 19 00 00
+Huntsman's Copse:           10 23 00 00
+The Gutter:                 10 25 00 00
+Dragon Aerie:               10 27 00 00
+Path to Shaded Woods:       10 29 00 00
+Unseen Path to Heide:       10 30 00 00
+Heide's Tower of Flame:     10 31 00 00
+Shaded Woods:               10 32 00 00
+Doors of Pharros:           10 33 00 00
+Grave of Saints:            10 34 00 00
+Giant Memories:             20 10 00 00
+Shrine of Amana:            20 11 00 00
+Drangleic Castle:           20 21 00 00
+Undead Crypt:               20 24 00 00
+Dragon Memories:            20 26 00 00
+Dark Chasm of Old:          40 03 00 00
+Crown of the Shulva:        50 35 00 00
+Crown of the Iron King:     50 36 00 00
+Crown of the Ivory King:    50 37 00 00
+Undead Crypt Tomb:          50 38 00 00
 
-u8 - unsigned integer, 0 - 255
-x8 - hex integer, 0x00 - 0xFF
-s8 - signed integer, -128 - 127
-u16 - unsigned integer, 0 - 65,535
-x16 - hex integer, 0x0000 - 0xFFFF
-s16 - signed integer, -32,768 - 32,767
-u32 - unsigned integer, 0 - 4,294,967,295
-x32 - hex integer, 0x00000000 - 0xFFFFFFFF
-s32 - signed integer, -2,147,483,648 - 2,147,483,647
+# Common Objects
+0100 - Bonfire
+0200 - Wooden Chest
+0210 - Metal Chest
+0240 - Corpse
+0400 - Door
+0500 - Fogwall
 
+# Notes
+- enc_regulation has 1 MB limit.
+- enc_regulation is loaded after the param folder.
+- Removing all files from enc_regulation (with the params in the folder) works fine.
 
+#-----------------------------------------
+# TODO
+#-----------------------------------------
+Params to add to Yapped
+ DEMO_POINT_LIGHT_PARAM
+ DEMO_SPOT_LIGHT_PARAM
+ EVENT_PARAM
+ GENERATOR_DBG_LOCATION_PARAM
+ HIT_GROUP_PARAM
+ INTRUDE_POINT_PARAM
+ MAP_TARGET_DIRECTION_PARAM
+ NPC_TALK_PARAM_ST
+ MAP_OBJECT_TREASURE_BOX_PARAM
+ 
+Look at DS2 cheat tables for more info
 
+:: Copy param files to Vestiges param folder
+copy /b/v/y "E:\Program Files (x86)\SteamLibrary\steamapps\common\Dark Souls II Scholar of the First Sin\Modding\Mod\Tools\Params\params-bnd-dcx\" "E:\Program Files (x86)\SteamLibrary\steamapps\common\Dark Souls II Scholar of the First Sin\Modding\Mod\Vestiges\param\"
+
+:: Delete the yabber xml file from the Vestiges param folder
+del /q "E:\Program Files (x86)\SteamLibrary\steamapps\common\Dark Souls II Scholar of the First Sin\Modding\Mod\Vestiges\param\_yabber-bnd4.xml"
+
+:: Copy param files to Game param folder
+copy /b/v/y "E:\Program Files (x86)\SteamLibrary\steamapps\common\Dark Souls II Scholar of the First Sin\Modding\Mod\Tools\Params\params-bnd-dcx\" "E:\Program Files (x86)\SteamLibrary\steamapps\common\Dark Souls II Scholar of the First Sin\Game\Param\"
+
+:: Delete the yabber xml file from the Game param folder
+del /q "E:\Program Files (x86)\SteamLibrary\steamapps\common\Dark Souls II Scholar of the First Sin\Game\Param\_yabber-bnd4.xml"

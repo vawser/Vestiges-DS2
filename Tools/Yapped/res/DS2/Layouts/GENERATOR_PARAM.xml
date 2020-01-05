@@ -33,7 +33,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>ApperanceEventID</name>
+    <name>AppearanceEventID</name>
     <type>u32</type>
     <default>0</default>
     <description>Used in ESD. 1 through to 7 are used to determine NG+ apperance.</description>

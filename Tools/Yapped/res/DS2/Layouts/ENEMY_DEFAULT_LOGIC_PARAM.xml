@@ -6,12 +6,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk04</name>
+    <name>LogicComParamID</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk08</name>
+    <name>EnemyParamID</name>
     <type>s32</type>
     <default>0</default>
   </entry>

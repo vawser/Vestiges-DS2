@@ -1,1 +1,0 @@
-copy /b/v/y "E:\Program Files (x86)\SteamLibrary\steamapps\common\Dark Souls II Scholar of the First Sin\Game\param\" "E:\Program Files (x86)\SteamLibrary\steamapps\common\Dark Souls II Scholar of the First Sin\Modding\Mod\Tools\Params\map-bnd-dcx" 

@@ -38,24 +38,24 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk0C</name>
+    <name>Unk10</name>
     <type>u16</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>AppearanceEventID</name>
+    <name>ApperanceEventID</name>
     <type>u32</type>
     <default>0</default>
     <description>Used in ESD. 1 through to 7 are used to determine NG+ apperance.</description>
   </entry>
   <entry>
-    <name>PreviousHostileEventID</name>
+    <name>PreviousHostileEventID1</name>
     <type>u32</type>
     <default>0</default>
     <description>Used in ESD. Determines if Previous Hostile state is active.</description>
   </entry>
   <entry>
-    <name>PreviousHostileEventID</name>
+    <name>PreviousHostileEventID2</name>
     <type>u32</type>
     <default>0</default>
     <description>Used in ESD. Determines if Previous Hostile state is active.</description>
@@ -81,27 +81,27 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>LocationEventID</name>
+    <name>LocationEventID1</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>LocationEventID</name>
+    <name>LocationEventID2</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>LocationEventID</name>
+    <name>LocationEventID3</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>LocationEventID</name>
+    <name>LocationEventID4</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>LocationEventID</name>
+    <name>LocationEventID5</name>
     <type>u32</type>
     <default>0</default>
   </entry>
@@ -117,15 +117,14 @@
   </entry>
   
   <entry>
-    <name>Unk46</name>
+    <name>Unk48</name>
     <type>u16</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Associated Bonfire ID</name>
+    <name>Unk48</name>
     <type>u16</type>
     <default>0</default>
-    <description>Refers to MapObjectBonfireParam. Controls which bonfire respawns this enemy.</description>
   </entry>
 
   <entry>
@@ -150,25 +149,25 @@
     <description>Determines AI used by enemy.</description>
   </entry>
   <entry>
-    <name>ActivationEventID</name>
+    <name>ActivationEventID1</name>
     <type>u32</type>
     <default>0</default>
     <description>Used in ESD. Determines if Activation state is active.</description>
   </entry>
   <entry>
-    <name>ActivationEventID</name>
+    <name>ActivationEventID2</name>
     <type>u32</type>
     <default>0</default>
     <description>Used in ESD. Determines if Activation state is active.</description>
   </entry>
   <entry>
-    <name>HostileEventID</name>
+    <name>HostileEventID1</name>
     <type>u32</type>
     <default>0</default>
     <description>Used in ESD. Determines if Hostile state is active.</description>
   </entry>
   <entry>
-    <name>HostileEventID</name>
+    <name>HostileEventID2</name>
     <type>u32</type>
     <default>0</default>
     <description>Used in ESD. Determines if Hostile state is active.</description>
@@ -184,12 +183,12 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>LocationEventID</name>
+    <name>LocationEventID1</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>LocationEventID</name>
+    <name>LocationEventID2</name>
     <type>u32</type>
     <default>0</default>
   </entry>
@@ -214,13 +213,13 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>ItemLotID</name>
+    <name>ItemLotID1</name>
     <type>u32</type>
     <default>0</default>
     <description>Adds itemlot to drop when this enemy is killed.</description>
   </entry>
   <entry>
-    <name>ItemLotID</name>
+    <name>ItemLotID2</name>
     <type>u32</type>
     <default>0</default>
     <description>Adds itemlot to drop when this enemy is killed. Overkill version.</description>

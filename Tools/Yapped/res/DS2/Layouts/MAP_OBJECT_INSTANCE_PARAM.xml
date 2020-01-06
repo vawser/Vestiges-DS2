@@ -27,7 +27,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk14</name>
+    <name>Map Object Instance Type ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>

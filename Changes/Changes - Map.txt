@@ -25,6 +25,9 @@
 #-----------------------------------------
 # Aldia's Keep
 #-----------------------------------------
+- Added Giant Basilisks to the Foregarden area.
+- Added Basilisk to the Foregarden area.
+- Added Dragon Acolytes to the entrance and within the main hall.
 
 #-----------------------------------------
 # Lost Bastille

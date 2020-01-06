@@ -28,7 +28,3 @@ Undead Crypt Tomb:          50 38 00 00
 #-----------------------------------------
 # Notes
 #-----------------------------------------
-GeneratorLocation param has different position floats to the ones displayed in DSMapEditor currently. Use the editor to move stuff for now.
-
-Forward angle in editor is the opposite ingame.
-

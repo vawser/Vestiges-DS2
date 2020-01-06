@@ -122,7 +122,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk48</name>
+    <name>Map Object Bonfire ID</name>
     <type>u16</type>
     <default>0</default>
   </entry>

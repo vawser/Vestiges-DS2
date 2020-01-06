@@ -1,1 +1,3 @@
-esdtool.exe -ds3 -i "%~1"
+esdtool.exe -ds2s -i "%~1" -writepy "%~1.py"
+
+pause

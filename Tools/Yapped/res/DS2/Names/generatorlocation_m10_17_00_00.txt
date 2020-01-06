@@ -1,140 +1,140 @@
-45 [LOC] Laddersmith Gilligan
-46 [LOC] Laddersmith Gilligan
-47 [LOC] Laddersmith Gilligan
-65 [LOC] Mild Mannered Pate
-66 [LOC] Mild Mannered Pate
-90 [LOC] Lucatiel of Mirrah
-91 [LOC] Lucatiel of Mirrah
-195 [LOC] Stone Trader Chloanne
-196 [LOC] Stone Trader Chloanne
-245 [LOC] Lonesome Gavlan
-246 [LOC] Lonesome Gavlan
-556 [LOC] Jester Thomas
-600 [LOC] Devotee Scarlett
-605 [LOC] Bashful Ray
-800 [LOC] Covetous Demon
-801 [LOC] Mytha, the Baneful Queen
-935 [LOC] Forlorn
-1000 [LOC] Undead Supplicant
-1001 [LOC] Undead Supplicant
-1002 [LOC] Undead Supplicant
-1003 [LOC] NO MATCH
-1004 [LOC] NO MATCH
-1010 [LOC] NO MATCH
-1011 [LOC] Skeleton
-1012 [LOC] Skeleton
-1110 [LOC] Skeleton
-1111 [LOC] NO MATCH
-1400 [LOC] Desert Sorceress
-1600 [LOC] Skeleton
-1601 [LOC] Skeleton
-1602 [LOC] Skeleton
-1700 [LOC] Desert Sorceress
-1800 [LOC] Crystal Lizard
-1801 [LOC] Crystal Lizard
-1802 [LOC] Crystal Lizard
-1810 [LOC] Skeleton
-2201 [LOC] Artificial Undead
-2300 [LOC] NO MATCH
-2310 [LOC] Captive Undead
-2320 [LOC] Captive Undead
-2401 [LOC] Mounted Overseer
-2402 [LOC] Artificial Undead
-2450 [LOC] Artificial Undead
-2451 [LOC] Artificial Undead
-2453 [LOC] Artificial Undead
-2456 [LOC] Artificial Undead
-2500 [LOC] Undead Supplicant
-2501 [LOC] NO MATCH
-2502 [LOC] NO MATCH
-2503 [LOC] Undead Supplicant
-2510 [LOC] Skeleton
-2600 [LOC] Undead Steelworker
-2601 [LOC] Undead Steelworker
-2610 [LOC] Manikin
-3000 [LOC] Undead Steelworker
-3002 [LOC] Undead Steelworker
-3003 [LOC] Undead Steelworker
-3020 [LOC] Poison Horn Beetle
-3021 [LOC] Poison Horn Beetle
-3022 [LOC] Poison Horn Beetle
-3200 [LOC] Desert Sorceress
-3202 [LOC] Manikin
-3204 [LOC] Captive Undead
-3205 [LOC] NO MATCH
-3206 [LOC] NO MATCH
-3207 [LOC] Undead Supplicant
-3208 [LOC] Poison Horn Beetle
-3209 [LOC] Poison Horn Beetle
-3210 [LOC] NO MATCH
-3250 [LOC] Captive Undead
-3251 [LOC] NO MATCH
-3252 [LOC] Captive Undead
-3253 [LOC] Captive Undead
-3300 [LOC] Captive Undead
-3301 [LOC] Captive Undead
-3302 [LOC] Captive Undead
-3303 [LOC] Captive Undead
-3401 [LOC] Manikin
-3402 [LOC] Undead Steelworker
-3500 [LOC] Grave Warden
-3501 [LOC] NO MATCH
-3510 [LOC] NO MATCH
-3600 [LOC] Manikin
-3601 [LOC] Manikin
-3602 [LOC] Desert Sorceress
-3700 [LOC] Manikin
-3800 [LOC] Manikin
-3810 [LOC] Manikin
-3850 [LOC] Grave Warden
-4000 [LOC] Manikin
-4100 [LOC] Manikin
-4200 [LOC] Manikin
-4250 [LOC] Captive Undead
-4400 [LOC] Grave Warden
-4401 [LOC] Manikin
-4500 [LOC] Desert Sorceress
-4602 [LOC] Manikin
-4900 [LOC] Manikin
-4901 [LOC] Manikin
-4902 [LOC] Manikin
-5004 [LOC] Desert Sorceress
-5011 [LOC] Suspicious Shadow
-5110 [LOC] Manikin
-5200 [LOC] Grave Warden
-5201 [LOC] Grave Warden
-5202 [LOC] Grave Warden
-5210 [LOC] Undead Supplicant
-5211 [LOC] NO MATCH
-5212 [LOC] Undead Supplicant
-7000 [LOC] Captive Undead
-7010 [LOC] NO MATCH
-7020 [LOC] Captive Undead
-7021 [LOC] NO MATCH
-7022 [LOC] NO MATCH
-7023 [LOC] Captive Undead
-7030 [LOC] Captive Undead
-7040 [LOC] Captive Undead
-7220 [LOC] Desert Sorceress
-7221 [LOC] Desert Sorceress
-7300 [LOC] Manikin
-7310 [LOC] Manikin
-7311 [LOC] Manikin
-7400 [LOC] Grave Warden
-8100 [LOC] Artificial Undead
-8101 [LOC] Manikin
-8102 [LOC] Manikin
-8203 [LOC] Poison Horn Beetle
-8204 [LOC] Poison Horn Beetle
-8205 [LOC] Poison Horn Beetle
-8206 [LOC] Poison Horn Beetle
-8207 [LOC] Poison Horn Beetle
-8208 [LOC] Poison Horn Beetle
-8209 [LOC] Poison Horn Beetle
-8210 [LOC] Mimic
-8211 [LOC] NO MATCH
-9001 [LOC] Voice Marker (Altar of Sunlight)
-9010 [LOC] Mounted Overseer
-9012 [LOC] Mounted Overseer
-9013 [LOC] Mounted Overseer
-9100 [LOC] Poison Moth
+45 [LOC:45] Laddersmith Gilligan
+46 [LOC:46] Laddersmith Gilligan
+47 [LOC:47] Laddersmith Gilligan
+65 [LOC:65] Mild Mannered Pate
+66 [LOC:66] Mild Mannered Pate
+90 [LOC:90] Lucatiel of Mirrah
+91 [LOC:91] Lucatiel of Mirrah
+195 [LOC:195] Stone Trader Chloanne
+196 [LOC:196] Stone Trader Chloanne
+245 [LOC:245] Lonesome Gavlan
+246 [LOC:246] Lonesome Gavlan
+556 [LOC:556] Jester Thomas
+600 [LOC:600] Devotee Scarlett
+605 [LOC:605] Bashful Ray
+800 [LOC:800] Covetous Demon
+801 [LOC:801] Mytha, the Baneful Queen
+935 [LOC:935] Forlorn
+1000 [LOC:1000] Undead Supplicant
+1001 [LOC:1001] Undead Supplicant
+1002 [LOC:1002] Undead Supplicant
+1003 [LOC:1003] NO MATCH
+1004 [LOC:1004] NO MATCH
+1010 [LOC:1010] NO MATCH
+1011 [LOC:1011] Skeleton
+1012 [LOC:1012] Skeleton
+1110 [LOC:1110] Skeleton
+1111 [LOC:1111] NO MATCH
+1400 [LOC:1400] Desert Sorceress
+1600 [LOC:1600] Skeleton
+1601 [LOC:1601] Skeleton
+1602 [LOC:1602] Skeleton
+1700 [LOC:1700] Desert Sorceress
+1800 [LOC:1800] Crystal Lizard
+1801 [LOC:1801] Crystal Lizard
+1802 [LOC:1802] Crystal Lizard
+1810 [LOC:1810] Skeleton
+2201 [LOC:2201] Artificial Undead
+2300 [LOC:2300] NO MATCH
+2310 [LOC:2310] Captive Undead
+2320 [LOC:2320] Captive Undead
+2401 [LOC:2401] Mounted Overseer
+2402 [LOC:2402] Artificial Undead
+2450 [LOC:2450] Artificial Undead
+2451 [LOC:2451] Artificial Undead
+2453 [LOC:2453] Artificial Undead
+2456 [LOC:2456] Artificial Undead
+2500 [LOC:2500] Undead Supplicant
+2501 [LOC:2501] NO MATCH
+2502 [LOC:2502] NO MATCH
+2503 [LOC:2503] Undead Supplicant
+2510 [LOC:2510] Skeleton
+2600 [LOC:2600] Undead Steelworker
+2601 [LOC:2601] Undead Steelworker
+2610 [LOC:2610] Manikin
+3000 [LOC:3000] Undead Steelworker
+3002 [LOC:3002] Undead Steelworker
+3003 [LOC:3003] Undead Steelworker
+3020 [LOC:3020] Poison Horn Beetle
+3021 [LOC:3021] Poison Horn Beetle
+3022 [LOC:3022] Poison Horn Beetle
+3200 [LOC:3200] Desert Sorceress
+3202 [LOC:3202] Manikin
+3204 [LOC:3204] Captive Undead
+3205 [LOC:3205] NO MATCH
+3206 [LOC:3206] NO MATCH
+3207 [LOC:3207] Undead Supplicant
+3208 [LOC:3208] Poison Horn Beetle
+3209 [LOC:3209] Poison Horn Beetle
+3210 [LOC:3210] NO MATCH
+3250 [LOC:3250] Captive Undead
+3251 [LOC:3251] NO MATCH
+3252 [LOC:3252] Captive Undead
+3253 [LOC:3253] Captive Undead
+3300 [LOC:3300] Captive Undead
+3301 [LOC:3301] Captive Undead
+3302 [LOC:3302] Captive Undead
+3303 [LOC:3303] Captive Undead
+3401 [LOC:3401] Manikin
+3402 [LOC:3402] Undead Steelworker
+3500 [LOC:3500] Grave Warden
+3501 [LOC:3501] NO MATCH
+3510 [LOC:3510] NO MATCH
+3600 [LOC:3600] Manikin
+3601 [LOC:3601] Manikin
+3602 [LOC:3602] Desert Sorceress
+3700 [LOC:3700] Manikin
+3800 [LOC:3800] Manikin
+3810 [LOC:3810] Manikin
+3850 [LOC:3850] Grave Warden
+4000 [LOC:4000] Manikin
+4100 [LOC:4100] Manikin
+4200 [LOC:4200] Manikin
+4250 [LOC:4250] Captive Undead
+4400 [LOC:4400] Grave Warden
+4401 [LOC:4401] Manikin
+4500 [LOC:4500] Desert Sorceress
+4602 [LOC:4602] Manikin
+4900 [LOC:4900] Manikin
+4901 [LOC:4901] Manikin
+4902 [LOC:4902] Manikin
+5004 [LOC:5004] Desert Sorceress
+5011 [LOC:5011] Suspicious Shadow
+5110 [LOC:5110] Manikin
+5200 [LOC:5200] Grave Warden
+5201 [LOC:5201] Grave Warden
+5202 [LOC:5202] Grave Warden
+5210 [LOC:5210] Undead Supplicant
+5211 [LOC:5211] NO MATCH
+5212 [LOC:5212] Undead Supplicant
+7000 [LOC:7000] Captive Undead
+7010 [LOC:7010] NO MATCH
+7020 [LOC:7020] Captive Undead
+7021 [LOC:7021] NO MATCH
+7022 [LOC:7022] NO MATCH
+7023 [LOC:7023] Captive Undead
+7030 [LOC:7030] Captive Undead
+7040 [LOC:7040] Captive Undead
+7220 [LOC:7220] Desert Sorceress
+7221 [LOC:7221] Desert Sorceress
+7300 [LOC:7300] Manikin
+7310 [LOC:7310] Manikin
+7311 [LOC:7311] Manikin
+7400 [LOC:7400] Grave Warden
+8100 [LOC:8100] Artificial Undead
+8101 [LOC:8101] Manikin
+8102 [LOC:8102] Manikin
+8203 [LOC:8203] Poison Horn Beetle
+8204 [LOC:8204] Poison Horn Beetle
+8205 [LOC:8205] Poison Horn Beetle
+8206 [LOC:8206] Poison Horn Beetle
+8207 [LOC:8207] Poison Horn Beetle
+8208 [LOC:8208] Poison Horn Beetle
+8209 [LOC:8209] Poison Horn Beetle
+8210 [LOC:8210] Mimic
+8211 [LOC:8211] NO MATCH
+9001 [LOC:9001] Voice Marker (Altar of Sunlight)
+9010 [LOC:9010] Mounted Overseer
+9012 [LOC:9012] Mounted Overseer
+9013 [LOC:9013] Mounted Overseer
+9100 [LOC:9100] Poison Moth

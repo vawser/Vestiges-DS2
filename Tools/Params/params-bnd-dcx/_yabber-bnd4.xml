@@ -2083,12 +2083,6 @@
     <file>
       <id>-1</id>
       <root />
-      <path>generatorlocation_m10_02_00_00.param.prev</path>
-      <flags>0x40</flags>
-    </file>
-    <file>
-      <id>-1</id>
-      <root />
       <path>generatorlocation_m10_04_00_00.param</path>
       <flags>0x40</flags>
     </file>
@@ -2257,12 +2251,6 @@
     <file>
       <id>-1</id>
       <root />
-      <path>generatorparam_m10_02_00_00.param.prev</path>
-      <flags>0x40</flags>
-    </file>
-    <file>
-      <id>-1</id>
-      <root />
       <path>generatorparam_m10_04_00_00.param</path>
       <flags>0x40</flags>
     </file>
@@ -2426,12 +2414,6 @@
       <id>-1</id>
       <root />
       <path>generatorregistparam_m10_02_00_00.param</path>
-      <flags>0x40</flags>
-    </file>
-    <file>
-      <id>-1</id>
-      <root />
-      <path>generatorregistparam_m10_02_00_00.param.prev</path>
       <flags>0x40</flags>
     </file>
     <file>

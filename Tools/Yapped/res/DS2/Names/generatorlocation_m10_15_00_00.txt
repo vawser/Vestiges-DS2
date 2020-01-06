@@ -1,65 +1,78 @@
-90 [LOC] Lucatiel of Mirrah
-91 [LOC] Lucatiel of Mirrah
-160 [LOC] Royal Sorcerer Navlaan
-161 [LOC] Royal Sorcerer Navlaan
-205 [LOC] Emerald Herald
-530 [LOC] Royal Sorcerer Navlaan
-531 [LOC] Aslatiel of Mirrah
-532 [LOC] Painting Guardian Phantom
-540 [LOC] Sellsword Luet
-800 [LOC] Guardian Dragon [Boss]
-1000 [LOC] Syan Knight
-1010 [LOC] Kobold
-1011 [LOC] Kobold
-1012 [LOC] Kobold
-1013 [LOC] Kobold
-1014 [LOC] Kobold
-1400 [LOC] Basilisk
-1700 [LOC] Red Crystal Lizard
-1850 [LOC] Mimic
-2000 [LOC] Poison Moth
-2500 [LOC] Ogre
-3100 [LOC] Ogre
-3200 [LOC] Basilisk
-3220 [LOC] Basilisk
-3801 [LOC] Dragon Acolyte
-3802 [LOC] Dragon Acolyte
-4030 [LOC] Giant Acid Horn Beetle
-4060 [LOC] Dragon Acolyte
-4061 [LOC] Dragon Acolyte
-4062 [LOC] Dragon Acolyte
-4063 [LOC] Dragon Acolyte
-4200 [LOC] Dragon Acolyte
-5000 [LOC] Dragon Skeleton
-6000 [LOC] Ogre
-6010 [LOC] Ogre
-7000 [LOC] Forlorn
-7001 [LOC] Forlorn
-7002 [LOC] Forlorn
-7003 [LOC] Forlorn
-7100 [LOC] Invisible Hollow
-7101 [LOC] Invisible Hollow
-7102 [LOC] Invisible Hollow
-8000 [LOC] Belfry Gargoyle
-8010 [LOC] Mimic
-8011 [LOC] Mimic
-8012 [LOC] Mimic
-8013 [LOC] Mimic
-8014 [LOC] Mimic
-8020 [LOC] Undead Aberration
-8030 [LOC] Ogre
-8040 [LOC] Basilisk
-8041 [LOC] NO MATCH
-8042 [LOC] NO MATCH
-8043 [LOC] NO MATCH
-8500 [LOC] Dragon Acolyte
-8510 [LOC] NO MATCH
-8511 [LOC] NO MATCH
-8600 [LOC] Undead Traveler
-8601 [LOC] Undead Traveler
-9000 [LOC] Looking Glass Phantom
-9001 [LOC] Looking Glass Phantom
-9004 [LOC] Looking Glass Phantom
-9010 [LOC] Giant Basilisk
-9100 [LOC] Hunting Dog
-9101 [LOC] Hunting Dog
+90 [LOC:90] Lucatiel of Mirrah
+91 [LOC:91] Lucatiel of Mirrah
+160 [LOC:160] Royal Sorcerer Navlaan
+161 [LOC:161] Royal Sorcerer Navlaan
+205 [LOC:205] Emerald Herald
+530 [LOC:530] Royal Sorcerer Navlaan
+531 [LOC:531] Aslatiel of Mirrah
+532 [LOC:532] Painting Guardian Phantom
+540 [LOC:540] Sellsword Luet
+800 [LOC:800] Guardian Dragon [Boss]
+1000 [LOC:1000] Syan Knight
+1010 [LOC:1010] Kobold
+1011 [LOC:1011] Kobold
+1012 [LOC:1012] Kobold
+1013 [LOC:1013] Kobold
+1014 [LOC:1014] Kobold
+1400 [LOC:1400] Basilisk
+1700 [LOC:1700] Red Crystal Lizard
+1850 [LOC:1850] Mimic
+2000 [LOC:2000] Poison Moth
+2500 [LOC:2500] Ogre
+3100 [LOC:3100] Ogre
+3200 [LOC:3200] Basilisk
+3220 [LOC:3220] Basilisk
+3230 [LOC:3230] Basilisk
+3231 [LOC:3231] Basilisk
+3232 [LOC:3232] Basilisk
+3233 [LOC:3233] Basilisk
+3234 [LOC:3234] Basilisk
+3235 [LOC:3235] Basilisk
+3801 [LOC:3801] Dragon Acolyte
+3802 [LOC:3802] Dragon Acolyte
+3810 [LOC:3810] Dragon Acolyte
+3811 [LOC:3811] Dragon Acolyte
+3812 [LOC:3812] Dragon Acolyte
+3813 [LOC:3813] Dragon Acolyte
+3814 [LOC:3814] Dragon Acolyte
+3815 [LOC:3815] Dragon Acolyte
+4030 [LOC:4030] Giant Acid Horn Beetle
+4060 [LOC:4060] Dragon Acolyte
+4061 [LOC:4061] Dragon Acolyte
+4062 [LOC:4062] Dragon Acolyte
+4063 [LOC:4063] Dragon Acolyte
+4200 [LOC:4200] Dragon Acolyte
+5000 [LOC:5000] Dragon Skeleton
+6000 [LOC:6000] Ogre
+6010 [LOC:6010] Ogre
+7000 [LOC:7000] Forlorn
+7001 [LOC:7001] Forlorn
+7002 [LOC:7002] Forlorn
+7003 [LOC:7003] Forlorn
+7100 [LOC:7100] Invisible Hollow
+7101 [LOC:7101] Invisible Hollow
+7102 [LOC:7102] Invisible Hollow
+8000 [LOC:8000] Belfry Gargoyle
+8010 [LOC:8010] Mimic
+8011 [LOC:8011] Mimic
+8012 [LOC:8012] Mimic
+8013 [LOC:8013] Mimic
+8014 [LOC:8014] Mimic
+8020 [LOC:8020] Undead Aberration
+8030 [LOC:8030] Ogre
+8040 [LOC:8040] Basilisk
+8041 [LOC:8041] NO MATCH
+8042 [LOC:8042] NO MATCH
+8043 [LOC:8043] NO MATCH
+8500 [LOC:8500] Dragon Acolyte
+8510 [LOC:8510] NO MATCH
+8511 [LOC:8511] NO MATCH
+8600 [LOC:8600] Undead Traveler
+8601 [LOC:8601] Undead Traveler
+9000 [LOC:9000] Looking Glass Phantom
+9001 [LOC:9001] Looking Glass Phantom
+9004 [LOC:9004] Looking Glass Phantom
+9010 [LOC:9010] Giant Basilisk
+9011 [LOC:9011] Giant Basilisk
+9100 [LOC:9100] Hunting Dog
+9101 [LOC:9101] Hunting Dog

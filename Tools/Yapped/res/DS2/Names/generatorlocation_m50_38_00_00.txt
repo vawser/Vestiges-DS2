@@ -1,2 +1,2 @@
-1000 [LOC] Vendrick
-2000 [LOC] Velstadt
+1000 [LOC:1000] Vendrick
+2000 [LOC:2000] Velstadt

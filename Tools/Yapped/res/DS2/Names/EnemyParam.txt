@@ -206,9 +206,9 @@
 135030 Gyrm Warrior
 135040 Gyrm Warrior
 135050 Gyrm Warrior
-137010 Dragon Acolyte
-137021 Dragon Acolyte
-137022 Dragon Acolyte
+137010 Prowling Magus
+137021 Prowling Magus
+137022 Prowling Magus
 138000 Torturer
 138001 Torturer
 138002 Torturer

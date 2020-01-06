@@ -260,11 +260,11 @@
 136000 UNKNOWN
 136001 UNKNOWN
 136020 UNKNOWN
-137000 Dragon Acolyte
-137010 Dragon Acolyte
-137020 Dragon Acolyte
-137021 Dragon Acolyte
-137022 Dragon Acolyte
+137000 Prowling Magus
+137010 Prowling Magus
+137020 Prowling Magus
+137021 Prowling Magus
+137022 Prowling Magus
 138000 Torturer
 138001 Torturer
 138010 Torturer

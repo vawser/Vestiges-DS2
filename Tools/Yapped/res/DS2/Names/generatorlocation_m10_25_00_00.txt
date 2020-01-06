@@ -1,141 +1,141 @@
-40 [LOC] Darkdiver Grandahl
-41 [LOC] Darkdiver Grandahl
-90 [LOC] Lucatiel of Mirrah
-91 [LOC] Lucatiel of Mirrah
-590 [LOC] Melinda the Butcher
-591 [LOC] Royal Sorcerer Navlaan
-592 [LOC] Woodland Child Victor
-593 [LOC] Woodland Child Gully
-594 [LOC] Gutter Denizen
-596 [LOC] Lucatiel of Mirrah
-597 [LOC] Lone Hunter Schmidt
-598 [LOC] Bashful Ray
-851 [LOC] The Rotten
-914 [LOC] Aldia, Scholar of the First Sin
-947 [LOC] Forlorn
-1000 [LOC] Captive Undead
-1100 [LOC] Captive Undead
-1110 [LOC] Captive Undead
-1111 [LOC] Captive Undead
-1120 [LOC] Captive Undead
-1210 [LOC] Captive Undead
-1211 [LOC] Captive Undead
-1300 [LOC] NO MATCH
-1301 [LOC] Captive Undead
-1305 [LOC] Captive Undead
-1310 [LOC] Captive Undead
-1324 [LOC] Captive Undead
-1325 [LOC] Captive Undead
-1326 [LOC] NO MATCH
-1327 [LOC] Captive Undead
-1328 [LOC] NO MATCH
-1329 [LOC] Captive Undead
-1360 [LOC] Darksucker
-1400 [LOC] Captive Undead
-1401 [LOC] NO MATCH
-1402 [LOC] Captive Undead
-1410 [LOC] Captive Undead
-1411 [LOC] Captive Undead
-1420 [LOC] Rupturing Hollow
-1421 [LOC] Rupturing Hollow
-1490 [LOC] Mimic
-1500 [LOC] Captive Undead
-1501 [LOC] NO MATCH
-1502 [LOC] NO MATCH
-1503 [LOC] NO MATCH
-1530 [LOC] Rupturing Hollow
-1531 [LOC] Rupturing Hollow
-1532 [LOC] Rupturing Hollow
-1560 [LOC] Captive Undead
-1561 [LOC] Captive Undead
-1562 [LOC] Hunting Dog
-1570 [LOC] Captive Undead
-1571 [LOC] Captive Undead
-1580 [LOC] Captive Undead
-1900 [LOC] NO MATCH
-2020 [LOC] Captive Undead
-2021 [LOC] Captive Undead
-2070 [LOC] NO MATCH
-2080 [LOC] Captive Undead
-2081 [LOC] Captive Undead
-2090 [LOC] Heide Knight
-2100 [LOC] NO MATCH
-2101 [LOC] NO MATCH
-2102 [LOC] NO MATCH
-2300 [LOC] Hunting Dog
-2400 [LOC] Captive Undead
-2500 [LOC] Captive Undead
-2503 [LOC] Captive Undead
-2505 [LOC] Rupturing Hollow
-2510 [LOC] Hunting Dog
-2520 [LOC] Rotten Vermin
-2521 [LOC] Rotten Vermin
-2522 [LOC] Rotten Vermin
-2523 [LOC] Rotten Vermin
-2700 [LOC] Rotten Vermin
-2710 [LOC] Poison Horn Beetle
-2711 [LOC] Poison Horn Beetle
-2712 [LOC] Poison Horn Beetle
-3000 [LOC] Rupturing Hollow
-3100 [LOC] Captive Undead
-3101 [LOC] Captive Undead
-3102 [LOC] NO MATCH
-3110 [LOC] Captive Undead
-3111 [LOC] Captive Undead
-3112 [LOC] Rupturing Hollow
-3120 [LOC] Captive Undead
-3121 [LOC] Captive Undead
-3122 [LOC] NO MATCH
-3123 [LOC] Captive Undead
-3124 [LOC] Captive Undead
-4210 [LOC] Darksucker
-4211 [LOC] Darksucker
-4212 [LOC] Darksucker
-4213 [LOC] Darksucker
-4260 [LOC] Razorback Nightcrawler
-4310 [LOC] Razorback Nightcrawler
-4400 [LOC] Darksucker
-4401 [LOC] Darksucker
-4402 [LOC] Darksucker
-4403 [LOC] Darksucker
-4404 [LOC] Darksucker
-4405 [LOC] Darksucker
-4500 [LOC] Poison Statue Cluster
-6000 [LOC] Forgotten Giant
-6001 [LOC] Forgotten Giant
-6010 [LOC] Forgotten Giant
-6020 [LOC] Forgotten Giant
-7000 [LOC] NO MATCH
-7001 [LOC] Captive Undead
-7002 [LOC] Captive Undead
-7003 [LOC] Captive Undead
-7004 [LOC] NO MATCH
-7005 [LOC] Captive Undead
-7006 [LOC] Captive Undead
-8000 [LOC] Undead Traveler
-8500 [LOC] Poison Moth
-9000 [LOC] NO MATCH
-9001 [LOC] NO MATCH
-9002 [LOC] NO MATCH
-9003 [LOC] NO MATCH
-9004 [LOC] NO MATCH
-9005 [LOC] NO MATCH
-9006 [LOC] NO MATCH
-9007 [LOC] NO MATCH
-9008 [LOC] NO MATCH
-9009 [LOC] NO MATCH
-9010 [LOC] NO MATCH
-9011 [LOC] NO MATCH
-9012 [LOC] NO MATCH
-9013 [LOC] NO MATCH
-9014 [LOC] NO MATCH
-9015 [LOC] NO MATCH
-9016 [LOC] NO MATCH
-9017 [LOC] NO MATCH
-9018 [LOC] NO MATCH
-9019 [LOC] NO MATCH
-9500 [LOC] Invisible Hollow
-9501 [LOC] Invisible Hollow
-9502 [LOC] Invisible Hollow
-9503 [LOC] Invisible Hollow
-9504 [LOC] Invisible Hollow
+40 [LOC:40] Darkdiver Grandahl
+41 [LOC:41] Darkdiver Grandahl
+90 [LOC:90] Lucatiel of Mirrah
+91 [LOC:91] Lucatiel of Mirrah
+590 [LOC:590] Melinda the Butcher
+591 [LOC:591] Royal Sorcerer Navlaan
+592 [LOC:592] Woodland Child Victor
+593 [LOC:593] Woodland Child Gully
+594 [LOC:594] Gutter Denizen
+596 [LOC:596] Lucatiel of Mirrah
+597 [LOC:597] Lone Hunter Schmidt
+598 [LOC:598] Bashful Ray
+851 [LOC:851] The Rotten
+914 [LOC:914] Aldia, Scholar of the First Sin
+947 [LOC:947] Forlorn
+1000 [LOC:1000] Captive Undead
+1100 [LOC:1100] Captive Undead
+1110 [LOC:1110] Captive Undead
+1111 [LOC:1111] Captive Undead
+1120 [LOC:1120] Captive Undead
+1210 [LOC:1210] Captive Undead
+1211 [LOC:1211] Captive Undead
+1300 [LOC:1300] NO MATCH
+1301 [LOC:1301] Captive Undead
+1305 [LOC:1305] Captive Undead
+1310 [LOC:1310] Captive Undead
+1324 [LOC:1324] Captive Undead
+1325 [LOC:1325] Captive Undead
+1326 [LOC:1326] NO MATCH
+1327 [LOC:1327] Captive Undead
+1328 [LOC:1328] NO MATCH
+1329 [LOC:1329] Captive Undead
+1360 [LOC:1360] Darksucker
+1400 [LOC:1400] Captive Undead
+1401 [LOC:1401] NO MATCH
+1402 [LOC:1402] Captive Undead
+1410 [LOC:1410] Captive Undead
+1411 [LOC:1411] Captive Undead
+1420 [LOC:1420] Rupturing Hollow
+1421 [LOC:1421] Rupturing Hollow
+1490 [LOC:1490] Mimic
+1500 [LOC:1500] Captive Undead
+1501 [LOC:1501] NO MATCH
+1502 [LOC:1502] NO MATCH
+1503 [LOC:1503] NO MATCH
+1530 [LOC:1530] Rupturing Hollow
+1531 [LOC:1531] Rupturing Hollow
+1532 [LOC:1532] Rupturing Hollow
+1560 [LOC:1560] Captive Undead
+1561 [LOC:1561] Captive Undead
+1562 [LOC:1562] Hunting Dog
+1570 [LOC:1570] Captive Undead
+1571 [LOC:1571] Captive Undead
+1580 [LOC:1580] Captive Undead
+1900 [LOC:1900] NO MATCH
+2020 [LOC:2020] Captive Undead
+2021 [LOC:2021] Captive Undead
+2070 [LOC:2070] NO MATCH
+2080 [LOC:2080] Captive Undead
+2081 [LOC:2081] Captive Undead
+2090 [LOC:2090] Heide Knight
+2100 [LOC:2100] NO MATCH
+2101 [LOC:2101] NO MATCH
+2102 [LOC:2102] NO MATCH
+2300 [LOC:2300] Hunting Dog
+2400 [LOC:2400] Captive Undead
+2500 [LOC:2500] Captive Undead
+2503 [LOC:2503] Captive Undead
+2505 [LOC:2505] Rupturing Hollow
+2510 [LOC:2510] Hunting Dog
+2520 [LOC:2520] Rotten Vermin
+2521 [LOC:2521] Rotten Vermin
+2522 [LOC:2522] Rotten Vermin
+2523 [LOC:2523] Rotten Vermin
+2700 [LOC:2700] Rotten Vermin
+2710 [LOC:2710] Poison Horn Beetle
+2711 [LOC:2711] Poison Horn Beetle
+2712 [LOC:2712] Poison Horn Beetle
+3000 [LOC:3000] Rupturing Hollow
+3100 [LOC:3100] Captive Undead
+3101 [LOC:3101] Captive Undead
+3102 [LOC:3102] NO MATCH
+3110 [LOC:3110] Captive Undead
+3111 [LOC:3111] Captive Undead
+3112 [LOC:3112] Rupturing Hollow
+3120 [LOC:3120] Captive Undead
+3121 [LOC:3121] Captive Undead
+3122 [LOC:3122] NO MATCH
+3123 [LOC:3123] Captive Undead
+3124 [LOC:3124] Captive Undead
+4210 [LOC:4210] Darksucker
+4211 [LOC:4211] Darksucker
+4212 [LOC:4212] Darksucker
+4213 [LOC:4213] Darksucker
+4260 [LOC:4260] Razorback Nightcrawler
+4310 [LOC:4310] Razorback Nightcrawler
+4400 [LOC:4400] Darksucker
+4401 [LOC:4401] Darksucker
+4402 [LOC:4402] Darksucker
+4403 [LOC:4403] Darksucker
+4404 [LOC:4404] Darksucker
+4405 [LOC:4405] Darksucker
+4500 [LOC:4500] Poison Statue Cluster
+6000 [LOC:6000] Forgotten Giant
+6001 [LOC:6001] Forgotten Giant
+6010 [LOC:6010] Forgotten Giant
+6020 [LOC:6020] Forgotten Giant
+7000 [LOC:7000] NO MATCH
+7001 [LOC:7001] Captive Undead
+7002 [LOC:7002] Captive Undead
+7003 [LOC:7003] Captive Undead
+7004 [LOC:7004] NO MATCH
+7005 [LOC:7005] Captive Undead
+7006 [LOC:7006] Captive Undead
+8000 [LOC:8000] Undead Traveler
+8500 [LOC:8500] Poison Moth
+9000 [LOC:9000] NO MATCH
+9001 [LOC:9001] NO MATCH
+9002 [LOC:9002] NO MATCH
+9003 [LOC:9003] NO MATCH
+9004 [LOC:9004] NO MATCH
+9005 [LOC:9005] NO MATCH
+9006 [LOC:9006] NO MATCH
+9007 [LOC:9007] NO MATCH
+9008 [LOC:9008] NO MATCH
+9009 [LOC:9009] NO MATCH
+9010 [LOC:9010] NO MATCH
+9011 [LOC:9011] NO MATCH
+9012 [LOC:9012] NO MATCH
+9013 [LOC:9013] NO MATCH
+9014 [LOC:9014] NO MATCH
+9015 [LOC:9015] NO MATCH
+9016 [LOC:9016] NO MATCH
+9017 [LOC:9017] NO MATCH
+9018 [LOC:9018] NO MATCH
+9019 [LOC:9019] NO MATCH
+9500 [LOC:9500] Invisible Hollow
+9501 [LOC:9501] Invisible Hollow
+9502 [LOC:9502] Invisible Hollow
+9503 [LOC:9503] Invisible Hollow
+9504 [LOC:9504] Invisible Hollow

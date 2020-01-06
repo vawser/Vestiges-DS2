@@ -92,9 +92,9 @@
 135000 Gyrm Warrior
 135010 Gyrm Warrior
 135020 Gyrm Warrior
-137000 Dragon Acolyte
-137010 Dragon Acolyte
-137020 Dragon Acolyte
+137000 Prowling Magus
+137010 Prowling Magus
+137020 Prowling Magus
 138000 Torturer
 138010 Torturer
 139000 Artificial Undead

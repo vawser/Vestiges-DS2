@@ -323,7 +323,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkD8</name>
+    <name>Damage / Aux Multiplier</name>
     <type>f32</type>
     <default>0</default>
   </entry>

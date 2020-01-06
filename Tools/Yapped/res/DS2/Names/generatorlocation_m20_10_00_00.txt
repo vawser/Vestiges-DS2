@@ -1,76 +1,76 @@
-30 [LOC] Captain Drummond
-32 [LOC] Captain Drummond
-60 [LOC] Benhart of Jugo
-61 [LOC] Benhart of Jugo
-656 [LOC] Benhart of Jugo
-657 [LOC] Captain Drummond
-800 [LOC] Giant Lord
-1120 [LOC] Giant
-1130 [LOC] Giant
-1210 [LOC] Royal Soldier
-1211 [LOC] NO MATCH
-1212 [LOC] NO MATCH
-1230 [LOC] NO MATCH
-1231 [LOC] Royal Soldier
-1232 [LOC] Royal Soldier
-1233 [LOC] NO MATCH
-1234 [LOC] Ironclad Soldier
-1235 [LOC] Ironclad Soldier
-1236 [LOC] Royal Soldier
-1237 [LOC] NO MATCH
-1238 [LOC] Royal Soldier
-1239 [LOC] Royal Soldier
-1240 [LOC] Royal Soldier
-1300 [LOC] Giant
-1310 [LOC] Giant
-1311 [LOC] Giant
-1330 [LOC] NO MATCH
-1331 [LOC] Giant
-1400 [LOC] Forgotten Giant
-1600 [LOC] Forgotten Giant
-2200 [LOC] Drangleic Infantry
-2201 [LOC] Drangleic Infantry
-2202 [LOC] Drangleic Infantry
-2230 [LOC] Drangleic Infantry
-2300 [LOC] Royal Soldier
-2301 [LOC] NO MATCH
-2302 [LOC] Royal Soldier
-2303 [LOC] Royal Soldier
-2400 [LOC] Forgotten Giant
-2410 [LOC] Royal Soldier
-2411 [LOC] Royal Soldier
-2412 [LOC] NO MATCH
-2420 [LOC] Ironclad Soldier
-2421 [LOC] Ironclad Soldier
-2510 [LOC] Royal Soldier
-2511 [LOC] Royal Soldier
-2520 [LOC] Giant
-2600 [LOC] Royal Soldier
-2610 [LOC] Royal Soldier
-2620 [LOC] Royal Soldier
-2630 [LOC] NO MATCH
-2640 [LOC] Royal Soldier
-2900 [LOC] Giant
-2910 [LOC] Giant
-2920 [LOC] Giant
-3000 [LOC] Forgotten Giant
-3010 [LOC] Royal Soldier
-3011 [LOC] NO MATCH
-3012 [LOC] Royal Soldier
-3020 [LOC] NO MATCH
-3021 [LOC] Royal Soldier
-3022 [LOC] Royal Soldier
-3030 [LOC] NO MATCH
-3031 [LOC] Ironclad Soldier
-3032 [LOC] Ironclad Soldier
-3100 [LOC] Forgotten Giant
-3110 [LOC] Royal Soldier
-3111 [LOC] NO MATCH
-3112 [LOC] NO MATCH
-3120 [LOC] Royal Soldier
-3121 [LOC] Royal Soldier
-3122 [LOC] Royal Soldier
-3130 [LOC] NO MATCH
-3131 [LOC] Ironclad Soldier
-3132 [LOC] Royal Soldier
-9990 [LOC] Giant
+30 [LOC:30] Captain Drummond
+32 [LOC:32] Captain Drummond
+60 [LOC:60] Benhart of Jugo
+61 [LOC:61] Benhart of Jugo
+656 [LOC:656] Benhart of Jugo
+657 [LOC:657] Captain Drummond
+800 [LOC:800] Giant Lord
+1120 [LOC:1120] Giant
+1130 [LOC:1130] Giant
+1210 [LOC:1210] Royal Soldier
+1211 [LOC:1211] NO MATCH
+1212 [LOC:1212] NO MATCH
+1230 [LOC:1230] NO MATCH
+1231 [LOC:1231] Royal Soldier
+1232 [LOC:1232] Royal Soldier
+1233 [LOC:1233] NO MATCH
+1234 [LOC:1234] Ironclad Soldier
+1235 [LOC:1235] Ironclad Soldier
+1236 [LOC:1236] Royal Soldier
+1237 [LOC:1237] NO MATCH
+1238 [LOC:1238] Royal Soldier
+1239 [LOC:1239] Royal Soldier
+1240 [LOC:1240] Royal Soldier
+1300 [LOC:1300] Giant
+1310 [LOC:1310] Giant
+1311 [LOC:1311] Giant
+1330 [LOC:1330] NO MATCH
+1331 [LOC:1331] Giant
+1400 [LOC:1400] Forgotten Giant
+1600 [LOC:1600] Forgotten Giant
+2200 [LOC:2200] Drangleic Infantry
+2201 [LOC:2201] Drangleic Infantry
+2202 [LOC:2202] Drangleic Infantry
+2230 [LOC:2230] Drangleic Infantry
+2300 [LOC:2300] Royal Soldier
+2301 [LOC:2301] NO MATCH
+2302 [LOC:2302] Royal Soldier
+2303 [LOC:2303] Royal Soldier
+2400 [LOC:2400] Forgotten Giant
+2410 [LOC:2410] Royal Soldier
+2411 [LOC:2411] Royal Soldier
+2412 [LOC:2412] NO MATCH
+2420 [LOC:2420] Ironclad Soldier
+2421 [LOC:2421] Ironclad Soldier
+2510 [LOC:2510] Royal Soldier
+2511 [LOC:2511] Royal Soldier
+2520 [LOC:2520] Giant
+2600 [LOC:2600] Royal Soldier
+2610 [LOC:2610] Royal Soldier
+2620 [LOC:2620] Royal Soldier
+2630 [LOC:2630] NO MATCH
+2640 [LOC:2640] Royal Soldier
+2900 [LOC:2900] Giant
+2910 [LOC:2910] Giant
+2920 [LOC:2920] Giant
+3000 [LOC:3000] Forgotten Giant
+3010 [LOC:3010] Royal Soldier
+3011 [LOC:3011] NO MATCH
+3012 [LOC:3012] Royal Soldier
+3020 [LOC:3020] NO MATCH
+3021 [LOC:3021] Royal Soldier
+3022 [LOC:3022] Royal Soldier
+3030 [LOC:3030] NO MATCH
+3031 [LOC:3031] Ironclad Soldier
+3032 [LOC:3032] Ironclad Soldier
+3100 [LOC:3100] Forgotten Giant
+3110 [LOC:3110] Royal Soldier
+3111 [LOC:3111] NO MATCH
+3112 [LOC:3112] NO MATCH
+3120 [LOC:3120] Royal Soldier
+3121 [LOC:3121] Royal Soldier
+3122 [LOC:3122] Royal Soldier
+3130 [LOC:3130] NO MATCH
+3131 [LOC:3131] Ironclad Soldier
+3132 [LOC:3132] Royal Soldier
+9990 [LOC:9990] Giant

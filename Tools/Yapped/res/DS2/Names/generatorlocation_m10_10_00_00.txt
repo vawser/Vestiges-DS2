@@ -1,193 +1,193 @@
-60 [LOC] Benhart of Jugo
-61 [LOC] Benhart of Jugo
-65 [LOC] Mild Mannered Pate
-66 [LOC] Mild Mannered Pate
-85 [LOC] Cartographer Cale
-86 [LOC] Cartographer Cale
-260 [LOC] Merchant Hag Melentia
-261 [LOC] Merchant Hag Melentia
-520 [LOC] Royal Sorcerer Navlaan
-521 [LOC] Armorer Dennis
-526 [LOC] Mild Mannered Pate
-527 [LOC] Sellsword Luet
-528 [LOC] Ruined Aflis
-853 [LOC] The Pursuer [Boss]
-857 [LOC] The Last Giant [Boss]
-923 [LOC] Forlorn
-1000 [LOC] Hollow Infantry
-1005 [LOC] Hollow Infantry
-1081 [LOC] Hollow Infantry
-1082 [LOC] Hollow Infantry
-1083 [LOC] Hollow Infantry
-1084 [LOC] Hollow Infantry
-1085 [LOC] Hollow Infantry
-1086 [LOC] Hollow Infantry
-1090 [LOC] Hollow Infantry
-1100 [LOC] NO MATCH
-1102 [LOC] NO MATCH
-1105 [LOC] Hollow Infantry
-1106 [LOC] Hollow Soldier
-1110 [LOC] NO MATCH
-1111 [LOC] NO MATCH
-1112 [LOC] Hollow Infantry
-1113 [LOC] NO MATCH
-1114 [LOC] Hollow Infantry
-1115 [LOC] NO MATCH
-1116 [LOC] Hollow Infantry
-1117 [LOC] Hollow Infantry
-1118 [LOC] NO MATCH
-1119 [LOC] Hollow Infantry
-1120 [LOC] Hollow Infantry
-1121 [LOC] Hollow Infantry
-1122 [LOC] Hollow Infantry
-1123 [LOC] Hollow Infantry
-1124 [LOC] Hollow Infantry
-1125 [LOC] Hollow Infantry
-1126 [LOC] Hollow Infantry
-1127 [LOC] Hollow Infantry
-1140 [LOC] NO MATCH
-1160 [LOC] Hollow Infantry
-1161 [LOC] Hollow Infantry
-1162 [LOC] Hollow Infantry
-1163 [LOC] Hollow Infantry
-1170 [LOC] Hollow Soldier
-1171 [LOC] Hollow Infantry
-1180 [LOC] Hollow Soldier
-1190 [LOC] Hollow Infantry
-1191 [LOC] Hollow Infantry
-1192 [LOC] NO MATCH
-1250 [LOC] Ironclad Soldier
-1251 [LOC] Ironclad Soldier
-1260 [LOC] Hollow Infantry
-1261 [LOC] Hollow Infantry
-1266 [LOC] Hollow Infantry
-1270 [LOC] Hollow Infantry
-1271 [LOC] Hollow Infantry
-1272 [LOC] Hollow Infantry
-1273 [LOC] Hollow Infantry
-1274 [LOC] Hollow Infantry
-1275 [LOC] Hollow Infantry
-1277 [LOC] NO MATCH
-1278 [LOC] NO MATCH
-1280 [LOC] Hollow Soldier
-1300 [LOC] Hollow Soldier
-1401 [LOC] Hollow Soldier
-1410 [LOC] Hollow Soldier
-1411 [LOC] Hollow Soldier
-1500 [LOC] Hollow Soldier
-1600 [LOC] Skeleton
-1601 [LOC] Skeleton
-1602 [LOC] Skeleton
-1603 [LOC] Skeleton
-1604 [LOC] Skeleton
-1605 [LOC] Skeleton
-1641 [LOC] NO MATCH
-1650 [LOC] NO MATCH
-1651 [LOC] NO MATCH
-1660 [LOC] NO MATCH
-1680 [LOC] NO MATCH
-1700 [LOC] NO MATCH
-1710 [LOC] NO MATCH
-1711 [LOC] NO MATCH
-1712 [LOC] NO MATCH
-1720 [LOC] NO MATCH
-1721 [LOC] NO MATCH
-1722 [LOC] NO MATCH
-1770 [LOC] Hollow Infantry
-1771 [LOC] Hollow Infantry
-1772 [LOC] Ironclad Soldier
-1784 [LOC] Ironclad Soldier
-1789 [LOC] Ironclad Soldier
-1790 [LOC] Hollow Infantry
-1800 [LOC] Ironclad Soldier
-1810 [LOC] Hollow Soldier
-1820 [LOC] Ironclad Soldier
-1830 [LOC] NO MATCH
-2000 [LOC] Hollow Infantry
-2020 [LOC] Hollow Infantry
-2030 [LOC] NO MATCH
-2031 [LOC] Hollow Infantry
-2032 [LOC] NO MATCH
-2033 [LOC] Hollow Infantry
-2041 [LOC] Hollow Soldier
-2050 [LOC] Hollow Infantry
-2060 [LOC] Hollow Soldier
-2200 [LOC] Hollow Infantry
-2210 [LOC] Ironclad Soldier
-2230 [LOC] NO MATCH
-2231 [LOC] NO MATCH
-2235 [LOC] Hollow Soldier
-2236 [LOC] Hollow Soldier
-2240 [LOC] Hollow Soldier
-2255 [LOC] The Pursuer
-2260 [LOC] NO MATCH
-2261 [LOC] Hollow Soldier
-2262 [LOC] Hollow Soldier
-2263 [LOC] Hollow Soldier
-2300 [LOC] NO MATCH
-2305 [LOC] NO MATCH
-2310 [LOC] NO MATCH
-2350 [LOC] Hollow Soldier
-2351 [LOC] Hollow Infantry
-2352 [LOC] Hollow Infantry
-2353 [LOC] Hollow Infantry
-2354 [LOC] Hollow Soldier
-2356 [LOC] NO MATCH
-2360 [LOC] NO MATCH
-2500 [LOC] Hollow Soldier
-2501 [LOC] Hollow Soldier
-2502 [LOC] Hollow Soldier
-2503 [LOC] Hollow Soldier
-2504 [LOC] Hollow Soldier
-2510 [LOC] Hollow Soldier
-2520 [LOC] Hollow Soldier
-2521 [LOC] Hollow Soldier
-2522 [LOC] Hollow Soldier
-2600 [LOC] NO MATCH
-2601 [LOC] Hollow Soldier
-2602 [LOC] NO MATCH
-2603 [LOC] Hollow Soldier
-2610 [LOC] Hollow Soldier
-2611 [LOC] Hollow Soldier
-2612 [LOC] Hollow Soldier
-2650 [LOC] NO MATCH
-2651 [LOC] Hollow Soldier
-2660 [LOC] Hollow Soldier
-2661 [LOC] Hollow Soldier
-2680 [LOC] Ironclad Soldier
-2700 [LOC] NO MATCH
-2710 [LOC] Hollow Infantry
-2711 [LOC] Hollow Infantry
-2712 [LOC] Hollow Infantry
-2713 [LOC] Hollow Infantry
-2714 [LOC] NO MATCH
-2720 [LOC] NO MATCH
-2721 [LOC] NO MATCH
-2730 [LOC] Hollow Soldier
-2731 [LOC] Hollow Soldier
-2740 [LOC] Ironclad Soldier
-2810 [LOC] Hollow Soldier
-2820 [LOC] Ironclad Soldier
-2830 [LOC] Hollow Soldier
-3100 [LOC] Flame Lizard
-3110 [LOC] Flame Lizard
-3150 [LOC] Flame Lizard
-3160 [LOC] Flame Lizard
-5000 [LOC] Crystal Lizard
-6000 [LOC] Syan Knight Phantom
-6001 [LOC] Knight Phantom
-6200 [LOC] Knight Phantom
-7000 [LOC] NO MATCH
-7001 [LOC] NO MATCH
-7002 [LOC] Hollow Soldier
-7010 [LOC] Royal Soldier
-7011 [LOC] Royal Soldier
-7020 [LOC] Royal Soldier
-7021 [LOC] Hollow Soldier
-7100 [LOC] Hollow Soldier
-7101 [LOC] Hollow Soldier
-8000 [LOC] Ogre
-8001 [LOC] NO MATCH
-8100 [LOC] Syan Knight
-9000 [LOC] Catarina Knight Phantom
-9100 [LOC] Invisible Hollow
+60 [LOC:60] Benhart of Jugo
+61 [LOC:61] Benhart of Jugo
+65 [LOC:65] Mild Mannered Pate
+66 [LOC:66] Mild Mannered Pate
+85 [LOC:85] Cartographer Cale
+86 [LOC:86] Cartographer Cale
+260 [LOC:260] Merchant Hag Melentia
+261 [LOC:261] Merchant Hag Melentia
+520 [LOC:520] Royal Sorcerer Navlaan
+521 [LOC:521] Armorer Dennis
+526 [LOC:526] Mild Mannered Pate
+527 [LOC:527] Sellsword Luet
+528 [LOC:528] Ruined Aflis
+853 [LOC:853] The Pursuer [Boss]
+857 [LOC:857] The Last Giant [Boss]
+923 [LOC:923] Forlorn
+1000 [LOC:1000] Hollow Infantry
+1005 [LOC:1005] Hollow Infantry
+1081 [LOC:1081] Hollow Infantry
+1082 [LOC:1082] Hollow Infantry
+1083 [LOC:1083] Hollow Infantry
+1084 [LOC:1084] Hollow Infantry
+1085 [LOC:1085] Hollow Infantry
+1086 [LOC:1086] Hollow Infantry
+1090 [LOC:1090] Hollow Infantry
+1100 [LOC:1100] NO MATCH
+1102 [LOC:1102] NO MATCH
+1105 [LOC:1105] Hollow Infantry
+1106 [LOC:1106] Hollow Soldier
+1110 [LOC:1110] NO MATCH
+1111 [LOC:1111] NO MATCH
+1112 [LOC:1112] Hollow Infantry
+1113 [LOC:1113] NO MATCH
+1114 [LOC:1114] Hollow Infantry
+1115 [LOC:1115] NO MATCH
+1116 [LOC:1116] Hollow Infantry
+1117 [LOC:1117] Hollow Infantry
+1118 [LOC:1118] NO MATCH
+1119 [LOC:1119] Hollow Infantry
+1120 [LOC:1120] Hollow Infantry
+1121 [LOC:1121] Hollow Infantry
+1122 [LOC:1122] Hollow Infantry
+1123 [LOC:1123] Hollow Infantry
+1124 [LOC:1124] Hollow Infantry
+1125 [LOC:1125] Hollow Infantry
+1126 [LOC:1126] Hollow Infantry
+1127 [LOC:1127] Hollow Infantry
+1140 [LOC:1140] NO MATCH
+1160 [LOC:1160] Hollow Infantry
+1161 [LOC:1161] Hollow Infantry
+1162 [LOC:1162] Hollow Infantry
+1163 [LOC:1163] Hollow Infantry
+1170 [LOC:1170] Hollow Soldier
+1171 [LOC:1171] Hollow Infantry
+1180 [LOC:1180] Hollow Soldier
+1190 [LOC:1190] Hollow Infantry
+1191 [LOC:1191] Hollow Infantry
+1192 [LOC:1192] NO MATCH
+1250 [LOC:1250] Ironclad Soldier
+1251 [LOC:1251] Ironclad Soldier
+1260 [LOC:1260] Hollow Infantry
+1261 [LOC:1261] Hollow Infantry
+1266 [LOC:1266] Hollow Infantry
+1270 [LOC:1270] Hollow Infantry
+1271 [LOC:1271] Hollow Infantry
+1272 [LOC:1272] Hollow Infantry
+1273 [LOC:1273] Hollow Infantry
+1274 [LOC:1274] Hollow Infantry
+1275 [LOC:1275] Hollow Infantry
+1277 [LOC:1277] NO MATCH
+1278 [LOC:1278] NO MATCH
+1280 [LOC:1280] Hollow Soldier
+1300 [LOC:1300] Hollow Soldier
+1401 [LOC:1401] Hollow Soldier
+1410 [LOC:1410] Hollow Soldier
+1411 [LOC:1411] Hollow Soldier
+1500 [LOC:1500] Hollow Soldier
+1600 [LOC:1600] Skeleton
+1601 [LOC:1601] Skeleton
+1602 [LOC:1602] Skeleton
+1603 [LOC:1603] Skeleton
+1604 [LOC:1604] Skeleton
+1605 [LOC:1605] Skeleton
+1641 [LOC:1641] NO MATCH
+1650 [LOC:1650] NO MATCH
+1651 [LOC:1651] NO MATCH
+1660 [LOC:1660] NO MATCH
+1680 [LOC:1680] NO MATCH
+1700 [LOC:1700] NO MATCH
+1710 [LOC:1710] NO MATCH
+1711 [LOC:1711] NO MATCH
+1712 [LOC:1712] NO MATCH
+1720 [LOC:1720] NO MATCH
+1721 [LOC:1721] NO MATCH
+1722 [LOC:1722] NO MATCH
+1770 [LOC:1770] Hollow Infantry
+1771 [LOC:1771] Hollow Infantry
+1772 [LOC:1772] Ironclad Soldier
+1784 [LOC:1784] Ironclad Soldier
+1789 [LOC:1789] Ironclad Soldier
+1790 [LOC:1790] Hollow Infantry
+1800 [LOC:1800] Ironclad Soldier
+1810 [LOC:1810] Hollow Soldier
+1820 [LOC:1820] Ironclad Soldier
+1830 [LOC:1830] NO MATCH
+2000 [LOC:2000] Hollow Infantry
+2020 [LOC:2020] Hollow Infantry
+2030 [LOC:2030] NO MATCH
+2031 [LOC:2031] Hollow Infantry
+2032 [LOC:2032] NO MATCH
+2033 [LOC:2033] Hollow Infantry
+2041 [LOC:2041] Hollow Soldier
+2050 [LOC:2050] Hollow Infantry
+2060 [LOC:2060] Hollow Soldier
+2200 [LOC:2200] Hollow Infantry
+2210 [LOC:2210] Ironclad Soldier
+2230 [LOC:2230] NO MATCH
+2231 [LOC:2231] NO MATCH
+2235 [LOC:2235] Hollow Soldier
+2236 [LOC:2236] Hollow Soldier
+2240 [LOC:2240] Hollow Soldier
+2255 [LOC:2255] The Pursuer
+2260 [LOC:2260] NO MATCH
+2261 [LOC:2261] Hollow Soldier
+2262 [LOC:2262] Hollow Soldier
+2263 [LOC:2263] Hollow Soldier
+2300 [LOC:2300] NO MATCH
+2305 [LOC:2305] NO MATCH
+2310 [LOC:2310] NO MATCH
+2350 [LOC:2350] Hollow Soldier
+2351 [LOC:2351] Hollow Infantry
+2352 [LOC:2352] Hollow Infantry
+2353 [LOC:2353] Hollow Infantry
+2354 [LOC:2354] Hollow Soldier
+2356 [LOC:2356] NO MATCH
+2360 [LOC:2360] NO MATCH
+2500 [LOC:2500] Hollow Soldier
+2501 [LOC:2501] Hollow Soldier
+2502 [LOC:2502] Hollow Soldier
+2503 [LOC:2503] Hollow Soldier
+2504 [LOC:2504] Hollow Soldier
+2510 [LOC:2510] Hollow Soldier
+2520 [LOC:2520] Hollow Soldier
+2521 [LOC:2521] Hollow Soldier
+2522 [LOC:2522] Hollow Soldier
+2600 [LOC:2600] NO MATCH
+2601 [LOC:2601] Hollow Soldier
+2602 [LOC:2602] NO MATCH
+2603 [LOC:2603] Hollow Soldier
+2610 [LOC:2610] Hollow Soldier
+2611 [LOC:2611] Hollow Soldier
+2612 [LOC:2612] Hollow Soldier
+2650 [LOC:2650] NO MATCH
+2651 [LOC:2651] Hollow Soldier
+2660 [LOC:2660] Hollow Soldier
+2661 [LOC:2661] Hollow Soldier
+2680 [LOC:2680] Ironclad Soldier
+2700 [LOC:2700] NO MATCH
+2710 [LOC:2710] Hollow Infantry
+2711 [LOC:2711] Hollow Infantry
+2712 [LOC:2712] Hollow Infantry
+2713 [LOC:2713] Hollow Infantry
+2714 [LOC:2714] NO MATCH
+2720 [LOC:2720] NO MATCH
+2721 [LOC:2721] NO MATCH
+2730 [LOC:2730] Hollow Soldier
+2731 [LOC:2731] Hollow Soldier
+2740 [LOC:2740] Ironclad Soldier
+2810 [LOC:2810] Hollow Soldier
+2820 [LOC:2820] Ironclad Soldier
+2830 [LOC:2830] Hollow Soldier
+3100 [LOC:3100] Flame Lizard
+3110 [LOC:3110] Flame Lizard
+3150 [LOC:3150] Flame Lizard
+3160 [LOC:3160] Flame Lizard
+5000 [LOC:5000] Crystal Lizard
+6000 [LOC:6000] Syan Knight Phantom
+6001 [LOC:6001] Knight Phantom
+6200 [LOC:6200] Knight Phantom
+7000 [LOC:7000] NO MATCH
+7001 [LOC:7001] NO MATCH
+7002 [LOC:7002] Hollow Soldier
+7010 [LOC:7010] Royal Soldier
+7011 [LOC:7011] Royal Soldier
+7020 [LOC:7020] Royal Soldier
+7021 [LOC:7021] Hollow Soldier
+7100 [LOC:7100] Hollow Soldier
+7101 [LOC:7101] Hollow Soldier
+8000 [LOC:8000] Ogre
+8001 [LOC:8001] NO MATCH
+8100 [LOC:8100] Syan Knight
+9000 [LOC:9000] Catarina Knight Phantom
+9100 [LOC:9100] Invisible Hollow

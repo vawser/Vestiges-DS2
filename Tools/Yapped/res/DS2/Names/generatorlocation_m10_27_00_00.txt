@@ -1,115 +1,115 @@
-205 [LOC] Emerald Herald
-600 [LOC] Royal Sorcerer Navlaan
-601 [LOC] Dragonfang Villard
-602 [LOC] Black Dragon Knight
-603 [LOC] Black Dragon Knight
-604 [LOC] Bashful Ray
-606 [LOC] Vengarl
-607 [LOC] Melinda the Butcher
-608 [LOC] Transcendent Edde
-609 [LOC] Fencer Sharron
-800 [LOC] Ancient Dragon
-916 [LOC] Aldia, Scholar of the First Sin
-950 [LOC] Invisible Hollow
-1100 [LOC] Guardian Dragon
-1101 [LOC] Guardian Dragon
-1102 [LOC] Guardian Dragon
-1200 [LOC] Crystal Lizard
-1210 [LOC] Rupturing Hollow
-1211 [LOC] Rupturing Hollow
-1212 [LOC] Rupturing Hollow
-1300 [LOC] Crystal Lizard
-1310 [LOC] Rupturing Hollow
-1400 [LOC] Crystal Lizard
-1401 [LOC] Crystal Lizard
-1402 [LOC] Crystal Lizard
-1403 [LOC] Crystal Lizard
-1404 [LOC] Crystal Lizard
-1500 [LOC] Crystal Lizard
-1501 [LOC] Crystal Lizard
-1600 [LOC] Crystal Lizard
-1601 [LOC] Crystal Lizard
-2005 [LOC] Drakekeeper
-2010 [LOC] Drakekeeper
-2030 [LOC] Drakekeeper
-2031 [LOC] NO MATCH
-2033 [LOC] Drakekeeper
-2035 [LOC] NO MATCH
-2036 [LOC] NO MATCH
-2040 [LOC] NO MATCH
-2041 [LOC] NO MATCH
-3001 [LOC] NO MATCH
-3005 [LOC] NO MATCH
-3010 [LOC] NO MATCH
-4000 [LOC] Black Dragon Knight
-4001 [LOC] Black Dragon Knight
-4002 [LOC] NO MATCH
-4003 [LOC] NO MATCH
-4004 [LOC] NO MATCH
-4005 [LOC] Black Dragon Knight
-4006 [LOC] NO MATCH
-4007 [LOC] NO MATCH
-4008 [LOC] NO MATCH
-4009 [LOC] Black Dragon Knight
-4010 [LOC] Black Dragon Knight
-4011 [LOC] Black Dragon Knight
-4020 [LOC] Black Dragon Knight
-4030 [LOC] Black Dragon Knight
-4031 [LOC] Black Dragon Knight
-4032 [LOC] Black Dragon Knight
-4033 [LOC] Black Dragon Knight
-4034 [LOC] NO MATCH
-4035 [LOC] NO MATCH
-4036 [LOC] Black Dragon Knight
-4037 [LOC] Black Dragon Knight
-4038 [LOC] Black Dragon Knight
-4039 [LOC] Black Dragon Knight
-4040 [LOC] Black Dragon Knight
-4041 [LOC] Black Dragon Knight
-4042 [LOC] Black Dragon Knight
-4050 [LOC] NO MATCH
-4051 [LOC] NO MATCH
-4052 [LOC] NO MATCH
-4053 [LOC] NO MATCH
-5000 [LOC] NO MATCH
-6000 [LOC] Undead Traveler
-6100 [LOC] Dark Priestess
-7000 [LOC] Rupturing Hollow
-7001 [LOC] Rupturing Hollow
-7002 [LOC] Rupturing Hollow
-7003 [LOC] Rupturing Hollow
-7004 [LOC] Rupturing Hollow
-7010 [LOC] Rupturing Hollow
-7011 [LOC] Rupturing Hollow
-7012 [LOC] Rupturing Hollow
-7013 [LOC] Rupturing Hollow
-7014 [LOC] Rupturing Hollow
-7020 [LOC] Rupturing Hollow
-7021 [LOC] Rupturing Hollow
-7022 [LOC] Rupturing Hollow
-7023 [LOC] Rupturing Hollow
-7030 [LOC] Rupturing Hollow
-7031 [LOC] Rupturing Hollow
-7032 [LOC] Rupturing Hollow
-7033 [LOC] Rupturing Hollow
-7040 [LOC] Rupturing Hollow
-7041 [LOC] Rupturing Hollow
-7042 [LOC] Rupturing Hollow
-9000 [LOC] NO MATCH
-9001 [LOC] NO MATCH
-9002 [LOC] NO MATCH
-9003 [LOC] NO MATCH
-9004 [LOC] NO MATCH
-9005 [LOC] NO MATCH
-9006 [LOC] NO MATCH
-9007 [LOC] NO MATCH
-9008 [LOC] NO MATCH
-9009 [LOC] NO MATCH
-9010 [LOC] NO MATCH
-9011 [LOC] NO MATCH
-9012 [LOC] NO MATCH
-9100 [LOC] NO MATCH
-9101 [LOC] NO MATCH
-9102 [LOC] NO MATCH
-9103 [LOC] NO MATCH
-9106 [LOC] NO MATCH
+205 [LOC:205] Emerald Herald
+600 [LOC:600] Royal Sorcerer Navlaan
+601 [LOC:601] Dragonfang Villard
+602 [LOC:602] Black Dragon Knight
+603 [LOC:603] Black Dragon Knight
+604 [LOC:604] Bashful Ray
+606 [LOC:606] Vengarl
+607 [LOC:607] Melinda the Butcher
+608 [LOC:608] Transcendent Edde
+609 [LOC:609] Fencer Sharron
+800 [LOC:800] Ancient Dragon
+916 [LOC:916] Aldia, Scholar of the First Sin
+950 [LOC:950] Invisible Hollow
+1100 [LOC:1100] Guardian Dragon
+1101 [LOC:1101] Guardian Dragon
+1102 [LOC:1102] Guardian Dragon
+1200 [LOC:1200] Crystal Lizard
+1210 [LOC:1210] Rupturing Hollow
+1211 [LOC:1211] Rupturing Hollow
+1212 [LOC:1212] Rupturing Hollow
+1300 [LOC:1300] Crystal Lizard
+1310 [LOC:1310] Rupturing Hollow
+1400 [LOC:1400] Crystal Lizard
+1401 [LOC:1401] Crystal Lizard
+1402 [LOC:1402] Crystal Lizard
+1403 [LOC:1403] Crystal Lizard
+1404 [LOC:1404] Crystal Lizard
+1500 [LOC:1500] Crystal Lizard
+1501 [LOC:1501] Crystal Lizard
+1600 [LOC:1600] Crystal Lizard
+1601 [LOC:1601] Crystal Lizard
+2005 [LOC:2005] Drakekeeper
+2010 [LOC:2010] Drakekeeper
+2030 [LOC:2030] Drakekeeper
+2031 [LOC:2031] NO MATCH
+2033 [LOC:2033] Drakekeeper
+2035 [LOC:2035] NO MATCH
+2036 [LOC:2036] NO MATCH
+2040 [LOC:2040] NO MATCH
+2041 [LOC:2041] NO MATCH
+3001 [LOC:3001] NO MATCH
+3005 [LOC:3005] NO MATCH
+3010 [LOC:3010] NO MATCH
+4000 [LOC:4000] Black Dragon Knight
+4001 [LOC:4001] Black Dragon Knight
+4002 [LOC:4002] NO MATCH
+4003 [LOC:4003] NO MATCH
+4004 [LOC:4004] NO MATCH
+4005 [LOC:4005] Black Dragon Knight
+4006 [LOC:4006] NO MATCH
+4007 [LOC:4007] NO MATCH
+4008 [LOC:4008] NO MATCH
+4009 [LOC:4009] Black Dragon Knight
+4010 [LOC:4010] Black Dragon Knight
+4011 [LOC:4011] Black Dragon Knight
+4020 [LOC:4020] Black Dragon Knight
+4030 [LOC:4030] Black Dragon Knight
+4031 [LOC:4031] Black Dragon Knight
+4032 [LOC:4032] Black Dragon Knight
+4033 [LOC:4033] Black Dragon Knight
+4034 [LOC:4034] NO MATCH
+4035 [LOC:4035] NO MATCH
+4036 [LOC:4036] Black Dragon Knight
+4037 [LOC:4037] Black Dragon Knight
+4038 [LOC:4038] Black Dragon Knight
+4039 [LOC:4039] Black Dragon Knight
+4040 [LOC:4040] Black Dragon Knight
+4041 [LOC:4041] Black Dragon Knight
+4042 [LOC:4042] Black Dragon Knight
+4050 [LOC:4050] NO MATCH
+4051 [LOC:4051] NO MATCH
+4052 [LOC:4052] NO MATCH
+4053 [LOC:4053] NO MATCH
+5000 [LOC:5000] NO MATCH
+6000 [LOC:6000] Undead Traveler
+6100 [LOC:6100] Dark Priestess
+7000 [LOC:7000] Rupturing Hollow
+7001 [LOC:7001] Rupturing Hollow
+7002 [LOC:7002] Rupturing Hollow
+7003 [LOC:7003] Rupturing Hollow
+7004 [LOC:7004] Rupturing Hollow
+7010 [LOC:7010] Rupturing Hollow
+7011 [LOC:7011] Rupturing Hollow
+7012 [LOC:7012] Rupturing Hollow
+7013 [LOC:7013] Rupturing Hollow
+7014 [LOC:7014] Rupturing Hollow
+7020 [LOC:7020] Rupturing Hollow
+7021 [LOC:7021] Rupturing Hollow
+7022 [LOC:7022] Rupturing Hollow
+7023 [LOC:7023] Rupturing Hollow
+7030 [LOC:7030] Rupturing Hollow
+7031 [LOC:7031] Rupturing Hollow
+7032 [LOC:7032] Rupturing Hollow
+7033 [LOC:7033] Rupturing Hollow
+7040 [LOC:7040] Rupturing Hollow
+7041 [LOC:7041] Rupturing Hollow
+7042 [LOC:7042] Rupturing Hollow
+9000 [LOC:9000] NO MATCH
+9001 [LOC:9001] NO MATCH
+9002 [LOC:9002] NO MATCH
+9003 [LOC:9003] NO MATCH
+9004 [LOC:9004] NO MATCH
+9005 [LOC:9005] NO MATCH
+9006 [LOC:9006] NO MATCH
+9007 [LOC:9007] NO MATCH
+9008 [LOC:9008] NO MATCH
+9009 [LOC:9009] NO MATCH
+9010 [LOC:9010] NO MATCH
+9011 [LOC:9011] NO MATCH
+9012 [LOC:9012] NO MATCH
+9100 [LOC:9100] NO MATCH
+9101 [LOC:9101] NO MATCH
+9102 [LOC:9102] NO MATCH
+9103 [LOC:9103] NO MATCH
+9106 [LOC:9106] NO MATCH

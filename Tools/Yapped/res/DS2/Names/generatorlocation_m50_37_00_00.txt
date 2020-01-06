@@ -1,263 +1,263 @@
-340 [LOC] Retainer
-342 [LOC] Voice Marker (Alsanna)
-343 [LOC] Voice Marker (Alsanna)
-344 [LOC] Voice Marker (Alsanna)
-760 [LOC] Castaway Witch Donna
-761 [LOC] Hexer Nicholai
-762 [LOC] Holy Knight Aurheim
-770 [LOC] Lucatiel of Mirrah
-771 [LOC] Twiggy Shei
-772 [LOC] Masterless Glencour
-773 [LOC] Steelheart Ellie
-774 [LOC] Vengarl
-775 [LOC] Abbess Feeva
-776 [LOC] Manhunter O'Harrah
-777 [LOC] Sellsword Luet
-785 [LOC] NO MATCH
-786 [LOC] NO MATCH
-787 [LOC] NO MATCH
-788 [LOC] NO MATCH
-790 [LOC] Loyce Knight
-791 [LOC] Loyce Knight
-792 [LOC] Loyce Knight
-794 [LOC] Loyce Knight
-795 [LOC] Loyce Knight
-796 [LOC] Loyce Knight
-797 [LOC] Loyce Knight
-907 [LOC] Lud, the King's Pet
-908 [LOC] Burnt Ivory King
-909 [LOC] Aava, the King's Pet
-910 [LOC] Aava, the King's Pet
-980 [LOC] Forlorn (Scythe)
-1000 [LOC] Spellsword
-1001 [LOC] Spellsword
-1002 [LOC] Spellsword
-1003 [LOC] Spellsword
-1010 [LOC] Spellsword
-1100 [LOC] Retainer
-1200 [LOC] Spellsword
-1201 [LOC] Spellsword
-1210 [LOC] Stray Dog
-1211 [LOC] Stray Dog
-1212 [LOC] Stray Dog
-1300 [LOC] Retainer
-1400 [LOC] Retainer
-1402 [LOC] Retainer
-1410 [LOC] Spellsword
-1411 [LOC] Spellsword
-1412 [LOC] Spellsword
-1420 [LOC] Spellsword
-1501 [LOC] NO MATCH
-1502 [LOC] Retainer
-1510 [LOC] Spellsword
-1511 [LOC] Spellsword
-1520 [LOC] NO MATCH
-1521 [LOC] NO MATCH
-1600 [LOC] Spellsword
-1601 [LOC] NO MATCH
-1610 [LOC] Spellsword
-1611 [LOC] Spellsword
-1613 [LOC] Spellsword
-1614 [LOC] Spellsword
-1615 [LOC] Spellsword
-1620 [LOC] Retainer
-1621 [LOC] Retainer
-1630 [LOC] Ice Golem
-1640 [LOC] Stray Dog
-1641 [LOC] NO MATCH
-1700 [LOC] NO MATCH
-1710 [LOC] Retainer
-1800 [LOC] Flexile Sentry
-1801 [LOC] Flexile Sentry
-1810 [LOC] Retainer
-1811 [LOC] Retainer
-1812 [LOC] Retainer
-1813 [LOC] Retainer
-1814 [LOC] Retainer
-1815 [LOC] Retainer
-1816 [LOC] Retainer
-1900 [LOC] Spellsword
-1901 [LOC] Spellsword
-1910 [LOC] NO MATCH
-1911 [LOC] Retainer
-1912 [LOC] Retainer
-1913 [LOC] Retainer
-1920 [LOC] Undead Laborer
-1921 [LOC] NO MATCH
-1922 [LOC] NO MATCH
-1923 [LOC] Undead Laborer
-1930 [LOC] Ice Golem
-1931 [LOC] Ice Golem
-1932 [LOC] Ice Golem
-1940 [LOC] NO MATCH
-2000 [LOC] Ice Golem
-2001 [LOC] Ice Golem
-2010 [LOC] Spellsword
-2011 [LOC] NO MATCH
-2020 [LOC] Retainer
-2021 [LOC] Retainer
-2022 [LOC] Retainer
-2023 [LOC] Retainer
-2030 [LOC] Ice Golem
-2031 [LOC] Ice Golem
-2100 [LOC] Rampart Golem
-2200 [LOC] Rampart Golem
-2210 [LOC] Undead Laborer
-2211 [LOC] NO MATCH
-2212 [LOC] Undead Laborer
-2213 [LOC] NO MATCH
-2214 [LOC] Undead Laborer
-2300 [LOC] Mimic
-2310 [LOC] Spellsword
-2400 [LOC] Rampart Golem
-2410 [LOC] Retainer
-2500 [LOC] Rampart Golem
-2600 [LOC] NO MATCH
-2601 [LOC] NO MATCH
-2602 [LOC] Spellsword
-2610 [LOC] NO MATCH
-2620 [LOC] Wall Watchman
-2621 [LOC] Wall Watchman
-2630 [LOC] Retainer
-2700 [LOC] Wall Watchman
-2800 [LOC] Spellsword
-2801 [LOC] Spellsword
-2810 [LOC] Stray Dog
-2811 [LOC] Stray Dog
-2812 [LOC] Stray Dog
-2813 [LOC] Stray Dog
-2814 [LOC] Stray Dog
-2900 [LOC] Rampart Golem
-2910 [LOC] Rampart Golem
-3000 [LOC] Retainer
-3010 [LOC] Facsimile Giant
-3011 [LOC] Facsimile Giant
-3020 [LOC] Mimic
-3100 [LOC] Spellsword
-3101 [LOC] Spellsword
-3102 [LOC] Spellsword
-3110 [LOC] Retainer
-3111 [LOC] Retainer
-3200 [LOC] Retainer
-3300 [LOC] NO MATCH
-3400 [LOC] Spellsword
-3500 [LOC] NO MATCH
-3600 [LOC] NO MATCH
-3700 [LOC] Facsimile Giant
-3701 [LOC] Facsimile Giant
-3702 [LOC] Facsimile Giant
-3710 [LOC] Spellsword
-3810 [LOC] Rampart Golem
-3811 [LOC] Rampart Golem
-3812 [LOC] Spellsword
-3813 [LOC] Spellsword
-3850 [LOC] NO MATCH
-3900 [LOC] Retainer
-3901 [LOC] Spellsword
-3902 [LOC] Spellsword
-3910 [LOC] NO MATCH
-3911 [LOC] Facsimile Giant
-3912 [LOC] Facsimile Giant
-4100 [LOC] NO MATCH
-4101 [LOC] NO MATCH
-4102 [LOC] NO MATCH
-4110 [LOC] Charred Loyce Knight
-4111 [LOC] Charred Loyce Knight
-4112 [LOC] Charred Loyce Knight
-4113 [LOC] Charred Loyce Knight
-4114 [LOC] Charred Loyce Knight
-4115 [LOC] Charred Loyce Knight
-4116 [LOC] Charred Loyce Knight
-4117 [LOC] Charred Loyce Knight
-4118 [LOC] Charred Loyce Knight
-4119 [LOC] Charred Loyce Knight
-4120 [LOC] Charred Loyce Knight
-4121 [LOC] Charred Loyce Knight
-5000 [LOC] Rampart Hedgehog
-5100 [LOC] Rampart Hedgehog
-5101 [LOC] Rampart Hedgehog
-5102 [LOC] Rampart Hedgehog
-5200 [LOC] Rampart Hedgehog
-5201 [LOC] Rampart Hedgehog
-5202 [LOC] Rampart Hedgehog
-5203 [LOC] Rampart Hedgehog
-5210 [LOC] Forest Spirit
-5211 [LOC] Forest Spirit
-5212 [LOC] Forest Spirit
-5301 [LOC] NO MATCH
-5302 [LOC] NO MATCH
-5320 [LOC] Teeth-chattering Dan
-5330 [LOC] Rampart Hedgehog
-5500 [LOC] Facsimile Giant
-5501 [LOC] Facsimile Giant
-5502 [LOC] NO MATCH
-5503 [LOC] Facsimile Giant
-5504 [LOC] Facsimile Giant
-5510 [LOC] Rampart Hedgehog
-5511 [LOC] Rampart Hedgehog
-5512 [LOC] Rampart Hedgehog
-5513 [LOC] Rampart Hedgehog
-5514 [LOC] Rampart Hedgehog
-5700 [LOC] Ice Golem
-5701 [LOC] Ice Golem
-5702 [LOC] Ice Golem
-5703 [LOC] NO MATCH
-5710 [LOC] Rampart Golem
-5711 [LOC] NO MATCH
-5720 [LOC] NO MATCH
-5721 [LOC] NO MATCH
-5730 [LOC] Rampart Hedgehog
-5731 [LOC] Rampart Hedgehog
-5732 [LOC] Rampart Hedgehog
-5750 [LOC] NO MATCH
-5800 [LOC] Ice Golem
-5801 [LOC] Ice Golem
-5802 [LOC] Ice Golem
-5900 [LOC] Covetous Demon (snow)
-5910 [LOC] Rampart Hedgehog
-5911 [LOC] Rampart Hedgehog
-5912 [LOC] Rampart Hedgehog
-5913 [LOC] Rampart Hedgehog
-6000 [LOC] Spellsword
-6001 [LOC] Spellsword
-6002 [LOC] Spellsword
-6003 [LOC] Spellsword
-6004 [LOC] Spellsword
-6010 [LOC] Spellsword
-6100 [LOC] Spellsword
-6110 [LOC] Rampart Golem
-6111 [LOC] NO MATCH
-6200 [LOC] Stray Dog
-6201 [LOC] Stray Dog
-6202 [LOC] Stray Dog
-6203 [LOC] Stray Dog
-6204 [LOC] Stray Dog
-6205 [LOC] Stray Dog
-6206 [LOC] Stray Dog
-6300 [LOC] Rampart Golem
-6301 [LOC] NO MATCH
-6400 [LOC] NO MATCH
-7000 [LOC] Frozen Reindeer
-7001 [LOC] Frozen Reindeer
-7004 [LOC] Frozen Reindeer
-7005 [LOC] Frozen Reindeer
-7008 [LOC] Frozen Reindeer
-7009 [LOC] Frozen Reindeer
-7010 [LOC] Frozen Reindeer
-7012 [LOC] Frozen Reindeer
-7020 [LOC] Frozen Reindeer
-7101 [LOC] Undead Laborer
-7102 [LOC] Undead Laborer
-7103 [LOC] Undead Laborer
-7104 [LOC] Undead Laborer
-7105 [LOC] Undead Laborer
-7107 [LOC] Undead Laborer
-7108 [LOC] Undead Laborer
-7200 [LOC] Rampart Golem
-7201 [LOC] Rampart Golem
-7202 [LOC] Rampart Golem
-7505 [LOC] Unknown Phantom
-7506 [LOC] Unknown Phantom
-7600 [LOC] Unknown Phantom
-7602 [LOC] Unknown Phantom
-7603 [LOC] Unknown Phantom
+340 [LOC:340] Retainer
+342 [LOC:342] Voice Marker (Alsanna)
+343 [LOC:343] Voice Marker (Alsanna)
+344 [LOC:344] Voice Marker (Alsanna)
+760 [LOC:760] Castaway Witch Donna
+761 [LOC:761] Hexer Nicholai
+762 [LOC:762] Holy Knight Aurheim
+770 [LOC:770] Lucatiel of Mirrah
+771 [LOC:771] Twiggy Shei
+772 [LOC:772] Masterless Glencour
+773 [LOC:773] Steelheart Ellie
+774 [LOC:774] Vengarl
+775 [LOC:775] Abbess Feeva
+776 [LOC:776] Manhunter O'Harrah
+777 [LOC:777] Sellsword Luet
+785 [LOC:785] NO MATCH
+786 [LOC:786] NO MATCH
+787 [LOC:787] NO MATCH
+788 [LOC:788] NO MATCH
+790 [LOC:790] Loyce Knight
+791 [LOC:791] Loyce Knight
+792 [LOC:792] Loyce Knight
+794 [LOC:794] Loyce Knight
+795 [LOC:795] Loyce Knight
+796 [LOC:796] Loyce Knight
+797 [LOC:797] Loyce Knight
+907 [LOC:907] Lud, the King's Pet
+908 [LOC:908] Burnt Ivory King
+909 [LOC:909] Aava, the King's Pet
+910 [LOC:910] Aava, the King's Pet
+980 [LOC:980] Forlorn (Scythe)
+1000 [LOC:1000] Spellsword
+1001 [LOC:1001] Spellsword
+1002 [LOC:1002] Spellsword
+1003 [LOC:1003] Spellsword
+1010 [LOC:1010] Spellsword
+1100 [LOC:1100] Retainer
+1200 [LOC:1200] Spellsword
+1201 [LOC:1201] Spellsword
+1210 [LOC:1210] Stray Dog
+1211 [LOC:1211] Stray Dog
+1212 [LOC:1212] Stray Dog
+1300 [LOC:1300] Retainer
+1400 [LOC:1400] Retainer
+1402 [LOC:1402] Retainer
+1410 [LOC:1410] Spellsword
+1411 [LOC:1411] Spellsword
+1412 [LOC:1412] Spellsword
+1420 [LOC:1420] Spellsword
+1501 [LOC:1501] NO MATCH
+1502 [LOC:1502] Retainer
+1510 [LOC:1510] Spellsword
+1511 [LOC:1511] Spellsword
+1520 [LOC:1520] NO MATCH
+1521 [LOC:1521] NO MATCH
+1600 [LOC:1600] Spellsword
+1601 [LOC:1601] NO MATCH
+1610 [LOC:1610] Spellsword
+1611 [LOC:1611] Spellsword
+1613 [LOC:1613] Spellsword
+1614 [LOC:1614] Spellsword
+1615 [LOC:1615] Spellsword
+1620 [LOC:1620] Retainer
+1621 [LOC:1621] Retainer
+1630 [LOC:1630] Ice Golem
+1640 [LOC:1640] Stray Dog
+1641 [LOC:1641] NO MATCH
+1700 [LOC:1700] NO MATCH
+1710 [LOC:1710] Retainer
+1800 [LOC:1800] Flexile Sentry
+1801 [LOC:1801] Flexile Sentry
+1810 [LOC:1810] Retainer
+1811 [LOC:1811] Retainer
+1812 [LOC:1812] Retainer
+1813 [LOC:1813] Retainer
+1814 [LOC:1814] Retainer
+1815 [LOC:1815] Retainer
+1816 [LOC:1816] Retainer
+1900 [LOC:1900] Spellsword
+1901 [LOC:1901] Spellsword
+1910 [LOC:1910] NO MATCH
+1911 [LOC:1911] Retainer
+1912 [LOC:1912] Retainer
+1913 [LOC:1913] Retainer
+1920 [LOC:1920] Undead Laborer
+1921 [LOC:1921] NO MATCH
+1922 [LOC:1922] NO MATCH
+1923 [LOC:1923] Undead Laborer
+1930 [LOC:1930] Ice Golem
+1931 [LOC:1931] Ice Golem
+1932 [LOC:1932] Ice Golem
+1940 [LOC:1940] NO MATCH
+2000 [LOC:2000] Ice Golem
+2001 [LOC:2001] Ice Golem
+2010 [LOC:2010] Spellsword
+2011 [LOC:2011] NO MATCH
+2020 [LOC:2020] Retainer
+2021 [LOC:2021] Retainer
+2022 [LOC:2022] Retainer
+2023 [LOC:2023] Retainer
+2030 [LOC:2030] Ice Golem
+2031 [LOC:2031] Ice Golem
+2100 [LOC:2100] Rampart Golem
+2200 [LOC:2200] Rampart Golem
+2210 [LOC:2210] Undead Laborer
+2211 [LOC:2211] NO MATCH
+2212 [LOC:2212] Undead Laborer
+2213 [LOC:2213] NO MATCH
+2214 [LOC:2214] Undead Laborer
+2300 [LOC:2300] Mimic
+2310 [LOC:2310] Spellsword
+2400 [LOC:2400] Rampart Golem
+2410 [LOC:2410] Retainer
+2500 [LOC:2500] Rampart Golem
+2600 [LOC:2600] NO MATCH
+2601 [LOC:2601] NO MATCH
+2602 [LOC:2602] Spellsword
+2610 [LOC:2610] NO MATCH
+2620 [LOC:2620] Wall Watchman
+2621 [LOC:2621] Wall Watchman
+2630 [LOC:2630] Retainer
+2700 [LOC:2700] Wall Watchman
+2800 [LOC:2800] Spellsword
+2801 [LOC:2801] Spellsword
+2810 [LOC:2810] Stray Dog
+2811 [LOC:2811] Stray Dog
+2812 [LOC:2812] Stray Dog
+2813 [LOC:2813] Stray Dog
+2814 [LOC:2814] Stray Dog
+2900 [LOC:2900] Rampart Golem
+2910 [LOC:2910] Rampart Golem
+3000 [LOC:3000] Retainer
+3010 [LOC:3010] Facsimile Giant
+3011 [LOC:3011] Facsimile Giant
+3020 [LOC:3020] Mimic
+3100 [LOC:3100] Spellsword
+3101 [LOC:3101] Spellsword
+3102 [LOC:3102] Spellsword
+3110 [LOC:3110] Retainer
+3111 [LOC:3111] Retainer
+3200 [LOC:3200] Retainer
+3300 [LOC:3300] NO MATCH
+3400 [LOC:3400] Spellsword
+3500 [LOC:3500] NO MATCH
+3600 [LOC:3600] NO MATCH
+3700 [LOC:3700] Facsimile Giant
+3701 [LOC:3701] Facsimile Giant
+3702 [LOC:3702] Facsimile Giant
+3710 [LOC:3710] Spellsword
+3810 [LOC:3810] Rampart Golem
+3811 [LOC:3811] Rampart Golem
+3812 [LOC:3812] Spellsword
+3813 [LOC:3813] Spellsword
+3850 [LOC:3850] NO MATCH
+3900 [LOC:3900] Retainer
+3901 [LOC:3901] Spellsword
+3902 [LOC:3902] Spellsword
+3910 [LOC:3910] NO MATCH
+3911 [LOC:3911] Facsimile Giant
+3912 [LOC:3912] Facsimile Giant
+4100 [LOC:4100] NO MATCH
+4101 [LOC:4101] NO MATCH
+4102 [LOC:4102] NO MATCH
+4110 [LOC:4110] Charred Loyce Knight
+4111 [LOC:4111] Charred Loyce Knight
+4112 [LOC:4112] Charred Loyce Knight
+4113 [LOC:4113] Charred Loyce Knight
+4114 [LOC:4114] Charred Loyce Knight
+4115 [LOC:4115] Charred Loyce Knight
+4116 [LOC:4116] Charred Loyce Knight
+4117 [LOC:4117] Charred Loyce Knight
+4118 [LOC:4118] Charred Loyce Knight
+4119 [LOC:4119] Charred Loyce Knight
+4120 [LOC:4120] Charred Loyce Knight
+4121 [LOC:4121] Charred Loyce Knight
+5000 [LOC:5000] Rampart Hedgehog
+5100 [LOC:5100] Rampart Hedgehog
+5101 [LOC:5101] Rampart Hedgehog
+5102 [LOC:5102] Rampart Hedgehog
+5200 [LOC:5200] Rampart Hedgehog
+5201 [LOC:5201] Rampart Hedgehog
+5202 [LOC:5202] Rampart Hedgehog
+5203 [LOC:5203] Rampart Hedgehog
+5210 [LOC:5210] Forest Spirit
+5211 [LOC:5211] Forest Spirit
+5212 [LOC:5212] Forest Spirit
+5301 [LOC:5301] NO MATCH
+5302 [LOC:5302] NO MATCH
+5320 [LOC:5320] Teeth-chattering Dan
+5330 [LOC:5330] Rampart Hedgehog
+5500 [LOC:5500] Facsimile Giant
+5501 [LOC:5501] Facsimile Giant
+5502 [LOC:5502] NO MATCH
+5503 [LOC:5503] Facsimile Giant
+5504 [LOC:5504] Facsimile Giant
+5510 [LOC:5510] Rampart Hedgehog
+5511 [LOC:5511] Rampart Hedgehog
+5512 [LOC:5512] Rampart Hedgehog
+5513 [LOC:5513] Rampart Hedgehog
+5514 [LOC:5514] Rampart Hedgehog
+5700 [LOC:5700] Ice Golem
+5701 [LOC:5701] Ice Golem
+5702 [LOC:5702] Ice Golem
+5703 [LOC:5703] NO MATCH
+5710 [LOC:5710] Rampart Golem
+5711 [LOC:5711] NO MATCH
+5720 [LOC:5720] NO MATCH
+5721 [LOC:5721] NO MATCH
+5730 [LOC:5730] Rampart Hedgehog
+5731 [LOC:5731] Rampart Hedgehog
+5732 [LOC:5732] Rampart Hedgehog
+5750 [LOC:5750] NO MATCH
+5800 [LOC:5800] Ice Golem
+5801 [LOC:5801] Ice Golem
+5802 [LOC:5802] Ice Golem
+5900 [LOC:5900] Covetous Demon (snow)
+5910 [LOC:5910] Rampart Hedgehog
+5911 [LOC:5911] Rampart Hedgehog
+5912 [LOC:5912] Rampart Hedgehog
+5913 [LOC:5913] Rampart Hedgehog
+6000 [LOC:6000] Spellsword
+6001 [LOC:6001] Spellsword
+6002 [LOC:6002] Spellsword
+6003 [LOC:6003] Spellsword
+6004 [LOC:6004] Spellsword
+6010 [LOC:6010] Spellsword
+6100 [LOC:6100] Spellsword
+6110 [LOC:6110] Rampart Golem
+6111 [LOC:6111] NO MATCH
+6200 [LOC:6200] Stray Dog
+6201 [LOC:6201] Stray Dog
+6202 [LOC:6202] Stray Dog
+6203 [LOC:6203] Stray Dog
+6204 [LOC:6204] Stray Dog
+6205 [LOC:6205] Stray Dog
+6206 [LOC:6206] Stray Dog
+6300 [LOC:6300] Rampart Golem
+6301 [LOC:6301] NO MATCH
+6400 [LOC:6400] NO MATCH
+7000 [LOC:7000] Frozen Reindeer
+7001 [LOC:7001] Frozen Reindeer
+7004 [LOC:7004] Frozen Reindeer
+7005 [LOC:7005] Frozen Reindeer
+7008 [LOC:7008] Frozen Reindeer
+7009 [LOC:7009] Frozen Reindeer
+7010 [LOC:7010] Frozen Reindeer
+7012 [LOC:7012] Frozen Reindeer
+7020 [LOC:7020] Frozen Reindeer
+7101 [LOC:7101] Undead Laborer
+7102 [LOC:7102] Undead Laborer
+7103 [LOC:7103] Undead Laborer
+7104 [LOC:7104] Undead Laborer
+7105 [LOC:7105] Undead Laborer
+7107 [LOC:7107] Undead Laborer
+7108 [LOC:7108] Undead Laborer
+7200 [LOC:7200] Rampart Golem
+7201 [LOC:7201] Rampart Golem
+7202 [LOC:7202] Rampart Golem
+7505 [LOC:7505] Unknown Phantom
+7506 [LOC:7506] Unknown Phantom
+7600 [LOC:7600] Unknown Phantom
+7602 [LOC:7602] Unknown Phantom
+7603 [LOC:7603] Unknown Phantom

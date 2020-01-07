@@ -525,10 +525,6 @@ Rings: SpEffectRing.emevd
 60960000 Dark Bolt
 
 #--------------------------------------------
-# Map
-#--------------------------------------------
-
-#--------------------------------------------
 # Special
 #--------------------------------------------
 1        Acid Pool
@@ -561,3 +557,4 @@ Rings: SpEffectRing.emevd
 96560100 Ash Coating
 96850000 Elana Summon Coating
 93050011 Blue Smelter Buff
+

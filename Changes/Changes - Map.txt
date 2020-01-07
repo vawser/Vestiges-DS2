@@ -25,13 +25,29 @@
 #-----------------------------------------
 # Aldia's Keep
 #-----------------------------------------
-- Added Giant Basilisks to the Foregarden area.
-- Added Basilisk to the Foregarden area.
-- Added Dragon Acolytes to the entrance and within the main hall.
+- Added 3 Giant Basilisks to the Foregarden area.
+- Added 5 Basilisk to the Foregarden area.
+- Added 5 Dragon Acolytes to the entrance and within the main hall.
 
 #-----------------------------------------
 # Lost Bastille
 #-----------------------------------------
+- Remixed the existing enemy placements.
+- Added more objects to empty areas.
+- Moved some chests to different locations.
+- Added 2 Stray Dogs.
+- Added Undead Jailer + 2 Royal Soldiers near the first Pursuer spawn
+- Changed the Royal Soldier swarm area, now has 3 Suspicious Shadows, 2 Rupturing Hollows and an Undead Jailer.
+- Added a ladder from the Exile Holding cells rampart up to the Sinner's Rise bridge.
+- Added 3 Rupturing Hollows to Exile Holding cell rampart.
+- Added Suspicious Shadow to lower Exile Holding cell area.
+- Removed Royal Soldier xbow from Sinner's Rise.
+- Added 3 Rupturing Hollows to Sinner's Rise bridge.
+- Moved the passive hollows near Straid's cell into the other cell.
+- Moved the bonfire outside of Straid's cell.
+- Moved a chest into Straid's cell.
+- Swapped Royal Soldier on roof with Suspicious Shadow.
+- Added Suspicious Shadow near Bastille Key corpse. 
 
 #-----------------------------------------
 # Harvest Valley
@@ -45,7 +61,7 @@
 # Iron Keep
 #-----------------------------------------
 - Remixed the existing enemy placements.
-- Added two Iron Warriors.
+- Added 2 Iron Warriors.
 - Added 4 Possessed Armors.
 
 #-----------------------------------------

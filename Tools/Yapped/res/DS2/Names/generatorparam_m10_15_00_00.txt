@@ -22,26 +22,24 @@
 3100 [GEN:3100] Ogre
 3200 [GEN:3200] Basilisk
 3220 [GEN:3220] Basilisk
-3230 [GEN:3230] Basilisk
-3231 [GEN:3231] Basilisk
-3232 [GEN:3232] Basilisk
-3233 [GEN:3233] Basilisk
-3234 [GEN:3234] Basilisk
-3235 [GEN:3235] Basilisk
+3300 [GEN:3300] Basilisk
+3301 [GEN:3301] Basilisk
+3302 [GEN:3302] Basilisk
+3303 [GEN:3303] Basilisk
+3304 [GEN:3304] Basilisk
 3801 [GEN:3801] Dragon Acolyte
 3802 [GEN:3802] Dragon Acolyte
-3810 [GEN:3810] Dragon Acolyte
-3811 [GEN:3811] Dragon Acolyte
-3812 [GEN:3812] Dragon Acolyte
-3813 [GEN:3813] Dragon Acolyte
-3814 [GEN:3814] Dragon Acolyte
-3815 [GEN:3815] Dragon Acolyte
 4030 [GEN:4030] Giant Acid Horn Beetle
 4060 [GEN:4060] Dragon Acolyte
 4061 [GEN:4061] Dragon Acolyte
 4062 [GEN:4062] Dragon Acolyte
 4063 [GEN:4063] Dragon Acolyte
 4200 [GEN:4200] Dragon Acolyte
+4300 [GEN:4300] Dragon Acolyte
+4301 [GEN:4301] Dragon Acolyte
+4302 [GEN:4302] Dragon Acolyte
+4303 [GEN:4303] Dragon Acolyte
+4304 [GEN:4304] Dragon Acolyte
 5000 [GEN:5000] Dragon Skeleton
 6000 [GEN:6000] Ogre
 6010 [GEN:6010] Ogre
@@ -69,5 +67,7 @@
 9004 [GEN:9004] Looking Glass Phantom
 9010 [GEN:9010] Giant Basilisk
 9011 [GEN:9011] Giant Basilisk
+9012 [GEN:9012] Giant Basilisk
+9013 [GEN:9013] Giant Basilisk
 9100 [GEN:9100] Hunting Dog
 9101 [GEN:9101] Hunting Dog

@@ -1,31 +1,31 @@
-150 [LOC:150] Licia of Lindeldt
-151 [LOC:151] Licia of Lindeldt
-315 [LOC:315] Blue Sentinel Targray
-316 [LOC:316] Blue Sentinel Targray
-616 [LOC:616] Masterless Glencour
-617 [LOC:617] Devotee Scarlett
-842 [LOC:842] Dragonrider
-843 [LOC:843] Old Dragonslayer
-1000 [LOC:1000] Old Knight
-1010 [LOC:1010] Old Knight
-1020 [LOC:1020] Old Knight
-1030 [LOC:1030] Old Knight
-1040 [LOC:1040] Old Knight
-1041 [LOC:1041] Old Knight
-1042 [LOC:1042] Old Knight
-1050 [LOC:1050] Old Knight
-1060 [LOC:1060] Old Knight
-1071 [LOC:1071] Old Knight
-1080 [LOC:1080] Guardian Dragon
-1090 [LOC:1090] Old Knight
-1500 [LOC:1500] Heide Knight
-1505 [LOC:1505] Heide Knight
-1510 [LOC:1510] Heide Knight
-1520 [LOC:1520] Heide Knight
-1530 [LOC:1530] Heide Knight
-1550 [LOC:1550] Heide Knight
+150 [GEN:150] Licia of Lindeldt
+151 [GEN:151] Licia of Lindeldt
+315 [GEN:315] Blue Sentinel Targray
+316 [GEN:316] Blue Sentinel Targray
+616 [GEN:616] Masterless Glencour
+617 [GEN:617] Devotee Scarlett
+842 [GEN:842] Dragonrider
+843 [GEN:843] Old Dragonslayer
+1000 [GEN:1000] Old Knight
+1010 [GEN:1010] Old Knight
+1020 [GEN:1020] Old Knight
+1030 [GEN:1030] Old Knight
+1040 [GEN:1040] Old Knight
+1041 [GEN:1041] Old Knight
+1042 [GEN:1042] Old Knight
+1050 [GEN:1050] Old Knight
+1060 [GEN:1060] Old Knight
+1071 [GEN:1071] Old Knight
+1080 [GEN:1080] Guardian Dragon
+1090 [GEN:1090] Old Knight
+1500 [GEN:1500] Heide Knight
+1505 [GEN:1505] Heide Knight
+1510 [GEN:1510] Heide Knight
+1520 [GEN:1520] Heide Knight
+1530 [GEN:1530] Heide Knight
+1550 [GEN:1550] Heide Knight
 1600 [LOC] Red Crystal Lizard
-2000 [LOC:2000] Executioner Phantom
-9110 [LOC:9110] Sentinel Phantom
-9112 [LOC:9112] Sentinel Phantom
-9120 [LOC:9120] Sentinel Phantom
+2000 [GEN:2000] Executioner Phantom
+9110 [GEN:9110] Sentinel Phantom
+9112 [GEN:9112] Sentinel Phantom
+9120 [GEN:9120] Sentinel Phantom

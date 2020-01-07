@@ -21,17 +21,17 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Right - 1H Light Running</name>
+    <name>Right - 1H Running</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Right - 1H Light Rolling</name>
+    <name>Right - 1H Rolling</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Right - 1H Light Backstep</name>
+    <name>Right - 1H Backstep</name>
     <type>u32</type>
     <default>0</default>
   </entry>
@@ -71,17 +71,17 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Right - 2H Light Running</name>
+    <name>Right - 2H Running</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Right - 2H Light Rolling</name>
+    <name>Right - 2H Rolling</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Right - 2H Light Backstep</name>
+    <name>Right - 2H Backstep</name>
     <type>u32</type>
     <default>0</default>
   </entry>
@@ -171,17 +171,17 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Right - Powerstance - Light Running</name>
+    <name>Right - Powerstance - Running</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Right - Powerstance - Light Rolling</name>
+    <name>Right - Powerstance - Rolling</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Right - Powerstance - Light Backstep</name>
+    <name>Right - Powerstance - Backstep</name>
     <type>u32</type>
     <default>0</default>
   </entry>
@@ -221,17 +221,17 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Left - 1H Light Running</name>
+    <name>Left - 1H Running</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Left - 1H Light Rolling</name>
+    <name>Left - 1H Rolling</name>
     <type>u32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Left - 1H Light Backstep</name>
+    <name>Left - 1H Backstep</name>
     <type>u32</type>
     <default>0</default>
   </entry>

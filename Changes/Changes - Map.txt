@@ -8,12 +8,15 @@
 # Majula
 #-----------------------------------------
 - Added more trees.
+- Added more braziers.
 
 #-----------------------------------------
 # Forest of Fallen Giants
 #-----------------------------------------
 - Remixed the existing enemy placements.
 - Adjusted some object placement to make the barren areas less empty.
+
+10100712 <> 10100750
 
 #-----------------------------------------
 # Brightstone Cove
@@ -23,12 +26,16 @@
 - Re-arranged the Congregation room.
 - Removed the spiders near the Lower Brightstone Cove bonfire.
 
+10140709 <> 10140750
+
 #-----------------------------------------
 # Aldia's Keep
 #-----------------------------------------
 - Added 3 Giant Basilisks to the Foregarden area.
 - Added 5 Basilisk to the Foregarden area.
 - Added 5 Dragon Acolytes to the entrance and within the main hall.
+
+10150720 <> 10150750
 
 #-----------------------------------------
 # Lost Bastille
@@ -50,6 +57,8 @@
 - Swapped Royal Soldier on roof with Suspicious Shadow.
 - Added Suspicious Shadow near Bastille Key corpse. 
 
+10150709 <> 10150749
+
 #-----------------------------------------
 # Harvest Valley
 #-----------------------------------------
@@ -61,9 +70,13 @@
 - Added poison pots to the Covetous Demon room.
 - Added new optional section at the start of Earthen Peak.
 
+10170700 <> 10170750
+
 #-----------------------------------------
 # No Man's Wharf
 #-----------------------------------------
+
+10180800 <> 10180850
 
 #-----------------------------------------
 # Iron Keep
@@ -72,25 +85,37 @@
 - Added 2 Iron Warriors.
 - Added 4 Possessed Armors.
 
+10190701 <> 10190750
+
 #-----------------------------------------
 # Huntsman's Copse
 #-----------------------------------------
+
+10190710 <> 10190750
 
 #-----------------------------------------
 # The Gutter
 #-----------------------------------------
 
+10250800 <> 10250820
+
 #-----------------------------------------
 # Dragon Aerie
 #-----------------------------------------
+
+10270700 <> 10270750
 
 #-----------------------------------------
 # Path to Shaded Woods
 #-----------------------------------------
 
+10290700 <> 10290720
+
 #-----------------------------------------
 # Unseen Path to Heide
 #-----------------------------------------
+
+10300700 <> 10300720
 
 #-----------------------------------------
 # Heide's Tower of Flame
@@ -98,17 +123,25 @@
 - Remixed the existing enemy placements.
 - Added 1 Red Crystal Lizard.
 
+10310700 <> 10310720
+
 #-----------------------------------------
 # Shaded Woods
 #-----------------------------------------
+
+10320700 <> 10320730
 
 #-----------------------------------------
 # Doors of Pharros
 #-----------------------------------------
 
+10330720 <> 10330740
+
 #-----------------------------------------
 # Grave of Saints
 #-----------------------------------------
+
+10340710 <> 10340730 
 
 #-----------------------------------------
 # Giant Memories
@@ -118,9 +151,13 @@
 # Shrine of Amana
 #-----------------------------------------
 
+20110800 <> 20110830
+
 #-----------------------------------------
 # Drangleic Castle
 #-----------------------------------------
+
+20210700 <> 20210730
 
 #-----------------------------------------
 # Undead Crypt

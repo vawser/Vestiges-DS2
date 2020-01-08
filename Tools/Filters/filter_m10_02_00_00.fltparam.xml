@@ -263,22 +263,22 @@
         <value id="15">1</value>
       </param>
       <param name1="順応最低輝度" type="Float">
-        <value id="0">0.015</value>
-        <value id="1">0.001</value>
-        <value id="2">0.001</value>
-        <value id="3">0.001</value>
-        <value id="4">0.001</value>
-        <value id="5">0.001</value>
-        <value id="6">0.02</value>
-        <value id="7">0.001</value>
-        <value id="8">0.001</value>
-        <value id="9">0.001</value>
-        <value id="10">0.001</value>
-        <value id="11">0.001</value>
-        <value id="12">0.001</value>
-        <value id="13">0.001</value>
-        <value id="14">0.001</value>
-        <value id="15">0.001</value>
+        <value id="0">0.05</value>
+        <value id="1">0.05</value>
+        <value id="2">0.05</value>
+        <value id="3">0.05</value>
+        <value id="4">0.05</value>
+        <value id="5">0.05</value>
+        <value id="6">0.05</value>
+        <value id="7">0.05</value>
+        <value id="8">0.05</value>
+        <value id="9">0.05</value>
+        <value id="10">0.05</value>
+        <value id="11">0.05</value>
+        <value id="12">0.05</value>
+        <value id="13">0.05</value>
+        <value id="14">0.05</value>
+        <value id="15">0.05</value>
       </param>
       <param name1="順応最高輝度" type="Float">
         <value id="0">0.2</value>
@@ -3193,46 +3193,46 @@
     </group>
     <group name1="フォグ">
       <param name1="色" type="Byte4">
-        <value id="0">0F 19 1E FF</value>
-        <value id="1">0A 14 14 FF</value>
-        <value id="2">3A 39 2D FF</value>
-        <value id="3">3A 39 2D FF</value>
-        <value id="4">0A 14 14 FF</value>
-        <value id="5">3A 39 2D FF</value>
-        <value id="6">3A 39 2D FF</value>
-        <value id="7">3A 39 2D FF</value>
-        <value id="8">3A 39 2D FF</value>
-        <value id="9">3A 39 2D FF</value>
-        <value id="10">3A 39 2D FF</value>
-        <value id="11">3A 39 2D FF</value>
-        <value id="12">3A 39 2D FF</value>
-        <value id="13">3A 39 2D FF</value>
-        <value id="14">3A 39 2D FF</value>
-        <value id="15">3A 39 2D FF</value>
-        <value id="1011">81 9F C6 D1</value>
-        <value id="1012">81 9E C6 D1</value>
-        <value id="1019">81 A1 C6 D1</value>
+        <value id="0">00 00 00 FF</value>
+        <value id="1">00 00 00 FF</value>
+        <value id="2">00 00 00 FF</value>
+        <value id="3">00 00 00 FF</value>
+        <value id="4">00 00 00 FF</value>
+        <value id="5">00 00 00 FF</value>
+        <value id="6">00 00 00 FF</value>
+        <value id="7">00 00 00 FF</value>
+        <value id="8">00 00 00 FF</value>
+        <value id="9">00 00 00 FF</value>
+        <value id="10">00 00 00 FF</value>
+        <value id="11">00 00 00 FF</value>
+        <value id="12">00 00 00 FF</value>
+        <value id="13">00 00 00 FF</value>
+        <value id="14">00 00 00 FF</value>
+        <value id="15">00 00 00 FF</value>
+        <value id="1011">00 00 00 FF</value>
+        <value id="1012">00 00 00 FF</value>
+        <value id="1019">00 00 00 FF</value>
       </param>
       <param name1="距離" type="Float">
-        <value id="0">15</value>
-        <value id="1">15</value>
-        <value id="2">600</value>
-        <value id="3">600</value>
-        <value id="4">15</value>
-        <value id="5">600</value>
-        <value id="6">600</value>
-        <value id="7">600</value>
-        <value id="8">600</value>
-        <value id="9">600</value>
-        <value id="10">600</value>
-        <value id="11">600</value>
-        <value id="12">600</value>
-        <value id="13">600</value>
-        <value id="14">600</value>
-        <value id="15">600</value>
-        <value id="1011">0.85</value>
-        <value id="1012">0.5</value>
-        <value id="1019">6.1</value>
+        <value id="0">30</value>
+        <value id="1">30</value>
+        <value id="2">30</value>
+        <value id="3">30</value>
+        <value id="4">30</value>
+        <value id="5">30</value>
+        <value id="6">30</value>
+        <value id="7">30</value>
+        <value id="8">30</value>
+        <value id="9">30</value>
+        <value id="10">30</value>
+        <value id="11">30</value>
+        <value id="12">30</value>
+        <value id="13">30</value>
+        <value id="14">30</value>
+        <value id="15">30</value>
+        <value id="1011">0.7</value>
+        <value id="1012">0.7</value>
+        <value id="1019">0.7</value>
       </param>
       <param name1="高さフォグ基準" type="Float">
         <value id="0">0</value>
@@ -3340,11 +3340,11 @@
         <value id="1019">False</value>
       </param>
       <param name1="α" type="Float">
-        <value id="0">0.5</value>
-        <value id="1">0.5</value>
+        <value id="0">1</value>
+        <value id="1">1</value>
         <value id="2">1</value>
         <value id="3">1</value>
-        <value id="4">0.5</value>
+        <value id="4">1</value>
         <value id="5">1</value>
         <value id="6">1</value>
         <value id="7">1</value>
@@ -3356,9 +3356,9 @@
         <value id="13">1</value>
         <value id="14">1</value>
         <value id="15">1</value>
-        <value id="1011">0.22</value>
-        <value id="1012">0.22</value>
-        <value id="1019">0.22</value>
+        <value id="1011">1</value>
+        <value id="1012">1</value>
+        <value id="1019">1</value>
       </param>
       <param name1="コントラスト(廃止)" type="Float">
         <value id="0">0</value>

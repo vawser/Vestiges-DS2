@@ -28,10 +28,3 @@ Undead Crypt Tomb:          50 38 00 00
 #-----------------------------------------
 # Notes
 #-----------------------------------------
-- Swapped Skeleton for Undead Steelworker in first area
-- Added Mounted Overseer and 2 Undead Steelworkers in front to gate to second bonfire.
-- Moved the Desert Sorceresses into the minecart area. Added 1 more.
-- Moved the Artifical Undead into the hole area
-- Moved the crystal lizards into the minecart area.
-- Added poison pots to the Covetous Demon room.
-- Added new optional section at the start of Earthen Peak.

@@ -25,11 +25,11 @@
 1012 [GEN:1012] Skeleton
 1110 [GEN:1110] Skeleton
 1111 [GEN:1111] NO MATCH
-1400 [GEN:1400] Desert Sorceress
 1600 [GEN:1600] Skeleton
 1601 [GEN:1601] Skeleton
-1602 [GEN:1602] Skeleton
 1700 [GEN:1700] Desert Sorceress
+1701 [GEN:1701] Desert Sorceress
+1702 [GEN:1702] Desert Sorceress
 1800 [GEN:1800] Crystal Lizard
 1801 [GEN:1801] Crystal Lizard
 1802 [GEN:1802] Crystal Lizard
@@ -51,6 +51,9 @@
 2510 [GEN:2510] Skeleton
 2600 [GEN:2600] Undead Steelworker
 2601 [GEN:2601] Undead Steelworker
+2602 [GEN:2602] Undead Steelworker
+2603 [GEN:2603] Undead Steelworker
+2604 [GEN:2604] Undead Steelworker
 2610 [GEN:2610] Manikin
 3000 [GEN:3000] Undead Steelworker
 3002 [GEN:3002] Undead Steelworker
@@ -83,6 +86,9 @@
 3600 [GEN:3600] Manikin
 3601 [GEN:3601] Manikin
 3602 [GEN:3602] Desert Sorceress
+3603 [GEN:3603] Desert Sorceress
+3604 [GEN:3604] Desert Sorceress
+3605 [GEN:3605] Desert Sorceress
 3700 [GEN:3700] Manikin
 3800 [GEN:3800] Manikin
 3810 [GEN:3810] Manikin
@@ -107,7 +113,6 @@
 5210 [GEN:5210] Undead Supplicant
 5211 [GEN:5211] NO MATCH
 5212 [GEN:5212] Undead Supplicant
-7000 [GEN:7000] Captive Undead
 7010 [GEN:7010] NO MATCH
 7020 [GEN:7020] Captive Undead
 7021 [GEN:7021] NO MATCH
@@ -137,4 +142,5 @@
 9010 [GEN:9010] Mounted Overseer
 9012 [GEN:9012] Mounted Overseer
 9013 [GEN:9013] Mounted Overseer
+9014 [GEN:9014] Mounted Overseer
 9100 [GEN:9100] Poison Moth

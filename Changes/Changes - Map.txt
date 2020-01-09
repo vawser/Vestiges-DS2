@@ -8,15 +8,14 @@
 # Majula
 #-----------------------------------------
 - Added more trees.
-- Added more braziers.
+- Added numerous unlit braziers.
 
 #-----------------------------------------
 # Forest of Fallen Giants
 #-----------------------------------------
 - Remixed the existing enemy placements.
 - Adjusted some object placement to make the barren areas less empty.
-
-10100712 <> 10100750
+- Added numerous unlit braziers.
 
 #-----------------------------------------
 # Brightstone Cove
@@ -25,8 +24,7 @@
 - Replaced the Hollow Falconers with boars.
 - Re-arranged the Congregation room.
 - Removed the spiders near the Lower Brightstone Cove bonfire.
-
-10140709 <> 10140750
+- Added numerous unlit braziers.
 
 #-----------------------------------------
 # Aldia's Keep
@@ -34,8 +32,7 @@
 - Added 3 Giant Basilisks to the Foregarden area.
 - Added 5 Basilisk to the Foregarden area.
 - Added 5 Dragon Acolytes to the entrance and within the main hall.
-
-10150720 <> 10150750
+- Added numerous unlit braziers.
 
 #-----------------------------------------
 # Lost Bastille
@@ -56,8 +53,7 @@
 - Moved a chest into Straid's cell.
 - Swapped Royal Soldier on roof with Suspicious Shadow.
 - Added Suspicious Shadow near Bastille Key corpse. 
-
-10150709 <> 10150749
+- Added numerous unlit braziers.
 
 #-----------------------------------------
 # Harvest Valley
@@ -69,14 +65,15 @@
 - Moved the crystal lizards into the minecart area.
 - Added poison pots to the Covetous Demon room.
 - Added new optional section at the start of Earthen Peak.
-
-10170700 <> 10170750
+- Added numerous unlit braziers.
 
 #-----------------------------------------
 # No Man's Wharf
 #-----------------------------------------
-
-10180800 <> 10180850
+- Added driftwood platforms in the water, forming a shortcut to the boat.
+- Added optional route with driftwood platforms, leading to treasure chest (contains Titanite Slab).
+- Removed the dogs near the Sailor Hall shortcut route.
+- Moved the carts on the way towards the Sailor Hall shortcut route.
 
 #-----------------------------------------
 # Iron Keep
@@ -84,8 +81,7 @@
 - Remixed the existing enemy placements.
 - Added 2 Iron Warriors.
 - Added 4 Possessed Armors.
-
-10190701 <> 10190750
+- Moved chest up to Eygil's Idol.
 
 #-----------------------------------------
 # Huntsman's Copse
@@ -163,15 +159,23 @@
 # Undead Crypt
 #-----------------------------------------
 
+20240720 <> 20240740
+
 #-----------------------------------------
 # Crown of the Sunken King
 #-----------------------------------------
+
+50350800 <> 50350850
 
 #-----------------------------------------
 # Crown of the Iron King
 #-----------------------------------------
 
+50360700 <> 50360730
+
 #-----------------------------------------
 # Crown of the Ivory King
 #-----------------------------------------
+
+50370710 <> 50370750
 

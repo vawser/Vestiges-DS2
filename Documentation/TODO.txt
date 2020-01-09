@@ -27,28 +27,24 @@ Crown of the Ivory King:    50 37 00 00
 Undead Crypt Tomb:          50 38 00 00
 
 #-----------------------------------------
+# Models
+#-----------------------------------------
+o00_1900 - Crossed-leg Metal Brazier
+o00_1901 - Stone Brazier
+o16_1910 - Straight Metal Brazier
+o14_1900 - Ornate Brazier
+o18_1900 - Bundled Torch
+
+#-----------------------------------------
 # Notes
 #-----------------------------------------
-Metal Sconce
-Instance ID: 10160705
-T04: 16685
-Model: o16_1910
+# Catchall Display/DrawGroup
+4294967295
 
-4033794
-2366
-128
-8
-#
-
-s32	Map Object ID	10160001
-s32	Unk04	0
-s32	Unk08	0
-f32	Unk0C	1
-f32	Unk10	-1
-s32	Map Object Instance Type ID	260
-u16	Unk18	10
-u16	Unk1A	65535
-u16	Unk1C	65287
-u16	Unk1E	65282
-s32	Unk20	255
-f32	Unk24	0
+#-----------------------------------------
+# TODO
+#-----------------------------------------
+Add braziers to maps (Iron Keep onwards)
+Continue enemy/object changes for maps
+Go over treasures, note special treasures, and re-arrange some treasure contents to change gameflow
+Test adding new treasure corpse

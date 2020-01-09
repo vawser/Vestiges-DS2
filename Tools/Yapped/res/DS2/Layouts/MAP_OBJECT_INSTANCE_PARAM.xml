@@ -38,17 +38,32 @@
   </entry>
   <entry>
     <name>Unk1A</name>
-    <type>u16</type>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk1A</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
     <name>Unk1C</name>
-    <type>u16</type>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk1D</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>
     <name>Unk1E</name>
-    <type>u16</type>
+    <type>u8</type>
+    <default>0</default>
+  </entry>
+  <entry>
+    <name>Unk1F</name>
+    <type>u8</type>
     <default>0</default>
   </entry>
   <entry>

@@ -28,8 +28,7 @@
 - Increased Crystal Soul Spear casts.
 
 # Enemies
-- Adjusted boss HP.
-- Adjusted boss soul drops. In general the more difficult bosses now drop many more souls, whereas easy bosses drop less.
+- Adjusted the soul drops of some bosses.
 - Increased the drop rate of Loyce Souls massively (7.5% -> 50%).
 - Lud and Zallen now drop Lingering Dragoncrest Ring+2
 - Afflicted Graverobber, Ancient Soldier Varg & Cerah the Old Explorer now drop Ring of Thorns+2 in NG+1

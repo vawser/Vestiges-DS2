@@ -3,6 +3,10 @@
 #-----------------------------------------
 - Moved Petrified Undead Traveler to long platform above.
 - Moved Estus Shard Fragment next to the sconce that is now blocked by the Petrified Undead Traveler.
+- Moved the spawn point in front of the door to the Fire Keeper's Dwelling.
+- Added 3 Ogres to the area before the Fire Keeper's Dwelling.
+- Changed the Dagger treasure into Titanite Slab and moved it to the original spawn point.
+- Enabled the Hollow Falconers to appear in New Game.
 
 #-----------------------------------------
 # Majula

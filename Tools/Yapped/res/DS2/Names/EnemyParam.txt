@@ -167,10 +167,10 @@
 127011 Captive Undead
 127020 Captive Undead
 127030 Captive Undead
-127100 Undead Laborer
-127101 Undead Laborer
-127110 Undead Laborer
-127111 Undead Laborer
+127100 Captive Undead
+127101 Captive Undead
+127110 Captive Undead
+127111 Captive Undead
 129000 Forest Spirit
 129010 Forest Spirit
 129200 Forest Spirit
@@ -207,7 +207,7 @@
 135040 Gyrm Warrior
 135050 Gyrm Warrior
 137010 Prowling Magus
-137021 Prowling Magus
+137021 Prowling Magus [Boss]
 137022 Prowling Magus
 138000 Torturer
 138001 Torturer
@@ -259,12 +259,12 @@
 153014 Syan Knight
 153015 Syan Knight
 153016 Syan Knight
-154000 Skeleton Lord
-154001 Skeleton Lord
-154010 Skeleton Lord
-154011 Skeleton Lord
-154020 Skeleton Lord
-154021 Skeleton Lord
+154000 Skeleton Lord [Boss]
+154001 Skeleton Lord [Boss]
+154010 Skeleton Lord [Boss]
+154011 Skeleton Lord [Boss]
+154020 Skeleton Lord [Boss]
+154021 Skeleton Lord [Boss]
 155000 Amana Aberration
 155001 Amana Aberration
 156011 UNKNOWN
@@ -409,7 +409,7 @@
 308100 Lion Clan Warrior
 309000 Forgotten Giant
 309001 Forgotten Giant
-309600 The Last Giant
+309600 Last Giant [Boss]
 309700 Giant Lord [Boss]
 311000 Mounted Overseer
 312000 Grave Warden
@@ -440,7 +440,7 @@
 317000 Dragon Acolyte
 318000 The Pursuer
 318010 The Pursuer [Boss]
-318011 The Pursuer
+318011 The Pursuer - Early Spawn
 318020 The Pursuer
 318030 The Pursuer
 318040 The Pursuer
@@ -486,25 +486,25 @@
 332000 Throne Defender [Boss]
 333000 Velstadt [Boss]
 334000 Throne Watcher [Boss]
-337000 Captive Undead
-337002 Captive Undead
-337003 Captive Undead
-337010 Captive Undead
-337011 Captive Undead
-337020 Captive Undead
-337022 Captive Undead
-337023 Captive Undead
+337000 Abandoned Hollow
+337002 Abandoned Hollow
+337003 Abandoned Hollow
+337010 Abandoned Hollow
+337011 Abandoned Hollow
+337020 Abandoned Hollow
+337022 Abandoned Hollow
+337023 Abandoned Hollow
 500000 Covetous Demon [Boss]
-500100 Snowy Covetous Demon
+500100 Covetous Demon (snow)
 501000 Mytha, the Baneful Queen [Boss]
 502000 Manscorpion Tark
 502001 Manscorpion Tark
 502009 Manscorpion Tark
-503000 Scorpioness Najka
+503000 Scorpioness Najka [Boss]
 504000 Looking Glass Knight [Boss]
 506100 Darklurker [Boss]
-506101 Darklurker
-506200 Darklurker (Clone)
+506101 Darklurker (Clone) [Boss]
+506200 UNKNOWN
 506500 Grave Warden Agdayne
 506501 Grave Warden Agdayne
 506509 Grave Warden Agdayne
@@ -521,15 +521,15 @@
 603100 The Duke's Dear Freja
 607000 Old Iron King [Boss]
 608000 Rotten Vermin
-611010 Dragonrider [Boss]
-611500 Dragonrider [Boss]
-611510 Dragonrider [Boss] (Heide's Tower of Flame)
+611010 Dragonrider [Boss - Heide's Tower of Flame]
+611500 Dragonrider [Boss - Drangleic Castle]
+611510 Dragonrider [Boss - Drangleic Castle]
 611520 Dragonrider
 611530 Dragonrider
 619110 Executioner's Chariot [Boss]
 619111 Executioner's Chariot
 625000 Old Dragonslayer [Boss]
-626000 Lost Sinner [Boss]
+626000 The Lost Sinner [Boss]
 627000 Nashandra [Boss]
 628000 Royal Rat Authority [Boss]
 650000 Iron Warrior
@@ -573,31 +573,31 @@
 656006 Possessed Armor
 657000 Barrel Carrier
 657001 Barrel Carrier
-658000 Retainer (old)
+658000 Retainer
 659000 Rampart Golem
 659001 Rampart Golem
 659002 Rampart Golem
 659003 Rampart Golem
 659004 Rampart Golem
 659005 Rampart Golem
-660000 Ice Golem
-660001 Ice Golem
-660002 Ice Golem
-660003 Ice Golem
+660000 Crystal Golem
+660001 Crystal Golem
+660002 Crystal Golem
+660003 Crystal Golem
 661000 Frozen Reindeer
 661001 Frozen Reindeer
 662000 Rampart Hedgehog
 662001 Rampart Hedgehog
-663000 Spellsword
-663001 Spellsword
-663002 Spellsword
-663003 Spellsword
-663004 Spellsword
-663005 Spellsword
-663010 Spellsword
-663011 Spellsword
-663012 Spellsword
-663013 Spellsword
+663000 Rampart Spearman
+663001 Rampart Spearman
+663002 Rampart Spearman
+663003 Rampart Spearman
+663004 Rampart Spearman
+663005 Rampart Spearman
+663010 Rampart Spearman
+663011 Rampart Spearman
+663012 Rampart Spearman
+663013 Rampart Spearman
 665000 Sanctum Knight
 665001 Sanctum Knight
 665010 Sanctum Knight
@@ -628,22 +628,22 @@
 672001 Rotten Vermin
 672002 Rotten Vermin
 674000 Pagan Tree
-675000 Fume Knight
+675000 Fume Knight [Boss]
 675001 Fume Knight
 675010 Fume Knight
 675011 Fume Knight
-677000 Retainer
-677001 Retainer
-677010 Retainer
-677011 Retainer
-678000 Facsimile Giant
-678001 Facsimile Giant
-678010 Facsimile Giant
-678011 Facsimile Giant
-678099 Facsimile Giant
+677000 Retainer Sorcerer
+677001 Retainer Sorcerer
+677010 Retainer Sorcerer
+677011 Retainer Sorcerer
+678000 Ice Golem
+678001 Ice Golem
+678010 Ice Golem
+678011 Ice Golem
+678099 Ice Golem
 679000 Aava, the King's Pet [Boss]
-679001 Aava, the King's Pet
-679002 Aava, the King's Pet
+679001 Aava, the King's Pet [Boss]
+679002 Aava, the King's Pet [Boss]
 679100 Lud, the King's Pet [Boss]
 679101 Zallen, the King's Pet [Boss]
 680000 Sir Alonne [Boss]
@@ -665,7 +665,7 @@
 690000 Burnt Ivory King [Boss]
 690001 Burnt Ivory King
 692000 Aldia, Scholar of the First Sin [Boss]
-693000 Aldia, Scholar of the First Sin
+693000 Aldia, Scholar of the First Sin [Passive]
 694000 Forlorn (Greatsword)
 694001 Forlorn (Greatsword)
 694002 Forlorn (Greatsword)
@@ -686,11 +686,11 @@
 695007 Forlorn (Scythe)
 695008 Forlorn (Scythe)
 696000 Invisible Hollow
-700500 Emerald Herald
-700501 Emerald Herald
-700502 Emerald Herald
-700503 Emerald Herald
-700504 Emerald Herald
+700500 Shanalotte
+700501 Shanalotte
+700502 Shanalotte
+700503 Shanalotte
+700504 Shanalotte
 701500 Emerald Herald
 703600 Nashandra (human)
 704500 Laddersmith Gilligan
@@ -727,8 +727,8 @@
 730001 Looking Glass Phantom (Faraam)
 731010 Looking Glass Phantom (Knight)
 731011 Looking Glass Phantom (Knight)
-732000 Unknown NPC
-733000 Unknown NPC
+732000 UNKNOWN
+733000 UNKNOWN
 741000 Crestfallen Saulden
 741001 Crestfallen Saulden
 742000 Creighton the Wanderer
@@ -777,8 +777,8 @@
 760001 Milfanito
 760100 Milfanito
 760101 Milfanito
-760200 Imprisoned Milfanito
-760201 Imprisoned Milfanito
+760200 Milfanito
+760201 Milfanito
 761000 Maughlin the Armourer
 761001 Maughlin the Armourer
 762000 Stone Trader Chloanne
@@ -869,29 +869,29 @@
 837000 Foreign Wanderer Phantom
 837100 Foreign Wanderer
 837200 Greatsword Foreigner Phantom
-837201 Goblin Phantom
+837201 Greatsword Foreigner Phantom
 837400 Player Character - Start Sequence
-838200 Forest Guardian
-838201 Forest Guardian
-838300 Forest Guardian
-838301 Forest Guardian
+838200 UNKNOWN
+838201 UNKNOWN
+838300 UNKNOWN
+838301 UNKNOWN
 840000 Voice Marker
 841000 Voice Marker
 842000 Syan Knight Phantom
 843000 Knight Phantom
 844000 Catarina Knight Phantom
-845000 Unknown Phantom
+845000 UNKNOWN
 846000 Porcine Peasant Phantom
 847000 Executioner Phantom
 847100 Sentinel Phantom
 848000 Dual Wielding Swordsman Phantom
-848100 Unknown Phantom
+848100 UNKNOWN
 849000 Nameless Usurper
 849001 Nameless Usurper
 849100 Jester Thomas
 849200 Rhoy the Explorer
 850000 Painting Guardian Phantom
-851000 Unknown Phantom
+851000 UNKNOWN
 852000 Greatsword Phantom
 853000 Bowman Guthry
 853100 Ashen Knight Boyd
@@ -900,8 +900,8 @@
 853300 Elite Knight Phantom
 853400 Greatbow Phantom
 853500 Washing Pole Phantom
-854000 Unknown Phantom
-855000 Voice Marker (Creighton/Pate)
+854000 UNKNOWN
+855000 UNKNOWN
 860000 Rockshield Baldyr
 861000 Jester Thomas
 862000 Rhoy the Explorer
@@ -935,18 +935,18 @@
 880000 Drakeblood Knight Rondor
 881000 Prowlers
 882000 Prowlers
-883000 Wall Watchman
-883100 Wall Watchman
-883200 Wall Watchman
+883000 UNKNOWN
+883100 UNKNOWN
+883200 UNKNOWN
 884001 Twiggy Shei
-885000 Unknown Phantom
-885001 Unknown Phantom
-885100 Unknown Phantom
-885101 Unknown Phantom
+885000 UNKNOWN
+885001 UNKNOWN
+885100 UNKNOWN
+885101 UNKNOWN
 886000 Insolent Knight
 887000 Gutter Denizen
 888000 Butcher Phantom
-890000 Unknown Phantom
+890000 UNKNOWN
 891000 Sellsword Luet
 891001 Sellsword Luet
 891002 Sellsword Luet

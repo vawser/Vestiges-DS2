@@ -54,3 +54,26 @@ Rename Forgotten Chamber into Upper Drangleic Castle
 Rename Central Drangleic Castle into King's Passage
 
 Change the third area enemies for Drangleic Castle
+
+156011
+672000
+506200
+732000
+733000
+838200
+838201
+838300
+838301
+845000
+848100
+851000
+854000
+855000
+883000
+883100
+883200
+885000
+885001
+885100
+885101
+890000

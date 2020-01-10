@@ -6,9 +6,9 @@
 617 [GEN:617] Devotee Scarlett
 842 [GEN:842] Dragonrider
 843 [GEN:843] Old Dragonslayer
-1000 [GEN:1000] Old Knight
 1010 [GEN:1010] Old Knight
 1020 [GEN:1020] Old Knight
+1021 [GEN:1021] Old Knight
 1030 [GEN:1030] Old Knight
 1040 [GEN:1040] Old Knight
 1041 [GEN:1041] Old Knight

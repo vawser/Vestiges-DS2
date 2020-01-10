@@ -599,7 +599,7 @@
 10185001 [No-man's Wharf] Titanite Chunk
 10185030 [No-man's Wharf] Repair Powder, Titanite Shard
 10185040 [No-man's Wharf] Bandit Axe, Brigand Set
-10185050 [No-man's Wharf] Greatsword
+10185050 [No-man's Wharf - Chest] Titanite Slab
 10185060 [No-man's Wharf] Royal Soldier's Ring
 10185070 [No-man's Wharf] Large Titanite Shard
 10185071 [No-man's Wharf] Sea Bow
@@ -626,7 +626,7 @@
 10186170 [No-man's Wharf] Throwing Knife, Flame Butterfly
 10195000 [Iron Keep] Destructive Greatarrow
 10195001 [Iron Keep] Destructive Greatarrow
-10195030 [Iron Keep] Smelter Hammer
+10195030 [Iron Keep - Chest] Smelter Hammer
 10195040 [Iron Keep] Life Ring+1, Twinkling Titanite
 10195050 [Iron Keep] Black Knight Greatsword
 10195060 [Iron Keep] Protective Chime, Grand Spirit Tree Shield

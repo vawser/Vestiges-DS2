@@ -34,6 +34,7 @@ o00_1901 - Stone Brazier
 o16_1910 - Straight Metal Brazier
 o14_1900 - Ornate Brazier
 o18_1900 - Bundled Torch
+o33_1900 - Gyrm Brazier
 
 #-----------------------------------------
 # Notes
@@ -44,7 +45,12 @@ o18_1900 - Bundled Torch
 #-----------------------------------------
 # TODO
 #-----------------------------------------
-Add braziers to maps (Iron Keep onwards)
 Continue enemy/object changes for maps
 Go over treasures, note special treasures, and re-arrange some treasure contents to change gameflow
 Test adding new treasure corpse
+
+Rename King's Gate into Lower Drangleic Castle
+Rename Forgotten Chamber into Upper Drangleic Castle
+Rename Central Drangleic Castle into King's Passage
+
+Change the third area enemies for Drangleic Castle

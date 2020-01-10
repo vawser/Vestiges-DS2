@@ -8,14 +8,14 @@
 # Majula
 #-----------------------------------------
 - Added more trees.
-- Added numerous unlit braziers.
+- Added unlit braziers.
 
 #-----------------------------------------
 # Forest of Fallen Giants
 #-----------------------------------------
 - Remixed the existing enemy placements.
 - Adjusted some object placement to make the barren areas less empty.
-- Added numerous unlit braziers.
+- Added unlit braziers.
 
 #-----------------------------------------
 # Brightstone Cove
@@ -24,7 +24,7 @@
 - Replaced the Hollow Falconers with boars.
 - Re-arranged the Congregation room.
 - Removed the spiders near the Lower Brightstone Cove bonfire.
-- Added numerous unlit braziers.
+- Added unlit braziers.
 
 #-----------------------------------------
 # Aldia's Keep
@@ -32,11 +32,12 @@
 - Added 3 Giant Basilisks to the Foregarden area.
 - Added 5 Basilisk to the Foregarden area.
 - Added 5 Dragon Acolytes to the entrance and within the main hall.
-- Added numerous unlit braziers.
+- Added unlit braziers.
 
 #-----------------------------------------
 # Lost Bastille
 #-----------------------------------------
+- Made the area darker.
 - Remixed the existing enemy placements.
 - Added more objects to empty areas.
 - Moved some chests to different locations.
@@ -53,11 +54,12 @@
 - Moved a chest into Straid's cell.
 - Swapped Royal Soldier on roof with Suspicious Shadow.
 - Added Suspicious Shadow near Bastille Key corpse. 
-- Added numerous unlit braziers.
+- Added unlit braziers.
 
 #-----------------------------------------
 # Harvest Valley
 #-----------------------------------------
+- Made the area darker.
 - Swapped Skeleton for Undead Steelworker in first area
 - Added Mounted Overseer and 2 Undead Steelworkers in front to gate to second bonfire.
 - Moved the Desert Sorceresses into the minecart area. Added 1 more.
@@ -65,11 +67,12 @@
 - Moved the crystal lizards into the minecart area.
 - Added poison pots to the Covetous Demon room.
 - Added new optional section at the start of Earthen Peak.
-- Added numerous unlit braziers.
+- Added unlit braziers.
 
 #-----------------------------------------
 # No Man's Wharf
 #-----------------------------------------
+- Made the area darker.
 - Added driftwood platforms in the water, forming a shortcut to the boat.
 - Added optional route with driftwood platforms, leading to treasure chest (contains Titanite Slab).
 - Removed the dogs near the Sailor Hall shortcut route.
@@ -86,9 +89,10 @@
 #-----------------------------------------
 # Huntsman's Copse
 #-----------------------------------------
+- Made the area darker.
 - Remixed the existing enemy placements.
 - Added 1 Torturer and Artifical Undead to the roof area.
-- Added numerous unlit braziers.
+- Added unlit braziers.
 - Moved the tree trunk shortcut to now act as a route to the item below the rope bridge
 - Added tree trunk shortcuts into wooded area.
 - Added Black Hollow Mage on first bridge.
@@ -98,26 +102,28 @@
 #-----------------------------------------
 # The Gutter
 #-----------------------------------------
-
-10250800 <> 10250820
+- Made the area darker.
+- Added unlit braziers.
+- Moved the petrified hollow in front of a chest, rather than blocking access to the bonfire.
 
 #-----------------------------------------
 # Dragon Aerie
 #-----------------------------------------
-
-10270700 <> 10270750
+- Added unlit braziers.
+- Moved the petrified hollow from the start of the Dragon Aerie in front of the side area at the start of Dragon Shrine.
+- Removed the shortcut ladder near the Dragon Aerie bonfire.
+- Removed all the Rupturing Hollows.
+- Added several Drakekeepers throughout Dragon Aerie.
 
 #-----------------------------------------
 # Path to Shaded Woods
 #-----------------------------------------
-
-10290700 <> 10290720
+- Added lit brazier in trap room.
 
 #-----------------------------------------
 # Unseen Path to Heide
 #-----------------------------------------
-
-10300700 <> 10300720
+- Made the area darker.
 
 #-----------------------------------------
 # Heide's Tower of Flame
@@ -125,25 +131,25 @@
 - Remixed the existing enemy placements.
 - Added 1 Red Crystal Lizard.
 
-10310700 <> 10310720
-
 #-----------------------------------------
 # Shaded Woods
 #-----------------------------------------
-
-10320700 <> 10320730
+- Made the area darker.
+- Removed the Hollow Falconers from the Shrine of Winter route.
+- Added Syan Knights to the Shrine of Winter route.
+- Added Giant Basilisk in front of the collapsed route past the Shrine of Winter.
+- Added Giant Basilisk in the lion warrior area of Shaded Woods.
+- Added Giant Basilisk and several Basilisks to the misty woods area of Shaded Woods.
 
 #-----------------------------------------
 # Doors of Pharros
 #-----------------------------------------
 
-10330720 <> 10330740
-
 #-----------------------------------------
 # Grave of Saints
 #-----------------------------------------
-
-10340710 <> 10340730 
+- Made the area darker.
+- Moved the jumping treasure near the wooden bridge down into the pit.
 
 #-----------------------------------------
 # Giant Memories
@@ -152,18 +158,32 @@
 #-----------------------------------------
 # Shrine of Amana
 #-----------------------------------------
-
-20110800 <> 20110830
+- Made the area darker.
+- Removed some Archdrake Clerics from the first area and added in some Amana Shrine Maidens.
+- Removed the Amana Abominations in the chest room just before the second bonfire, added in several small Acid Horn Beetles.
+- Removed the Old Knight.
+- Moved 2 Archdrake Clerics further forward in the second area.
+- Added Dragonrider in front of entrance to second bonfire.
+- Removed the Giant Acid Horn Beetle in front of the second bonfire.
 
 #-----------------------------------------
 # Drangleic Castle
 #-----------------------------------------
+- Made the area darker.
+- Moved the King's Gate bonfire into the castle hall.
+- Moved a chest into the King's Gate old bonfire location.
+- Added shortcut ladder to second area, linked via invisible path to the front of the castle.
+- Moved the Forgotten Chamber bonfire in front of human Nashandra.
+- Moved a chest into the Forgotten Chamber old bonfire location.
+- Moved the archer Dragonrider to the opposite side of the room.
+- Moved the Central Drangleic Castle bonfire behind the Looking Glass Knight passage door.
 
 20210700 <> 20210730
 
 #-----------------------------------------
 # Undead Crypt
 #-----------------------------------------
+- Made the area darker.
 
 20240720 <> 20240740
 

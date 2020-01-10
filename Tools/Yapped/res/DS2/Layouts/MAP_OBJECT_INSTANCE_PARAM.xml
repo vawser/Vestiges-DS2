@@ -57,9 +57,14 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk1E</name>
+    <name>Default State</name>
     <type>u8</type>
     <default>0</default>
+    <description>Which state this object is in by default:
+0 - None
+1 - Inactive
+2 - Active
+</description>
   </entry>
   <entry>
     <name>Unk1F</name>

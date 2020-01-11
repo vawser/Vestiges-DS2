@@ -181,31 +181,37 @@
 - Moved a chest into the Forgotten Chamber old bonfire location.
 - Moved the archer Dragonrider to the opposite side of the room.
 - Moved the Central Drangleic Castle bonfire behind the Looking Glass Knight passage door.
-
-20210700 <> 20210730
+- Added 3 Stone Soldiers to the giant room in the King's Passage area.
+- Added 6 Stone Knights to the hall area in the King's Passage area.
+- Removed the Old Knights in the King's Passage area.
+- Removed a few of the Royal Soldiers in the entrance area of Drangleic Castle.
 
 #-----------------------------------------
 # Undead Crypt
 #-----------------------------------------
 - Made the area darker.
+- Moved Imperious Knight at start to the entrance to the hall just before Velstadt.
+- Deleted a few rocks to make the run to Velstadt quicker.
 
-20240720 <> 20240740
+#-----------------------------------------
+# Dark Chasm of Old
+#-----------------------------------------
+- Made the area darker.
 
 #-----------------------------------------
 # Crown of the Sunken King
 #-----------------------------------------
-
-50350800 <> 50350850
+- Removed all the Sanctum Soldiers from the Cave of the Dead section to make it less tedious to clear.
 
 #-----------------------------------------
 # Crown of the Iron King
 #-----------------------------------------
-
-50360700 <> 50360730
+- Removed several of the enemies in the Iron Passage section to make it less tedious to clear.
+- Removed several of the enemies in the Memory of the Old Iron King section to make it less tedious to clear.
 
 #-----------------------------------------
 # Crown of the Ivory King
 #-----------------------------------------
+- Moved the Expulsion Chamber bonfire to the bridge just before Lud and Zallen, renamed it to Frozen Bridge.
 
-50370710 <> 50370750
 

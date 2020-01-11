@@ -1,4 +1,4 @@
-10620000 [REG:10620000] Dark Priestess
+10620000 [REG:10620000] Hollow Priestess
 11500000 [REG:11500000] Undead Traveler
 12510000 [REG:12510000] Rupturing Hollow
 12510010 [REG:12510010] Rupturing Hollow

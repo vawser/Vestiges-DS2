@@ -37,4 +37,4 @@
 76600000 [REG:76600000] Carhillion of the Fold
 76600001 [REG:76600001] Carhillion of the Fold
 80000000 [REG:80000000] Bradley of the Old Guard
-82000000 [REG:82000000] Bradley of the Old Guard
+82000000 [REG:82000000] Aurous Knight Phantom

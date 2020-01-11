@@ -41,6 +41,9 @@
 3252 [GEN:3252] Basilisk
 3300 [GEN:3300] Ogre
 3301 [GEN:3301] Ogre
+3302 [GEN:3302] Ogre
+3303 [GEN:3303] Ogre
+3304 [GEN:3304] Ogre
 3350 [GEN:3350] The Pursuer
 3500 [GEN:3500] Undead Traveler
 4000 [GEN:4000] Hollow Falconer

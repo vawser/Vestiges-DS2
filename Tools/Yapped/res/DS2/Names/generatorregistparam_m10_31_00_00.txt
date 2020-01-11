@@ -7,7 +7,7 @@
 33000019 [REG:33000019] Old Knight
 33000040 [REG:33000040] Old Knight
 33000049 [REG:33000049] Old Knight
-34000000 [REG] Red Crystal Lizard
+34000000 [REG:34000000] Red Crystal Lizard
 61100000 [REG:61100000] Dragonrider [Boss]
 62500000 [REG:62500000] Old Dragonslayer [Boss]
 76900000 [REG:76900000] Licia of Lindeldt

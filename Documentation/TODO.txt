@@ -20,8 +20,8 @@ Giant Memories:             20 10 00 00
 Shrine of Amana:            20 11 00 00
 Drangleic Castle:           20 21 00 00
 Undead Crypt:               20 24 00 00
-Abyss:                      40 03 00 00
-Crown of the Shulva:        50 35 00 00
+Dark Chasm of Old:          40 03 00 00
+Crown of the Sunken King:   50 35 00 00
 Crown of the Iron King:     50 36 00 00
 Crown of the Ivory King:    50 37 00 00
 Undead Crypt Tomb:          50 38 00 00
@@ -45,35 +45,6 @@ o33_1900 - Gyrm Brazier
 #-----------------------------------------
 # TODO
 #-----------------------------------------
-Continue enemy/object changes for maps
 Go over treasures, note special treasures, and re-arrange some treasure contents to change gameflow
 Test adding new treasure corpse
 
-Rename King's Gate into Lower Drangleic Castle
-Rename Forgotten Chamber into Upper Drangleic Castle
-Rename Central Drangleic Castle into King's Passage
-
-Change the third area enemies for Drangleic Castle
-
-156011
-672000
-506200
-732000
-733000
-838200
-838201
-838300
-838301
-845000
-848100
-851000
-854000
-855000
-883000
-883100
-883200
-885000
-885001
-885100
-885101
-890000

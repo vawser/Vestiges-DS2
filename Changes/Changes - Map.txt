@@ -94,14 +94,10 @@
 # Huntsman's Copse
 #-----------------------------------------
 - Made the area darker.
-- Remixed the existing enemy placements.
-- Added 1 Torturer and Artifical Undead to the roof area.
 - Added unlit braziers.
 - Moved the tree trunk shortcut to now act as a route to the item below the rope bridge
 - Added tree trunk shortcuts into wooded area.
-- Added Black Hollow Mage on first bridge.
 - Added more torch hollows.
-- Increased the number of Bonewheel Skeletons spawned in the Skeleton Lords fight.
 
 #-----------------------------------------
 # The Gutter

@@ -486,14 +486,14 @@
 332000 Throne Defender - Boss
 333000 Velstadt - Boss
 334000 Throne Watcher - Boss
-337000 Abandoned Hollow
-337002 Abandoned Hollow
-337003 Abandoned Hollow
-337010 Abandoned Hollow
-337011 Abandoned Hollow
-337020 Abandoned Hollow
-337022 Abandoned Hollow
-337023 Abandoned Hollow
+337000 Captive Undead
+337002 Captive Undead
+337003 Captive Undead
+337010 Captive Undead
+337011 Captive Undead
+337020 Captive Undead
+337022 Captive Undead
+337023 Captive Undead
 500000 Covetous Demon - Boss
 500100 Covetous Demon (snow)
 501000 Mytha, the Baneful Queen - Boss
@@ -938,7 +938,6 @@
 883000 Wall Watchman - Crown of the Ivory King
 883100 Wall Watchman - Crown of the Ivory King
 883200 Wall Watchman - Crown of the Ivory King
-884000 Twiggy Shei
 884001 Twiggy Shei - Crown of the Ivory King
 885000 Phantom - Crown of the Ivory King
 885001 Phantom - Crown of the Ivory King

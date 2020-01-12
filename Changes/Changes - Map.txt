@@ -133,7 +133,6 @@
 # Heide's Tower of Flame
 #-----------------------------------------
 - Remixed the existing enemy placements.
-- Added 1 Red Crystal Lizard.
 
 #-----------------------------------------
 # Shaded Woods

@@ -134,7 +134,7 @@
 603000 The Duke's Dear Freja
 603100 The Duke's Dear Freja
 607000 Old Iron King
-608000 Rotten Vermin
+608000 Corrosive Ant Queen
 611000 Dragonrider
 611001 Dragonrider
 611010 Dragonrider
@@ -160,7 +160,7 @@
 666000 Sanctum Soldier
 670000 Sanctum Priestess
 671000 Poison Statue Cluster
-672000 Rotten Vermin
+672000 Corrosive Ant
 674000 Pagan Tree
 675000 Fume Knight
 677000 Retainer Sorcerer

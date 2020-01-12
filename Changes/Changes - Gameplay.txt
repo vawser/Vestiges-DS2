@@ -145,6 +145,9 @@
 # Licia of Lindeldt
 - Added Skeptic's Spice to her inventory, becomes unlimited after visiting Vendrick.
 
+# Majula
+- The chest in Lenigrast's workshop now contains an Estus Flask Shard.
+
 # No-man's Wharf
 - Added Seabow treasure.
 - Added Shadow Dagger treasure.
@@ -169,6 +172,7 @@
 
 # Huntman's Copse
 - Added Gyrm Great Hammer treasure.
+- Changed Estus Flask Shard treasure into Large Titanite Shard.
 
 # Dragon Aerie
 - Added Black Dragon Greataxe treasure.

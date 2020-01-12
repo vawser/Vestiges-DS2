@@ -136,92 +136,92 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>LockedOn Walk Speed</name>
+    <name>Locked-on Walk Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk70</name>
+    <name>Locked-on Unk70</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk74</name>
+    <name>Locked-on Unk74</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk78</name>
+    <name>Locked-on Unk78</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk7C</name>
+    <name>Locked-on Unk7C</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk80</name>
+    <name>Locked-on Unk80</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>LockedOn Run Speed</name>
+    <name>Locked-on Run Speed</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk88</name>
+    <name>Locked-on Unk88</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk8C</name>
+    <name>Locked-on Unk8C</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk90</name>
+    <name>Locked-on Unk90</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk94</name>
+    <name>Locked-on Unk94</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk98</name>
+    <name>Locked-on Unk98</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Unk9C</name>
+    <name>Locked-on Unk9C</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkA0</name>
+    <name>Locked-on UnkA0</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkA4</name>
+    <name>Locked-on UnkA4</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkA8</name>
+    <name>Locked-on UnkA8</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkAC</name>
+    <name>Locked-on UnkAC</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkB0</name>
+    <name>Locked-on UnkB0</name>
     <type>f32</type>
     <default>0</default>
   </entry>

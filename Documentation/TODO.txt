@@ -20,6 +20,7 @@ Giant Memories:             20 10 00 00
 Shrine of Amana:            20 11 00 00
 Drangleic Castle:           20 21 00 00
 Undead Crypt:               20 24 00 00
+Dragon Memories:            20 26 00 00
 Dark Chasm of Old:          40 03 00 00
 Crown of the Sunken King:   50 35 00 00
 Crown of the Iron King:     50 36 00 00
@@ -45,6 +46,6 @@ o33_1900 - Gyrm Brazier
 #-----------------------------------------
 # TODO
 #-----------------------------------------
-Go over treasures, note special treasures, and re-arrange some treasure contents to change gameflow
+Do a treasure pass, adjust treasures with suitable rewards
 Test adding new treasure corpse
 

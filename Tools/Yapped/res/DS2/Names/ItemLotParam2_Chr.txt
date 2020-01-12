@@ -40,10 +40,10 @@
 1150000 [Unknown] Dragon Acolyte Mask
 1151000 [Unknown] None
 1153000 [Unknown] Malformed Skull, Dark Mask
-1153100 [Unknown] Fragrant Branch of Yore
+1153100 [Mimic - Aldia's Keep] Fragrant Branch of Yore
 1153200 [Unknown] Black Witch's Staff
-1153300 [Unknown] Bonfire Ascetic
-1153400 [Unknown] Cracked Red Eye Orb
+1153300 [Mimic - Aldia's Keep] Bonfire Ascetic
+1153400 [Mimic - Aldia's Keep] Cracked Red Eye Orb
 1153500 [Unknown] Wilted Dusk Herb
 1154000 [Unknown] Twinkling Titanite
 1154100 [Unknown] Warlock Mask, Cursed Bone Shield, Wilted Dusk Herb

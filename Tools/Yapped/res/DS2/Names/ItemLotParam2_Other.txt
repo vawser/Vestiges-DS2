@@ -234,7 +234,7 @@
 3019000 [Gesture - Creighton the Wanderer] "Fist pump"
 3020000 [Gesture - Straid of Olaphis] "Mock"
 3021000 [Gesture - Heirs of the Sun altar] "Praise the Sun"
-10025010 [Things Betwixt] Human Effigy
+10025010 [Things Betwixt - Chest] Human Effigy
 10026000 [Things Betwixt] Rusted Coin
 10026001 [Things Betwixt] Rusted Coin
 10026020 [Things Betwixt] Gold Pine Resin
@@ -248,18 +248,18 @@
 10026090 [Things Betwixt] Amber Herb
 10026100 [Things Betwixt] Estus Flask Shard
 10027000 [Things Betwixt] Bone of Order
-10045000 [Majula] Titanite Shard
-10045001 [Majula] Large Titanite Shard
-10045002 [Majula] Moon Butterfly Shield
-10045010 [Majula] Titanite Shard, Torch
-10045020 [Majula] Soul Vortex
-10045030 [Majula] Great Lightning Spear
-10045040 [Majula] Agape Ring
-10045050 [Majula] Witchtree Branch, Witchtree Bellvine
-10045060 [Majula] Rusted Coin
-10045070 [Majula] Crimson Parma
-10045500 [Majula] Rubbish
-10045600 [Majula] Soul Vessel
+10045000 [Majula - Chest - Maughlin] Titanite Shard
+10045001 [Majula - Chest - Maughlin] Large Titanite Shard
+10045002 [Majula - Chest - Maughlin] Moon Butterfly Shield
+10045010 [Majula - Chest - Mansion] Titanite Shard, Torch
+10045020 [Majula - Chest - Forgotten Key] Soul Vortex
+10045030 [Majula - Chest - Forgotten Key] Great Lightning Spear
+10045040 [Majula - Chest - Lenigrast] Estus Flask Shard
+10045050 [Majula - Chest - Forgotten Key] Witchtree Branch, Witchtree Bellvine
+10045060 [Majula - Chest - Route to Forest] Rusted Coin
+10045070 [Majula - Chest - Route to Heide] Crimson Parma
+10045500 [Majula - Chest - Under Mansion] Rubbish
+10045600 [Majula - Chest - Under Mansion] Soul Vessel
 10046000 [Majula] Estus Flask Shard
 10046010 [Majula] Divine Blessing
 10046020 [Majula] Morning Star, Cleric's Sacred Chime
@@ -276,22 +276,22 @@
 10046130 [Majula] Radiant Lifegem
 10046140 [Majula] Titanite Slab
 10046150 [Majula] Homeward Bone
-10105010 [Forest of Fallen Giants] Small Leather Shield, Repair Powder
-10105020 [Forest of Fallen Giants] Human Effigy
-10105021 [Forest of Fallen Giants] Human Effigy
-10105030 [Forest of Fallen Giants] Life Ring, Large Titanite Shard
-10105040 [Forest of Fallen Giants] Titanite Shard
-10105041 [Forest of Fallen Giants] Titanite Chunk
-10105050 [Forest of Fallen Giants] Large Titanite Shard, Torch
-10105070 [Forest of Fallen Giants] Small White Sign Soapstone, Radiant Lifegem
-10105080 [Forest of Fallen Giants] Chloranthy Ring
-10105090 [Forest of Fallen Giants] Large Titanite Shard
-10105100 [Forest of Fallen Giants] Mail Breaker, Infantry Helm
-10105110 [Forest of Fallen Giants] Flame Quartz Ring+1
-10105120 [Forest of Fallen Giants] Large Soul of a Proud Knight, Hunter's Set
-10105130 [Forest of Fallen Giants] Yearn
-10105140 [Forest of Fallen Giants] Sorcerer's Staff, Amber Herb
-10105150 [Forest of Fallen Giants] Amber Herb
+10105010 [Forest of Fallen Giants - Chest - Cardinal Tower] Small Leather Shield, Repair Powder
+10105020 [Forest of Fallen Giants - Chest - Route to Forest] Human Effigy
+10105021 [Forest of Fallen Giants - Chest - Route to Forest] Human Effigy
+10105030 [Forest of Fallen Giants - Chest - Ballista Soldier Room] Life Ring, Large Titanite Shard
+10105040 [Forest of Fallen Giants - Chest - Ballista Trap Room] Titanite Shard
+10105041 [Forest of Fallen Giants - Chest - Ballista Trap Room] Titanite Chunk
+10105050 [Forest of Fallen Giants - Chest - Under Cardinal Tower] Large Titanite Shard, Torch
+10105070 [Forest of Fallen Giants - Chest - Cardinal Tower] Small White Sign Soapstone, Radiant Lifegem
+10105080 [Forest of Fallen Giants - Chest - Pharros Lockstone Room] Chloranthy Ring
+10105090 [Forest of Fallen Giants - Chest - Pharros Lockstone Room] Large Titanite Shard
+10105100 [Forest of Fallen Giants - Chest - Overlook Firebomb Room] Mail Breaker, Infantry Helm
+10105110 [Forest of Fallen Giants - Chest - Fire Pit] Flame Quartz Ring+1
+10105120 [Forest of Fallen Giants - Chest - Soldier's Rest] Large Soul of a Proud Knight, Hunter's Set
+10105130 [Forest of Fallen Giants - Chest - Flame Lizard Trap Room] Yearn
+10105140 [Forest of Fallen Giants - Chest - Pate's Trap Passage] Sorcerer's Staff, Amber Herb
+10105150 [Forest of Fallen Giants - Chest - King's Gate] Amber Herb
 10106000 [Forest of Fallen Giants] Soul of a Lost Undead
 10106010 [Forest of Fallen Giants] Soul of a Nameless Soldier, Cracked Red Eye Orb
 10106020 [Forest of Fallen Giants] Lifegem
@@ -358,13 +358,13 @@
 10106620 [Forest of Fallen Giants] Whip
 10106630 [Forest of Fallen Giants] Human Effigy
 10145050 [Brightstone Cove] Human Effigy
-10145060 [Brightstone Cove] Heavy Bolt
-10145061 [Brightstone Cove] Magic Bolt
-10145070 [Brightstone Cove] Rusted Coin
-10145080 [Brightstone Cove] Engraved Gauntlets
-10145110 [Brightstone Cove] Great Magic Barrier, Soul Vortex
-10145120 [Brightstone Cove] Southern Ritual Band+1
-10145130 [Brightstone Cove] Black Knight Ultra Greatsword, Great Fireball, Fire Seed
+10145060 [Brightstone Cove - Chest - Spider Room] Heavy Bolt
+10145061 [Brightstone Cove - Chest - Spider Room] Magic Bolt
+10145070 [Brightstone Cove - Chest - Pate's Fight Room] Rusted Coin
+10145080 [Brightstone Cove - Chest - Pate's Fight Room] Engraved Gauntlets
+10145110 [Brightstone Cove - Chest - Lower Cove Spider Room] Great Magic Barrier, Soul Vortex
+10145120 [Brightstone Cove - Chest - Lower Cove Ledge Room] Southern Ritual Band+1
+10145130 [Brightstone Cove - Chest - Spider Hall Side Room] Black Knight Ultra Greatsword, Great Fireball, Fire Seed
 10146000 [Brightstone Cove] Soul of a Hero, Gold Pine Resin
 10146010 [Brightstone Cove] Pharros' Lockstone
 10146020 [Brightstone Cove] Fading Soul, Cleric's Small Shield
@@ -421,10 +421,10 @@
 10146500 [Brightstone Cove] Pickaxe
 10146510 [Brightstone Cove] Torch
 10146520 [Brightstone Cove] Poison Arrow
-10155000 [Aldia's Keep] Great Magic Barrier
-10155010 [Aldia's Keep] Bonfire Ascetic
-10155020 [Aldia's Keep] Malformed Shell
-10155030 [Aldia's Keep] Brightbug
+10155000 [Aldia's Keep - Middle Dragon Hall] Great Magic Barrier
+10155010 [Aldia's Keep - Chest - Upper Dragon Hall] Bonfire Ascetic
+10155020 [Aldia's Keep - Chest - Breakable Wall Passage] Malformed Shell
+10155030 [Aldia's Keep - Chest - Mirrors in Dragon Hall] Brightbug
 10156000 [Aldia's Keep] Fading Soul
 10156010 [Aldia's Keep] Northern Ritual Band+2, Petrified Dragon Bone
 10156020 [Aldia's Keep] Alluring Skull
@@ -681,7 +681,7 @@
 10236120 [Huntman's Copse] Bandit's Knife
 10236130 [Huntman's Copse] Titanite Shard
 10236131 [Huntman's Copse] Gyrm Great Hammer
-10236140 [Huntman's Copse] Estus Flask Shard
+10236140 [Huntman's Copse] Large Titanite Shard
 10236150 [Huntman's Copse] Pharros' Lockstone, Token of Fidelity
 10236160 [Huntman's Copse] Undead Lockaway Key
 10236170 [Huntman's Copse] Flamberge
@@ -1364,22 +1364,22 @@
 50376750 [Eleum Loyce] Dried Root
 50376760 [Eleum Loyce] Goldenfruit Balm
 50376770 [Eleum Loyce] Elizabeth Mushroom
-60001000 [Event] Forgotten Key, Soul of a Giant
+60001000 [Event - Black Gulch Giants] Forgotten Key, Soul of a Giant
 60002000 [Event] Seed of a Tree of Giants
-60003000 [Event] Petrified Egg
-60004000 [Event] Soul of a Giant
-60005000 [Event] Ancient Dragon Soul
+60003000 [Event - Dragon Shrine Covenant Room] Petrified Egg
+60004000 [Event - Giant Memories] Soul of a Giant
+60005000 [Event - Dragon Memories] Ancient Dragon Soul
 60006000 [Event] Rotunda Lockstone, Soothing Sunlight, Idol's Chime, Saint Set
 60007000 [Event - 1000 Dark Spirits Killed] Titanite Slab
 60007100 [Event - 1000 Successful Invasions] Titanite Slab
-60007200 [Event] Illusory Ring of a Conqueror
-60007300 [Event] Illusory Ring of the Exalted
-60008000 [Event] Soul of the Pursuer, Ring of Blades
+60007200 [Event - Complete No Death Run] Illusory Ring of a Conqueror
+60007300 [Event - Complete No Bonfire Run] Illusory Ring of the Exalted
+60008000 [Event - Pursuer Early Encounter] Soul of the Pursuer, Ring of Blades
 60008100 [Event] Twinkling Titanite
 60008110 [Event] Twinkling Titanite
-60009000 [Event] Fang Key
+60009000 [Event - Unpetrify Lion Warrior] Fang Key
 60010000 [Event] Soldier Key
-60011000 [Event] Ashen Mist Heart
+60011000 [Event - Speak to Ancient Dragon] Ashen Mist Heart
 60012000 [Event] Soul of Nadalia, Bride of Ash
 60012010 [Event] Soul of Nadalia, Bride of Ash
 60012020 [Event] Soul of Nadalia, Bride of Ash

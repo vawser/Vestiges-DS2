@@ -246,7 +246,7 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>UnkC0</name>
+    <name>Lock-on Camera Offset ID</name>
     <type>s32</type>
     <default>0</default>
   </entry>

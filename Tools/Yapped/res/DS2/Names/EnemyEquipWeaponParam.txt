@@ -161,10 +161,10 @@
 13901000 Artificial Undead
 14000000 UNKNOWN
 14100000 Undead Aberration
-14600000 Headless Vengarl
-14601000 Headless Vengarl
-14602000 Headless Vengarl
-14700000 Undead with Head Bandage
+14600000 Lord Tseldora
+14601000 Lord Tseldora
+14602000 Lord Tseldora
+14700000 Undead Supplicant
 14800000 Undead Peasant
 14801000 Undead Peasant
 14802000 Undead Peasant
@@ -334,7 +334,7 @@
 60600000 UNKNOWN
 60601000 UNKNOWN
 60700000 Old Iron King
-60800000 Rotten Vermin
+60800000 Corrosive Ant Queen
 60900000 UNKNOWN
 60901000 UNKNOWN
 60910000 UNKNOWN
@@ -396,7 +396,7 @@
 67000000 Sanctum Priestess
 67100000 Poison Statue Cluster
 67110000 Poison Statue Cluster
-67200000 Rotten Vermin
+67200000 Corrosive Ant
 67400000 Pagan Tree
 67500000 Fume Knight
 67500001 Fume Knight

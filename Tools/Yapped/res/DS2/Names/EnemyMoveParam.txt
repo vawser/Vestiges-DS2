@@ -1,11 +1,11 @@
 10 UNKNOWN
 100000 Forest Grotesque
 101000 Kobold
-101001 OLD Kobold
+101001 Kobold
 102000 Hollow Soldier
 102100 Royal Soldier
 103000 Hollow Infantry
-103100 Infantry
+103100 Drangleic Infantry
 105000 Amana Shrine Maiden
 106000 Hollow Priest
 107000 Parasitized Undead
@@ -26,7 +26,7 @@
 133000 Skeleton
 134000 Gyrm
 135000 Gyrm Warrior
-137000 Dragon Acolyte
+137000 Prowling Magus
 138000 Torturer
 139000 Artificial Undead
 141000 Undead Aberration
@@ -97,12 +97,12 @@
 332000 Throne Defender
 333000 Velstadt
 334000 Throne Watcher
-337000 Abandoned Hollow
+337000 Captive Undead
 500000 Covetous Demon
 501000 Mytha, the Baneful Queen
 502000 Manscorpion Tark
 503000 Scorpioness Najka
-504000 Mirror Knight
+504000 Looking Glass Knight
 506100 Darklurker
 506500 Grave Warden Agdayne
 507000 UNKNOWN
@@ -118,7 +118,7 @@
 603000 The Duke's Dear Freja
 603010 The Duke's Dear Freja
 607000 Old Iron King
-608000 Rotten Vermin
+608000 Corrosive Ant Queen
 610000 UNKNOWN
 611000 Dragonrider
 611010 Dragonrider
@@ -143,7 +143,7 @@
 666000 Sanctum Soldier
 670000 Sanctum Priestess
 671000 Poison Statue Cluster
-672000 Rotten Vermin
+672000 Corrosive Ant
 674000 Pagan Tree
 675000 Fume Knight
 677000 Retainer Sorcerer
@@ -169,12 +169,12 @@
 725000 Darkdiver Grandahl
 726000 Lonesome Gavlan
 730000 Looking Glass Phantom
-732000 Unknown NPC
+732000 Lost Sinner Pyromancer Phantom
 742000 Creighton the Wanderer
 743000 Benhart of Jugo
 744000 Mild Mannered Pate
-751000 Chainmail Man with Katana
-752000 Aslatiel of Mirrah
+751000 Cartographer Cale
+752000 Lucatiel of Mirrah
 753000 Bell Keeper
 754000 Merchant Hag Melentia
 755000 UNKNOWN

@@ -251,46 +251,55 @@
     <name>Physical Defence</name>
     <type>s32</type>
     <default>0</default>
+    <description>Follows the typical defence formula</description>
   </entry>
   <entry>
-    <name>Magic Defence</name>
+    <name>Magic Absorption</name>
     <type>s32</type>
     <default>0</default>
+    <description>100 is 100% blocked</description>
   </entry>
   <entry>
-    <name>Lightning Defence</name>
+    <name>Lightning Absorption</name>
     <type>s32</type>
     <default>0</default>
+    <description>100 is 100% blocked</description>
   </entry>
   <entry>
-    <name>Fire Defence</name>
+    <name>Fire Absorption</name>
     <type>s32</type>
     <default>0</default>
+    <description>100 is 100% blocked</description>
   </entry>
   <entry>
-    <name>Dark Defence</name>
+    <name>Dark Absorption</name>
     <type>s32</type>
     <default>0</default>
+    <description>100 is 100% blocked</description>
   </entry>
   <entry>
     <name>Poison Resist</name>
     <type>s32</type>
     <default>0</default>
+    <description>100 is 100% blocked</description>
   </entry>
   <entry>
     <name>Bleed Resist</name>
     <type>s32</type>
     <default>0</default>
-  </entry>
-  <entry>
-    <name>Petrify Resist</name>
-    <type>s32</type>
-    <default>0</default>
+    <description>100 is 100% blocked</description>
   </entry>
   <entry>
     <name>Curse Resist</name>
     <type>s32</type>
     <default>0</default>
+    <description>100 is 100% blocked</description>
+  </entry>
+  <entry>
+    <name>Petrify Resist</name>
+    <type>s32</type>
+    <default>0</default>
+    <description>100 is 100% blocked</description>
   </entry>
   <entry>
     <name>UnkC0</name>

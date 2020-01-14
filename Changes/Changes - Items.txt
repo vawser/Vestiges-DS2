@@ -19,7 +19,7 @@
 
 # Ring of Lords
 - Effect: Attack increases based on souls held (caps at 1,000,000, decreases below 300,000 souls).
-- Source: 
+- Source: Found in Drangleic Castle.
 
 #-----------------------------------------
 # Items

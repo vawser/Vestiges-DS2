@@ -47,6 +47,7 @@ o33_1900 - Gyrm Brazier
 # Changes
 #-----------------------------------------
 - Increased boss HP.
+- Adjusted the slash/thrust/strike absorption of enemies, reducing the massive advantage Strike has, and making enemies a slightly more resistant to damage in general.
 - Added Ring of Fortune: Rare chance normal attacks become critical hits. Found in Dragon Shrine.
 - Added Greatwood Band: Jump without sprinting, reduces Falling Damage, Poison Aura. Found in Harvest Valley.
 - Added Witch's Ring: Every 2 minutes, restores 20% spell uses. Found in Iron Keep.
@@ -58,15 +59,3 @@ o33_1900 - Gyrm Brazier
 #-----------------------------------------
 Do a treasure pass, adjust treasures with suitable rewards
 Test adding new treasure corpse
-
-1900000 Ruler's Sword               - Attack increases based on souls held (-44 + 127.5 * s)
-5050000 Curved Nil Greatsword       - Damage scales with NG+ (up to +100)
-
-42010000 Ring of Fortune
-42030000 Greatwood Band
-42040000 Witch's Ring
-42050000 Dragonscale Ring
-42060000 Ring of Lords
-
-
-26700100

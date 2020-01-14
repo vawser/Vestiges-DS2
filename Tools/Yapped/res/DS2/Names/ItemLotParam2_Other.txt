@@ -422,7 +422,7 @@
 10146510 [Brightstone Cove] Torch
 10146520 [Brightstone Cove] Poison Arrow
 10155000 [Aldia's Keep - Middle Dragon Hall] Great Magic Barrier
-10155010 [Aldia's Keep - Chest - Upper Dragon Hall] Bonfire Ascetic
+10155010 [Aldia's Keep - Chest - Upper Dragon Hall] Dragonscale Ring
 10155020 [Aldia's Keep - Chest - Breakable Wall Passage] Malformed Shell
 10155030 [Aldia's Keep - Chest - Mirrors in Dragon Hall] Brightbug
 10156000 [Aldia's Keep] Fading Soul
@@ -446,30 +446,30 @@
 10156180 [Aldia's Keep] Radiant Lifegem
 10156190 [Aldia's Keep] Twilight Herb
 10156200 [Aldia's Keep] Large Soul of a Brave Warrior
-10165000 [Lost Bastille] Parrying Dagger
-10165010 [Lost Bastille] Soul Vessel
-10165020 [Lost Bastille] Bone Staff
-10165040 [Lost Bastille] Rouge Water
-10165041 [Lost Bastille] Bell Keeper Bow
-10165050 [Lost Bastille] Estus Flask Shard, Large Titanite Shard
-10165070 [Lost Bastille] Twinblade
-10165080 [Lost Bastille] Target Shield
-10165110 [Lost Bastille] Wilted Dusk Herb
-10165120 [Lost Bastille] Fragrant Branch of Yore, Elizabeth Mushroom
-10165130 [Lost Bastille] Old Dragonslayer Soul
-10165140 [Lost Bastille] Covetous Silver Serpent Ring, Human Effigy, Fragrant Branch of Yore
-10165150 [Lost Bastille] Craftsman's Hammer, Twinkling Titanite
-10165160 [Lost Bastille] Large Titanite Shard
-10165170 [Lost Bastille] Titanite Shard
-10165180 [Lost Bastille] Iron Arrow
-10165190 [Lost Bastille] Heavy Bolt
-10165200 [Lost Bastille] Radiant Lifegem, Twilight Herb
-10165210 [Lost Bastille] Hush
-10165220 [Lost Bastille] Blue Tearstone Ring
-10165230 [Lost Bastille] Southern Ritual Band
-10165240 [Lost Bastille] Antiquated Key
-10165250 [Lost Bastille] Human Effigy
-10165260 [Lost Bastille] Dull Ember
+10165000 [Lost Bastille - Chest] Parrying Dagger
+10165010 [Lost Bastille - Chest] Soul Vessel
+10165020 [Lost Bastille - Chest] Bone Staff
+10165040 [Lost Bastille - Chest] Rouge Water
+10165041 [Lost Bastille - Chest] Bell Keeper Bow
+10165050 [Lost Bastille - Chest] Estus Flask Shard, Large Titanite Shard
+10165070 [Lost Bastille - Chest] Twinblade
+10165080 [Lost Bastille - Chest] Target Shield
+10165110 [Lost Bastille - Chest] Wilted Dusk Herb
+10165120 [Lost Bastille - Chest] Fragrant Branch of Yore, Elizabeth Mushroom
+10165130 [Lost Bastille - Chest] Priest's Chime
+10165140 [Lost Bastille - Chest] Covetous Silver Serpent Ring, Human Effigy, Fragrant Branch of Yore
+10165150 [Lost Bastille - Chest] Craftsman's Hammer, Twinkling Titanite
+10165160 [Lost Bastille - Chest] Large Titanite Shard
+10165170 [Lost Bastille - Chest] Titanite Shard
+10165180 [Lost Bastille - Chest] Iron Arrow
+10165190 [Lost Bastille - Chest] Heavy Bolt
+10165200 [Lost Bastille - Chest] Radiant Lifegem, Twilight Herb
+10165210 [Lost Bastille - Chest] Hush
+10165220 [Lost Bastille - Chest] Blue Tearstone Ring
+10165230 [Lost Bastille - Chest] Southern Ritual Band
+10165240 [Lost Bastille - Chest] Antiquated Key
+10165250 [Lost Bastille - Chest] Human Effigy
+10165260 [Lost Bastille - Chest] Dull Ember
 10166000 [Lost Bastille] Homeward Bone
 10166010 [Lost Bastille] Alluring Skull
 10166020 [Lost Bastille] Soul of a Nameless Soldier
@@ -519,20 +519,20 @@
 10166470 [Lost Bastille] Scimitar, Repair Powder
 10166480 [Lost Bastille] Green Blossom
 10166490 [Lost Bastille] Wanderer Set
-10175020 [Earthen Peak] Raw Stone
-10175021 [Earthen Peak] Raw Stone, Palestone
-10175030 [Earthen Peak] Poison Stone, Rotten Pine Resin
-10175040 [Earthen Peak] Pike
-10175050 [Earthen Peak] Petrified Something
-10175060 [Earthen Peak] Heavy Crossbow, Heavy Bolt
-10175070 [Earthen Peak] Torch
-10175090 [Earthen Peak] Pharros' Lockstone
-10175110 [Earthen Peak] Fire Seed, Divine Blessing
-10175120 [Earthen Peak] Soul of a Brave Warrior, Crimson Water
-10175130 [Earthen Peak] Poisonbite Ring, Soul of a Proud Knight
-10175140 [Earthen Peak] Great Heavy Soul Arrow
-10175150 [Earthen Peak] Lightning Spear
-10175160 [Earthen Peak] Mirrah Shield
+10175020 [Earthen Peak - Chest] Raw Stone
+10175021 [Earthen Peak - Chest] Raw Stone, Palestone
+10175030 [Earthen Peak - Chest] Greatwood Band
+10175040 [Earthen Peak - Chest] Pike
+10175050 [Earthen Peak - Chest] Petrified Something
+10175060 [Earthen Peak - Chest] Heavy Crossbow, Heavy Bolt
+10175070 [Earthen Peak - Chest] Torch
+10175090 [Earthen Peak - Chest] Pharros' Lockstone
+10175110 [Earthen Peak - Chest] Fire Seed, Divine Blessing
+10175120 [Earthen Peak - Chest] Soul of a Brave Warrior, Crimson Water
+10175130 [Earthen Peak - Chest] Poisonbite Ring, Soul of a Proud Knight
+10175140 [Earthen Peak - Chest] Great Heavy Soul Arrow
+10175150 [Earthen Peak - Chest] Lightning Spear
+10175160 [Earthen Peak - Chest] Mirrah Shield
 10176000 [Earthen Peak] Lifegem
 10176010 [Earthen Peak] Broadsword, Human Effigy
 10176020 [Earthen Peak] Lifegem
@@ -595,19 +595,19 @@
 10176610 [Earthen Peak] Dragon Charm
 10176620 [Earthen Peak] Titanite Shard
 10176630 [Earthen Peak] Flame Butterfly
-10185000 [No-man's Wharf] Titanite Shard
-10185001 [No-man's Wharf] Titanite Chunk
-10185030 [No-man's Wharf] Repair Powder, Titanite Shard
-10185040 [No-man's Wharf] Bandit Axe, Brigand Set
+10185000 [No-man's Wharf - Chest] Titanite Shard
+10185001 [No-man's Wharf - Chest] Titanite Chunk
+10185030 [No-man's Wharf - Chest] Repair Powder, Titanite Shard
+10185040 [No-man's Wharf - Chest] Bandit Axe, Brigand Set
 10185050 [No-man's Wharf - Chest] Titanite Slab
-10185060 [No-man's Wharf] Royal Soldier's Ring
-10185070 [No-man's Wharf] Large Titanite Shard
-10185071 [No-man's Wharf] Sea Bow
-10185080 [No-man's Wharf] Firebomb
-10185081 [No-man's Wharf] Black Firebomb
-10185100 [No-man's Wharf] Silver Talisman
-10185110 [No-man's Wharf] Fragrant Branch of Yore
-10185120 [No-man's Wharf] Pyromancy Flame, Fireball
+10185060 [No-man's Wharf - Chest] Royal Soldier's Ring
+10185070 [No-man's Wharf - Chest] Large Titanite Shard
+10185071 [No-man's Wharf - Chest] Sea Bow
+10185080 [No-man's Wharf - Chest] Firebomb
+10185081 [No-man's Wharf - Chest] Black Firebomb
+10185100 [No-man's Wharf - Chest] Silver Talisman
+10185110 [No-man's Wharf - Chest] Fragrant Branch of Yore
+10185120 [No-man's Wharf - Chest] Pyromancy Flame, Fireball
 10186000 [No-man's Wharf] Soul of a Proud Knight
 10186010 [No-man's Wharf] Human Effigy, Lifegem
 10186020 [No-man's Wharf] Fire Arrow
@@ -624,19 +624,19 @@
 10186150 [No-man's Wharf] Dark Pine Resin
 10186160 [No-man's Wharf] Large Soul of a Nameless Soldier, Lifegem
 10186170 [No-man's Wharf] Throwing Knife, Flame Butterfly
-10195000 [Iron Keep] Destructive Greatarrow
-10195001 [Iron Keep] Destructive Greatarrow
+10195000 [Iron Keep - Chest] Destructive Greatarrow
+10195001 [Iron Keep - Chest] Destructive Greatarrow
 10195030 [Iron Keep - Chest] Smelter Hammer
-10195040 [Iron Keep] Life Ring+1, Twinkling Titanite
-10195050 [Iron Keep] Black Knight Greatsword
-10195060 [Iron Keep] Protective Chime, Grand Spirit Tree Shield
-10195090 [Iron Keep] Black Knight Greataxe
-10195100 [Iron Keep] Phoenix Parma
-10195110 [Iron Keep] Chaos Storm
-10195120 [Iron Keep] Immolation
-10195130 [Iron Keep] Thunder Quartz Ring+1
-10195140 [Iron Keep] Porcine Shield, Flame Butterfly
-10195150 [Iron Keep] Petrified Something
+10195040 [Iron Keep - Chest] Life Ring+1, Twinkling Titanite
+10195050 [Iron Keep - Chest] Black Knight Greatsword
+10195060 [Iron Keep - Chest] Protective Chime, Grand Spirit Tree Shield
+10195090 [Iron Keep - Chest] Black Knight Greataxe
+10195100 [Iron Keep - Chest] Phoenix Parma
+10195110 [Iron Keep - Chest] Chaos Storm
+10195120 [Iron Keep - Chest] Immolation
+10195130 [Iron Keep - Chest] Thunder Quartz Ring+1
+10195140 [Iron Keep - Chest] Porcine Shield, Flame Butterfly
+10195150 [Iron Keep - Chest] Petrified Something
 10196000 [Iron Keep] Simpleton's Spice
 10196010 [Iron Keep] Blacksteel Katana
 10196020 [Iron Keep] Possessed Armor Greatbow
@@ -662,8 +662,8 @@
 10196210 [Iron Keep] Large Titanite Shard, Petrified Dragon Bone
 10196211 [Iron Keep] Twinkling Titanite, Petrified Dragon Bone
 10196220 [Iron Keep] Titanite Shard, Alonne Greatbow
-10235010 [Huntman's Copse] Ricard's Rapier
-10235020 [Huntman's Copse] Sublime Bone Dust
+10235010 [Huntman's Copse - Chest] Ricard's Rapier
+10235020 [Huntman's Copse - Chest] Sublime Bone Dust
 10236000 [Huntman's Copse] Cracked Red Eye Orb
 10236010 [Huntman's Copse] Cracked Red Eye Orb
 10236020 [Huntman's Copse] Aromatic Ooze
@@ -695,16 +695,16 @@
 10236250 [Huntman's Copse] Large Soul of a Nameless Soldier
 10236260 [Huntman's Copse] Monastery Charm, Soul of a Proud Knight
 10236270 [Huntman's Copse] Human Effigy, Lacerating Arrow, Prism Stone
-10255010 [The Gutter] Black Firebomb
+10255010 [The Gutter - Chest] Black Firebomb
 10255020 [The Gutter] Twinkling Titanite, Small Smooth & Silky Stone
-10255030 [The Gutter] Great Club
-10255040 [The Gutter] Soul of a Nameless Soldier
-10255050 [The Gutter] Divine Blessing
-10255090 [The Gutter] Ring of Giants+1, Petrified Dragon Bone
-10255100 [The Gutter] Wicked Eye Greatshield
-10255110 [The Gutter] Aurous Set
-10255120 [The Gutter] Petrified Something, Simpleton's Spice, Skeptic's Spice
-10255130 [The Gutter] Shotel, Great Magic Weapon
+10255030 [The Gutter - Chest] Great Club
+10255040 [The Gutter - Chest] Soul of a Nameless Soldier
+10255050 [The Gutter - Chest] Divine Blessing
+10255090 [The Gutter - Chest] Ring of Giants+1, Petrified Dragon Bone
+10255100 [The Gutter - Chest] Wicked Eye Greatshield
+10255110 [The Gutter - Chest] Aurous Set
+10255120 [The Gutter - Chest] Petrified Something, Simpleton's Spice, Skeptic's Spice
+10255130 [The Gutter - Chest] Shotel, Great Magic Weapon
 10256000 [The Gutter] Havel's Greatshield, Havel's Set
 10256030 [The Gutter] Bandit Greataxe
 10256060 [The Gutter] Soul of a Nameless Soldier
@@ -738,15 +738,15 @@
 10256440 [The Gutter] Smooth & Silky Stone
 10256450 [The Gutter] Fragrant Branch of Yore
 10256500 [The Gutter] Pharros' Lockstone
-10275000 [Dragon Aerie] Bonfire Ascetic
-10275010 [Dragon Aerie] Titanite Slab
-10275020 [Dragon Aerie] Twinkling Titanite
-10275021 [Dragon Aerie] Drakekeeper's Great Hammer
-10275030 [Dragon Aerie] Drakekeeper's Greataxe, Drakekeeper's Greatshield
-10275040 [Dragon Aerie] Third Dragon Ring
-10275050 [Dragon Aerie] Crystal Magic Weapon, Fragrant Branch of Yore
-10275060 [Dragon Aerie] Judgment Set
-10275070 [Dragon Aerie] Petrified Something
+10275000 [Dragon Aerie - Chest] Ring of Fortune
+10275010 [Dragon Aerie - Chest] Titanite Slab
+10275020 [Dragon Aerie - Chest] Twinkling Titanite
+10275021 [Dragon Aerie - Chest] Drakekeeper's Great Hammer
+10275030 [Dragon Aerie - Chest] Drakekeeper's Greataxe, Drakekeeper's Greatshield
+10275040 [Dragon Aerie - Chest] Third Dragon Ring
+10275050 [Dragon Aerie - Chest] Crystal Magic Weapon, Fragrant Branch of Yore
+10275060 [Dragon Aerie - Chest] Judgment Set
+10275070 [Dragon Aerie - Chest] Petrified Something
 10276000 [Dragon Aerie] Soul of a Brave Warrior
 10276010 [Dragon Aerie] Dragon Tooth
 10276020 [Dragon Aerie] Boltstone

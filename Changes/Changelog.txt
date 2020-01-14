@@ -47,7 +47,10 @@ o33_1900 - Gyrm Brazier
 # Changes
 #-----------------------------------------
 - Increased boss HP.
-- Added Ring of Fortune: Rare chance normal attacks become critical hits
+- Added Ring of Fortune: Rare chance normal attacks become critical hits. Found in Dragon Shrine.
+- Added Greatwood Band: Jump without sprinting, reduces Falling Damage, Poison Aura. Found in Harvest Valley.
+- Added Witch's Ring: Every 2 minutes, restores 20% spell uses. Found in Iron Keep.
+- Added Dragonscale Ring: Blocks magical silencing. Found in Aldia's Keep.
 
 #-----------------------------------------
 # TODO
@@ -58,14 +61,10 @@ Test adding new treasure corpse
 1900000 Ruler's Sword               - Attack increases based on souls held (-44 + 127.5 * s)
 5050000 Curved Nil Greatsword       - Damage scales with NG+ (up to +100)
 
-21440102 Engraved Gauntlets         - 5% to crit for +50% damage
-21470101 Moon Butterfly Wings       - Jump without sprinting, reduces Falling Damage, Poison Aura
-21630100 Crown of the Old Iron King - Every 2 minutes, restores 20% spell uses
-21660100 Old Bell Helm              - Prevents damage from headshots
-21680100 Pharros Mask               - Soaks wearer in water, increasing Fire Defence by 100, lower Lightning Defence by 100
-26700100 Sanctum Priestess Tiara    - Immune to staggering when casting spells.
-
-42010000
-
 42010000 Ring of Fortune
+42030000 Greatwood Band
+42040000 Witch's Ring
+42050000 Dragonscale Ring
+
+
 

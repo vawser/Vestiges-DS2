@@ -1,0 +1,30 @@
+﻿#-----------------------------------------
+# Rings
+#-----------------------------------------
+# Ring of Fortune
+- Effect: Rare chance normal attacks become critical hits. 
+- Source: Found in Dragon Shrine.
+
+# Greatwood Band: 
+- Effect: Jump without sprinting, reduces Falling Damage, Poison Aura. 
+- Source: Found in Harvest Valley.
+
+# Witch's Ring: 
+- Effect: Every 2 minutes, restores 20% spell uses. 
+- Source: Found in Iron Keep.
+
+# Dragonscale Ring: 
+- Effect: Blocks magical silencing. 
+- Source: Found in Aldia's Keep.
+
+#-----------------------------------------
+# Items
+#-----------------------------------------
+
+#-----------------------------------------
+# Armor
+#-----------------------------------------
+
+#-----------------------------------------
+# Weapons
+#-----------------------------------------

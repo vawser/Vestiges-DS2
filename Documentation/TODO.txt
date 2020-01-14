@@ -49,3 +49,10 @@ o33_1900 - Gyrm Brazier
 Do a treasure pass, adjust treasures with suitable rewards
 Test adding new treasure corpse
 
+133300010
+133300810
+133300910
+
+Unk270	1
+Unk274	0.7
+Unk278	1.5

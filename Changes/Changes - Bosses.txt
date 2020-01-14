@@ -1,4 +1,8 @@
-﻿#---------------------------------
+﻿DEF uses the regular Dark Souls defence formula.
+ABS is the % removed from the damage value (i.e. 100 damage -> 30% ABS, 70 damage inflicted)
+RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inflicted)
+
+#---------------------------------
 # The Last Giant
 #---------------------------------
 - Souls: 10000
@@ -10,6 +14,14 @@
 - HP +5: 10000
 - HP +6: 11000
 - HP +7: 12000
+
+- Physical DEF:  380
+- Magic ABS:     30%
+- Lightning ABS: 30%
+- Fire ABS:      30%
+- Dark ABS:      30%
+- Poison RES:    30%
+- Bleed RES:     30%
 
 #---------------------------------
 # Dragonrider
@@ -24,6 +36,14 @@
 - HP +6: 11000
 - HP +7: 12000
 
+- Physical DEF:  502
+- Magic ABS:     30%
+- Lightning ABS: 15%
+- Fire ABS:      15%
+- Dark ABS:      30%
+- Poison RES:    30%
+- Bleed RES:     30%
+
 #---------------------------------
 # Flexile Sentry
 #---------------------------------
@@ -36,6 +56,14 @@
 - HP +5: 12000
 - HP +6: 13000
 - HP +7: 14000
+
+- Physical DEF:  406
+- Magic ABS:     30%
+- Lightning ABS: 30%
+- Fire ABS:      15%
+- Dark ABS:      30%
+- Poison RES:    30%
+- Bleed RES:     30%
 
 #---------------------------------
 # The Pursuer
@@ -50,6 +78,14 @@
 - HP +6: 13000
 - HP +7: 14000
 
+- Physical DEF:  514
+- Magic ABS:     30%
+- Lightning ABS: 10%
+- Fire ABS:      30%
+- Dark ABS:      50%
+- Poison RES:    50%
+- Bleed RES:     100%
+
 #---------------------------------
 # Ruin Sentinels
 #---------------------------------
@@ -62,6 +98,14 @@
 - HP +5: 10000
 - HP +6: 11000
 - HP +7: 12000
+
+- Physical DEF:  454
+- Magic ABS:     30%
+- Lightning ABS: 15%
+- Fire ABS:      30%
+- Dark ABS:      30%
+- Poison RES:    30%
+- Bleed RES:     100%
 
 #---------------------------------
 # Royal Rat Vanguard
@@ -81,6 +125,14 @@
 - HP +6: 15000
 - HP +7: 16000
 
+- Physical DEF:  384
+- Magic ABS:     30%
+- Lightning ABS: 30%
+- Fire ABS:      10%
+- Dark ABS:      30%
+- Poison RES:    70%
+- Bleed RES:     30%
+
 #---------------------------------
 # Old Dragonslayer
 #---------------------------------
@@ -93,6 +145,14 @@
 - HP +5: 14000
 - HP +6: 15000
 - HP +7: 16000
+
+- Physical DEF:  488
+- Magic ABS:     30%
+- Lightning ABS: 30%
+- Fire ABS:      30%
+- Dark ABS:      50%
+- Poison RES:    30%
+- Bleed RES:     30%
 
 #---------------------------------
 # Belfry Gargoyles
@@ -107,6 +167,14 @@
 - HP +6: 9000
 - HP +7: 10000
 
+- Physical DEF:  429
+- Magic ABS:     15%
+- Lightning ABS: 30%
+- Fire ABS:      30%
+- Dark ABS:      30%
+- Poison RES:    50%
+- Bleed RES:     100%
+
 #---------------------------------
 # Skeleton Lords
 #---------------------------------
@@ -119,6 +187,14 @@
 - HP +5: 8000 
 - HP +6: 9000 
 - HP +7: 10000 
+
+- Physical DEF:  407
+- Magic ABS:     50%
+- Lightning ABS: 30%
+- Fire ABS:      10%
+- Dark ABS:      30%
+- Poison RES:    100%
+- Bleed RES:     100%
 
 #---------------------------------
 # Executioner's Chariot
@@ -133,6 +209,14 @@
 - HP +6: 15000 
 - HP +7: 16000
 
+- Physical DEF:  452
+- Magic ABS:     30%
+- Lightning ABS: 15%
+- Fire ABS:      15%
+- Dark ABS:      50%
+- Poison RES:    30%
+- Bleed RES:     15%
+
 #---------------------------------
 # Covetous Demon
 #---------------------------------
@@ -145,6 +229,14 @@
 - HP +5: 20000
 - HP +6: 21000
 - HP +7: 22000
+
+- Physical DEF:  215
+- Magic ABS:     15%
+- Lightning ABS: 50%
+- Fire ABS:      15%
+- Dark ABS:      30%
+- Poison RES:    85%
+- Bleed RES:     15%
 
 #---------------------------------
 # Scorpioness Najka
@@ -159,6 +251,14 @@
 - HP +6: 19000
 - HP +7: 20000
 
+- Physical DEF:  477
+- Magic ABS:     50%
+- Lightning ABS: 30%
+- Fire ABS:      15%
+- Dark ABS:      30%
+- Poison RES:    100%
+- Bleed RES:     30%
+
 #---------------------------------
 # Mytha, the Baneful Queen
 #---------------------------------
@@ -171,6 +271,14 @@
 - HP +5: 18000
 - HP +6: 19000
 - HP +7: 20000
+
+- Physical DEF:  431
+- Magic ABS:     50%
+- Lightning ABS: 50%
+- Fire ABS:      15%
+- Dark ABS:      30%
+- Poison RES:    100%
+- Bleed RES:     30%
 
 #---------------------------------
 # Smelter Demon
@@ -185,6 +293,14 @@
 - HP +6: 21000
 - HP +7: 22000
 
+- Physical DEF:  664
+- Magic ABS:     30%
+- Lightning ABS: 30%
+- Fire ABS:      70%
+- Dark ABS:      30%
+- Poison RES:    30%
+- Bleed RES:     100%
+
 #---------------------------------
 # Prowling Magus & Congregation
 #---------------------------------
@@ -197,6 +313,14 @@
 - HP +5: 8000
 - HP +6: 9000
 - HP +7: 10000
+
+- Physical DEF:  401
+- Magic ABS:     50%
+- Lightning ABS: 10%
+- Fire ABS:      30%
+- Dark ABS:      50%
+- Poison RES:    30%
+- Bleed RES:     30%
 
 #---------------------------------
 # Dragonriders
@@ -211,6 +335,14 @@
 - HP +6: 17000
 - HP +7: 18000
 
+- Physical DEF:  502
+- Magic ABS:     30%
+- Lightning ABS: 15%
+- Fire ABS:      15%
+- Dark ABS:      30%
+- Poison RES:    30%
+- Bleed RES:     30%
+
 #---------------------------------
 # Looking Glass Knight
 #---------------------------------
@@ -223,6 +355,14 @@
 - HP +5: 22000
 - HP +6: 23000
 - HP +7: 24000
+
+- Physical DEF:  556
+- Magic ABS:     30%
+- Lightning ABS: 70%
+- Fire ABS:      30%
+- Dark ABS:      30%
+- Poison RES:    50%
+- Bleed RES:     100%
 
 #---------------------------------
 # Demon of Song
@@ -237,6 +377,14 @@
 - HP +6: 23000
 - HP +7: 24000
 
+- Physical DEF:  461
+- Magic ABS:     15%
+- Lightning ABS: 30%
+- Fire ABS:      30%
+- Dark ABS:      15%
+- Poison RES:    50%
+- Bleed RES:     15%
+
 #---------------------------------
 # Giant Lord
 #---------------------------------
@@ -249,6 +397,14 @@
 - HP +5: 24000
 - HP +6: 25000
 - HP +7: 26000
+
+- Physical DEF:  731
+- Magic ABS:     30%
+- Lightning ABS: 30%
+- Fire ABS:      30%
+- Dark ABS:      10%
+- Poison RES:    30%
+- Bleed RES:     30%
 
 #---------------------------------
 # Guardian Dragon
@@ -263,6 +419,14 @@
 - HP +6: 21000
 - HP +7: 22000
 
+- Physical DEF:  697
+- Magic ABS:     10%
+- Lightning ABS: 30%
+- Fire ABS:      50%
+- Dark ABS:      10%
+- Poison RES:    30%
+- Bleed RES:     30%
+
 #---------------------------------
 # Ancient Dragon
 #---------------------------------
@@ -275,6 +439,14 @@
 - HP +5: 24000
 - HP +6: 25000
 - HP +7: 26000
+
+- Physical DEF:  725
+- Magic ABS:     30%
+- Lightning ABS: 30%
+- Fire ABS:      85%
+- Dark ABS:      30%
+- Poison RES:    70%
+- Bleed RES:     50%
 
 #---------------------------------
 # Velstadt, the Royal Aegis
@@ -289,6 +461,14 @@
 - HP +6: 25000
 - HP +7: 26000
 
+- Physical DEF:  697
+- Magic ABS:     30%
+- Lightning ABS: 15%
+- Fire ABS:      30%
+- Dark ABS:      50%
+- Poison RES:    50%
+- Bleed RES:     50%
+
 #---------------------------------
 # Vendrick
 #---------------------------------
@@ -301,6 +481,14 @@
 - HP +5: 28000
 - HP +6: 29000
 - HP +7: 30000
+
+- Physical DEF:  581
+- Magic ABS:     30%
+- Lightning ABS: 30%
+- Fire ABS:      30%
+- Dark ABS:      50%
+- Poison RES:    100%
+- Bleed RES:     30%
 
 #---------------------------------
 # The Lost Sinner
@@ -315,6 +503,14 @@
 - HP +6: 21000
 - HP +7: 22000
 
+- Physical DEF:  363
+- Magic ABS:     15%
+- Lightning ABS: 30%
+- Fire ABS:      50%
+- Dark ABS:      30%
+- Poison RES:    50%
+- Bleed RES:     50%
+
 #---------------------------------
 # Old Iron King
 #---------------------------------
@@ -327,6 +523,14 @@
 - HP +5: 20000
 - HP +6: 21000
 - HP +7: 22000
+
+- Physical DEF:  572
+- Magic ABS:     30%
+- Lightning ABS: 15%
+- Fire ABS:      85%
+- Dark ABS:      30%
+- Poison RES:    50%
+- Bleed RES:     100%
 
 #---------------------------------
 # The Rotten
@@ -341,6 +545,14 @@
 - HP +6: 25000
 - HP +7: 26000
 
+- Physical DEF:  401
+- Magic ABS:     30%
+- Lightning ABS: 15%
+- Fire ABS:      30%
+- Dark ABS:      50%
+- Poison RES:    70%
+- Bleed RES:     15%
+
 #---------------------------------
 # The Duke's Dear Freja
 #---------------------------------
@@ -353,6 +565,14 @@
 - HP +5: 20000
 - HP +6: 21000
 - HP +7: 22000
+
+- Physical DEF:  502
+- Magic ABS:     50%
+- Lightning ABS: 50%
+- Fire ABS:      30%
+- Dark ABS:      50%
+- Poison RES:    100%
+- Bleed RES:     15%
 
 #---------------------------------
 # Throne Watcher & Throne Defender
@@ -367,6 +587,14 @@
 - HP +6: 17000 / 21000
 - HP +7: 18000 / 22000
 
+- Physical DEF:  759 
+- Magic ABS:     50% / 30%
+- Lightning ABS: 15%
+- Fire ABS:      30%
+- Dark ABS:      30%
+- Poison RES:    50%
+- Bleed RES:     50%
+
 #---------------------------------
 # Nashandra
 #---------------------------------
@@ -379,6 +607,14 @@
 - HP +5: 28000
 - HP +6: 29000
 - HP +7: 30000
+
+- Physical DEF:  633
+- Magic ABS:     30%
+- Lightning ABS: 15%
+- Fire ABS:      30%
+- Dark ABS:      50%
+- Poison RES:    70%
+- Bleed RES:     100%
 
 #---------------------------------
 # Aldia, Scholar of the First Sin
@@ -393,6 +629,14 @@
 - HP +6: 29000
 - HP +7: 30000
 
+- Physical DEF:  506
+- Magic ABS:     37%
+- Lightning ABS: 30%
+- Fire ABS:      51%
+- Dark ABS:      51%
+- Poison RES:    79%
+- Bleed RES:     100%
+
 #---------------------------------
 # Darklurker
 #---------------------------------
@@ -405,6 +649,14 @@
 - HP +5: 20000
 - HP +6: 21000
 - HP +7: 20000
+
+- Physical DEF:  635
+- Magic ABS:     30%
+- Lightning ABS: 15%
+- Fire ABS:      30%
+- Dark ABS:      70%
+- Poison RES:    100%
+- Bleed RES:     100%
 
 #---------------------------------
 # Elana, the Squalid Queen
@@ -419,6 +671,14 @@
 - HP +6: 25000
 - HP +7: 26000
 
+- Physical DEF:  635
+- Magic ABS:     16%
+- Lightning ABS: 30%
+- Fire ABS:      30%
+- Dark ABS:      51%
+- Poison RES:    100%
+- Bleed RES:     100%
+
 #---------------------------------
 # Sinh, the Slumbering Dragon
 #---------------------------------
@@ -431,6 +691,14 @@
 - HP +5: 28000
 - HP +6: 29000
 - HP +7: 30000
+
+- Physical DEF:  635
+- Magic ABS:     30%
+- Lightning ABS: 16%
+- Fire ABS:      51%
+- Dark ABS:      30%
+- Poison RES:    100%
+- Bleed RES:     30%
 
 #---------------------------------
 # Afflicted Graverobber, Ancient Soldier Varg & Cerah, the Old Explorer
@@ -450,6 +718,14 @@
 - HP +6: 29000
 - HP +7: 30000
 
+- Physical DEF:  762
+- Magic ABS:     37%
+- Lightning ABS: 37%
+- Fire ABS:      79%
+- Dark ABS:      37%
+- Poison RES:    100%
+- Bleed RES:     100%
+
 #---------------------------------
 # Sir Alonne
 #---------------------------------
@@ -462,6 +738,14 @@
 - HP +5: 28000
 - HP +6: 29000
 - HP +7: 30000
+
+- Physical DEF:  658
+- Magic ABS:     30%
+- Lightning ABS: 30%
+- Fire ABS:      44%
+- Dark ABS:      30%
+- Poison RES:    86%
+- Bleed RES:     50%
 
 #---------------------------------
 # Blue Smelter Demon
@@ -476,6 +760,14 @@
 - HP +6: 25000
 - HP +7: 26000
 
+- Physical DEF:  789
+- Magic ABS:     72%
+- Lightning ABS: 30%
+- Fire ABS:      44%
+- Dark ABS:      30%
+- Poison RES:    30%
+- Bleed RES:     100%
+
 #---------------------------------
 # Aava, the King's Pet
 #---------------------------------
@@ -488,6 +780,14 @@
 - HP +5: 24000
 - HP +6: 25000
 - HP +7: 26000
+
+- Physical DEF:  658
+- Magic ABS:     37%
+- Lightning ABS: 30%
+- Fire ABS:      23%
+- Dark ABS:      30%
+- Poison RES:    79%
+- Bleed RES:     30%
 
 #---------------------------------
 # Burnt Ivory King
@@ -502,6 +802,14 @@
 - HP +6: 29000
 - HP +7: 30000
 
+- Physical DEF:  762
+- Magic ABS:     44%
+- Lightning ABS: 30%
+- Fire ABS:      44%
+- Dark ABS:      44%
+- Poison RES:    79%
+- Bleed RES:     51%
+
 #---------------------------------
 # Lud, the King's Pet & Zallen, the King's Pet
 #---------------------------------
@@ -515,3 +823,10 @@
 - HP +6: 25000
 - HP +7: 26000
 
+- Physical DEF:  610
+- Magic ABS:     37%
+- Lightning ABS: 30%
+- Fire ABS:      23%
+- Dark ABS:      30%
+- Poison RES:    79%
+- Bleed RES:     30%

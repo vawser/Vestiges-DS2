@@ -36,7 +36,7 @@
 2017 [GEN:2017] Captive Undead
 2020 [GEN:2020] Hollow Rogue
 2021 [GEN:2021] Hollow Rogue
-2024 [GEN:2024] Torturer
+2026 [GEN:2026] Hollow Rogue
 2029 [GEN:2029] Torturer
 2030 [GEN:2030] Hollow Rogue
 2100 [GEN:2100] Captive Undead
@@ -46,13 +46,12 @@
 2700 [GEN:2700] Syan Knight
 3000 [GEN:3000] Captive Undead
 3001 [GEN:3001] Captive Undead
-3002 [GEN:3002] Captive Undead
-3003 [GEN:3003] Captive Undead
-3004 [GEN:3004] Captive Undead
-3005 [GEN:3005] Captive Undead
+3002 [LOC:3002] Captive Undead
+3003 [LOC:3003] Captive Undead
+3004 [LOC:3004] Captive Undead
+3005 [LOC:3005] Captive Undead
 3016 [GEN:3016] Hollow Rogue
 3101 [GEN:3101] Artificial Undead
-3102 [GEN:3102] Artificial Undead
 3103 [GEN:3103] Poison Moth
 3105 [GEN:3105] Artificial Undead
 3111 [GEN:3111] Captive Undead
@@ -72,7 +71,6 @@
 4012 [GEN:4012] Dual-wielding Skeleton
 4013 [GEN:4013] Dual-wielding Skeleton
 4020 [GEN:4020] Black Hollow Mage
-4021 [GEN:4021] Black Hollow Mage
 4050 [GEN:4050] Dual-wielding Skeleton
 4053 [GEN:4053] Dual-wielding Skeleton
 4054 [GEN:4054] Dual-wielding Skeleton
@@ -109,10 +107,6 @@
 5102 [GEN:5102] Captive Undead
 5200 [GEN:5200] Skeleton
 5201 [GEN:5201] Skeleton
-5202 [GEN:5202] Skeleton
-5203 [GEN:5203] Skeleton
-5204 [GEN:5204] Skeleton
-5205 [GEN:5205] Skeleton
 5210 [GEN:5210] Dual-wielding Skeleton
 5211 [GEN:5211] Dual-wielding Skeleton
 5212 [GEN:5212] Dual-wielding Skeleton

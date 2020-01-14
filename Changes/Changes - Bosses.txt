@@ -16,6 +16,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 12000
 
 - Physical DEF:  380
+- Slash ABS:     0%
+- Thrust ABS:    0%
+- Strike ABS:    0%
 - Magic ABS:     30%
 - Lightning ABS: 30%
 - Fire ABS:      30%
@@ -37,6 +40,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 12000
 
 - Physical DEF:  502
+- Slash ABS:     7%
+- Thrust ABS:    0%
+- Strike ABS:    -20%
 - Magic ABS:     30%
 - Lightning ABS: 15%
 - Fire ABS:      15%
@@ -58,6 +64,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 14000
 
 - Physical DEF:  406
+- Slash ABS:     0%
+- Thrust ABS:    0%
+- Strike ABS:    0%
 - Magic ABS:     30%
 - Lightning ABS: 30%
 - Fire ABS:      15%
@@ -79,6 +88,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 14000
 
 - Physical DEF:  514
+- Slash ABS:     7%
+- Thrust ABS:    7%
+- Strike ABS:    -20$
 - Magic ABS:     30%
 - Lightning ABS: 10%
 - Fire ABS:      30%
@@ -100,6 +112,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 12000
 
 - Physical DEF:  454
+- Slash ABS:     7%
+- Thrust ABS:    7%
+- Strike ABS:    -35%
 - Magic ABS:     30%
 - Lightning ABS: 15%
 - Fire ABS:      30%
@@ -126,6 +141,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 16000
 
 - Physical DEF:  384
+- Slash ABS:     0%
+- Thrust ABS:    0%
+- Strike ABS:    0%
 - Magic ABS:     30%
 - Lightning ABS: 30%
 - Fire ABS:      10%
@@ -147,6 +165,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 16000
 
 - Physical DEF:  488
+- Slash ABS:     0%
+- Thrust ABS:    0%
+- Strike ABS:    0%
 - Magic ABS:     30%
 - Lightning ABS: 30%
 - Fire ABS:      30%
@@ -168,6 +189,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 10000
 
 - Physical DEF:  429
+- Slash ABS:     7%
+- Thrust ABS:    7%
+- Strike ABS:    -35%
 - Magic ABS:     15%
 - Lightning ABS: 30%
 - Fire ABS:      30%
@@ -189,6 +213,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 10000 
 
 - Physical DEF:  407
+- Slash ABS:     0%
+- Thrust ABS:    40%
+- Strike ABS:    -50%
 - Magic ABS:     50%
 - Lightning ABS: 30%
 - Fire ABS:      10%
@@ -210,6 +237,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 16000
 
 - Physical DEF:  452
+- Slash ABS:     0%
+- Thrust ABS:    0%
+- Strike ABS:    15%
 - Magic ABS:     30%
 - Lightning ABS: 15%
 - Fire ABS:      15%
@@ -231,6 +261,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 22000
 
 - Physical DEF:  215
+- Slash ABS:     -10%
+- Thrust ABS:    -35%
+- Strike ABS:    30%
 - Magic ABS:     15%
 - Lightning ABS: 50%
 - Fire ABS:      15%
@@ -252,6 +285,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 20000
 
 - Physical DEF:  477
+- Slash ABS:     0%
+- Thrust ABS:    -35%
+- Strike ABS:    0%
 - Magic ABS:     50%
 - Lightning ABS: 30%
 - Fire ABS:      15%
@@ -273,6 +309,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 20000
 
 - Physical DEF:  431
+- Slash ABS:     7%
+- Thrust ABS:    -20%
+- Strike ABS:    -10%
 - Magic ABS:     50%
 - Lightning ABS: 50%
 - Fire ABS:      15%
@@ -294,6 +333,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 22000
 
 - Physical DEF:  664
+- Slash ABS:     7%
+- Thrust ABS:    7%
+- Strike ABS:    -10%
 - Magic ABS:     30%
 - Lightning ABS: 30%
 - Fire ABS:      70%
@@ -315,6 +357,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 10000
 
 - Physical DEF:  401
+- Slash ABS:     0%
+- Thrust ABS:    0%
+- Strike ABS:    0%
 - Magic ABS:     50%
 - Lightning ABS: 10%
 - Fire ABS:      30%
@@ -336,6 +381,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 18000
 
 - Physical DEF:  502
+- Slash ABS:     7%
+- Thrust ABS:    0%
+- Strike ABS:    -20%
 - Magic ABS:     30%
 - Lightning ABS: 15%
 - Fire ABS:      15%
@@ -357,6 +405,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 24000
 
 - Physical DEF:  556
+- Slash ABS:     7%
+- Thrust ABS:    7%
+- Strike ABS:    -20%
 - Magic ABS:     30%
 - Lightning ABS: 70%
 - Fire ABS:      30%
@@ -378,6 +429,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 24000
 
 - Physical DEF:  461
+- Slash ABS:     0%
+- Thrust ABS:    0%
+- Strike ABS:    0%
 - Magic ABS:     15%
 - Lightning ABS: 30%
 - Fire ABS:      30%
@@ -399,6 +453,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 26000
 
 - Physical DEF:  731
+- Slash ABS:     0%
+- Thrust ABS:    0%
+- Strike ABS:    0%
 - Magic ABS:     30%
 - Lightning ABS: 30%
 - Fire ABS:      30%
@@ -420,6 +477,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 22000
 
 - Physical DEF:  697
+- Slash ABS:     0%
+- Thrust ABS:    0%
+- Strike ABS:    0%
 - Magic ABS:     10%
 - Lightning ABS: 30%
 - Fire ABS:      50%
@@ -441,6 +501,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 26000
 
 - Physical DEF:  725
+- Slash ABS:     0%
+- Thrust ABS:    0%
+- Strike ABS:    0%
 - Magic ABS:     30%
 - Lightning ABS: 30%
 - Fire ABS:      85%
@@ -462,6 +525,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 26000
 
 - Physical DEF:  697
+- Slash ABS:     7%
+- Thrust ABS:    7%
+- Strike ABS:    -10%
 - Magic ABS:     30%
 - Lightning ABS: 15%
 - Fire ABS:      30%
@@ -483,6 +549,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 30000
 
 - Physical DEF:  581
+- Slash ABS:     0%
+- Thrust ABS:    0%
+- Strike ABS:    0%
 - Magic ABS:     30%
 - Lightning ABS: 30%
 - Fire ABS:      30%
@@ -504,6 +573,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 22000
 
 - Physical DEF:  363
+- Slash ABS:     0%
+- Thrust ABS:    0%
+- Strike ABS:    0%
 - Magic ABS:     15%
 - Lightning ABS: 30%
 - Fire ABS:      50%
@@ -525,6 +597,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 22000
 
 - Physical DEF:  572
+- Slash ABS:     0%
+- Thrust ABS:    0%
+- Strike ABS:    -20%
 - Magic ABS:     30%
 - Lightning ABS: 15%
 - Fire ABS:      85%
@@ -546,6 +621,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 26000
 
 - Physical DEF:  401
+- Slash ABS:     -10%
+- Thrust ABS:    -35%
+- Strike ABS:    15%
 - Magic ABS:     30%
 - Lightning ABS: 15%
 - Fire ABS:      30%
@@ -567,6 +645,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 22000
 
 - Physical DEF:  502
+- Slash ABS:     7%
+- Thrust ABS:    30%
+- Strike ABS:    -10%
 - Magic ABS:     50%
 - Lightning ABS: 50%
 - Fire ABS:      30%
@@ -588,6 +669,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 18000 / 22000
 
 - Physical DEF:  759 
+- Slash ABS:     0%
+- Thrust ABS:    0%
+- Strike ABS:    0%
 - Magic ABS:     50% / 30%
 - Lightning ABS: 15%
 - Fire ABS:      30%
@@ -609,6 +693,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 30000
 
 - Physical DEF:  633
+- Slash ABS:     0%
+- Thrust ABS:    0%
+- Strike ABS:    -10%
 - Magic ABS:     30%
 - Lightning ABS: 15%
 - Fire ABS:      30%
@@ -630,6 +717,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 30000
 
 - Physical DEF:  506
+- Slash ABS:     -10%
+- Thrust ABS:    7%
+- Strike ABS:    30%
 - Magic ABS:     37%
 - Lightning ABS: 30%
 - Fire ABS:      51%
@@ -651,6 +741,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 20000
 
 - Physical DEF:  635
+- Slash ABS:     0%
+- Thrust ABS:    0%
+- Strike ABS:    0%
 - Magic ABS:     30%
 - Lightning ABS: 15%
 - Fire ABS:      30%
@@ -672,6 +765,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 26000
 
 - Physical DEF:  635
+- Slash ABS:     0%
+- Thrust ABS:    0%
+- Strike ABS:    0%
 - Magic ABS:     16%
 - Lightning ABS: 30%
 - Fire ABS:      30%
@@ -693,6 +789,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 30000
 
 - Physical DEF:  635
+- Slash ABS:     0%
+- Thrust ABS:    0%
+- Strike ABS:    0%
 - Magic ABS:     30%
 - Lightning ABS: 16%
 - Fire ABS:      51%
@@ -719,6 +818,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 30000
 
 - Physical DEF:  762
+- Slash ABS:     0%
+- Thrust ABS:    0%
+- Strike ABS:    0%
 - Magic ABS:     37%
 - Lightning ABS: 37%
 - Fire ABS:      79%
@@ -740,6 +842,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 30000
 
 - Physical DEF:  658
+- Slash ABS:     0%
+- Thrust ABS:    0%
+- Strike ABS:    0%
 - Magic ABS:     30%
 - Lightning ABS: 30%
 - Fire ABS:      44%
@@ -761,6 +866,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 26000
 
 - Physical DEF:  789
+- Slash ABS:     7%
+- Thrust ABS:    7%
+- Strike ABS:    -10%
 - Magic ABS:     72%
 - Lightning ABS: 30%
 - Fire ABS:      44%
@@ -782,6 +890,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 26000
 
 - Physical DEF:  658
+- Slash ABS:     0%
+- Thrust ABS:    -10%
+- Strike ABS:    7%
 - Magic ABS:     37%
 - Lightning ABS: 30%
 - Fire ABS:      23%
@@ -803,6 +914,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 30000
 
 - Physical DEF:  762
+- Slash ABS:     0%
+- Thrust ABS:    0%
+- Strike ABS:    0%
 - Magic ABS:     44%
 - Lightning ABS: 30%
 - Fire ABS:      44%
@@ -824,6 +938,9 @@ RES is the % removed from the axu value (i.e. 100 Bleed -> 30% RES, 70 bleed inf
 - HP +7: 26000
 
 - Physical DEF:  610
+- Slash ABS:     0%
+- Thrust ABS:    -10%
+- Strike ABS:    7%
 - Magic ABS:     37%
 - Lightning ABS: 30%
 - Fire ABS:      23%

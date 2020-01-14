@@ -33,7 +33,7 @@
 133000 Skeleton
 134000 Gyrm
 135000 Gyrm Warrior
-137000 Dragon Acolyte
+137000 Prowling Magus
 138000 Torturer
 139000 Artificial Undead
 141000 Undead Aberration
@@ -65,7 +65,7 @@
 220000 Giant Acid Horn Beetle
 222000 Giant Basilisk
 223000 Mongrel Rat
-223500 Mongrel Rat
+223500 Mongrel Rat (Royal Rat Authority)
 224000 Darksucker
 225000 UNKNOWN
 226000 Corpse Rat
@@ -80,7 +80,7 @@
 303310 Flexile Sentry
 304000 Milfanito
 305000 Smelter Demon
-305001 Smelter Demon
+305001 Blue Smelter Demon
 306000 Alonne Captain
 306001 Alonne Captain
 307000 Headless Vengarl
@@ -119,7 +119,7 @@
 502001 Manscorpion Tark
 502002 Manscorpion Tark
 503000 Scorpioness Najka
-504000 Mirror Knight
+504000 Looking Glass Knight
 506100 Darklurker
 506200 Darklurker (Clone)
 506500 Grave Warden Agdayne
@@ -130,13 +130,13 @@
 600000 Ancient Dragon
 601000 Flame Lizard
 601001 Flame Lizard
-602000 Rampart Hedgehog
+602000 Demon of Song
 603000 The Duke's Dear Freja
 603100 The Duke's Dear Freja
 607000 Old Iron King
-608000 Corrosive Ant Queen
+608000 Rotten Vermin
 611000 Dragonrider
-611001 Dragonrider
+611001 Dragonrider (Archer)
 611010 Dragonrider
 619100 Executioner's Chariot
 619110 Executioner's Chariot
@@ -160,7 +160,7 @@
 666000 Sanctum Soldier
 670000 Sanctum Priestess
 671000 Poison Statue Cluster
-672000 Corrosive Ant
+672000 Rotten Vermin
 674000 Pagan Tree
 675000 Fume Knight
 677000 Retainer Sorcerer

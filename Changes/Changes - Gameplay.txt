@@ -28,6 +28,7 @@
 - Increased Crystal Soul Spear casts.
 
 # Enemies
+- Increased the HP of bosses.
 - Adjusted the soul drops of some bosses.
 - Increased the drop rate of Loyce Souls massively (7.5% -> 50%).
 - Lud and Zallen now drop Lingering Dragoncrest Ring+2

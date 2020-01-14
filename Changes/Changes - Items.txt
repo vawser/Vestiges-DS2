@@ -17,6 +17,10 @@
 - Effect: Blocks magical silencing. 
 - Source: Found in Aldia's Keep.
 
+# Ring of Lords
+- Effect: Attack increases based on souls held (caps at 1,000,000, decreases below 300,000 souls).
+- Source: 
+
 #-----------------------------------------
 # Items
 #-----------------------------------------

@@ -51,6 +51,7 @@ o33_1900 - Gyrm Brazier
 - Added Greatwood Band: Jump without sprinting, reduces Falling Damage, Poison Aura. Found in Harvest Valley.
 - Added Witch's Ring: Every 2 minutes, restores 20% spell uses. Found in Iron Keep.
 - Added Dragonscale Ring: Blocks magical silencing. Found in Aldia's Keep.
+- Added Ring of Lords: Attack increases based on souls held. Found in Drangleic Castle.
 
 #-----------------------------------------
 # TODO
@@ -65,6 +66,7 @@ Test adding new treasure corpse
 42030000 Greatwood Band
 42040000 Witch's Ring
 42050000 Dragonscale Ring
+42060000 Ring of Lords
 
 
-
+26700100

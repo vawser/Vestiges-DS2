@@ -8,3 +8,7 @@ This may include unstable changes or unfinished content, so download this versio
 2. Once downloaded, place the **dinput8.dll** and **modengine.ini** files in your Game folder (\Dark Souls II Scholar of the First Sin\Game\).
 3. Place the **Vestiges** folder in your Game folder (no need to move anything out of it).
 
+## Modding
+If you are interested in modding DS2, then you'll find the Tools and Documentation folder very useful. 
+
+The Yapped Layouts and Names found in the Tools folder are vital for modding DS2.

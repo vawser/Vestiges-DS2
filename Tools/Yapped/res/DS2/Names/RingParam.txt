@@ -128,3 +128,4 @@
 42030000 Greatwood Band
 42040000 Witch's Ring
 42050000 Dragonscale Ring
+42060000 Ring of Lords

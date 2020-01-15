@@ -49,3 +49,29 @@
 10180848 Brazier
 10180849 Brazier
 10180850 Brazier
+10185000 [Chest] Treasure
+10185030 [Chest] Treasure
+10185040 [Chest] Treasure
+10185050 [Chest] Treasure
+10185060 [Chest] Treasure
+10185070 [Chest] Treasure
+10185080 [Chest] Treasure
+10185100 [Chest] Treasure
+10185110 [Chest] Treasure
+10185120 [Chest] Treasure
+10186000 [Corpse] Treasure
+10186010 [Corpse] Treasure
+10186020 [Corpse] Treasure
+10186030 [Corpse] Treasure
+10186040 [Corpse] Treasure
+10186050 [Corpse] Treasure
+10186070 [Corpse] Treasure
+10186080 [Corpse] Treasure
+10186100 [Corpse] Treasure
+10186110 [Corpse] Treasure
+10186120 [Corpse] Treasure
+10186130 [Corpse] Treasure
+10186140 [Corpse] Treasure
+10186150 [Corpse] Treasure
+10186160 [Corpse] Treasure
+10186170 [Corpse] Treasure

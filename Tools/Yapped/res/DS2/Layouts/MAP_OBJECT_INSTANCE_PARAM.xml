@@ -1,10 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <layout>
   <entry>
-    <name>Map Object ID</name>
+    <name>Param ID</name>
     <type>s32</type>
     <default>0</default>
-    <description>Refers to the param this object is used for. Differs, can be bonfire, white door, etc.</description>
+    <description>Refers to the param this object is used for:
+- MapObjectBonfireParam
+- MapObjectDoorParam
+- MapObjectWhiteDoorParam
+- TreasureBoxParam</description>
   </entry>
   <entry>
     <name>Unk04</name>

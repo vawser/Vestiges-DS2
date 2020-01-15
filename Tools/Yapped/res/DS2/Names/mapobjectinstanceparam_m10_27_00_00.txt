@@ -49,3 +49,31 @@
 10270748 Brazier
 10270749 Brazier
 10270750 Brazier
+10275000 [Chest] Treasure
+10275010 [Chest] Treasure
+10275020 [Chest] Treasure
+10275030 [Chest] Treasure
+10275040 [Chest] Treasure
+10275050 [Chest] Treasure
+10275060 [Chest] Treasure
+10275070 [Chest] Treasure
+10276000 [Corpse] Treasure
+10276010 [Corpse] Treasure
+10276020 [Corpse] Treasure
+10276030 [Corpse] Treasure
+10276040 [Corpse] Treasure
+10276050 [Corpse] Treasure
+10276060 [Corpse] Treasure
+10276070 [Corpse] Treasure
+10276080 [Corpse] Treasure
+10276090 [Corpse] Treasure
+10276100 [Corpse] Treasure
+10276110 [Corpse] Treasure
+10276120 [Corpse] Treasure
+10276130 [Corpse] Treasure
+10276140 [Corpse] Treasure
+10276150 [Corpse] Treasure
+10276160 [Corpse] Treasure
+10276170 [Corpse] Treasure
+10276180 [Corpse] Treasure
+10276190 [Corpse] Treasure

@@ -19,3 +19,7 @@
 10290718 Brazier
 10290719 Brazier
 10290720 Brazier
+10295000 [Chest] Treasure
+10296000 [Corpse] Treasure
+10296010 [Corpse] Treasure
+10296020 [Corpse] Treasure

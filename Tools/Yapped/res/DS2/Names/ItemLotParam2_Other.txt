@@ -947,7 +947,7 @@
 20215070 [Drangleic Castle - Chest] Estus Flask Shard
 20215080 [Drangleic Castle - Chest] Great Combustion, Fire Seed
 20215090 [Drangleic Castle - Chest] Firestorm
-20215100 [Drangleic Castle - Chest] Key to King's Passage
+20215100 [Drangleic Castle - Chest] Key to King's Passage, Ring of Lords
 20215110 [Drangleic Castle - Chest] Strong Magic Shield
 20215120 [Drangleic Castle - Chest] Old Knight Hammer
 20215130 [Drangleic Castle - Chest] Mastodon Greatsword, Mastodon Greatshield

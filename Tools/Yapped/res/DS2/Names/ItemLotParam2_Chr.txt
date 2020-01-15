@@ -534,7 +534,7 @@
 61911000 [Executioner's Chariot] None
 62500000 [Old Dragonslayer] None
 62600000 [Lost Sinner] None
-62700000 [Nashandra] None
+62700000 [Nashandra] Ring of Lords
 62800000 [Royal Rat Authority] None
 65000000 [Iron Warrior] Smelter Hammer, Firedrake Stone, Titanite Slab, Minotaur Helm
 65000100 [Iron Warrior] Smelter Hammer, Firedrake Stone, Titanite Slab, Minotaur Helm

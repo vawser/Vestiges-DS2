@@ -1025,6 +1025,7 @@
 42030000 Greatwood Band
 42040000 Witch's Ring
 42050000 Dragonscale Ring
+42060000 Ring of Lords
 50600000 Soldier Key
 50610000 Key to King's Passage
 50800000 Bastille Key

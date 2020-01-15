@@ -1,5 +1,5 @@
 ﻿# Notes
-- enc_regulation has 1 MB limit.
+- enc_regulation has 10 MB limit.
 - enc_regulation is loaded after the param folder.
 - Removing all files from enc_regulation (with the params in the folder) works fine.
 

@@ -150,7 +150,7 @@
  <param name="MapVolumeFogParam"></param>
  <param name="MaterialParam"></param>
  <param name="MenuCategoryIconParam">Controls the values of the stats in the menu. Does not affect their actual values.</param>
- <param name="MenuStatsParam"></param>
+ <param name="MenuStatsParam">Values to display on the status screen for each level.</param>
  <param name="ModelLinkLodTypeParam"></param>
  <param name="MovieTextParam"></param>
  <param name="NetworkAreaParam"></param>
@@ -179,7 +179,7 @@
  <param name="PluralSelectMenuParam"></param>
  <param name="PoiseDamageParam"></param>
  <param name="ReinforceCostParam"></param>
- <param name="RelatePhysicalStatToLevelStatParam"></param>
+ <param name="RelatePhysicalStatToLevelStatParam">Values to actually use for each level.</param>
  <param name="ResultEventParam"></param>
  <param name="RingParam"></param>
  <param name="ShopLineupParam"></param>
@@ -495,7 +495,7 @@
  <param name="npctalkparam_m50_36_00_00"></param>
  <param name="npctalkparam_m50_37_00_00"></param>
  <param name="npctalkparam_m50_38_00_00"></param>
-
+ 
  <param name="treasureboxparam_m10_02_00_00"></param>
  <param name="treasureboxparam_m10_04_00_00"></param>
  <param name="treasureboxparam_m10_10_00_00"></param>
@@ -509,7 +509,6 @@
  <param name="treasureboxparam_m10_25_00_00"></param>
  <param name="treasureboxparam_m10_27_00_00"></param>
  <param name="treasureboxparam_m10_29_00_00"></param>
- <param name="treasureboxparam_m10_30_00_00"></param>
  <param name="treasureboxparam_m10_31_00_00"></param>
  <param name="treasureboxparam_m10_32_00_00"></param>
  <param name="treasureboxparam_m10_33_00_00"></param>
@@ -518,9 +517,8 @@
  <param name="treasureboxparam_m20_11_00_00"></param>
  <param name="treasureboxparam_m20_21_00_00"></param>
  <param name="treasureboxparam_m20_24_00_00"></param>
- <param name="treasureboxparam_m20_26_00_00"></param>
- <param name="treasureboxparam_m40_03_00_00"></param>
  <param name="treasureboxparam_m50_35_00_00"></param>
  <param name="treasureboxparam_m50_36_00_00"></param>
  <param name="treasureboxparam_m50_37_00_00"></param>
+ <param name="treasureboxparam_m50_38_00_00"></param>
 </params>

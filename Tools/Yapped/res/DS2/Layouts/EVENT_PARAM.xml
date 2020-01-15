@@ -3,6 +3,6 @@
   <entry>
     <name>eventData</name>
     <type>dummy8</type>
-    <size>128</size>
+    <size>16</size>
   </entry>
 </layout>

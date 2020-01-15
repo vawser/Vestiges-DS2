@@ -46,16 +46,7 @@ o33_1900 - Gyrm Brazier
 #-----------------------------------------
 # Changes
 #-----------------------------------------
-- Increased boss HP.
-- Adjusted the slash/thrust/strike absorption of enemies, reducing the massive advantage Strike has, and making enemies a slightly more resistant to damage in general.
-- Added Ring of Fortune: Rare chance normal attacks become critical hits. Found in Dragon Shrine.
-- Added Greatwood Band: Jump without sprinting, reduces Falling Damage, Poison Aura. Found in Harvest Valley.
-- Added Witch's Ring: Every 2 minutes, restores 20% spell uses. Found in Iron Keep.
-- Added Dragonscale Ring: Blocks magical silencing. Found in Aldia's Keep.
-- Added Ring of Lords: Attack increases based on souls held. Found in Drangleic Castle.
 
 #-----------------------------------------
 # TODO
 #-----------------------------------------
-Do a treasure pass, adjust treasures with suitable rewards
-Test adding new treasure corpse

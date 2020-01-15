@@ -3,6 +3,6 @@
   <entry>
     <name>data</name>
     <type>dummy8</type>
-    <size>128</size>
+    <size>8</size>
   </entry>
 </layout>

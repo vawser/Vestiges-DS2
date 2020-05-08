@@ -1,0 +1,55 @@
+1001 Intrusion Point 1-1 
+1002 Intrusion Point 1-2 
+1003 Intrusion Point 1-3 
+1004 Intrusion Point 1-4 
+1005 Intrusion Point 1-5 
+1006 Intrusion Point 1-6 
+1007 Intrusion Point 1-7 
+1008 Intrusion Point 1-8 
+1009 Intrusion Point 1-9 
+2001 Intrusion Point 2-1 
+100000 Togetge_Navimesh Change_01 
+100010 Togetge_Navimesh Change_02 
+103300 For backlead safety [void] 
+103301 For backlead safety [Gerdra] 
+200000 Boss: Giant rat battle start judgment 
+200010 Boss: Giant Rat_ Launch Point 
+300000 Bug key A_ navi mesh change 
+400000 Bug key B_ navi mesh change 
+500000 Bug key C_ navi mesh change 
+602000 Bug key D_ navi mesh change 
+800000 Bug key F_ navi mesh change 
+900000 Bug key G_ navi mesh change 
+1000000 Bug key H_ navi mesh change 
+1100000 Bug key I_ navi mesh change 
+1101000 Dwarf Statue I Launch Area 
+1200000 Bug key J_ navi mesh change 
+1300000 Insect key to-traffic closure_Navimesh change 
+1500000 Dwarf Statue M Launch Area 
+1600000 Launch disk N start area 
+1700000 Dwarf Statue O Launch Area 
+1800000 Dwarf Statue P Launch Area 
+1900000 Bug key Q_ navi mesh change 
+2000000 Bug key R_ navi mesh change 
+2100000 Dwarf Statue S Launch Area 
+2200000 Dwarf Statue T Launch Area 
+2300000 Launch disk U start area 1 
+2301000 Launch disk U start area 2 
+2302000 Launch disk U start area 3 
+2303000 Launch disk U start area 4 
+2304000 Launch disk U start area 5 
+2401000 Bug key V_ navi mesh change 
+10000000 ?NPC for Multi: The Magician(Male)?Black Spirit Appearance Area 
+50000100 Main route_ Heavy dwarf launch at the back 
+50000300 Thorn Switch Heavy Dwarf Launch Area 
+52000300 Thorn Switch Heavy Dwarf Navi 1_Move Target 
+52000301 Thorn Switch Heavy Dwarf Navigation 2_ For Change of Direction 
+52000302 Thorn Switch Heavy Dwarf Navigation 3_Standby Point 
+53000300 Area where heavy dwarves will follow if the PC is shortcuted by a jump 
+53000400 Heavy dwarf road block point in front of the goal white door 
+54000100 ?Return area?In front of the entrance of the rat area 
+54000101 ?Return area?Rat area entrance 
+54000102 ?Return area?No access to entrance 
+54000103 ?Return area?Gerdra side exit 
+54000104 ?Return area?Gerdra side exit 
+54000105 ?Return area?Before the boss 

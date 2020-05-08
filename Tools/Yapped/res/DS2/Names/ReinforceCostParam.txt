@@ -1,585 +1,514 @@
-0 UNKNOWN
-10 UNKNOWN
-100100 UNKNOWN
-100200 UNKNOWN
-100300 UNKNOWN
-100400 Broken Straight Sword
-100500 UNKNOWN
-100600 UNKNOWN
-100700 UNKNOWN
-100800 UNKNOWN
-100900 UNKNOWN
-101000 UNKNOWN
-101100 UNKNOWN
-101200 UNKNOWN
-101300 UNKNOWN
-101350 UNKNOWN
-101400 Handmaid's Ladle
-101500 UNKNOWN
-101600 Hand Axe
-101700 UNKNOWN
-101800 UNKNOWN
-101900 UNKNOWN
-102000 UNKNOWN
-102100 UNKNOWN
-102200 UNKNOWN
-102300 UNKNOWN
-102400 UNKNOWN
-102500 UNKNOWN
-102600 UNKNOWN
-102700 UNKNOWN
-102800 UNKNOWN
-200100 UNKNOWN
-200200 UNKNOWN
-200300 Whip
-200400 Dagger
-200500 UNKNOWN
-200600 UNKNOWN
-200700 UNKNOWN
-200800 UNKNOWN
-200900 UNKNOWN
-201000 UNKNOWN
-201100 UNKNOWN
-201200 UNKNOWN
-201300 UNKNOWN
-201350 UNKNOWN
-201400 Club / Blacksmith's Hammer
-201500 UNKNOWN
-201600 Infantry Axe
-201700 Bandit Greataxe
-201800 Great Scythe
-201900 Lucerne
-202000 Short Bow
-202100 UNKNOWN
-202200 Light Crossbow
-202300 Sorcerer's Staff
-202400 Cleric's Sacred Chime
-202500 UNKNOWN
-202600 Buckler / Transgressor's Leather Shield
-202700 Wooden Shield / Blue Wooden Shield / Hollow Soldier Shield / Yellow Quartz Shield
-202800 Twin Dragon Greatshield
-300100 Generic - Fist
-300200 Generic - Claw
-300300 Generic - Whip
-300400 Generic - Dagger
-300500 Generic - Thrusting Sword
-300600 Generic - Spear
-300700 Generic - Lance
-300800 Generic - Twinblade
-300900 Generic - Curved Sword
-301000 Generic - Straight Sword
-301100 Generic - Katana
-301200 Generic - Greatsword
-301300 Generic - Ultra Greatsword
-301350 Generic - Curved Greatsword
-301400 Generic - Hammer
-301500 Generic - Great Hammer
-301600 Generic - Axe
-301700 Generic - Greataxe
-301800 Generic - Curved Greatsword
-301900 Generic - Halberd
-302000 Generic - Bow
-302100 UNKNOWN
-302200 Generic - Crossbow
-302300 Generic - Staff
-302400 Generic - Chime
-302500 Generic - Pyromancy Flame
-302600 Generic - Small Shield
-302700 Generic - Medium Shield
-302800 Generic - Greatshield
-400100 UNKNOWN
-400200 UNKNOWN
-400300 UNKNOWN
-400400 Manikin Knife
-400500 Espada Ropera / Ricard's Rapier
-400600 Partizan / Heide Spear / Channeler's Trident
-400700 Grand Lance
-400800 Red Iron Twinblade
-400900 UNKNOWN
-401000 Possessed Armor Sword
-401100 UNKNOWN
-401200 UNKNOWN
-401300 Drakekeeper's Ultra Greatsword
-401350 UNKNOWN
-401400 Mace of the Insolent
-401500 Great Club / Sanctum Mace
-401600 UNKNOWN
-401700 UNKNOWN
-401800 UNKNOWN
-401900 Syan's Halberd
-402000 Composite Bow / Hunter's Blackbow
-402100 Alonne Greatbow / Possessed Armor Greatbow
-402200 Sanctum Crossbow / Sanctum Repeating Crossbow
-402300 Staff of Amana / Pilgrim's Spontoon / Retainer Staff / Sorcerer's Twinblade
-402400 Witchtree Bellvine / Disc Chime / Sanctum Shield
-402500 Dark Pyromancy Flame
-402600 Magic Shield
-402700 Golden Wing Shield / Vessel Shield / Watchdragon Parma
-402800 Greatshield of Glory / Wicked Eye Greatshield
-500100 UNKNOWN
-500200 UNKNOWN
-500300 UNKNOWN
-500400 UNKNOWN
-500500 UNKNOWN
-500600 UNKNOWN
-500700 UNKNOWN
-500800 UNKNOWN
-500900 UNKNOWN
-501000 UNKNOWN
-501100 Darkdrift
-501200 UNKNOWN
-501300 UNKNOWN
-501350 UNKNOWN
-501400 UNKNOWN
-501500 UNKNOWN
-501600 UNKNOWN
-501700 UNKNOWN
-501800 UNKNOWN
-501900 UNKNOWN
-502000 UNKNOWN
-502100 UNKNOWN
-502200 Avelyn
-502300 Black Witch's Staff
-502400 UNKNOWN
-502500 UNKNOWN
-502600 UNKNOWN
-502700 UNKNOWN
-502800 UNKNOWN
-2008000 UNKNOWN
-2008001 UNKNOWN
-2008002 UNKNOWN
-2008003 UNKNOWN
-2108000 UNKNOWN
-2108001 UNKNOWN
-2108002 UNKNOWN
-2108003 UNKNOWN
-2208004 UNKNOWN
-2208005 UNKNOWN
-2208006 UNKNOWN
-2208007 UNKNOWN
-2308008 UNKNOWN
-2308009 UNKNOWN
-2308010 UNKNOWN
-2308011 UNKNOWN
-2408012 UNKNOWN
-2408013 UNKNOWN
-2408014 UNKNOWN
-2408015 UNKNOWN
-2508016 UNKNOWN
-2508017 UNKNOWN
-2508018 UNKNOWN
-2508019 UNKNOWN
-3008000 UNKNOWN
-3008001 UNKNOWN
-3008002 UNKNOWN
-3008003 UNKNOWN
-3108000 UNKNOWN
-3108001 UNKNOWN
-3108002 UNKNOWN
-3108003 UNKNOWN
-3208004 UNKNOWN
-3208005 UNKNOWN
-3208006 UNKNOWN
-3208007 UNKNOWN
-3308008 UNKNOWN
-3308009 UNKNOWN
-3308010 UNKNOWN
-3308011 UNKNOWN
-3408012 UNKNOWN
-3408013 UNKNOWN
-3408014 UNKNOWN
-3408015 UNKNOWN
-3508016 UNKNOWN
-3508017 UNKNOWN
-3508018 UNKNOWN
-3508019 UNKNOWN
-4008000 UNKNOWN
-4008001 UNKNOWN
-4008002 UNKNOWN
-4008003 UNKNOWN
-4108000 UNKNOWN
-4108001 UNKNOWN
-4108002 UNKNOWN
-4108003 UNKNOWN
-4208004 UNKNOWN
-4208005 UNKNOWN
-4208006 UNKNOWN
-4208007 UNKNOWN
-4308008 UNKNOWN
-4308009 UNKNOWN
-4308010 UNKNOWN
-4308011 UNKNOWN
-4408012 UNKNOWN
-4408013 UNKNOWN
-4408014 UNKNOWN
-4408015 UNKNOWN
-4508016 UNKNOWN
-4508017 UNKNOWN
-4508018 UNKNOWN
-4508019 UNKNOWN
-5008000 UNKNOWN
-5008001 UNKNOWN
-5008002 UNKNOWN
-5008003 UNKNOWN
-5108000 UNKNOWN
-5108001 UNKNOWN
-5108002 UNKNOWN
-5108003 UNKNOWN
-5208004 UNKNOWN
-5208005 UNKNOWN
-5208006 UNKNOWN
-5208007 UNKNOWN
-5308008 UNKNOWN
-5308009 UNKNOWN
-5308010 UNKNOWN
-5308011 UNKNOWN
-5408012 UNKNOWN
-5408013 UNKNOWN
-5408014 UNKNOWN
-5408015 UNKNOWN
-5508016 UNKNOWN
-5508017 UNKNOWN
-5508018 UNKNOWN
-5508019 UNKNOWN
-6008000 UNKNOWN
-6008001 UNKNOWN
-6008002 UNKNOWN
-6008003 UNKNOWN
-6108000 UNKNOWN
-6108001 UNKNOWN
-6108002 UNKNOWN
-6108003 UNKNOWN
-6208004 UNKNOWN
-6208005 UNKNOWN
-6208006 UNKNOWN
-6208007 UNKNOWN
-6308008 UNKNOWN
-6308009 UNKNOWN
-6308010 UNKNOWN
-6308011 UNKNOWN
-6408012 UNKNOWN
-6408013 UNKNOWN
-6408014 UNKNOWN
-6408015 UNKNOWN
-6508016 UNKNOWN
-6508017 UNKNOWN
-6508018 UNKNOWN
-6508019 UNKNOWN
-10000000 Royal Dirk
-10000100 Blue Flame
-10000200 Red Rust Sword
-10000300 Chaos Rapier
-10000400 Black Scorpion Stinger
-10000500 Red Rust Scimitar
-10000600 Manslayer
-10000700 Berserker Blade
-10000800 Drangleic Sword
-10000900 Black Knight Greatsword
-10001000 Dragonslayer's Crescent Axe
-10001100 Crescent Axe
-10001200 Black Knight Greataxe
-10001300 Craftsman's Hammer
-10001400 Dragon Tooth
-10001500 Malformed Shell
-10001600 Demon's Great Hammer
-10001700 Pate's Spear
-10001800 Heide Lance
-10001900 Scythe of Nahr Alma
-10002000 Helix Halberd
-10002100 Santier's Spear
-10002200 Santier's Spear
-10002300 Blue Knight's Halberd
-10002400 Black Knight Halberd
-10002500 Old Whip
-10002600 Olenford's Staff
-10002700 Staff of Wisdom
-10002800 Sunset Staff
-10002900 Dragon Chime
-10003000 Idol's Chime
-10003100 Black Knight Ultra Greatsword
-10003200 Curved Twinblade
-10003300 Llewellyn Shield
-10003400 Cursed Bone Shield
-10003500 Drangleic Shield
-10003600 Grand Spirit Tree Shield
-10003700 Chaos Shield
-10003800 Red Rust Shield
-10003900 Orma's Greatshield
-10004000 Reeve's Greatshield
-10004100 Havel's Greatshield
-10004800 Blue Dagger
-10004900 Umbral Dagger
-10005000 Puzzling Stone Sword
-10005100 Ivory Straight Sword
-10005110 Ice Rapier
-10005150 Fume Sword
-10005200 Eleum Loyce
-10005300 Bewitched Alonne Sword
-10005400 Majestic Greatsword
-10005500 Majestic Greatsword
-10005600 Wrathful Axe
-10005700 Azal's Staff
-10005800 Chime of Screams
-10006000 Loyce Greatsword
-10006100 Charred Loyce Greatsword
-10006200 Ivory King Ultra Greatsword
-10006300 Loyce Shield
-10006400 Charred Loyce Shield
-20000000 Mytha's Bent Blade
-20000100 Black Dragon Sword
-20000200 Spider's Silk
-20000300 Warped Sword
-20000400 Spider Fang
-20000500 Chaos Blade
-20000600 Thorned Greatsword
-20000700 Moonlight Greatsword
-20000800 Ruler's Sword
-20000900 Black Dragon Greatsword
-20001000 Defender Greatsword
-20001100 Watcher Greatsword
-20001200 Butcher's Knife
-20001300 Giant Stone Axe
-20001400 Black Dragon Greataxe
-20001500 Black Dragon Warpick
-20001600 Barbed Club
-20001700 Iron King Hammer
-20001800 Sacred Chime Hammer
-20001900 Spitfire Spear
-20002000 Gargoyle Bident
-20002100 Dragonslayer Spear
-20002200 Chariot Lance
-20002300 Bone Scythe
-20002400 Scythe of Want
-20002500 Dragonrider's Halberd
-20002600 Roaring Halberd
-20002700 Spotted Whip
-20002800 UNKNOWN
-20002900 Dragonrider Bow
-20003000 Bow of Want
-20003100 Dragonslayer Greatbow
-20003200 Shield Crossbow
-20003300 Arced Sword
-20003400 Curved Dragon Greatsword
-20003500 Smelter Sword
-20003600 Drakewing Ultra Greatsword
-20003700 King's Ultra Greatsword
-20003800 Pursuer's Ultra Greatsword
-20003900 Crypt Blacksword
-20004000 Lost Sinner's Sword
-20004100 Dragonrider Twinblade
-20004200 Watcher's Shield
-20004300 King's Shield
-20004400 Defender's Shield
-20004500 Black Dragon Shield
-20004600 King's Mirror
-20004700 Dragonrider Greatshield
-20004800 Pursuer's Greatshield
-20005000 Drakeblood Greatsword
-20005100 Yorgh's Spear
-20005200 Bone Fist
-20005300 Twin-headed Greatbow
-20005400 Curved Nil Greatsword
-20005500 Fume Ultra Greatsword
-20005600 Aged Smelter Sword
-20020000 Greatsword of the Forlorn
-20020100 Scythe of the Forlorn
-30000000 UNKNOWN
-30000100 UNKNOWN
-30000200 UNKNOWN
-30000300 UNKNOWN
-30000400 UNKNOWN
-30000500 UNKNOWN
-30000600 UNKNOWN
-30000700 UNKNOWN
-30000800 UNKNOWN
-30000900 UNKNOWN
-30001000 UNKNOWN
-30001100 UNKNOWN
-30001200 UNKNOWN
-30001300 UNKNOWN
-30001400 UNKNOWN
-30001500 UNKNOWN
-30001600 UNKNOWN
-30001700 UNKNOWN
-30001800 UNKNOWN
-30001900 UNKNOWN
-30002000 UNKNOWN
-30002100 UNKNOWN
-30002200 UNKNOWN
-30002300 UNKNOWN
-30002400 UNKNOWN
-30002500 UNKNOWN
-30002600 UNKNOWN
-30002700 UNKNOWN
-30002800 UNKNOWN
-30002900 UNKNOWN
-30003000 UNKNOWN
-30003100 UNKNOWN
-30003200 UNKNOWN
-30003300 UNKNOWN
-30003400 UNKNOWN
-30003500 UNKNOWN
-30003600 UNKNOWN
-30003700 UNKNOWN
-30003800 UNKNOWN
-30003900 UNKNOWN
-30004000 UNKNOWN
-30004100 UNKNOWN
-30004200 UNKNOWN
-30004300 UNKNOWN
-30004400 UNKNOWN
-30004500 UNKNOWN
-30004600 UNKNOWN
-30004700 UNKNOWN
-30004800 UNKNOWN
-30004900 UNKNOWN
-30005000 UNKNOWN
-30005100 UNKNOWN
-30005200 UNKNOWN
-30005300 UNKNOWN
-30005400 UNKNOWN
-30005500 UNKNOWN
-30005600 UNKNOWN
-30005700 UNKNOWN
-30005800 UNKNOWN
-30005900 UNKNOWN
-30006000 UNKNOWN
-30006100 UNKNOWN
-30006200 UNKNOWN
-30006300 UNKNOWN
-30006400 UNKNOWN
-30006500 UNKNOWN
-30006600 UNKNOWN
-30006700 UNKNOWN
-30006800 UNKNOWN
-30006900 UNKNOWN
-30007000 UNKNOWN
-30007100 UNKNOWN
-30007200 UNKNOWN
-30007300 UNKNOWN
-30007400 UNKNOWN
-30007500 UNKNOWN
-30007600 UNKNOWN
-30007700 UNKNOWN
-30007800 UNKNOWN
-30007900 UNKNOWN
-30008000 UNKNOWN
-30008100 UNKNOWN
-30008200 UNKNOWN
-30008300 UNKNOWN
-30008400 UNKNOWN
-30008500 UNKNOWN
-30008600 UNKNOWN
-30008700 UNKNOWN
-30008800 UNKNOWN
-30008900 UNKNOWN
-30009000 UNKNOWN
-30009100 UNKNOWN
-30009200 UNKNOWN
-30009300 UNKNOWN
-30009400 UNKNOWN
-30009500 UNKNOWN
-30009600 UNKNOWN
-30009700 UNKNOWN
-30009800 UNKNOWN
-30009900 UNKNOWN
-30010000 UNKNOWN
-30010100 UNKNOWN
-30010200 UNKNOWN
-30010300 UNKNOWN
-30010400 UNKNOWN
-30010500 UNKNOWN
-30010600 UNKNOWN
-30010700 UNKNOWN
-30010800 UNKNOWN
-30010900 UNKNOWN
-30011000 UNKNOWN
-30011100 UNKNOWN
-30011200 UNKNOWN
-30011300 UNKNOWN
-30011400 UNKNOWN
-30011500 UNKNOWN
-30011600 UNKNOWN
-30011700 UNKNOWN
-30011800 UNKNOWN
-30011900 UNKNOWN
-30012000 UNKNOWN
-30012100 UNKNOWN
-30012200 UNKNOWN
-30012300 UNKNOWN
-30012400 UNKNOWN
-30012500 UNKNOWN
-30012600 UNKNOWN
-30012700 UNKNOWN
-30012800 UNKNOWN
-30012900 UNKNOWN
-30013000 UNKNOWN
-30013100 UNKNOWN
-30013200 UNKNOWN
-30013300 UNKNOWN
-30013400 UNKNOWN
-30013500 UNKNOWN
-30013600 UNKNOWN
-30013700 UNKNOWN
-30013800 UNKNOWN
-30013900 UNKNOWN
-30014000 UNKNOWN
-30014100 UNKNOWN
-30014200 UNKNOWN
-30014300 UNKNOWN
-30014400 UNKNOWN
-30014500 UNKNOWN
-30014600 UNKNOWN
-30014700 UNKNOWN
-30014800 UNKNOWN
-30014900 UNKNOWN
-30015000 UNKNOWN
-30015100 UNKNOWN
-30016000 UNKNOWN
-30016100 UNKNOWN
-30016200 UNKNOWN
-30016300 UNKNOWN
-30016400 UNKNOWN
-30016500 UNKNOWN
-30016600 UNKNOWN
-30016700 UNKNOWN
-30016800 UNKNOWN
-30016900 UNKNOWN
-30017000 UNKNOWN
-30017100 UNKNOWN
-30017200 UNKNOWN
-30017300 UNKNOWN
-30017400 UNKNOWN
-30017500 UNKNOWN
-30017600 UNKNOWN
-30017700 UNKNOWN
-30017800 UNKNOWN
-30017900 UNKNOWN
-30018000 UNKNOWN
-30018100 UNKNOWN
-30018200 UNKNOWN
-30018300 UNKNOWN
-30018400 UNKNOWN
-30018500 UNKNOWN
-30018600 UNKNOWN
-30018700 UNKNOWN
-30018800 UNKNOWN
-30018900 UNKNOWN
-30019000 UNKNOWN
-30019100 UNKNOWN
-30019200 UNKNOWN
-30019300 UNKNOWN
-30019400 UNKNOWN
-30019500 UNKNOWN
-30019600 UNKNOWN
-30019700 UNKNOWN
-30019800 UNKNOWN
-30019900 UNKNOWN
-30050000 UNKNOWN
-30050100 UNKNOWN
-30050200 UNKNOWN
-30050300 UNKNOWN
-40000000 UNKNOWN
-40000100 UNKNOWN
-40000200 UNKNOWN
-40000300 UNKNOWN
+0 None: Do not strengthen 
+10 Function testing 
+100100 Lowest: Fist 
+100200 Lowest: Nails 
+100300 Lowest: Whip 
+100400 Lowest: Dagger 
+100500 Lowest: Swords 
+100600 Lowest: Spear 
+100700 Lowest: Assault Spear 
+100800 Lowest: Double-edged sword 
+100900 Lowest: Song Sword 
+101000 Lowest: Naoken 
+101100 Lowest: Sword 
+101200 Lowest: Two-handed sword 
+101300 Lowest: Two-handed oversized sword 
+101350 Lowest: Two-handed sword 
+101400 Lowest: One hand mallet 
+101500 Lowest: Two-handed mallet 
+101600 Lowest: One-handed axe 
+101700 Lowest: Two-handed axe 
+101800 Lowest: Two-handed sickle 
+101900 Lowest: Two-handed long axe 
+102000 Lowest: Two-handed bow 
+102100 Lowest: Two-handed bow 
+102200 Lowest: One-handed bow 
+102300 Lowest: Cane 
+102400 Lowest: Bell 
+102500 Lowest: The Fire of Magic 
+102600 Lowest: Small shield 
+102700 Lowest: Medium Shield 
+102800 Lowest: Great Shield 
+200100 Sub: Fist 
+200200 Lower: Nails 
+200300 Lower: Whip 
+200400 Subs: Dagger 
+200500 Sub: Swords 
+200600 Sub: Spear 
+200700 Sub: Assault Spear 
+200800 Lower: Double-edged sword 
+200900 Sub: Song Sword 
+201000 Sub: Straight sword 
+201100 Lower: Sword 
+201200 Subs: Two-handed sword 
+201300 Lower: Two-handed oversized sword 
+201350 Lower: Two-handed large sword 
+201400 Sub: One hand mallet 
+201500 Sub: Mallet 
+201600 Sub: One-handed axe 
+201700 Sub: Two-handed axe 
+201800 Subs: Two-handed sickle 
+201900 Lower: Two-handed long axe 
+202000 Lower: Two-handed bow 
+202100 Lower: Two-handed bow 
+202200 Sub: One-handed bow 
+202300 Subs: Cane 
+202400 Bottom: Bell 
+202500 Subs: The Fire of Magic 
+202600 Subs: Small shield 
+202700 Subs: Shields 
+202800 Subs: Large shield 
+300100 Medium: Fist 
+300200 Medium: Nails 
+300300 Medium: Whip 
+300400 Medium: Dagger 
+300500 Middle: Swords 
+300600 Medium: Spear 
+300700 Middle: Assault Spear 
+300800 Medium: Double-edged sword 
+300900 Middle Rank: Song Sword 
+301000 Middle: Naoken 
+301100 Medium: Sword 
+301200 Medium: Two-handed sword 
+301300 Medium: Two-handed oversized sword 
+301350 Middle: Two-handed large sword 
+301400 Middle: One hand mallet 
+301500 Medium: Both hands mallet 
+301600 Middle: One-handed axe 
+301700 Medium: Two-handed axe 
+301800 Middle: Two-handed sickle 
+301900 Medium: Two-handed long axe 
+302000 Medium: Two-handed bow 
+302100 Medium: Two-handed large bow 
+302200 Medium: One-handed bow 
+302300 Medium: Cane 
+302400 Medium: Bell 
+302500 Middle: The Fire of Magic 
+302600 Medium: Small shield 
+302700 Medium: Medium Shield 
+302800 Medium: Large Shield 
+400100 Top: Fist 
+400200 Top: Nails 
+400300 Top: Whip 
+400400 Top: Dagger 
+400500 Top: Sashimi 
+400600 Top: Spear 
+400700 Top: Assault Spear 
+400800 Top: Double-edged sword 
+400900 Top: Song Sword 
+401000 Top: Naoken 
+401100 Top: Sword 
+401200 Top: Two-handed sword 
+401300 Top: Two-handed oversized sword 
+401350 Top: Two-handed sword 
+401400 Top: One hand mallet 
+401500 Top: Mallet 
+401600 Top: One-handed axe 
+401700 Top: Two-handed axe 
+401800 Top: Two-handed sickle 
+401900 Top: Two-handed ax 
+402000 Top: Two-handed bow 
+402100 Top: Two-handed bow 
+402200 Top: One-handed bow 
+402300 Top: Cane 
+402400 Top: Bell 
+402500 Top: The Fire of Magic 
+402600 Top: Small shield 
+402700 Top: Medium Shield 
+402800 Top: Large shield 
+500100 Top: Fist 
+500200 Top: Nails 
+500300 Top: Whip 
+500400 Top: Dagger 
+500500 Top: Swords 
+500600 Top: Spear 
+500700 Top: Assault Spear 
+500800 Top: Double-edged sword 
+500900 Top: Song Sword 
+501000 Top: Straight sword 
+501100 Top: Sword 
+501200 Top: Two-handed sword 
+501300 Top: Two-handed oversized sword 
+501350 Top: Two-handed sword 
+501400 Top: One hand mallet 
+501500 Top: Mallet 
+501600 Top: One-handed axe 
+501700 Top: Two-handed axe 
+501800 Top: Two-handed sickle 
+501900 Top: Two-handed long axe 
+502000 Top: Two-handed bow 
+502100 Top: Two-handed bow 
+502200 Top: One-handed bow 
+502300 Top: Cane 
+502400 Top: Bell 
+502500 Top: The Fire of Magic 
+502600 Top: Small shield 
+502700 Top: Medium Shield 
+502800 Top: Great Shield 
+2008000 None: Minimal: Armor - Head 
+2008001 None: Minimum: Armor - Torso 
+2008002 None: Minimum: Armor - Arm 
+2008003 None: Minimum: Armor - Feet 
+2108000 Lowest: Minimal: Armor - Head 
+2108001 Lowest: Minimum: Armor - Torso 
+2108002 Lowest: Minimum: Armor - Arm 
+2108003 Lowest: Minimum: Armor - Feet 
+2208004 Subs: Tiny: Armor - Head 
+2208005 Sub: Minimum: Armor - Torso 
+2208006 Sub: Minimum: Armor - Arm 
+2208007 Sub: Minimum: Armor - Feet 
+2308008 Medium: Smallest: Armor - Head 
+2308009 Medium: Smallest: Armor - Torso 
+2308010 Medium: Minimal: Armor - Arm 
+2308011 Medium: Minimum: Armor - Feet 
+2408012 Top: Small: Armor - Head 
+2408013 Top: Smallest: Armor - Torso 
+2408014 Top: Smallest: Armor - Arm 
+2408015 Top: Small: Armor - Feet 
+2508016 Top: Mini: Armor - Head 
+2508017 Top: Small: Armor - Torso 
+2508018 Top: Small: Armor - Arm 
+2508019 Top: Small: Armor - Feet 
+3008000 None: Small: Armor - Head 
+3008001 None: Small: Armor - Torso 
+3008002 None: Small: Armor - Arm 
+3008003 None: Small: Armor - Feet 
+3108000 Lowest: Small: Armor - Head 
+3108001 Lowest: Small: Armor - Torso 
+3108002 Lowest: Small: Armor - Arm 
+3108003 Lowest: Small: Armor - Feet 
+3208004 Lower: Small: Armor - Head 
+3208005 Lower: Small: Armor - Torso 
+3208006 Lower: Small: Armor - Arm 
+3208007 Lower: Small: Armor - Feet 
+3308008 Medium: Small: Armor - Head 
+3308009 Medium: Small: Armor - Torso 
+3308010 Medium: Small: Armor - Arm 
+3308011 Medium: Small: Armor - Feet 
+3408012 Top: Small: Armor - Head 
+3408013 Top: Small: Armor - Torso 
+3408014 Top: Small: Armor - Arm 
+3408015 Top: Small: Armor - Feet 
+3508016 Top: Small: Armor - Head 
+3508017 Top: Small: Armor - Torso 
+3508018 Top: Small: Armor - Arm 
+3508019 Top: Small: Armor - Feet 
+4008000 None: Medium: Armor - Head 
+4008001 None: Medium: Armor - Torso 
+4008002 None: Medium: Armor - Arm 
+4008003 None: Medium: Armor - Feet 
+4108000 Lowest: Medium: Armor - Head 
+4108001 Lowest: Medium: Armor - Torso 
+4108002 Lowest: Medium: Armor - Arm 
+4108003 Lowest: Medium: Armor - Feet 
+4208004 Sub: Medium: Armor - Head 
+4208005 Sub: Medium: Armor - Torso 
+4208006 Sub: Medium: Armor - Arm 
+4208007 Sub: Medium: Armor - Foot 
+4308008 Medium: Medium: Armor - Head 
+4308009 Medium: Medium: Armor - Torso 
+4308010 Medium: Medium: Armor - Arm 
+4308011 Medium: Medium: Armor - Feet 
+4408012 Top: Medium: Armor - Head 
+4408013 Top: Medium: Armor - Torso 
+4408014 Top: Medium: Armor - Arm 
+4408015 Top: Medium: Armor - Feet 
+4508016 Top: Medium: Armor - Head 
+4508017 Top: Medium: Armor - Torso 
+4508018 Top: Medium: Armor - Arm 
+4508019 Top: Medium: Armor - Feet 
+5008000 None: Large: Armor - Head 
+5008001 None: Large: Armor - Torso 
+5008002 None: Large: Armor - Arm 
+5008003 None: Large: Armor - Feet 
+5108000 Lowest: Large: Armor - Head 
+5108001 Lowest: Large: Armor - Torso 
+5108002 Lowest: Large: Armor - Arm 
+5108003 Lowest: Large: Armor - Feet 
+5208004 Lower: Large: Armor - Head 
+5208005 Lower: Large: Armor - Torso 
+5208006 Sub: Large: Armor - Arm 
+5208007 Lower: Large: Armor - Feet 
+5308008 Medium: Large: Armor - Head 
+5308009 Medium: Large: Armor - Torso 
+5308010 Medium: Large: Armor - Arm 
+5308011 Medium: Large: Armor - Feet 
+5408012 Top: Large: Armor - Head 
+5408013 Top: Large: Armor - Torso 
+5408014 Top: Large: Armor - Arm 
+5408015 Top: Large: Armor - Feet 
+5508016 Top: Large: Armor - Head 
+5508017 Top: Large: Armor - Torso 
+5508018 Top: Large: Armor - Arm 
+5508019 Top: Large: Armor - Feet 
+6008000 None: Extra Large: Armor - Head 
+6008001 None: Extra large: Armor - Torso 
+6008002 None: Extra Large: Armor - Arm 
+6008003 None: Extra large: armor - feet 
+6108000 Lowest: Extra Large: Armor - Head 
+6108001 Lowest: Extra Large: Armor - Torso 
+6108002 Lowest: Extra Large: Armor - Arm 
+6108003 Lowest: Extra Large: Armor - Feet 
+6208004 Lower: Extra Large: Armor - Head 
+6208005 Lower: Extra Large: Armor - Torso 
+6208006 Lower: Extra Large: Armor - Arm 
+6208007 Lower: Extra Large: Armor - Feet 
+6308008 Medium: Extra Large: Armor - Head 
+6308009 Medium: Extra Large: Armor - Torso 
+6308010 Medium: Extra Large: Armor - Arm 
+6308011 Medium: Extra Large: Armor - Feet 
+6408012 Top: Extra Large: Armor - Head 
+6408013 Top: Extra large: Armor - Torso 
+6408014 Top: Extra Large: Armor - Arm 
+6408015 Top: Extra large: Armor - feet 
+6508016 Top: Extra Large: Armor - Head 
+6508017 Top: Extra Large: Armor - Torso 
+6508018 Top: Extra Large: Armor - Arm 
+6508019 Top: Extra large: Armor - feet 
+10000000 Kingdom Master Dagger 
+10000100 Phantom Mage's One-Handed Sword Catalyst (Magic) 
+10000200 Durahan's One Hand Sword 
+10000300 The Stabbing Sword of The Spell Four Tenno (Magic) 
+10000400 Manscorpion ? Stabbing Sword 
+10000500 Durahan's Song Sword 
+10000600 Leviathan's Sword 
+10000700 Stalker Warrior Sword 
+10000800 Two-handed sword of the head of the Kingdom SS 
+10000900 Black Knight's Sword 
+10001000 One-handed axe of the avenged warrior 
+10001100 Crescent Axe 
+10001200 The Great Axe of the Black Knight 
+10001300 Blacksmith's Hammer 
+10001400 Dairyu Fang 
+10001500 Two-handed mallet of Yadkari Castle 
+10001600 Daemon Mallet 
+10001700 Patch Spear 
+10001800 The Knight's Assault Spear A 
+10001900 Black Phantom Shop's Two-Handed Sickle 
+10002000 Leviathan Spear Hammer 
+10002100 A two-handed spear hammer of the trunk of the brain tree 
+10002200 After the destruction of the tree of the brain trunk 
+10002300 The two-handed long axe of the holy woman's one 
+10002400 Black Knight's Axe Spear 
+10002500 The Whip of the Elder of the Castle Town 
+10002600 Rich's Miracle Dark Man's Wand 
+10002700 Spell Four Tenno (Magic) One Hand Wand 
+10002800 Spell Four Tenno (Magic) One Hand Wand 
+10002900 One-handed bell of the Dragon's Shi Festival 
+10003000 One-handed bell of spell four tenno (miracle) 
+10003100 The Great Sword of the Black Knight 
+10003200 Curved double-edged sword 
+10003300 A shield of the kingdom's military master. 
+10003400 Necromancer's Shield 
+10003500 SS Leader's Shield 
+10003600 The Shield of The Spell Four Heavenly Kings 
+10003700 Spell Four Heavenly Kings (Magic) Medium Shield 
+10003800 Durahan's Shield 
+10003900 Phantom Knight's Shield (left) 
+10004000 Phantom Knight's Shield (right) 
+10004100 The Great Shield of Havel 
+20000000 Narga Dagger 
+20000100 The Old Dragon's Straight Sword 
+20000200 Spider Queen's Sting Sword 
+20000300 Two-sided warrior song sword 
+20000400 Spider Queen's Song Sword 
+20000500 Youyto 
+20000600 Mirror Knight's Two-Handed Sword 
+20000700 The Great Sword of Moonlight 
+20000800 King Van Grad's two-handed sword 
+20000900 Old Dragon's Two-Handed Sword 
+20001000 Queen Knight A's Two-Handed Sword 
+20001100 Queen Knight C's Two-Handed Sword 
+20001200 Meat cutting knife 
+20001300 Giant SS Leader's Two-Handed Axe 
+20001400 Old Dragon's Two-Handed Axe 
+20001500 Old Dragon Warpick 
+20001600 Two-sided warrior's toge club 
+20001700 The two-handed hammer of the iron-melting daemon 
+20001800 Queen Knight B's Two Hands Hammer 
+20001900 Salamander Spear 
+20002000 Gargoil Spear 
+20002100 Ornstein's Spear 
+20002200 Silver Chariot Assault Spear 
+20002300 Jabazahat's Two-Handed Sickle 
+20002400 A two-handed sickle in the queen's armor form 
+20002500 Heavy Cavalry's Long Axe 
+20002600 Skeleton aristocrat's long-handed axe 
+20002700 Beautiful Voice Frog Whip 
+20002800 Queen Bell 
+20002900 Heavy Cavalry's Two-Handed Bow 
+20003000 The Queen's Bow 
+20003100 Dragon Hunting Bow 
+20003200 Silver Chariot's One Hand Bow 
+20003300 The Great Sword of the Two-Sided Warrior 
+20003400 Two-headed Wyvern's Great Sword 
+20003500 Damon Knight's Oversized Sword 
+20003600 Two-headed Wyvern's Oversized Sword 
+20003700 King Van Clad's Oversized Sword 
+20003800 An Oversized Sword of Bay Grant (Seoul) 
+20003900 Agaduran's Oversized Sword 
+20004000 The Oversized Sword of a Forgotten Sinner 
+20004100 Double-edged Sword of heavy cavalry 
+20004200 Queen Knight C's Shield 
+20004300 King Van Grad's Shield 
+20004400 Queen Knight A's Shield 
+20004500 Old Dragon Shield 
+20004600 Mirror Knight's Great Shield 
+20004700 Heavy Cavalry Shield 
+20004800 Bay Grant's Great Shield 
+30000000 1160 [Heavy Warrior] Head 
+30000100 1160 [Heavy Warrior] Chest 
+30000200 1160 [Heavy Warrior] Arm 
+30000300 1160 [Heavy Warrior] Feet 
+30000400 1340 [Yellow robe] head 
+30000500 1340 [Yellow robe] chest 
+30000600 1340 [Yellow robe] and arms 
+30000700 1340 [Yellow robe] and foot 
+30000800 1350 [Priest of the escape] head 
+30000900 1350 [Priest of the escape] chest 
+30001000 1350 [Priest of the escape] and arm 
+30001100 1350 [Priest of the escape] and foot 
+30001200 1360 [Transparent armor] head 
+30001300 1360 [Transparent armor] chest 
+30001400 1360 [Transparent Armor] 
+30001500 1360 [Transparent armor] and feet 
+30001600 1361 [Transparent armor: opaque] head 
+30001700 1361 [Transparent armor: opaque] chest 
+30001800 1361 [Transparent armor: opaque] 
+30001900 1361 [Transparent armor: opaque] and feet 
+30002000 1370 [Painting Defense] head 
+30002100 1370 [Painting Defense] Chest 
+30002200 1370 [Painting Guard] 
+30002300 1370 [Painting Guard] and Foot 
+30002400 1430 [Sniper Head] Head 
+30002500 1430 [Sniper Head] chest 
+30002600 1430 [Sniper Head] Arm 
+30002700 1430 [Sniper Head] Feet 
+30002800 1440 [Lucky Gauntlet] Head 
+30002900 1440 [Lucky Gauntlet] chest 
+30003000 1440 [Lucky Gauntlet] arms 
+30003100 1440 [Lucky Gauntlet] Feet 
+30003200 1450 ?Barrel?Head 
+30003300 1450 [Barrel], Chest 
+30003400 1450 [Barrel], arm 
+30003500 1450 ?Barrel?Foot 
+30003600 1460 [Cat Boots] Head 
+30003700 1460 [Cat Boots] Chest 
+30003800 1460 [Cat Boots] 
+30003900 1460 [Cat Boots] Feet 
+30004000 1470 [Butterfly Armor] Head 
+30004100 1470 [Butterfly Armor] chest 
+30004200 1470 [Butterfly Armor] arms 
+30004300 1470 [Butterfly Armor] and Feet 
+30004400 1480 [Catalina Warrior] Head 
+30004500 1480 [Catalina Warrior] Chest 
+30004600 1480 [Catalina Warrior] Arms 
+30004700 1480 [Catalina Warrior] Feet 
+30004800 1500 [Witch] Head 
+30004900 1500 [Witch] Chest 
+30005000 1500 [Witch] Arms 
+30005100 1500 [Witch] Feet 
+30005200 1501 [Witch - Head Difference 1] Head 
+30005300 1501 [Witch - Head Difference 1] Chest 
+30005400 1501 [Witch - Head Difference 1] Arms 
+30005500 1501 [Witch - Head Difference 1] Feet 
+30005600 1502 [Witch - Head Difference 2] Head 
+30005700 1502 [Witch - Head Difference 2] Chest 
+30005800 1502 [Witch - Head Difference 2] Arms 
+30005900 1502 [Witch - Head Difference 2] - Feet 
+30006000 2360 [Dark Reis] head 
+30006100 2360 [Dark Wraith] chest 
+30006200 2360 [Dark Reis] arm 
+30006300 2360 [Dark Reis] Feet 
+30006400 2540 [Skeleton aristocracy] head 
+30006500 2540 [Skeleton aristocracy] chest 
+30006600 2540 [Skeleton aristocracy] arms 
+30006700 2540 [Skeleton aristocracy] feet 
+30006800 3040 [Banshee (deceased): Color (1)? Head 
+30006900 3040 [Banshee (deceased): Color (1)? Chest 
+30007000 3040 [Banshee (deceased): Color (1)? 
+30007100 3040 [Banshee (deceased): Color (1)? Feet 
+30007200 3050 [Demon Knight] Head 
+30007300 3050 [Demon Knight] Chest 
+30007400 3050 [Demon Knight] Arm 
+30007500 3050 [Demon Knight] Feet 
+30007600 3070 [Durahan (deceased)], head 
+30007700 3070 [Durahan (deceased)], chest 
+30007800 3070 [Durahan (deceased)], arm 
+30007900 3070 [Durahan (deceased)], foot 
+30008000 3250 [Warrior in the Mirror] Head 
+30008100 3250 [Warrior in the Mirror] Chest 
+30008200 3250 [Warrior in the Mirror] Arms 
+30008300 3250 [Warrior in the Mirror] Feet 
+30008400 3320 [Queen Knight A] head 
+30008500 3320 [Queen Knight A] chest 
+30008600 3320 [Queen Knight A] arms 
+30008700 3320 [Queen Knight A] feet 
+30008800 3330 [Queen Knight B] head 
+30008900 3330 [Queen Knight B] chest 
+30009000 3330 [Queen Knight B] arms 
+30009100 3330 [Queen Knight B] feet 
+30009200 3340 [Queen Knight C] head 
+30009300 3340 [Queen Knight C] chest 
+30009400 3340 [Queen Knight C] arms 
+30009500 3340 [Queen Knight C] feet 
+30009600 5040 [Mirror Night] Head 
+30009700 5040 [Mirror Night] Chest 
+30009800 5040 [Mirror Night] Arm 
+30009900 5040 [Mirror Night] Feet 
+30010000 5060 [Agaduran] head 
+30010100 5060 [Agaduran] chest 
+30010200 5060 [Agadulan] arms 
+30010300 5060 [Agaduran] feet 
+30010400 5090 [Dark Bishop] Head 
+30010500 5090 [Dark Bishop] Chest 
+30010600 5090 [Dark Bishop] Arms 
+30010700 5090 [Dark Bishop] Feet 
+30010800 5130 [King Van Gratt (past)], head 
+30010900 5130 [King Van Gratt (past)], Chest 
+30011000 5130 [King Van Gratt (past)], arm 
+30011100 5130 [King Van Gratt (past)], Foot 
+30011200 6100 [Heavy Cavalry, Heavy Knight (Born)] head 
+30011300 6100 [Heavy Cavalry Soldier, Heavy Knight (Born)] 
+30011400 6100 [Heavy Cavalry, Heavy Knight (Born)? 
+30011500 6100 [Heavy Cavalry Soldier, Heavy Knight (Born)? 
+30011600 6180 [Silver Chariot] Head 
+30011700 6180 [Silver Chariot] chest 
+30011800 6180 [Silver Chariot] arm 
+30011900 6180 [Silver Chariot] Feet 
+30012000 6260 [Forgotten Sinner] Head 
+30012100 6260 [Forgotten Sinner] / Chest 
+30012200 6260 [Forgotten Sinner] Arms 
+30012300 6260 [Forgotten Sinner] Feet 
+30012400 7210 [Kingdom Army Master (past)], Head 
+30012500 7210 [Kingdom Army Master (past)], Chest 
+30012600 7210 [Kingdom Army Master (past)], arm 
+30012700 7210 [Kingdom Army Master (past)], Foot 
+30012800 7240 [SS Captain] Head 
+30012900 7240 [SS Captain] Chest 
+30013000 7240 [SS Captain] Arm 
+30013100 7240 [SS Captain] Feet 
+30013200 7550 [Stalker Warrior] Head 
+30013300 7550 [Stalker Warrior] Chest 
+30013400 7550 [Stalker Warrior] 
+30013500 7550 [Stalker Warrior] Feet 
+30013600 7680 [Spell Four Tenno (Magic)], Head 
+30013700 7680 [Spell Four Tenno (Magic)], Chest 
+30013800 7680 [Spell Four Tenno (Magic)], Arm 
+30013900 7680 [Spell Four Tenno (Magic)], Foot 
+30014000 7690 [Spell Four Tenno (Miracle)], Head 
+30014100 7690 [Spell Four Tenno (Miracle)], Chest 
+30014200 7690 [Spell Four Heavenly Kings (Miracle)], Arm 
+30014300 7690 [Spell Four Heavenly Kings (Miracle)], Feet 
+30014400 7700 [Spell Four Tenno (Magic)) 
+30014500 7700 [Spell Four Tenno (Magic)) ] Chest 
+30014600 7700 [Spell Four Tenno (Magic)) ] 
+30014700 7700 [Spell Four Tenno (Magic)], Foot 
+30014800 7710 [Spell Four Tenno (Dark Art)], Head 
+30014900 7710 [Spell Four Tenno (Dark Art)], Chest 
+30015000 7710 [Spell Four Tenno (Dark Art)], Arm 
+30015100 7710 [Spell Four Tenno (Dark Art)], Foot 
+40000000 1330 [Armor of the Old Dragon] head 
+40000100 1330 [Armor of the Old Dragon] chest 
+40000200 1330 [Armor of the Old Dragon] arms 
+40000300 1330 [Armor of the Old Dragon] and Feet 

@@ -1,0 +1,33 @@
+1010000 m10_10 Bay grant 
+1010010 m10_10 New Giant Senior Soldier (Deceased) 
+1014000 m10_14 The Queen of Spiders 
+1014001 m10_14 The Spider Queen 
+1014010 m10_14 Gerdra Zakos 1 
+1015000 m10_15 Wyburn 
+1016000 m10_16 Warrior in the Mirror 
+1016010 m10_16 Forgotten Sinners 
+1016020 m10_16 Against Gargoil 
+1017000 m10_17 Javazahat 
+1017010 m10_17, N. Sa. 
+1018000 m10_18 Double-sided warrior: Snake head 
+1019000 m10_19 Daemon Knight 
+1019010 m10_19 Iron Daemon 
+1021000 m20_21 Heavy Cavalry: Soldiers Only 2 Bodies 
+1021010 m20_21 Mirror Night 
+1021020 m20_21 Queen Knight A 
+1021021 m20_21 Queen's Knight A Multi-Time Edition 
+1021030 m20_21 Queen's Armor 
+1023000 m10_23 Skeleton Aristocracy 
+1023010 m10_23 Silver Chariot 
+1025000 m10_25 Butcher 
+1027000 m10_27 The Old Dragon 
+1031000 m10_31 Heavy Cavalry: Soldiers Only 
+1031010 m10_31 Ornstein 
+1032000 m10_32 Manscorpion ♀ 
+1033000 m10_33 Giant Rat 
+1034000 m10_34 Dog Mouse: Color (2) 
+2010000 m20_10 New Giant Senior Soldier (Live) 
+2011000 m20_11 Beautiful Frog 
+2024000 m20_24 Queen Knight B 
+2024010 m20_24 The Old King 
+4003000 m40_03 Agaduran Stand 

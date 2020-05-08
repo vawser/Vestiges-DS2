@@ -9,7 +9,7 @@
       "DSMapStudio/0.0.1": {
         "dependencies": {
           "StudioCore": "1.0.0",
-          "Veldrid.SDL2": "4.7.0.0"
+          "Veldrid.SDL2": "1.0.0"
         },
         "runtime": {
           "DSMapStudio.dll": {}
@@ -225,15 +225,7 @@
           "System.Runtime": "4.3.0"
         }
       },
-      "System.Buffers/4.3.0": {
-        "dependencies": {
-          "System.Diagnostics.Debug": "4.3.0",
-          "System.Diagnostics.Tracing": "4.3.0",
-          "System.Resources.ResourceManager": "4.3.0",
-          "System.Runtime": "4.3.0",
-          "System.Threading": "4.3.0"
-        }
-      },
+      "System.Buffers/4.4.0": {},
       "System.Collections/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "3.0.0",
@@ -350,7 +342,7 @@
       "System.IO.Compression/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "3.0.0",
-          "System.Buffers": "4.3.0",
+          "System.Buffers": "4.4.0",
           "System.Collections": "4.3.0",
           "System.Diagnostics.Debug": "4.3.0",
           "System.IO": "4.3.0",
@@ -368,7 +360,7 @@
       },
       "System.IO.Compression.ZipFile/4.3.0": {
         "dependencies": {
-          "System.Buffers": "4.3.0",
+          "System.Buffers": "4.4.0",
           "System.IO": "4.3.0",
           "System.IO.Compression": "4.3.0",
           "System.IO.FileSystem": "4.3.0",
@@ -474,6 +466,7 @@
           "System.Threading.Tasks": "4.3.0"
         }
       },
+      "System.Numerics.Vectors/4.4.0": {},
       "System.ObjectModel/4.3.0": {
         "dependencies": {
           "System.Collections": "4.3.0",
@@ -552,6 +545,7 @@
           "Microsoft.NETCore.Targets": "1.1.0"
         }
       },
+      "System.Runtime.CompilerServices.Unsafe/4.4.0": {},
       "System.Runtime.Extensions/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "3.0.0",
@@ -831,48 +825,102 @@
           "SharpDX.D3DCompiler": "4.2.0",
           "SharpDX.Direct3D11": "4.2.0",
           "SoulsFormats": "1.0.0",
+          "Veldrid": "1.0.0",
           "Veldrid.ImGui": "1.0.0",
+          "Veldrid.RenderDoc": "1.0.0",
+          "Veldrid.SDL2": "1.0.0",
+          "Veldrid.SPIRV": "1.0.0",
+          "Veldrid.StartupUtilities": "1.0.0",
+          "Veldrid.Utilities": "1.0.0",
           "Vk": "1.0.22"
         },
         "runtime": {
           "StudioCore.dll": {}
         }
       },
+      "Veldrid/1.0.0": {
+        "dependencies": {
+          "NativeLibraryLoader": "1.0.12",
+          "SharpDX": "4.2.0",
+          "SharpDX.D3DCompiler": "4.2.0",
+          "SharpDX.DXGI": "4.2.0",
+          "SharpDX.Direct3D11": "4.2.0",
+          "System.Buffers": "4.4.0",
+          "System.Numerics.Vectors": "4.4.0",
+          "System.Runtime.CompilerServices.Unsafe": "4.4.0",
+          "Veldrid.MetalBindings": "1.0.0",
+          "Veldrid.OpenGLBindings": "1.0.0",
+          "Vk": "1.0.22"
+        },
+        "runtime": {
+          "Veldrid.dll": {}
+        }
+      },
       "Veldrid.ImGui/1.0.0": {
+        "dependencies": {
+          "Veldrid": "1.0.0",
+          "Veldrid.SDL2": "1.0.0",
+          "Veldrid.StartupUtilities": "1.0.0"
+        },
         "runtime": {
           "Veldrid.ImGui.dll": {}
         }
       },
-      "Veldrid.SDL2/4.7.0.0": {
+      "Veldrid.MetalBindings/1.0.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.4.0"
+        },
         "runtime": {
-          "Veldrid.SDL2.dll": {
-            "assemblyVersion": "4.7.0.0",
-            "fileVersion": "4.7.0.20"
-          }
+          "Veldrid.MetalBindings.dll": {}
         }
       },
-      "Veldrid.Utilities/4.7.0.0": {
+      "Veldrid.OpenGLBindings/1.0.0": {
         "runtime": {
-          "Veldrid.Utilities.dll": {
-            "assemblyVersion": "4.7.0.0",
-            "fileVersion": "4.7.0.20"
-          }
+          "Veldrid.OpenGLBindings.dll": {}
         }
       },
-      "Veldrid/4.7.0.0": {
+      "Veldrid.RenderDoc/1.0.0": {
+        "dependencies": {
+          "NativeLibraryLoader": "1.0.12"
+        },
         "runtime": {
-          "Veldrid.dll": {
-            "assemblyVersion": "4.7.0.0",
-            "fileVersion": "4.7.0.20"
-          }
+          "Veldrid.RenderDoc.dll": {}
         }
       },
-      "Veldrid.RenderDoc/1.0.0.0": {
+      "Veldrid.SDL2/1.0.0": {
+        "dependencies": {
+          "NativeLibraryLoader": "1.0.12",
+          "System.Numerics.Vectors": "4.4.0",
+          "System.Runtime.CompilerServices.Unsafe": "4.4.0"
+        },
         "runtime": {
-          "Veldrid.RenderDoc.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.1.88"
-          }
+          "Veldrid.SDL2.dll": {}
+        }
+      },
+      "Veldrid.SPIRV/1.0.0": {
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.4.0",
+          "Veldrid": "1.0.0"
+        },
+        "runtime": {
+          "Veldrid.SPIRV.dll": {}
+        }
+      },
+      "Veldrid.StartupUtilities/1.0.0": {
+        "dependencies": {
+          "Veldrid": "1.0.0",
+          "Veldrid.SDL2": "1.0.0"
+        },
+        "runtime": {
+          "Veldrid.StartupUtilities.dll": {}
+        }
+      },
+      "Veldrid.Utilities/1.0.0": {
+        "dependencies": {
+          "Veldrid": "1.0.0"
+        },
+        "runtime": {
+          "Veldrid.Utilities.dll": {}
         }
       },
       "ImGui.NET/1.72.0.0": {
@@ -880,22 +928,6 @@
           "ImGui.NET.dll": {
             "assemblyVersion": "1.72.0.0",
             "fileVersion": "1.72.0.0"
-          }
-        }
-      },
-      "Veldrid.StartupUtilities/4.7.0.0": {
-        "runtime": {
-          "Veldrid.StartupUtilities.dll": {
-            "assemblyVersion": "4.7.0.0",
-            "fileVersion": "4.7.0.20"
-          }
-        }
-      },
-      "Veldrid.SPIRV/1.0.0.0": {
-        "runtime": {
-          "Veldrid.SPIRV.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.12.25"
           }
         }
       }
@@ -1110,12 +1142,12 @@
       "path": "system.appcontext/4.3.0",
       "hashPath": "system.appcontext.4.3.0.nupkg.sha512"
     },
-    "System.Buffers/4.3.0": {
+    "System.Buffers/4.4.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ratu44uTIHgeBeI0dE8DWvmXVBSo4u7ozRZZHOMmK/JPpYyo0dAfgSiHlpiObMQ5lEtEyIXA40sKRYg5J6A8uQ==",
-      "path": "system.buffers/4.3.0",
-      "hashPath": "system.buffers.4.3.0.nupkg.sha512"
+      "sha512": "sha512-AwarXzzoDwX6BgrhjoJsk6tUezZEozOT5Y9QKF94Gl4JK91I4PIIBkBco9068Y9/Dra8Dkbie99kXB8+1BaYKw==",
+      "path": "system.buffers/4.4.0",
+      "hashPath": "system.buffers.4.4.0.nupkg.sha512"
     },
     "System.Collections/4.3.0": {
       "type": "package",
@@ -1264,6 +1296,13 @@
       "path": "system.net.sockets/4.3.0",
       "hashPath": "system.net.sockets.4.3.0.nupkg.sha512"
     },
+    "System.Numerics.Vectors/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-UiLzLW+Lw6HLed1Hcg+8jSRttrbuXv7DANVj0DkL9g6EnnzbL75EB7EWsw5uRbhxd/4YdG8li5XizGWepmG3PQ==",
+      "path": "system.numerics.vectors/4.4.0",
+      "hashPath": "system.numerics.vectors.4.4.0.nupkg.sha512"
+    },
     "System.ObjectModel/4.3.0": {
       "type": "package",
       "serviceable": true,
@@ -1333,6 +1372,13 @@
       "sha512": "sha512-JufQi0vPQ0xGnAczR13AUFglDyVYt4Kqnz1AZaiKZ5+GICq0/1MH/mO/eAJHt/mHW1zjKBJd7kV26SrxddAhiw==",
       "path": "system.runtime/4.3.0",
       "hashPath": "system.runtime.4.3.0.nupkg.sha512"
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9dLLuBxr5GNmOfl2jSMcsHuteEg32BEfUotmmUkmZjpR3RpVHE8YQwt0ow3p6prwA1ME8WqDVZqrr8z6H8G+Kw==",
+      "path": "system.runtime.compilerservices.unsafe/4.4.0",
+      "hashPath": "system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
     },
     "System.Runtime.Extensions/4.3.0": {
       "type": "package",
@@ -1505,42 +1551,52 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Veldrid/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Veldrid.ImGui/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Veldrid.SDL2/4.7.0.0": {
-      "type": "reference",
+    "Veldrid.MetalBindings/1.0.0": {
+      "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Veldrid.Utilities/4.7.0.0": {
-      "type": "reference",
+    "Veldrid.OpenGLBindings/1.0.0": {
+      "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Veldrid/4.7.0.0": {
-      "type": "reference",
+    "Veldrid.RenderDoc/1.0.0": {
+      "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "Veldrid.RenderDoc/1.0.0.0": {
-      "type": "reference",
+    "Veldrid.SDL2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Veldrid.SPIRV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Veldrid.StartupUtilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Veldrid.Utilities/1.0.0": {
+      "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "ImGui.NET/1.72.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Veldrid.StartupUtilities/4.7.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Veldrid.SPIRV/1.0.0.0": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

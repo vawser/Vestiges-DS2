@@ -1,0 +1,130 @@
+55 [Wandering Warrior] Npc 
+56 [Wandering Warrior] NPC (Ghost) 
+57 [Wandering Warrior] NPC (patch death) 
+58 [Wandering Warrior] NPC (ghost for patch death) 
+65 ?Patch? Npc 
+66 ?Patch? NPC (Ghost) 
+265 [Top Weapons Store] Npc 
+266 [Top Weapons Store] NPC (Ghost) 
+310 [The Teacher of The Sin] Npc 
+311 [The Teacher of The Sin] NPC (Ghost) 
+521 ?Before the Church? The Black Spirit: A Man Who Was Sealed 
+526 ?In the camp tent? Tsukiko Grandfather 
+527 [Spider's Web Area: White Spirit] Leroy 
+803 ?Boss?Spider Queen: Coalescence 
+1000 [Boss for the first appearance] spider queen: coalescence 
+1016 [Hole falling room lower floor ceiling] parasite spider 1 ceiling fall surprise 
+1017 [Hole falling room upper floor ceiling] parasite spider 2 ceiling fall surprise 
+1100 ?The back of the falling stone passage?The deceased: Clothes of the farmer 1 
+1101 ?Guard ing the door in front of the church?The deceased: the ? of the clothes of the peasants: Torch 
+1103 ?Guarding the Door in front of the Church?Deceased: Farmer's Clothes: Head 1: Tsurushi 
+1107 ?Starting Point Square?Deceased; 
+1108 ?Starting Point Square?Deceased; 
+1109 ?Starting Point Square?Deceased; 
+1110 ?The Falling Stone Passage? Dead; 
+1120 ?Refugee Camp Area?Slave Beasts (Live) 1 
+1121 ?Refugee Camp Area?Slave Beasts (Live) 2 
+1122 ?Refugee Camp Area?Slave Beast (Piglet) 
+1130 ?Refugee camp area watchstand?Deceased: Farmer's clothes ?: sickle of hands 
+1140 [Refugee camp area digging] dead: peasant clothes ?: head part 2: tsurushi _ hole digging 
+1150 ?Refugee camp area?Fang-a-ta-ta-ta-ta-ta-ta-ta-ta-ta 
+1151 ?Refugee camp area?Fang-a-ta-ta-ta-ta-ta-ta-ta-ta-ta 
+1200 [Guard ing the door in front of the church] dead: farmer's clothes ?: head parts 2-handed sickle 
+1218 ?On the hole falling room?Dark Wizard (deceased): Color (3) Head B1 
+1219 [Shortly after getting off the middle layer _ rope] Dark Wizard (deceased): Color (3): Head B 
+1221 ?On the hole falling room?Dark Wizard (deceased): Color (3) Head B2 
+1224 [Bottom layer: Bar room back] parasite spider 
+1226 ?Bottom: Bar Room?Parasite Spider 
+1229 ?Middle-tier Treasure Room?Parasite Spider (Parasitic) 
+1240 ?Balcony at the end of the stairs filled with sand?Ishimori 
+1304 [Treasure chest trap room 2] out of the parasite spider 1 hole 
+1305 [Treasure chest trap room 2] out of the parasite spider 2 holes 
+1306 [Treasure chest trap room 2] out of the parasite spider 3 holes 
+1307 [Treasure chest trap room 2] out of the parasite spider 4 holes 
+1308 [Treasure chest trap room 2] out of the parasite spider 5 holes 
+1309 [Treasure chest trap room 2] out of the parasite spider 6 holes 
+1310 [Treasure chest trap room 2] out of the parasite spider 7 holes 
+1319 [Hole falling room upper floor ceiling 2 laps] parasite spider 2 ceiling fall surprise soul black 
+1320 [Hole falling room upper floor ceiling second lap] parasite spider 3 ceiling fall surprise soul black 
+1324 [Spider's Web Area] Parasite Spider 1 Poison 
+1325 [Spider's Web Area] Parasite Spider 2 Poison 
+1326 [Spider's Web Area] Parasite Spider 3 Poison 
+1327 [Spider's Web Area] Parasite Spider 4 Poison 
+1329 [Surprise from the other side of the dune] parasite spider 1 
+1330 [Surprise from the other side of the dune] parasite spider 2 
+1331 [Surprise from the other side of the dunes] parasite spider 3 
+1338 [Spider's Web Area_ With The Backlining of the Nest] Parasite Spider 5 
+1347 [Fall to the side of the ant hell _ before the second rope] parasite spider 
+1348 [Fall to the side of the ant hell _ after the second rope] parasite spider : poison 
+1349 [On the Ant Hell Side Hut] Dark Wizard (Deceased) Color (3) Head B 
+1352 ?Ant Hell Side?Basilisk- Eyeball Crushing 1 
+1360 ?Middle Rope Front?Ishimori 
+1361 [Ant Hell Side] Stone Mori Explosion 
+1400 ?Church_Hidden Door Front?Dark Priest (Deceased): Color (1) Soul Black 
+1500 ?Outside the Middle-Tier Treasure Room?Dark Wizard (Deceased) Color (3) Head B 
+2000 [Middle Layer Treasure Room] Parasite Spider Parasitic 1 Muse 
+2001 ?Middle-tier Treasure Room?Parasite Spider Parasitic 2-Mhave 
+2002 [Bottom layer_ Church door jump] parasite spider parasitic 3 
+2003 [Bottom layer_ Church door jumping] parasite spider parasitic 4 
+2004 ?Bottom layer?Parasite Spider Parasitic 5-med 
+2030 [Road leading to the lowest layer _ spider building] invasion spirit soul black 
+2031 [Bottom layer_ The road leading to the spider building 2nd round] Dark Spirit Soul Black 
+3000 ?Church_Prayer?Dark Priest (Deceased) 
+3001 ?Church_Prayer?Dark Priest (Deceased) 
+3010 ?Church_Prayer?Deceased: The Clothes of the Sick 
+3011 ?Church_Prayer?Deceased: The Clothes of the Sick 
+3012 ?Church_Prayer?Deceased: The Clothes of the Sick 
+3020 ?Church_Prayer?Dead Workers_01 
+3021 ?Church_Prayer?Dead Workers_02 
+3022 ?Church_Prayer?Dead Workers_03 
+3023 ?Church_Prayer?Dead Workers_04 
+3024 ?Church_Prayer?Dead Workers_05 
+3030 ?Church_Prayer?Necromancer 
+7000 ?Boss Room?Parasite Spider_1 
+7001 ?Boss Room?Parasite Spider_2 
+7002 ?Boss Room?Parasite Spider_3 
+7003 ?Boss Room?Parasite Spider_4 
+7004 ?Boss Room?Parasite Spider_5 
+7005 ?Boss Room?Parasite Spider_6 
+7010 [Boss room_Initial placement] parasite spider_1 
+7011 [Boss room_Initial placement] parasite spider_2 
+7012 [Boss room_Initial placement] parasite spider_3 
+7013 [Boss room_Initial placement] parasite spider_4 
+7014 [Boss room_Initial placement] parasite spider_5 
+7015 [Boss room_Initial placement] parasite spider_6 
+8010 ?Deep Stone Passage?Deceased: Farmer's Clothes ?: Torch 
+8015 ?Deep Stone Passage?Dead: Farmer's Clothes: Head 2: Tsurushi 
+8030 [NPC Chambara room bookshelf back] parasite spider 
+8230 ?Bottom: Bar Room? [Dark Wizard (deceased): Color (3): Head B] 
+8300 [Bottom layer: open door- closed room] parasite spider 
+8301 [Bottom layer: open door- closed room] Parasite Spider: Poison 
+8320 [Jumping in front of the bottom sand door_NPC Chamber back] Parasite Spider (parasitic) 
+8322 [Bottom layer sand door front jumping down _ crumbling stairs] parasite spider (parasitic) 
+8323 ?Bottom layer_Sand door front_prowl?Basilisk: Eyeball Crushing 1 
+8324 [Bottom layer_ Sand door front _ prowl] Basilisk: Eyeball Crush2 
+8401 [Worm key hole _ hanging] parasite spider 
+8405 [Worm key hole _ hanging] parasite spider 
+8406 [Worm key hole _ hanging] parasite spider 
+8410 [Worm key hole _ hanging] parasite spider 
+8411 [Worm key hole _ hanging] parasite spider 
+8420 [Worm key hole _ hanging _ next to the key of the insect] parasite spider 
+8430 [Worm key hole _ door back] parasite spider (parasitic): poison 
+8450 [Insect key room _ pseudo infinite spring] parasite spider 1 
+8451 [Insect key room_ pseudo infinite springing] parasite spider 2 
+8454 [Insect key room_ pseudo infinite springing] parasite spider 5 
+8455 [Insect key room_ pseudo infinite springing] parasite spider 6 
+8456 [Insect key room_ pseudo infinite springing] parasite spider 7 
+8457 [Insect key room_ pseudo infinite springing] parasite spider 8 
+8458 [Insect key room_ pseudo infinite springing] parasite spider 9 
+8500 [Spider's web area_ with the backlining of the nest] parasite spider 1 
+8510 [Spider's Web Area_ With The Backing of the Nest] Parasite Spider 2 
+8512 [Spider's Web Area_ With The Backlining of the Nest] Parasite Spider 3 
+8514 [Spider's Web Area_ With The Backing of the Nest] Parasite Spider 4 
+8530 [Spider's Web Area _ With Ceiling] Parasite Spider 1 
+8540 [Spider's Web Area_ With Ceiling] Parasite Spider 2 
+8550 [Spider's Web Area_ With Ceiling] Parasite Spider 3 
+8900 ?Boss Post-Treasure Chest Room?Durahan 
+8912 [Boss After Treasure Chest Room] Dead: The Clothes of the Wealthy ? Stabbing Sword 1 
+9000 ?Dummy?Patch Room 
+9900 ?Event Test_Iwagorogoro?Deceased: Farmer's Clothes 
+9901 ?Event Test_Iwagorogoro?Deceased: Farmer's Clothes 

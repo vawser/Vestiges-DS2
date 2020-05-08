@@ -1,0 +1,16 @@
+60 ?Tsukiko Grandfather?NPC 
+61 ?Tsukiko Grandfather?NPC 
+115 ?Sorcerer's Shop?NPC 
+116 ?Sorcerer's Shop?NPC 
+117 ?Sorcerer's Shop?NPC (after moving) 
+1000 [Basilisk] waiting in the back of the gimmick door 
+1100 ?Goblin?Bare hands in the room before thining 
+1200 ?Goblin: Sword?Before weding in the room 
+1300 ?Goblin?Bare hands in the room before thining 
+1400 ?Goblin: Sword? before weding in the room 
+1500 ?Goblin: Sword?Before weding in the room 
+1600 ?Goblin?Bare hands in the room before thining 
+1900 ?Goblin?Bare hands in the room before thining 
+2000 ?Goblin: Sword?Before weding in the room 
+2100 ?Goblin: Sword?Before weding in the room 
+2200 ?Goblin: Sling? before weding in the room 

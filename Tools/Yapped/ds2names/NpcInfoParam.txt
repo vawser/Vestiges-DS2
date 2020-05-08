@@ -1,0 +1,43 @@
+2262 The King of Rats 
+3070 Durahan 
+5020 Manscorpion (Man) 
+5060 Grave guard 
+7000 Dragon Shrine Maiden 
+7030 Queen 
+7040 ladder shop 
+7050 Retired Fire Protection Woman 1 
+7051 Retired Fire Protection Woman 2 
+7053 Retired Fire Protection Woman 3 
+7211 The Spirit of the Prime Minister 
+7230 Fire Protection Woman's Housekeeper 
+7240 Captain of the Kingdom 
+7250 Pilgrims in the Abyss 
+7260 Dwarf 
+7410 A broken-hearted blue warrior 
+7420 Wandering Warrior 
+7430 Tsukiko Grandfather 
+7440 Patch 
+7510 Atlas 
+7520 Female Knight 
+7530 Bell Guard 
+7540 Yorozu Babaa 
+7600 Girl 1 of the Bard 
+7601 Girl 2 of the Bard 
+7602 The Girl In Captivity 
+7610 armor shop 
+7620 Material shop 
+7630 Sorcerer 
+7640 blacksmith 
+7643 EX Blacksmith 
+7660 A magician 
+7680 Spell Mania 
+7690 Miracle Man 
+7700 Dark Art Shop 
+7710 A Sealed Man 
+7720 a curiosity shop 
+7760 Top Weapons Store 
+7770 Cat 
+7830 Black Phantom Shop 
+7840 The Teacher of The Sin 
+7850 Guardian Knight 
+7900 Glitter Girl 

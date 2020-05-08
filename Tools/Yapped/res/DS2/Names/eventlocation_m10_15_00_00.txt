@@ -1,0 +1,129 @@
+1001 Intrusion Point 1-1 
+1002 Intrusion Point 1-2 
+1003 Intrusion Point 1-3 
+1004 Intrusion Point 1-4 
+1005 Intrusion Point 1-5 
+1006 Intrusion Point 1-6 
+2001 Intrusion Point 2-1 
+2002 Intrusion Point 2-2 
+2003 Intrusion Point 2-3 
+2004 Intrusion Point 2-4 
+2005 Intrusion Point 2-5 
+2006 Intrusion Point 2-6 
+2007 Intrusion Point 2-7 
+2008 Intrusion Point 2-8 
+2009 Intrusion Point 2-9 
+2010 Intrusion Point 2-10 
+2011 Intrusion Point 2-11 
+2012 Intrusion Point 2-12 
+2013 Intrusion Point 2-13 
+30000 [Event blood character] please stop 
+30010 [Event blood character] turn back 00 
+30020 [Event blood character] turn back 01 
+30030 [Event blood character] turn back 02 
+30040 [Event blood character] turn back 03 
+30050 [Event blood character] turn back 04 
+30060 [Event blood character] turn back 05 
+30070 [Event blood character] turn back 06 
+30080 [Event blood character] turn back 07 
+40000 ?Advice Blood Character?Hidden Door_01 
+45000 [Blood character prohibited] hidden door_01 
+45010 [Blood character prohibition] enclosed person 
+45020 [Blood character prohibited] wall destruction auger 1 
+45030 [Blood character prohibited] wall destruction auger 2 
+45040 [Blood character prohibition] wall to destroy the auger 
+45050 [Blood character prohibition] wall and door to destroy the auger 
+45060 [Blood character prohibited] cart 1 
+45070 [Blood character prohibited] cart 2 
+45080 [Blood character prohibited] cart 3 
+50000 Petrified image appearance point: Entrance: 01 
+50001 Petrified image appearance point: Entrance: 02 
+50002 Petrified image appearance point: Entrance: 03 
+50003 Petrified image appearance point: Entrance: 04 
+50004 Petrified image appearance point: Entrance: 05 
+50100 Petrified image appearance point: Ori front:01 
+50101 Petrified image appearance point: Ori front:02 
+50102 Petrified image appearance point: Ori front:03 
+50103 Petrified image appearance point: Ori front:04 
+50104 Petrified image appearance point: Ori front:05 
+50105 Petrified image appearance point: Ori front:06 
+50106 Petrified image appearance point: Ori front:07 
+50107 Petrified image appearance point: Ori front:08 
+50108 Petrified image appearance point: Ori front:09 
+50200 Petrified image appearance point: corridor: 01 
+50201 Petrified image appearance point: corridor: 02 
+50202 Petrified image appearance point: corridor: 03 
+50203 Petrified image appearance point: corridor: 04 
+50204 Petrified image appearance point: corridor: 05 
+50205 Petrified image appearance point: corridor: 06 
+50206 Petrified image appearance point: corridor: 07 
+50207 Petrified image appearance point: corridor: 08 
+50208 Petrified image appearance point: corridor: 09 
+50209 Petrified image appearance point: corridor: 10 
+50210 Petrified image appearance point: corridor: 11 
+50211 Petrified image appearance point: corridor: 12 
+50212 Petrified image appearance point: corridor: 13 
+50213 Petrified image appearance point: corridor: 14 
+101500 Backlead Safety Points [Void] 
+101501 Safety points for backlead [Protected Dragon] 
+200000 Event area during mirror night 
+300000 Giant Basilrisk Reaction Area_1 
+300010 Giant Basilrisk Reaction Area_2 
+300020 Navi mesh change where enemies trapped in cages come out 
+400000 Lifter - The Nest of the Guard Dragon 
+400010 Lifting machine - on the nest of the guard dragon 
+403000 Elevator_Connection replacement point 
+405000 Flag switching point for connection 
+502000 Auger_Petrified Stop_Navimesh Change 
+600000 Mirror Night Mirror Operating Area 1 
+601000 Mirror Night Mirror Operating Area 2 
+602000 Mirror Night Mirror Operating Area 3 
+603000 Mirror Knight Mirror Launch Area 4 
+604000 Mirror Night Mirror Operating Area 5 
+700000 Boss: Battle start decision with Wyburn 
+800000 Bone Dragon Logic Operating Area 
+900000 Wall Destruction Auger Launch Area_01 
+900001 Wall Destruction Auger_Navi Switching Point_01 
+900010 Wall Destruction Auger Launch Area_02 
+900011 Wall Destruction Auger_Navi Switching Point_02 
+1000000 Enemy generation 1_Navimesh change when cart destroyed 
+1001000 Enemy generation 2_Navi mesh change when cart destroyed 
+1002000 Enemy generation 3_Navimesh change when cart destroyed 
+1100000 Lobby side of the switching gimmick room _ Navi mesh change 
+1100001 Aisle side of the switching gimmick room _Navi mesh change 
+1300000 Sealed Person_Navimesh Change 
+1600000 Navi mesh change of hidden door 
+1700000 Wall_Navimesh changes to destroy induced auger 
+1800000 Ori 1_Navimesh change on passage destroyed by Auger 
+1801000 Ori 2_Navimesh change on passage sabotaged by Auger 
+2100000 Change the broken wall and door_navimesh of the induced auger 
+2400000 King's Door_Navimesh Change 
+10000000 ?NPC for Multi: God of Death (Female)]? Black Spirit Appearance Area 
+10001000 [Enclosed person] black spirit appearance area 
+50000000 Wyburn Jump Point 00 
+50000001 Wyburn Jump Point 01 
+50000002 Wyburn Jump Point 02 
+50000003 Wyburn Jump Point 03 
+50000004 Wyburn Jump Point 04 
+50000005 Wyburn Jump Point 05 
+50000006 Wyburn Jump Point 06 
+50000007 Wyburn Jump Point 07 
+50001000 Wyburn No Flying Point 
+50002000 Hunting dog prowl range 
+50003000 For starting hunting dogs when PC falls into jail 
+50004000 Petrified Auger Moving Area 
+50005000 Hunting dog launch area under the stairs 
+52000000 Navi 1 for Cobold outside the museum 
+52000001 Navi 2 for Cobold outside the museum 
+52000002 Navi 3 for Cobold outside the museum 
+52000030 Cobold Navigation 1 
+52000031 Cobold Navigation 2 
+52000032 Cobold Navigation 3 
+52000100 ?No logic intrusion?Enemy return area of the front yard 
+52000101 ?No Logic Intrusion?Enemy Feeding Area in the Lobby 
+52000102 ?No logic intrusion?Enemy feedback area in the corridor 
+52000103 ?No logic intrusion?Enemy boss front feedback area of the corridor 
+52000104 ?No logic intrusion?Enemy return area of the dungeon 
+52000105 ?No logic intrusion?So that the enemy in front of the museum does not enter the building 
+52000106 [Logic invasion prohibition] elder brother range of the female swordsman 
+52001000 Petrified Auger Evacuation Point 

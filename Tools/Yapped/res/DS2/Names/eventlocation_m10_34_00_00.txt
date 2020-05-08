@@ -1,0 +1,44 @@
+1001 Intrusion Point 1-1 
+103400 For backlead safety [on Maduro] 
+103401 For backlead safety [under Maduro] 
+103402 For backlead safety [scum bottom] 
+300000 Boss: Dog rat fighting start judgment 
+400000 Information area_1 
+400001 Information area_2 
+400002 Information area for deletion_3 
+400003 Information area for deletion_4 
+600000 Navimesh Switching Point_Drawbridge 1 
+700000 The torch disappears with water. 
+1000000 Navimesh Switching Point_Drawbridge 2 
+10000000 ?NPC for Multi: The Magician(Male)?Black Spirit Appearance Area 
+50000100 1F Corridor_Rat Chasing Start Area 
+50000150 Rotating stairs room_ hole rat boot 
+50000200 first room_rat_awesome dead start 
+50000201 Rat start near 1F room exit 
+50000202 For mouse launch of the hole 
+50000203 Stair spinning room rat boot 
+50000204 Ceiling rat launch 
+50000300 Bottom Andet citizen launch 
+50000400 Hole Rat Launch 
+50000401 Hole rat moving preparation 
+50000500 Npc action start area for multi 
+52000000 Iron bar back_rat-a-round-trip navigation 
+52000005 Back of the grid_Rat B round trip navigation 
+52000010 Saloon_Rat A Wandering Navi 1 
+52000011 Saloon_Rat A Wandering Navi 2 
+52000020 Saloon_Rat B Wandering Navi 1 
+52000021 Saloon_Rat B Wandering Navi 2 
+52000500 Withdrawal area_1 
+52000501 Withdrawal area_2 
+52000502 Withdrawal area_3 
+52000503 Withdrawal area_4 
+52000510 Navi point for withdrawal 
+52000511 Navi point for withdrawal_2 
+52000512 Navi point for withdrawal_3 
+52000513 Navi point for withdrawal_4 
+53000100 ?Return range?Pledge area entrance 
+53000101 [Return range operation bridge 
+53000102 ?Return range?2F>1F ladder 
+53000103 ?Return range? For NPC rats 
+53000104 ?Return range? Map end 
+56000200 Dead end rat generation 2F_ the passage 

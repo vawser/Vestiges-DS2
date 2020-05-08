@@ -1,0 +1,103 @@
+10 Test 
+100 Function testing 
+40010000 Ring of Life 
+40010001 Ring of Life +1 
+40010002 Ring of Life +2 
+40020000 Green Flower Ring 
+40020001 Green Flower Ring +1 
+40020002 Green Flower Ring +2 
+40030000 Heavy Warrior Ring 
+40030001 Heavy Warrior Ring +1 
+40030002 Heavy Warrior Ring +2 
+40040000 Dragon Ring 
+40040001 Dragon Ring +1 
+40040002 Dragon Ring +2 
+40050000 Iron Protection Ring 
+40050001 Iron Protection Ring +1 
+40050002 Iron Protection Ring +2 
+40060000 Magic Crystal Stone Ring 
+40060001 Magic Crystal Stone Ring +1 
+40060002 Magic Crystal Stone Ring +2 
+40070000 Flame Crystal Ring 
+40070001 Flame Crystal Ring +1 
+40070002 Flame Crystal Ring +2 
+40080000 Thunder stone ring 
+40080001 Thunder Crystal Ring +1 
+40080002 Thunder Crystal Ring +2 
+40090000 Dark Crystal Ring 
+40090001 Dark Crystal Ring +1 
+40090002 Dark Crystal Ring +2 
+40100000 Poison Bite Ring 
+40110000 Blood Bite Ring 
+40120000 The finger shell of the seal 
+40120001 Sealing finger shell +1 
+40120002 Sealing finger shell +2 
+40130000 Curse Bite Ring 
+40135000 Petrified resistance 
+40140000 All The Rings of The Devil 
+40150000 The Ring of The Resistance 
+40160000 King's Sword Ring 
+40160001 King's Sword Ring +1 
+40160002 King's Sword Ring +2 
+40210000 Stray Ed's Ring of Wisdom 
+40220000 The Lord's Prayer Ring 
+40230000 A ring that cuts tough 
+40260000 Red tear stone ring 
+40280000 Blue tear stone ring 
+40290000 Giant Ring 
+40290001 Giant Ring +1 
+40290002 Giant Ring +2 
+40295000 Lion Ring 
+40300000 The Ring of Soul Protection 
+40310000 The Ring of The Protection of Life 
+40320000 The ring of the dragon seal which stands 
+40320001 Dragon Seal Ring +1 
+40320002 Dragon Seal Ring +2 
+40330000 The Ring of The Fast Chant 
+40330001 Fast-paced ring +1 
+40330002 Fast-paced ring +2 
+40340000 The finger crown of the North Shrine Festival 
+40340001 The finger crown of the North Shrine Festival +1 
+40340002 The Finger Crown of the North Shrine Festival +2 
+40350000 The finger crown of the South's Shrine Festival 
+40350001 The finger crown of the South Shrine Festival +1 
+40350002 The finger crown of the South Shrine Festival +2 
+40360000 Greedy Gold Snake Ring 
+40360001 Greedy Gold Snake Ring +1 
+40360002 Greedy Gold Snake Ring +2 
+40370000 Greedy Silver Snake Ring 
+40370001 Greedy Silver Snake Ring +1 
+40370002 Greedy Silver Snake Ring +2 
+40390000 Evil Eye Ring 
+40390001 Evil Eye Ring +1 
+40390002 Evil Eye Ring +2 
+40400000 Play ring 
+40410000 A ring to hold 
+40420000 Silver Cat Ring 
+40430000 Magic Eye Ring 
+40440000 The Ring of The Spirit Behind The Scene 
+40450000 Keyword Ring 
+40460000 The ring of the dragon seal which sleeps quietly 
+40470000 Hawk Ring 
+40480000 Causal retribution 
+40500000 Reward Ring: No Death 
+40510000 King's Ring 
+40520000 They are not dead 
+40530000 Thorn Ring 
+40530001 Thorn Ring +1 
+40530002 Thorn Ring +2 
+40540000 a ring of dried fingers 
+40550000 White Spirit Ring (Tentative) 
+40560000 300 rings to be destroyed (tentative) 
+40570000 1,000 rings of slaughter 
+40610000 Whisper ring 
+40620000 Reward Ring: No Use of Bonfires 
+40700000 Pledge Ring "The King of Mice" 
+40710000 Pledge Ring "Bell Guard" 
+40720000 Pledge Ring "The Mark of Protection" 
+40730000 Pledge Ring "The Dark Sign of Blood" 
+40740000 Pledge Ring "Seikyo" 
+40750000 Pledge Ring "Pilgrims in the Abyss" 
+40760000 Pledge Ring "Strong Man" 
+40770000 Pledge Ring "Sun Warrior" 
+40780000 Pledge Ring "The Road to the Old Dragon" 

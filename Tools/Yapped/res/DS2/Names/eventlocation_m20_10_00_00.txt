@@ -1,0 +1,139 @@
+40000 ?Advice blood character?Hidden door 2 
+40010 ?Advice blood character?Hidden door 3 
+40020 ?Advice blood character?Crane start 
+45000 [Blood character prohibited] hidden door 2 
+45010 [Blood character prohibited] hidden door 3 
+106000 Torch fire ball firing_6 
+107000 Fireball Firing_7 
+200000 Front fireball generation point_first half 
+200010 Front fireball generation point_ second half 
+300000 Stone statue head_rumbling start 
+301000 Navi mesh change by stone head destruction 
+400000 Shaking Cantera_1st 
+401000 Shaking Cantera_2nd 
+460004 Distant Area of Fire Ball Operating Area_5 
+460005 Distant Area of Fire Ball Operating Area_6 
+500000 Chandelier shaking start point 
+600000 Wall_Navimesh Switching where giants appear 
+600010 The area of restricting the behavior of giants emerging from the wall 
+600020 Wall destruction giant soldier launch range (for events) 
+700000 Wheel Crane 1_Navi Mesh Change 
+701000 Wheel Crane 2_Navi Mesh Change 
+800000 Boss: Determination to start fighting for new giant senior soldiers 
+801000 Boss: Warp point after the poly play of the new giant senior soldier (raw) 
+1000000 Seoul's firing source to shoot and get barista 
+1001000 Seoul's firing source 2 to shoot barista 
+1002000 Seoul's firing source 3 to shoot barista 
+1003000 Seoul's firing source 4 to shoot barista 
+1101000 The start area of the trap where the blade flies 
+1111000 Hidden door of insect key_Navimesh change 
+1400000 Giant King Breaks Tower _Navimesh Change 
+1500000 Navi mesh change of hidden door 
+1600000 Navi mesh change by fence destruction 
+1800000 Navi mesh change by semi-broken barista destruction 1 
+1801000 Navi mesh change by semi-broken barista destruction 2 
+1802000 Navi mesh change by semi-broken barista destruction 3 
+1803000 Navi mesh change by semi-broken barista destruction 4 
+1804000 Navi mesh change by semi-broken barista destruction 5 
+1805000 Navi mesh change by semi-destroyed barista destruction 6 
+1806000 Navi mesh change by semi-broken barista destruction 7 
+1807000 Navi mesh change by semi-broken barista destruction 8 
+1808000 Navi mesh change 9 by semi-broken barista destruction 
+1900000 Navi mesh change by barista destruction 1 
+1901000 Navi mesh change by barista destruction 2 
+1902000 Navi mesh change by barista destruction 3 
+1903000 Navi mesh change by barista destruction 4 
+1904000 Navi mesh change by barista destruction 5 
+1905000 Navi mesh change by barista destruction 6 
+1906000 Navi mesh change by barista destruction 7 
+1907000 Navi mesh change by barista destruction 8 
+1908000 Navi mesh change by barista destruction 9 
+1909000 Navi mesh change by barista destruction 10_1 
+1910000 Navi mesh change by barista destruction 10_2 
+3700000 Boss Route Start ing point 
+3701000 Mine route start point 
+3702000 Chandelier start point 
+50000000 Home point of the first senior Giants soldier 
+50000001 Range of Action of Senior Giants Soldiers 
+50000002 Whole moat (bottom) 
+50000004 Giant son (fireball) target switching 1 
+50000005 Navigation point for falling 1 
+50000006 Navigation point for falling 2 
+50000007 Navigation point 3 for falling 
+50000008 Giant son (fireball) target switching 2 
+50000009 Giant soldier's action start trigger on roof 
+50000101 withdrawal line one of the giants soldiers on the roof 
+50000102 Giant soldiers withdrawal line 2 on the roof 
+50000103 The giant's falling home point on the roof 
+50000400 Giant jumping area on the roof 
+50000500 square enemy movement and area one 
+50000501 Square enemy movement and area 2 
+50000502 Rooftop enemy launch area 
+50001100 One-off falling giant's fall destination home point 
+50002001 Navi point_1 for patrol men (2 some) 
+50002100 Start moving four patrolmen 
+50002101 Navi point_1 for patrol men (4 some) 
+50002110 Trigger for giants to reach out 
+50002201 Home point of continuous falling giant 
+50002202 Fall destination home point of continuous falling giant 
+50002203 Home point where the fall of the continuous falling giant 
+50002300 Coastal_Right Zone_Battle Zone 
+50002301 Spiral Staircase Giant Soldier_ Action Trigger 
+50003000 Barista Trigger for Barista Soldiers 
+50003001 Coastal_Right Zone_Rooftop 
+50003002 Rooftop Barista Line 
+50003003 Courtyard Barista Line 
+50004000 Start editing in a flame vase 
+50004001 Navigation point for jumping of flame barrels and giants 
+50005000 Giants start moving for a pinch 
+50005001 Navigation point for jumping giants to intercept 
+50005002 2500: All the passages 
+50005100 Fall judgment from a single road to be caught 
+50005101 Navigation points for jumping after fallen players 
+50006000 Start moving the pillar destruction giant 
+50006001 Pillar destruction giant performs destructive action 
+50007000 Giants fight ing in the basement begins 
+50008000 Start of battle of the advanced giants 
+50009000 Start moving the rumbling giant soldiers 
+50010000 2700_1: Barista shooting of royal soldiers 
+50010001 The back door of the barista trap room 
+50011000 Kingdom soldier killed by fireball 
+50012000 The target point of the Rumbling Giants 
+50013000 The target point of the Senior Giants (bare hand) 
+50013001 Range of action restrictions for senior giants 
+50013002 Player judgment range in the room 
+50014000 If it's hostile, the kingdom soldiers will close the gate. 
+50019000 lower giant soldiers_fireball_square 
+50019001 Lower Giants_Fireball_Central Hill 
+50019002 lower giant soldiers_fireball_outer rim 
+50019003 Fire Ball Soldiers' Withdrawal Line 
+50020000 The last senior giant war square 
+50020001 fireball giant soldiers high ground_right 
+50020003 Fireball Giant soldier's high ground_left 
+50021000 Boss Mae Cave_ Battle started 
+50030000 50030000
+50031000 Boss Room_Ladder Lower 
+50031001 Boss room_ ladder upper side 
+50031002 on top of the boss room_ tower 
+50031003 Logic Giant King Moving Range 
+50032000 Lower Giant Soldiers Fall Start Area Rooftop 
+50032010 Lower Giant Soldiers Fall Start Area Square 
+50033000 Enemy Skit Start Area 
+51000000 White Spirit: Kingdom Captain Mobile Navi 1 
+51000001 White Spirit: Kingdom Captain Mobile Navi 2 
+51000002 White Spirit: Kingdom Captain Mobile Navi 3 
+51000003 White Spirit: Kingdom Captain Mobile Navi 4 
+51000004 White Spirit: Kingdom Captain Mobile Navi 5 
+51000005 White Spirit: Kingdom Captain Mobile Navi 6 
+51000006 White Spirit: Kingdom Captain Mobile Navi 7 
+52000100 [Return area] battle break 
+52000101 ?Return area?Entrance to the hut 
+52000102 ?Return area?Hut exit 
+52000103 ?Return area?In front of the falling square 
+52000104 ?Return area?Rooftop entrance 
+52000105 ?Return area?On the roof 
+52000106 ?Return area?Hidden room 
+52000107 ?Return area?Starting point 
+60000000 Chandelier aisle enemy launch 
+60001000 Launch the enemy in the back of the arch 
+60002000 Launch the Arched Enemy 

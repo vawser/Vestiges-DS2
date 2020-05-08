@@ -1,0 +1,683 @@
+0 Default 
+100 Bonfire 
+200 【General purpose】Wooden treasure chest (light) 
+202 【General purpose】Trap small treasure chest (light) 
+240 【General Purpose】Treasure Corpse Adventurer_Mummy 
+290 【General purpose】Petrified corpse 
+300 【General purpose】Wooden one door light 
+301 【General purpose】Wooden one door light (castle, fort door) 
+302 【General purpose】Wooden one door Light (village door) 
+303 【General purpose】Wooden one door light (old door) 
+305 【General purpose】Wooden one door light (village door) 
+306 【General purpose】Wooden one door light (old door) 
+314 [General purpose] the door of the royal soldiers can be destroyed 
+316 【General purpose】The door of the key of the prison 
+700 【General purpose】Floor switch: Do not return 
+720 【General purpose】Wall hole lever 
+760 【General purpose】Strap lever 
+780 【General purpose】Valve 
+900 【General Purpose】Ladder 01 (3.8m) 
+902 【General purpose】Ladder 03 (5.0m) 
+904 【General purpose】Ladder 05 (7.4m) 
+906 【General Purpose】Ladder 07 (8.6m) 
+909 【General purpose】Ladder 10 (11m) 
+913 【General Purpose】Ladder 14 (14.6m) 
+923 【General Purpose】Wooden Ladder 04 (7.4m) 
+1030 [General purpose] bone that sounds when you step on 
+1062 【General purpose】Injection port (vertical) 
+1064 【General purpose】Injection port (horizontal) 
+1900 【General purpose】Light stand (castle) that can be set on fire 
+1901 【General purpose】Light stand (stone) to be set on fire 
+1930 [Wall type] torch to be ignited (castle) 
+2000 【General purpose】Barrel 1 
+2001 【General purpose】Cart (with luggage) 
+2002 【General purpose】Barrel (with stand) 
+2004 [General purpose] 3 barrels set _ destruction 
+2010 【General purpose】Wooden box 
+2012 [General purpose] wooden box 3 pieces set 
+2013 [General purpose] wooden box 4 pieces set 
+2030 【General purpose】Table 
+2040 【General purpose】Chair 
+2050 【General purpose】1 bucket 
+2060 【General purpose】Basket 
+2070 【General purpose】Sandbag use exceptionally prefabricated use at hidden port 
+2080 【General purpose】Bag 
+2090 【General purpose】Shelf 
+2100 【General purpose】Vase 
+2110 【General purpose】Skull 
+2111 【General purpose】Falling picture 1 
+2113 [General purpose] falling picture 3 
+2120 【General purpose】Basket (with handle) 
+2200 【General purpose】Barrel 2 
+2230 【General purpose】Wooden chair 
+2240 【General purpose】Flame barrel 
+2241 【General purpose】Flame barrel with taitage 
+2242 [General purpose] flame barrel set with tait (3 pieces) 
+2243 [General purpose] flame barrel (multiple sets) 
+2244 【General purpose】Flame barrels (multiple sets) (4 pieces) 
+2245 [General purpose] high flame barrel set with a high stand (3 pieces) 
+2250 【General purpose】Barrel set (3 pieces) 
+2260 【General purpose】Wooden box set (3 pieces) 
+2270 【General purpose】Long table 
+2280 【General purpose】Small vase 
+2310 【General purpose】Rack 
+2313 [General purpose] weapon rack 
+2315 【General purpose】Armor rack 
+2320 【General purpose】Tableware set A 
+2390 【General purpose】Torch (wall-mounted Type A) 
+2400 【General purpose】Torch (wall-mounted B) 
+2420 【General purpose】Wooden bench 1 
+2445 【General purpose】Gear part of wooden cart 
+2470 【General purpose】Chair 3 
+2490 【General purpose】Chair 5 
+2500 【General purpose】Chair 6 
+2530 Chair of the fairy side girl 
+2550 【General purpose】Desk 1 
+2560 【General purpose】Desk 2 
+2601 [General purpose] storage box 5 
+2611 【General purpose】Wooden small box 2 
+2660 【General purpose】Bucket 2 
+2700 【General purpose】Barricade 
+2720 【General purpose】Wooden box (long) 
+2730 【General purpose】Desk (library) 
+2740 【General purpose】Vase (high-class) 
+2750 【General purpose】Vase (old) 
+2995 【General purpose】Storage shelf 3 
+2996 【General purpose】Storage shelf 4 
+2999 【General purpose】Poison pot 
+3001 【General purpose】Tar vase 
+3005 【General purpose】Poison pot (small) 
+3006 【General purpose】Poison pot (medium) 
+4913 [General purpose] Manscorpion ♀ tail 1 
+4914 [General purpose] Manscorpion ♀ tail 2 
+4915 [General purpose] spider queen tail 
+4917 【General purpose】Naga tail 
+4918 [General purpose] Wyburn tail 
+6001 【General purpose】The skull of the goat 
+6002 【General purpose】Cow bone 
+6090 【General Purpose】Bay Ground Hawk 
+9011 【General purpose】Wall hanging lamp 2 (weak) 
+9012 【General purpose】Skull candle 1 
+9013 【General purpose】Candles group 
+9015 【General purpose】Hanging lamp 1 (weak) 
+9040 【General purpose】Giant Tree 
+9050 【General purpose】Grave 
+9070 【General purpose】Giant Tree (for warp) 
+9105 【General purpose】Bird's Nest 
+9113 【General purpose】Floor tar 
+9200 【General purpose】Trap: Launch port of the tread arrow 
+9250 [General purpose] scattered tar 
+20900 【Gap Sinus】Stretchladder 
+20901 【Gap Cave】Ladder 3.8m 
+20902 【Gap Cave】Ladder 12.2m 
+21030 【Cave of Gap】Falling Tree 
+21050 【Gap's Cave】Stone plate 
+22000 【Gap Cave】First Pillar 
+22001 【Gap Cave】Street lights 
+28520 【Cave of Gap】Candle 
+28521 【Cave of Gap】Candle (Wall) 
+29020 【Cave of Gap】Bird's Nest 
+29100 【Fossil Forest】Kanoke 
+31900 [Hole of the old darkness] the lamp stand of the pledge 
+39400 [Hole of old darkness] Damipoly 1 for SFX 
+39410 [Hole of old darkness] Damipoly 2 for SFX 
+40240 【Maduro】The corpse of the hanging treasure 
+40400 【Madura】Connection door 
+40900 【Madura】Event Ladder (Medium) 
+40910 【Madura】Event Ladder (Short) 
+41000 [Maduro] rotating door 
+41010 【Madura】Stone Monument of the Strong 
+41020 【Maduro】Damipori only model (flame on map) 
+41040 [Madura] rotary door switch 
+41110 【Madura】Well Event Strike Stone 
+41111 【Madura】Blacksmith's Chair 
+42020 【Madura】Kokeshi 
+42030 【Maduro】Sewage Breaking Scaffolding 
+49000 【Madura】Blacksmith Tent 
+49010 【Madura】General Tent A 
+49020 【Madura】General Tent B 
+49300 【Maduro】For displaying cumulative deaths of obelisks 
+49500 Map of Madura 
+49501 【Madura】Tree 1 (for translucent) 
+49502 【Madura】Tree 2 (for translucent) 
+49503 【Madura】Wooden scaffolding 1 (for translucent) 
+49504 【Madura】Wooden eaves (for translucent) 
+49505 【Madura】Wooden eaves (for translucent) 
+49506 【Madura】Trees (for translucent) 
+49507 【Madura】Connection Path (Arch Column) 
+49508 【Madura】Connection Path (Arch Column_2) 
+49509 【Madura】Wooden frame (for translucent) 
+100450 [Forest of decayed giants] old door 
+100476 The King's Door 
+100920 [Decayed Giant Forest] wooden ladder 00 
+100921 [Decayed Giant Forest] wooden ladder 
+100922 [Decayed Giant Forest] wooden ladder 
+100923 [Decayed Giant Forest] wooden ladder 03 
+100924 [Decayed Giant Forest] wooden ladder 04 
+100925 [Decayed Giant Forest] wooden ladder 05 
+100926 [Decayed Giant Forest] wooden ladder 06 
+100927 【Memory of giants】Wooden ladder 00 
+100928 【Memory of giants】Wooden ladder 01 
+101001 【Fort of resistance】Iron bar 
+101005 【Fort of resistance】Hidden door 1 (door) (insect key, lighting, SFX) 
+101010 Barista 
+101050 A stone statue with a neck 
+101113 Damipori C for the flame of Salamander 
+101150 【Memory of giants】Hidden Door 1: Insect Key Type 
+101160 [Memory of giants] hidden door 2: invisible key guide type 
+101161 [Forest of decayed giants] hidden door 3: invisible key guide type 
+101180 【Memory of giants】Fire damage OBJ 
+102000 Barrels 
+102010 Crates 
+102030 Wooden Chair 
+102100 Carts 
+102120 Wooden fence that only giants can break 
+102130 A pillar that only giants can break 
+102150 a barrel with a barista arrow 
+102160 Broken Barista 
+102170 【Fort of Resistance】Crane 
+102171 Crane Fasteners 
+102249 The wall which enters the main tower when it breaks 
+102250 Wall A destroyed by the enemy 
+102260 Wall B destroyed by the enemy 
+102340 Eaves 
+102350 Burned corpse 
+102360 [Fort of resistance] stone pillars that heavy soldiers can break 
+102370 [Fort of resistance] wall C destroyed by the enemy 
+102400 Cave Destruction Wall 
+106000 New Giant Senior Soldier's Arm 
+107000 [Decaying Giant Forest] Tree A 
+107001 [Decayed Giant Forest] Tree B 
+107010 [Decaying Giant Forest] Conifer 
+109000 Hanging lamp 01 
+109001 [Fort of resistance] Damipoli for firing a fireball 
+109020 Chandelier 
+109030 [Fort of resistance] flag curtain 
+109060 Puka Puka Ship 
+109070 Wall lamp 
+109085 Hanging lamp 
+109110 Lantern 
+109210 【Fort of resistance】Elevator 
+109240 【Fort of resistance】Rumbling Rock 
+109260 【Fort of Resistance】Giant Corpse 01 
+109270 【Fort of Resistance】Giant Corpse 02 
+109280 Floating light worms (several) 
+109290 [Forest of decayed giants] hanging cross candlestick 
+109400 【Memories of giants】 SFX103 
+109401 【Memories of giants】 SFX104 
+109402 【Memories of giants】 SFX107 
+109403 【Memories of giants】 SFX108 
+109404 【Memories of giants】 SFX110 
+109405 【Memories of giants】 SFX111 
+109406 【Memories of giants】 SFX135 
+109407 【Memories of giants】 SFX136 
+109408 【Memories of giants】 SFX139 
+109409 【Memories of giants】 SFX140 
+109410 【Memories of giants】 SFX141 
+109411 【Memories of giants】 SFX142 
+109412 【Memories of giants】 SFX143 
+109413 【Memories of giants】 SFX144 
+109414 【Memories of giants】 SFX145 
+109415 【Memories of giants】 SFX146 
+109416 【Memories of giants】 SFX153 
+109417 【Memories of giants】 SFX163 
+109418 【Memories of giants】 SFX171 
+109419 【Memories of giants】 SFX192 
+109420 【Memories of giants】 SFX3041 
+110400 [Fairy's Side] The Door of the Living 
+110410 The Door of the Dead 
+111005 【Altar of Amana】Hidden Door 1 (Insect Keys, Lighting, SFX) 
+111030 The Altar of the Saint 
+111900 a light stand that can be lit 
+112000 Tree Root 01 
+112040 a corpse branch 
+112050 Saint's Altar Candle 
+112100 [Altar of Amana] Sloppy Vase 
+119001 Floating light worms (several) 
+140300 Wooden one door light 
+140302 one door of the tree that the lower part is broken 
+140372 Insect Key Door 
+140400 Both doors of the tree 
+140420 [Spider City] door opened with wall lever 
+140900 [Kiseki-gai Gerdra] Ladder A 
+140902 [Kiishi-gai Gerdra] Ladder B 
+140904 [Kiseki-gai Gerdra] Ladder C 
+140907 [Kiseki-gai Gerdra] ladder D 
+141000 Sand Door 
+141020 【Spider City】Damipori for sand door damage generation 
+141050 Floor that breaks when riding 
+141060 【Spider's City】Sand after the destruction of sand doors 
+141160 Goddess Statue 
+141210 Broken Tent 
+141220 Crumbling Veranda 
+141350 The City of Spiders: Moving Scaffolding 
+141360 【City of Spiders】Old Dragon's Memory Invasion OBJ 
+141370 【Spider's City】Old Dragon's Memory Invasion Damipori 
+141380 【Spider City】Mushrooms 
+141900 【Spider's City】Lampstand 
+141920 【Spider's City】Terminal Bonfire 
+142000 Lower chair 
+142010 Lower table 
+142020 Lower shelf 
+142030 Well roof 
+142050 Chair of the Chapel 
+142080 A plan of the armor which breaks 
+142090 Rumbling Rock Stopper 
+142100 Rope struts 
+142110 【Spider City】Water Vase 
+142120 a vase containing a treasure corpse 
+142121 A vase with no treasure corpses 
+142130 [Kiishi-gai Gerdra] Yagura 
+142140 [Kiishi-gai Gerdra] Yagura 
+142150 [Kiishi-gai Gerdra] Yagura 
+147000 Ogi A 
+149040 Rumbling Rock 
+149070 【Teruishi-gai Gerdra】Candlestick A 
+149080 [Teruishi-gai Gerdra] hanging lamp of the library 
+150300 Wooden Door 
+150471 Iron door that auger can break 
+151010 Swaying lighting 
+151060 Gimmick door 
+151800 Insect Keys 
+152000 Book-up 
+152001 Destroyable stone door A 
+152002 Destroyable Stone Door B 
+152003 Destroyable Stone Door C 
+152005 A picture of an enemy 
+152020 Destructible round table 
+152030 Destroyable chair 
+152040 Experimental desk 
+152050 Kitchen Knife Rack 
+157000 Tree A 
+159001 a table that binds an experimental body 
+159003 Candlestick (Large) 
+159006 Candle B 
+159008 Medicine Bottle Set 
+159009 Experimental instrument set 
+159021 a cage coming down from above 
+159022 Huge cage at the entrance 
+159040 a cage wagon 
+159050 Mirror Night Mirror Shield 
+159070 Only dummy for thorns on the fence 
+159080 Magic Barrier 
+159100 [House of Andy' ] Wall Mount B 
+159110 【House of Andy' Chair for NPC Exceptions 
+160370 【Prison of Oblivion】Iron Bar One-way Door 
+160400 【Prison of Oblivion】Big Both Doors 
+160410 【Prison of Oblivion】Large Iron Bar 
+160420 【Prison of Oblivion】 Iron bar door raised by SW (small) 
+160900 【Prison of Oblivion】Ladder (3.8m) 
+160901 【Prison of Oblivion】Ladder (4.6m) 
+160902 【Prison of Oblivion】Ladder (5.0m) 
+160903 Ladder (6.2m) 
+160906 【Prison of Oblivion】Ladder (8.6m) 
+160907 【Prison of Oblivion】Ladder (9.8m) 
+160908 【Prison of Oblivion】Ladder (10.2m) 
+160910 [Prison of Oblivion] Ladder 
+160913 【Prison of Oblivion】Ladder (14.6m) 
+161020 【Prison of Oblivion】 [Hidden Door 2 (Key Guide)], the dead end of the left to climb the slope after the boss during the audience 
+161040 【Prison of Oblivion】Hidden Door 1 (Buchi and door integrated) (insect key, lighting, SFX) under the dining room 
+161050 [Prison of oblivion] hidden door (double-sided opening: boss room under) 
+161070 [Prison of oblivion] hidden door 2 (key guide) left toward son of a hidden door _ three in a row in the 1F during the audience 
+161080 【Prison of Oblivion】Hidden Door 2 (Key Guide) The road to the terrace in a small room in the basement of the building of the petrified stop 
+161090 [Prison of oblivion] hidden door 2 (key guide) the center toward the hidden door _ three in a row in the 1F during the audience 
+161100 [Prison of oblivion] hidden door 2 (key guide) right toward son of a hidden door _ that was three in a row in the 1F during the audience 
+161110 【Prison of Oblivion】Hidden Door 2 (Key Guide) The road to the second terrace in a small room in the basement of the building of the petrified stop 
+161120 [Prison of oblivion] hidden door 2 (key guide) in front of the insect key hidden door in the prison on the far right of the dungeon 
+161140 The Prison of Oblivion: A cage pulled from the well 
+161170 [Prison of oblivion] hidden door 1 (front and door integrated) (insect key, lighting, SFX) two of the subroute treasure house wall of the back side of the wall to start 
+161180 [Prison of oblivion] hidden door 1 (front and door integrated) (insect key, lighting, SFX) two of the subroute treasure house two insects key side wall to start 
+161185 [Prison of Oblivion] hidden door (double-sided open) 
+161200 【Prison of Oblivion】Bell 
+161210 【Prison of Oblivion】Pillars of the Boss Area 
+161230 [Prison of oblivion] iron bars in the boss room 
+161250 【Prison of Oblivion】Transparent stone for well events 
+161300 【Prison of Oblivion】Matrioshka 1 
+161303 【Prison of Oblivion】Matrioshka 2 
+161304 【Prison of Oblivion】Matrioshka 3 
+161305 【Prison of Oblivion】Matrioshka 4 
+161310 【Prison of Oblivion】The door that opens when the bell is ringed 
+161400 【Prison of Oblivion】Barrel Shelf 
+161600 [Prison of Oblivion] Torture Lift 
+161910 [Prison of oblivion] a light stand to be set on fire 
+161920 【Prison of Oblivion】The End Bonfire 
+162001 a board of wood that has been hammered 
+162002 A wall broken by a rolling flame barrel 
+162003 Wooden foundation 
+162005 Wooden foundation (small size) 
+162006 Wooden foundation (10m for the fall of the treasure corpse) 
+162010 [Castle of ruins] rolling explosion barrel 
+169002 [Castle of ruins] elevator 
+169020 Hidden Doors 
+169040 【Castle in ruins】 Damipoli for SFX 
+169050 Damipori for Sound 
+170400 【Valley of the reservoir】The door which goes up with the lever 
+170410 【Valley of the reservoir】The door which opens with the lever 
+170900 【Coal mine village】Ladder for events 
+170901 Ladder 01 (3.8m) 
+170902 Ladder 02 (4.6m) 
+170903 Ladder 03 (5.0m) 
+170904 Ladder 04 (6.2m) 
+170905 Ladder 07 (8.6m) 
+170906 A broken ladder 
+171020 【Reservoir Valley】Hidden Door 2 (Key Guide) 
+171030 【Reservoir Valley】Hidden Door 2 (Key Guide) 
+171040 【Reservoir Valley】Hidden Door 2 (Key Guide) 
+171060 【Coal mine village】Venom in boss room 
+171061 【Valley of the reservoir】Venom of the passage 
+171062 【Valley of the reservoir】Venom in front of the boss room 
+171063 【Valley of the reservoir】Venom at the starting point 
+171090 Hidden door 1 (abyss and door integrated) (insect key, lighting, SFX) 
+171100 【Valley of the reservoir】The surface of the water that falls with the lever (poison) 
+171250 [Valley of the reservoir] transparent OBJ for attacking the enemy 
+171300 【Valley of The Reservoir】The Spring Surface of The Recovery (Poison) 
+171301 【Valley of the reservoir】The surface of the water of the fountain of the insect key recovery 
+171310 【Valley of the Reservoir】The Altar of the Sun 
+172001 Crumbling scaffolding 
+172002 Breaking rail 1 
+172010 【Coal mine village】Hanging poison pot 
+172011 【Coal mine village】Hanging poison pot_medium boss room 
+172020 【Valley of the reservoir】The beating of the broken tree 
+172021 【Valley of the reservoir】 the board of the wood that was hammered 
+179010 【Coal mine village】Water wheel tower_ half circle gears 
+179020 【Coal mine village】Water mill tower_front huge windmill 
+179040 【Coal mine village】Water mill tower_upper and lower ceilings 
+179080 【Coal mine village】Water mill tower_ front giant windmill wings 
+179081 【Coal mine village】Water mill tower_front huge windmill 
+179082 【Valley of the reservoir】Wind turbine feathers 
+179090 【Coal mine village】Chain of shung poison pot 
+179120 【Valley of the reservoir】Gears inside the tower 
+179130 【Valley of the reservoir】Open-air stick 
+179140 【Valley of the reservoir】Light source poison pot (hanging type) 
+179150 【Valley of the reservoir】Light source poison vase (direct position type) 
+179200 【Valley of the Reservoir】Windmill (Small) 
+180900 [Hidden port] ship ladder 
+181000 [Hidden port] light stand 
+181010 [Hidden Port] Ship 
+181020 【Hidden port】The surface of the water of the boss room 
+181030 【Hidden Port】Iron Bar 
+181050 【Hidden Port】Bell 
+181060 [Hidden Port] Compass 
+181070 [Hidden port] ship fence 
+181900 [Hidden port] light stand 
+182000 [Hidden port] broken wall 
+182010 【Hidden Port】Desk 
+182020 【Hidden Port】Chair 
+182030 [Hidden port] board attached to the window 
+182040 【Hidden Port】Poison Pot 
+182050 Hidden port: Destruction wall 
+182060 【Hidden Port】Barrels 
+182061 【Hidden Port】Wooden Box 
+182070 [Hidden port] part of the pier to be broken 
+190700 [Volcano steel works] floor switch 
+190900 【Molten Castle】Ladder 01 (3.8m) 
+190902 【Molten Castle】Ladder 03 (5.0m) 
+190903 【Molten Castle】Ladder 04 (6.2m) 
+190906 【Molten Castle】Ladder 07 (8.6m) 
+190909 【Molten Castle】Ladder 10 (11m) 
+190910 【Molten Castle】Ladder 11 (12.2m) 
+190912 【Molten Castle】Ladder 13 (13.4m) 
+190915 【Molten Castle】Ladder 16 (15.8m) 
+191002 [Volcano steel works] shutter of the furnace 
+191003 [Volcano steel mill] molten iron kettle 
+191004 [Volcanic steel works] flowing molten iron (for molten iron kettle) 
+191015 【Molten Castle】Barista 
+191020 [Volcano steel works] cowhead statue spewing fire 
+191030 [Volcano steel works] broken bridge 
+191040 Scaffolding with levers 
+191050 [Volcano steel works] Damipori only model pair of cattle 
+191051 [Volcano steel works] model only of Damipori 1/16SFXID change (3681→3680) 
+191052 [Volcano steel works] Damipoli only model large cow 1/16SFXID change (3681→3680) 
+191053 [Volcano steel works] Damipoli only model 3 series right 1/16SFXID change (3681→3681) 
+191054 [Volcano steel works] Damipoli only model 3 series of central 1/16SFXID change (3681→3681) 
+191055 [Volcano steel works] left of the model 3 series of Damipori only 1/16SFXID change (3681→3681) 
+191056 [Volcano steel works] model only for damipori for the door of the furnace 
+191057 [Volcano steel works] damipori only model shutter flame 
+191058 [Volcano steel works] model only model ladder back hole 1/16SFXID change (3681 →3696) 
+191059 [Volcano steel works] damipori only model lever in front of the air status quo maintenance 
+191061 [Volcano steel works] Damipoli only model 6 series_1 1/16SFXID change (3681→3682) 
+191062 [Volcano steel works] Damipoli only model 6 series_2 1/16SFXID change (3681→3682) 
+191063 [Volcano steel works] Damipoli only model 6 series_3 1/16SFXID change (3681→3682) 
+191064 [Volcano steel works] Damipoli only model 6 series_4 1/16SFXID change (3681→3682) 
+191065 [Volcano steel works] Damipoli only model 6 series_5 1/16SFXID change (3681→3682) 
+191066 [Volcano steel works] Damipoli only model 6 series_6 1/16SFXID change (3681→3682) 
+191070 [Volcanic steel works] vase of water 
+191090 [Volcano steel works] broken furnace 
+191110 [Volcano steel works] Stone statue of Damon Knight 
+191120 [Volcano steel works] hidden door 2 (double-sided type) (key guide) 
+191130 [Volcano steel works] hidden door 2 (double-sided type) (key guide) 
+191140 [Volcano steel mill] hidden door 1 (front and door integrated) (insect key, lighting, SFX) 
+191142 [Volcano steel works] open door when the bell is ringing 
+191150 【Molten Castle】Bell 
+191151 【Molten Castle】Bell (Model without Damipori for Sound) 
+191301 [Volcano steel works] animation model of the spring surface of the recovery 
+191400 【Volcanic Steel Works】Guillotine Door 
+191700 [Volcano steel works] can be destroyed spire (for boss lava zone placement)  
+191900 [Volcano steel works] terminated bonfire 
+199004 [Volcano steel works] elevator caught 
+199006 [Volcano steel works] broken scaffolding 
+199010 [Volcano steel works] stone lamp 
+199020 【Volcano Steel Works】Togetge Wall 
+210476 The King's Door 
+210900 【King's Castle】Dedicated Ladder 
+211010 Statue of a dragon spitting acid 
+211020 Golem 
+211030 Golem Door 
+211040 【King's Castle】StatueNite's Neck 
+211050 The Altar of the Abyss 
+211100 The Queen's Painting 1 
+211150 【King's Castle】The switch that golem moves 
+211190 【King's Castle】Key Man 
+211200 Golem's Torch 
+212000 [Iwamine Castle] pillar that mirror night can break 
+219035 【Iwamine Castle】Pitfall sit-down 
+219036 【Iwamine Castle】Mask 1 
+219037 【Iwamine Castle】Mask 2 
+219038 【Iwamine Castle】Mask 3 
+219045 【Iwamine Castle】Lifting Machine 
+219051 【Iwamine Castle】Mirror 
+219055 【Iwamine Castle】Hidden Doors 
+219066 【Iwamine Castle】Switch door_Iron bar 
+219070 【Iwamine Castle】Candlestick Stand (Large) 
+219080 【Iwamine Castle】StatueNite 
+219085 【Iwamine Castle】The Gate of Golem 
+219100 Foundation with fire 
+219110 【Iwamine Castle】Boss Room: Broken Hill 
+219300 【Wangcheng】Pillar (single)_for camera transmission processing 
+219310 【Wangcheng】Arch (single) _for camera transmission processing 
+219330 【Wangcheng】Pillar 2 (single) _for camera transmission processing 
+219400 Dummy object for lightning SFX generation 1 
+219401 Dummy object for lightning SFX generation 2 
+219402 Dummy object 3 for lightning SFX generation 
+219403 Dummy object 4 for lightning SFX generation 
+219404 【King's Castle】Dummy Object 1 for Rain SFX Generation 
+219405 【King's Castle】Dummy Object 1 for Rain SFX Generation 
+219406 【King's Castle】 Dummy Object 1 for SFX Generation 
+219407 【King's Castle】 Dummy Object 2 for SFX Generation 
+219408 【King's Castle】 Dummy Object 3 for SFX Generation 
+219600 【King's Castle】Original Golem 
+231001 Silver Chariot's Executioner 
+231002 Silver Chariot Carriage 
+231010 Silver Chariot Passage Arch 
+231020 【Torture Site】Fallen Trees 
+231040 【Torture Site】Iron Bar 
+231045 [Forest of hunting] iron fence of the arena 
+231050 Torture Lift 
+231060 【Torture Place】Hidden Door A 
+231070 【Torture Site】Hidden Door B 
+232000 【Torture Place】Broken Board 
+232010 [Forest of hunting] Skeleton Aristocratic Throne A 
+232011 [Forest of hunting] Skeleton Aristocratic Throne B 
+232020 [Hunting Forest] black phantom shop candle 
+237000 【Hunting Forest】Tree A (Conifer type) 
+237001 【Hunting Forest】Tree B (Bimata tree type) 
+237002 【Hunting Forest】Tree C (Undulation Type) 
+237003 【Hunting Forest】Tree D (Undulating Tree Type) 
+237004 【Hunting Forest】Tree E (leaf-like tree type) 
+237005 【Hunting Forest】Tree F (shadowed tree type) 
+237006 【Hunting Forest】Tree G (tree type with a shadowed tree) 
+237010 【Hunting Forest】Tree A (scale 90%) 
+237011 【Hunting Forest】Tree A (scale 80%) 
+237012 【Hunting Forest】Tree A (scale 70%) 
+237020 【Hunting Forest】Tree B (scale 135%) 
+237030 【Hunting Forest】Tree C (Scale Z only 60%) 
+237031 【Hunting Forest】Tree C (scale 150%) 
+237032 【Hunting Forest】Tree C (scale 170%) 
+237033 【Hunting Forest】Tree C (scale 200%) 
+237040 【Hunting Forest】Tree E (scale 50%) 
+239003 【Hunting Forest】Tadare-no-N 
+239004 【Torture Site】Hanging Lamp A 
+239005 【Torture Site】Hanging Lamp B 
+239010 【Torture Site】Movable Bridge 
+240900 【Tomb of Immortality】Broken Ladder 
+241100 【Mausoleum】Shortcut Drawbridge 
+241110 【Mausoleum】Bell 
+241120 【Mausoleum】Hidden Door 2 (Key Guide) 
+241130 【Prison of Oblivion】Hidden Door 1 (Buchi and Door Integrated) (Insect Keys, Lighting, SFX) 
+241140 【Mausoleum】Hidden Door 2 (Key Guide) 
+241900 【Tomb of Immortality】Lampstand 
+241901 【Mausoleum】Special Light Stand 
+242010 【Submerged Castle】Fire dish with flame 
+242020 【Mausoleum】The pillar that the boss breaks 
+249000 【Mausoleum】Small Tomb 
+249002 【Mausoleum】Tomb Large 
+249007 【Tomb of Immortality】Candles Group B 
+249500 【Mausoleum of Immortality】 Damipoly 1 for SFX 
+249510 【Mausoleum of Immortality】 Damipoly 2 for SFX 
+249520 【Mausoleum of Immortality】 Damipoly 3 for SFX 
+250200 【Scum Bottom】Burning Wooden Treasure Chest 
+250900 【Scum Bottom】Ladder 01 (3.8m) 
+250902 【Scum bottom】Ladder 03 (5.0m) 
+250903 【Scum Bottom】Ladder 04 (6.2m) 
+250904 【Scum Bottom】Ladder 05 (7.4m) 
+250907 【Scum bottom】Ladder 08 (9.8m) 
+250909 【Kuzbottom】Ladder 10 (11m) 
+250910 【Kuzbottom】Ladder 11 (12.2m) 
+250915 【Kuzbottom】Ladder 16 (15.8m) 
+250929 【Kuzbottom】Ladder 10 (14.6m) 
+251000 【Ssuke-mura】Broken scaffolding 
+251010 【Ssuke-mura】A certain number of people ride and the floor breaks. 
+251020 【Scum】Torture Lift 
+251030 【Scum Bottom】The Altar of the Saint 
+251031 【Scum Bottom】The Altar pillar of the saint 
+251900 [Scum bottom] light stand Kokeshi to be set on fire 
+251920 【Scum bottom】Terminating bonfire 
+252001 a board of wood that has been hammered 
+252010 【Dumping Hole】Kokeshi (Attack) 
+252011 【Dumping hole】Kokeshi Attack 
+252012 【Dumping hole】Kokeshi (attack) in moss 
+252013 【Dumping hole】Kokeshi Attack 
+252015 【Throw away hole】Neck-and-neck (attack) 
+252020 【Throwaway Hole】Kokeshi 2 
+252021 【Throw away hole】Kokeshi 2 moss small 
+252022 【Throw away hole】Kokeshi 2 moss in 
+252023 【Throw away hole】Kokeshi 2 moss large 
+252030 [Throw away hole] kokeshi cut scene 
+252061 Crumbling wooden board A 
+252063 Crumbling wooden board B 
+252064 Crumbling wooden board C 
+252120 a vase containing a treasure corpse 
+252121 A vase with no treasure corpses 
+253004 【Scum bottom】Acid vase 
+256000 Butcher's right arm 
+256001 Butcher's left arm 
+256002 Butcher's left arm corpse 
+261000 Damipoli OBJ for the Return of The Memory of the Old Dragon 
+270900 [Nest of the guard dragon] stretch ladder 
+271000 Suspension bridge 
+271040 [Nest of the Guard Dragon] Hidden Door (SFX) 
+272000 Wyburn Eggs 
+276000 【Dragon's Hall Of People】Wyvern 
+279020 [Nest of the guard dragon] Damipoli for SFX 
+291000 [Maduro hollow shadow forest connection] gimmick up door 
+291001 [Maduro hollow shadow forest connection] gimmick up door (for building blockade) 
+297001 [Maduro hollow shadow forest connection] tree B 
+310329 [Heide's Great Fire Tower] door for the battle area 
+310400 [Great fire tower of Heide] door for connection 
+310620 [Great fire tower of Heide] vertical lever: do not return 
+311000 [Great Fire Tower of Heide] Drawbridge 
+311010 [Great fire tower of Heide] rising ground 
+311020 [Great fire tower of Heide] vertical lever storage hole 
+311030 [Great fire tower of Heide] pillar that only the boss can destroy 
+311040 Longue of The Great Fire Tower of The Blue Cathedral 
+311050 [Great fire tower of Heide] pillar of the connected building 
+311060 [Great fire tower of Heide] railing of the connected building 
+311070 [Great Fire Tower of Heide] Pillar of The Madura Connection 
+319004 [Great fire tower of Heide] hanging lamp A 
+320476 The King's Door 
+320480 The Forest of The Shadow of The Void: The Door of the Shrine 
+321010 【Forest of The Shadow of The Void】 IlaraStone 
+321020 【Valley of the Reservoir】Barrels that the top weapons store is caught 
+321040 Forest of Shadows: The Altar of The Saint 
+321041 Forest of Shadows of The Shadows: The Altar pillar of the Saint 
+322000 【Forest of Beast son】 A jar 
+322010 【Forest of Shadows of The Void】Pillar a of Durahan's House 
+322011 【Forest of The Shadow of The Void】Pillar of Durahan's House B 
+327000 Forest of the shadow of the emptiness: Tree by cliff 
+327001 Forest of the shadow of the emptiness: trees for the ground 
+327003 Forest of The Shadow of The Void: Dead Trees 
+327004 【Forest of the Shadow of The Hollow】Ogi C 
+327005 Forest of the Shadow of The Void: Dead Tree C 
+327007 The Forest of Shadows of The Void: The Dead Tree in the Boss Room 
+329003 Stone statue of the gate 
+329020 Human Face 
+329021 Human-sided wood (fine) 
+329030 Pitfalls (small) 
+329031 Pitfalls (large) 
+329400 【Forest of the shadow of the emptiness】Acid reservoir light source 
+330906 【Door way of Faros】Ladder 07 (8.6m) 
+331050 【Door road of Faros】Cage (Heavy Dwarf) 
+331051 【Door road of Faros】Cage (hidden road) 
+331060 【Door road of Faros】The wall 
+331063 [Door road of Faros] Togetge switch 
+331065 【Door road of Faros】Insect key door 1 (elephant man) 
+331066 【Door road of Faros】Insect key door, 2 (elephant man) 
+331067 【Door road of Faros】Insect key door 3 (elephant man) 
+331900 【Door road of Faros】Light stand 
+331930 【Door road of Faros】Lamp stand (wall type) 
+332000 【Door road of Faros】Kokeshi 
+339100 [Door of Faros] Togetge 
+339101 [Door of Faros] Togetge 2 
+339402 [Door way of Faros] ad-throwing dwarf statue 
+340900 Ladder 01 (3.8m) 
+340902 Ladder 03 (5.0m) 
+340909 A broken ladder 
+341000 Drawbridge 
+341010 Gimmick Stairs 
+349000 Candles 
+349001 Rat Statue 
+349002 The poison swamp that the rat image vomited 
+349003 Damipoli for SFX 
+349010 Damipoli for TorchEs SFX (top) 
+349011 Damipoly for TorchEs SFX (bottom) 
+349012 Damipoly for Candle SFX 
+850100 Can be destroyed 
+850120 Can't be destroyed 
+850200 Treasure chest (Tree:) 
+850204 Treasure Chest (Tree: Burning) 
+850210 Treasure Chest (Iron:) 
+850300 One door (can be destroyed) 
+850400 Both doors 
+850500 Scenario White Door 
+850510 Boss White Door 
+850520 Intrusion White Door 
+850600 Vertical Lever: Automatic Return 
+850620 Vertical lever: Do not return 
+850640 Floor Lever: Auto Back 
+850660 Floor Lever: Do not return 
+850680 Floor lever: Continue while the button is typing 
+850700 Floor switch 
+850720 Wall hole lever 
+850800 Rope 
+850900 Ladder 
+850910 Lower ladder 
+850920 A broken ladder 
+851000 Hidden Door (1) (Insect Key SFX) 
+851010 Hidden door (2) (button press) 
+851100 Bonfire 
+851800 Insect Keys 
+851810 Insect key (floor) 
+851900 Pine light type fire stand 
+851910 Torch ignition table 
+859000 Elevator 
+871000 Decoy OBJ  

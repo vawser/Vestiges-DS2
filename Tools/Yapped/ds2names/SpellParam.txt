@@ -1,0 +1,206 @@
+1 Dummy (please erase) 
+10 Function testing 
+20 Function Test NPC Reference 
+31010000 Magic: The Arrow of Soul 
+31020000 Magic: Strong Soul Arrows 
+31030000 Magic: The Head of Seoul 
+31040000 Magic: The Strong Soul's Taya 
+31050000 Magic: The Arrows of Seoul Inducing 
+31060000 Magic: The Arrow of Seoul To Induce 
+31070000 Magic: A Mass of Soul Chasing 
+31080000 Magic: The Crystal Mass of Soul Tracking 
+31090000 Magic: The Spear of Soul 
+31100000 Magic: Crystal Spear of Soul 
+31110000 Magic: Fall bullets 
+31120000 Magic: Continuous Magic Bullet 
+31130000 Magic: The Arrows of Magic That Explode 
+31140000 Magic: An Oversized Sword of Magic 
+31150000 Magic: Swirling Magic Ball 
+31160000 Magic: The Flash of Magic 
+31170000 Magic: The Flow of Soul 
+31180000 Magic: Magic Weapons 
+31190000 Magic: Strong magic weapon 
+31200000 Magic: Crystal Magic Weapon 
+31210000 Magic: Strong Magic Shield 
+31220000 Magic: The Mischief of the Messenger 
+31230000 Magic: No Sound 
+31240000 Magic: Fall Control 
+31250000 Magic: Invisible Weapons 
+31260000 Magic: Restoration 
+31270000 Magic: Shining Light 
+31280000 Magic: Mimicry 
+31290000 Magic: Magic Open 
+31300000 DLC: Self-centered explosion 
+31310000 DLC: Laser Beam 
+32010000 Miracle: Recovery 
+32020000 Miracle: Medium Recovery 
+32030000 Miracles: Limited Great Recovery 
+32040000 Miracle: Great Recovery 
+32050000 Miracles: The Healing of the Sun's Rays 
+32060000 Miracles: Springing of Life 
+32070000 Miracles: Automatic Medium Recovery 
+32080000 Miracle: The Grace of the Sun's Light 
+32090000 Miracle: Poison Recovery 
+32100000 Miracle: The Force 
+32110000 Miracle: The Wrath of God 
+32120000 Miracle: The Force that Shoots 
+32130000 Miracle: Discharge 
+32140000 Miracle: The Spear of Thunder 
+32150000 Miracle: The Great Spear of Thunder 
+32160000 Miracle: Spear of the Sun's Light 
+32170000 Miracle: Immortal Annihilation 
+32180000 Miracles: The Source of Thunder 
+32190000 Miracles: Magic Protection 
+32200000 Miracles: Great Magic Protection 
+32210000 Miracle: Home Journey 
+32220000 Miracles: Seeking Advice 
+32230000 Miracle: Jihad 
+32240000 Miracles: Detection of The Dark Spirits 
+32250000 Miracles: Increased resistance 
+32260000 Miracle: The Sword of Sunshine 
+32300000 DLC: One-time Resurrection 
+32310000 DLC: Lightning in defiance of defense 
+33010000 Magic: Fireball 
+33020000 Magic: Fireball 
+33030000 Magic: The Great Fireball 
+33040000 Magic: The Great Fire Ball of Chaos 
+33050000 Magic: Storm of Fire 
+33060000 Magic: The Great Storm of Fire 
+33070000 Magic: A Storm of Chaos 
+33080000 Magic: Ignition 
+33090000 Magic: Large fire 
+33100000 Magic: The Flame of The Fire 
+33110000 Magic: The Fog of Poison 
+33120000 Magic: The Fog of The Poison 
+33130000 Magic: Acid Injection 
+33140000 Magic: Floating Fireball 
+33150000 Magic: The Fire 
+33160000 Magic: The Sun of Chaos 
+33170000 Magic: Weapon of Fire 
+33180000 Magic: Intense Sweating 
+33190000 Magic: The Iron Body 
+33200000 Magic: The Recovery Soul 
+33210000 Magic: Burned 
+33300000 DLC: Smoke Dragon 
+33310000 DLC: Dark Pay 
+34010000 Dark Art - The Devil: The Ball of Darkness 
+34020000 Dark Art - The Devil: The Splash of Darkness 
+34030000 Dark Art - The Devil: The Fog of Darkness 
+34040000 Dark Art - The Devil: The Chasers 
+34050000 Dark Art - Demon: Range Corpse Bombing 
+34060000 Dark Art - The Devil: Weapon of Darkness 
+34070000 Dark Art - The Devil: The Whisper of Darkness 
+34080000 Dark Art - The Devil: The Space of Nothingness 
+34090000 Dark Art - The Devil: The Barrier of Darkness 
+34100000 Dark Art - The Devil: Darkness 
+34300000 DLC: Armor editer 
+34310000 DLC: A blow of resentment 
+35010000 The Art of Darkness - Bizarre: Summoning the Earth-Bound Spirit 
+35020000 Dark Art - Bizarre: Self-Centered Typhoon 
+35030000 The Art of Darkness - Bizarre: Soul Ball 
+35040000 The Art of Darkness - Bizarre: Soul Great Ball 
+35050000 The Art of Darkness - Bizarre: Soul Super Ball 
+35060000 The Art of Darkness - Bizarre: The Body of Seoul 
+35070000 The Art of Darkness - Bizarre: The Sword of Seoul 
+35080000 The Art of Darkness - Bizarre: The Hole of Soul 
+35090000 Dark Art - Bizarre: Multi-Target Spell Seal 
+35300000 DLC: A Gentle Walk of Peace 
+35310000 DLC: 1/4 damage bullet of HP now 
+71010000 NPC- Magic: The Arrow of Seoul 
+71020000 NPC- Magic: Strong Seoul Arrow 
+71030000 NPC-Magic: The Head of Seoul 
+71040000 NPC-Magic: The Strong Soul's Taya 
+71050000 NPC- Magic: The Arrow of Seoul To Induce 
+71060000 NPC-Magic: The Arrow of Seoul To Induce 
+71090000 NPC-Magic: The Spear of Soul 
+71100000 NPC-Magic: Crystal Spear of Seoul 
+71110000 NPC-Magic: Fall Bullets 
+71120000 NPC-Magic: Continuous Magic Bullet 
+71130000 NPC- Magic: The Arrow of Magic Exploding 
+71140000 NPC-Magic: An Oversized Sword of Magic 
+71150000 NPC-Magic: Swirling Magic Ball 
+71160000 NPC-Magic: The Flash of Magic 
+71170000 NPC-Magic: The Flow of Seoul 
+71180000 NPC-Magic: Magic Weapon 
+71190000 NPC- Magic: A Strong Magic Weapon 
+71200000 NPC-Magic: Crystal Magic Weapon 
+71210000 NPC- Magic: Strong Magic Shield 
+71220000 NPC-Magic: The Mischief of the Devil 
+71230000 NPC-Magic: No Sound 
+71240000 NPC-Magic: Fall Control 
+71250000 NPC-Magic: Invisible Weapons 
+71260000 NPC-Magic: Restoration 
+71270000 NPC-Magic: Illuminating Light 
+71280000 NPC-Magic: Mimicry 
+71290000 NPC-Magic: Magic Open 
+72010000 NPC-Miracles: Recovery 
+72020000 NPC-Miracles: Medium Recovery 
+72030000 NPC-Miracles: Limited Recovery 
+72040000 NPC-Miracles: Great Recovery 
+72050000 NPC-Miracles: Healing of Sunshine 
+72060000 NPC-Miracle: Springing of Life 
+72070000 NPC-Miracles: Automatic Medium Recovery 
+72080000 NPC-Miracle: The Grace of The Sun's Light 
+72090000 NPC-Miracle: Poison Recovery 
+72100000 NPC-Miracle: Force 
+72110000 NPC-Miracle: The Wrath of God 
+72120000 NPC-Miracle: The Force to Unleash 
+72130000 NPC-Miracle: Discharge 
+72130001 NPC-Miracle: Discharge (2m) 
+72140000 NPC-Miracle: The Spear of Thunder 
+72150000 NPC-Miracle: The Great Spear of Thunder 
+72160000 NPC-Miracle: Spear of Sunshine 
+72160001 NPC-Miracle: Spear of Sunshine (22th Slot) 
+72170000 NPC-Miracle: Immortal Annihilation 
+72180000 NPC-Miracle: The Source of Thunder 
+72180001 NPC-Miracle: The Source of Thunder (2m 
+72190000 NPC-Miracles: Magic Protection 
+72200000 NPC-Miracles: Great Magic Protection 
+72210000 NPC-Miracle: Home Road 
+72220000 NPC-Miracles: Seeking Advice 
+72230000 NPC-Miracle: Jihad 
+72240000 NPC-Miracles: Dark Spirit Detection 
+72250000 NPC-Miracles: Increased Resistance 
+72260000 NPC-Miracle: The Sword of Sunshine 
+73010000 NPC-Magic: Fireball 
+73020000 NPC-Magic: Fireball 
+73030000 NPC-Magic: The Great Fireball 
+73040000 NPC-Magic: The Great Fireball of Chaos 
+73050000 NPC-Magic: Storm of Fire 
+73060000 NPC-Magic: The Great Storm of Fire 
+73070000 NPC-Magic: Storm of Chaos 
+73080000 NPC-Sorcery: Ignition 
+73090000 NPC-Sorcery: The Great Fire 
+73100000 NPC-Magic: The Flame of The Fire 
+73110000 NPC-Magic: The Fog of Poison 
+73120000 NPC-Magic: The Fog of Poison 
+73130000 NPC-Magic: Acid Injection 
+73140000 NPC-Magic: Floating Fireball 
+73150000 NPC-Magic: The Fire 
+73150001 NPC-Magic: Fire Fire (2m) 
+73160000 NPC-Magic: The Sun of Chaos 
+73170000 NPC-Magic: Weapon of Fire 
+73180000 NPC-Sorcery: Intense Sweating 
+73190000 NPC-Magic: The Iron Body 
+73200000 NPC-Magic: The Recovery Soul 
+73210000 NPC-Sorcery: Burn 
+74010000 NPC- Dark Art - The Devil: The Ball of Darkness 
+74010001 NPC- Dark Art - The Devil: The Ball of Darkness (2th Slot) 
+74020000 NPC- Dark Art - Devil: The Splash of Darkness 
+74020001 NPC- Dark Art - Magic: The Splash of Darkness (2st Slot) 
+74030000 NPC- Dark Art - The Devil: The Fog of Darkness 
+74040000 NPC- Dark Art- The Devil: The Chasers 
+74050000 NPC- Dark Art- Demon: Range Corpse Bombing 
+74060000 NPC- Dark Art - The Devil: Weapon of Darkness 
+74070000 NPC- Dark Art - The Devil: Whispers of Darkness 
+74080000 NPC- Dark Art - The Devil: The Space of Nothingness 
+74100000 NPC- Dark Art- Demon: Darkness 
+75010000 NPC- Dark Art - Bizarre: Summoning the Ground Restraint Supres 
+75020000 NPC- Dark Art - Bizarre: Self-Centered Typhoon 
+75030000 NPC- Dark Art - Bizarre: Soul Ball 
+75040000 NPC- Dark Art - Bizarre: Soul Great Ball 
+75050000 NPC- Dark Art - Bizarre: Soul Super Large Ball 
+75060000 NPC- Dark Art - Bizarre: The Body of Seoul 
+75070000 NPC- Dark Art - Bizarre: The Sword of Seoul 
+75080000 NPC- Dark Art - Bizarre: The Hole of Soul 
+75090000 NPC- Dark Art - Bizarre: Multi-Target Spell Seal 

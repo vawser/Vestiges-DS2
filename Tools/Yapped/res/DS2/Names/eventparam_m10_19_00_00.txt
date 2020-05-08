@@ -1,0 +1,62 @@
+1000 scaffolding up and down with lever 
+2000 One-way door from the bonfire room 
+3000 ?Insect Key?For The Fountain of Recovery_01 
+3010 [Insect key start] fountain of recovery_01 
+4000 ?Insect Key?For The Fountain of Recovery_02 
+4010 [Insect key start] fountain of recovery_02 
+5000 a bridge descending by a lever 
+6000 Burning furnace_Shutter opening and closing 
+6010 If you open the burning furnace door, you will see a flame. 
+6020 If you open the burning furnace door, you will see a flame. 
+7000 Molten iron kettle 01 
+7010 Molten iron kettle 02 
+7020 Molten iron kettle 03 
+8000 Boss: Demon Night Combat 
+8010 Flame linked to boss's actions 
+8020 Bay Grant Generation Determination 
+8030 Bay Grant Deletion Judgment 
+9000 Lever to stop all flame images 
+10000 The lever where the bell bell rings 
+10010 Bell Mori_ Bell Net Reception 
+10020 Determination of lever use of bell guard_bell guard 
+11000 [Insect key] hidden door_dialog display 
+11010 [Insect key] hidden door _face SFX 
+11020 [Insect key] hidden door _navi mesh change 
+12000 Falling scaffolding 01_left back 
+12010 Falling Scaffolding 02_Right Back 
+12020 Falling scaffolding 03_right hand 
+12030 Falling scaffolding 04_left hand 
+13000 Attach a statue that spits flames in two directions 
+14000 Disable damage floor 
+15000 Boss: Molten Iron Demon Combat 
+15010 Boss: Molten Iron Daemon_ Poly Play 
+15020 Boss: Iron Daemon_ Initial Placement Change 
+16000 Connection flag ON 
+17000 Bridge navigation changes destroyed by enemies 
+19000 Guillotine Door 
+20000 Terminating fire_molten iron 
+23000 Navi mesh change of hidden door 1 
+23010 Hidden Door Navi Mesh Change 2 
+24000 Navi mesh change by barista destruction 
+60000 Pledge: Bell Guard_ Contribution UP 
+60010 Pledge: The sensitivity of the UP_ intruder generation judgment 
+80000 Play ing seed fire 01_ boss demon knight after one-way door room 
+81000 Stairs heading under the regeneration seed fire 02_entrance bridge 
+82000 Regenerate distoonal spark 03_ giant cow statue head 
+82010 Shop Lineup Expansion_Molten Iron Daemon 
+83000 Regenerated spark 04_depression in front of bell guard area 
+90000 Trophy_ Molten Iron Light 
+111276 OBJ: Female Knight: White Phantom Sign Display 
+111277 OBJ: Female Knight: White Phantom 
+111280 NPC: Bell Guard: Vain 
+111281 NPC: Bell Guard: Vain: Ghost 
+111282 OBJ: Bell Guard: Vain: Tomb 
+111283 OBJ: Bell Guard: Vain: Key Guide 
+111284 OBJ: Bell Guard: Vain: Black Phantom Appearance: Offline 
+111440 NPC: A curiosity shop 
+111441 NPC: Curiosity: Ghost 
+111442 OBJ: Curiosity: Tomb 
+111443 OBJ: Curiosity: Key Guide 
+111444 OBJ: Curiosity: Shop List 
+120050 Trophy: Bell Pledge (Molten Castle) 
+120060 Trophies: Old Pledges 

@@ -1,0 +1,420 @@
+0 Test 
+10 Balance adjustment armor: head 
+14 Balance adjustment armor: foot 
+9800 Cross-test (on slope) 
+991800 9918 [Magic Soldier Destruction Test] Head 
+991801 9918 [Magic Soldier Destruction Test] Chest 
+991802 9918 [Magic Soldier Destruction Test] Arms 
+991803 9918 [Magic Soldier Destruction Test] Feet 
+11001100 1001 [Body], Head 
+11001101 1001 [Body], chest 
+11001102 1001 [Body], Arm 
+11001103 1001 [Body], foot 
+11002100 1002 [Dummy Body] Head 
+11002101 1002 [Dummy Body] Chest 
+11002102 1002 [Dummy Body], Arm 
+11002103 1002 [Dummy Body], Foot 
+11010100 1010 [Lightweight Warrior] Head 
+11010101 1010 [Lightweight Warrior] Chest 
+11010102 1010 [Lightweight Warrior] Arm 
+11010103 1010 [Lightweight Warrior] Feet 
+11020100 1020 [Thief] Head 
+11020101 1020 [Thief] Chest 
+11020102 1020 [Thief] Arm 
+11020103 1020 [Thief] Foot 
+11030100 1030 [Wanderer] Head 
+11030101 1030 [Wanderer], Chest 
+11030102 1030 [Wanderer], Arm 
+11030103 1030 [Vagabond] feet 
+11040100 1040 [Hunter] Head 
+11040101 1040 [Hunter] Chest 
+11040102 1040 [Hunter] 
+11040103 1040 [Hunter] Feet 
+11041100 1041 [Hunter (2)】Head 
+11050100 1050 [Soldier] Head 
+11050101 1050 [Soldier] Chest 
+11050102 1050 [Soldier] Arm 
+11050103 1050 [Soldier] Foot 
+11060100 1060 [Magic Soldier] Head 
+11060101 1060 [Magic Soldier] Chest 
+11060102 1060 [Magic Soldier] Arms 
+11060103 1060 [Magic Soldier] Feet 
+11070100 1070 [Sorcerer] Head 
+11070101 1070 [Sorcerer] Chest 
+11070102 1070 [Sorcerer], Arm 
+11070103 1070 [Sorcerer] Feet 
+11080100 1080 [Bandits] Head 
+11080101 1080 [Bandits] Chest 
+11080102 1080 [Bandits] Arms 
+11080103 1080 [Bandits] Feet 
+11100100 1100 [Traveler's Clothing] head 
+11100101 1100 [Traveler's Clothing] chest 
+11100102 1100 [Traveler's Clothing] and Arms 
+11100103 1100 [Traveler's Clothes] and Feet 
+11140100 1140 [Item Master] Head 
+11140101 1140 [Item Master] Chest 
+11140102 1140 [Item master], arm 
+11140103 1140 [Item Master] Foot 
+11160100 1160 [Heavy Warrior] Head 
+11160101 1160 [Heavy Warrior] Chest 
+11160102 1160 [Heavy Warrior] Arm 
+11160103 1160 [Heavy Warrior] Feet 
+11210100 1210 [Clown] head 
+11210101 1210 [Clown] chest 
+11210102 1210 [Clown] arms 
+11210103 1210 [Clown] foot 
+11230100 1230 (in creation) [Astrologer] head 
+11230101 1230 (in creation) [Astrologer] chest 
+11230102 1230 (in creation) [Astrologer] 
+11230103 1230 (in creation) [Astrologer] feet 
+11320100 1320 (in creation) [Leader] head 
+11320101 1320 (in creation) [Leader] Chest 
+11320102 1320 (in creation) [Leader] 
+11320103 1320 (in creation) [Leader] 
+11330100 1330 (under creation) [Armor of the Old Dragon] head 
+11330101 1330 (under creation) [Old Dragon Armor] chest 
+11330102 1330 (under creation) [Old Dragon Armor] and Arms 
+11330103 1330 (under creation) [Old Dragon Armor] and Feet 
+11340100 1340 [Yellow robe] head 
+11340101 1340 [Yellow robe] chest 
+11340102 1340 [Yellow robe] and arms 
+11340103 1340 [Yellow robe] and foot 
+11350100 1350 [Priest of the escape] head 
+11350101 1350 [Priest of the escape] chest 
+11350102 1350 [Priest of the escape] and arm 
+11350103 1350 [Priest of the escape] and foot 
+11360100 1360 [Transparent armor] head 
+11360101 1360 [Transparent armor] chest 
+11360102 1360 [Transparent Armor] 
+11360103 1360 [Transparent armor] and feet 
+11361100 1361 [Transparent armor_ opaque] head 
+11361101 1361 [Transparent armor_ opaque] chest 
+11361102 1361 [Transparent armor_ opaque] 
+11361103 1361 [Transparent armor_ opaque] and feet 
+11370100 1370 [Painting Defense] head 
+11370101 1370 [Painting Defense] Chest 
+11370102 1370 [Painting Guard] 
+11370103 1370 [Painting Guard] and Foot 
+11380103 1380 [NPC only: Sealer] and feet 
+11390100 1390 [Dirt] head 
+11390101 1390 [Dirt] chest 
+11390102 1390 [Dirt] and arm 
+11390103 1390 [Dirt] and feet 
+11430100 1430 (Under creation) [Sniper Head] Head 
+11440102 1440 (In Creation) [Lucky Gauntlet] Arm 
+11450101 1450 (under creation) [Barrel] chest 
+11460103 1460 (under creation) [Cat Boots] and Feet 
+11470100 1470 (under test) [Butterfly Armor] head 
+11470101 1470 (under test) [Butterfly Armor] chest 
+11470102 1470 (under test) [Butterfly Armor] and Arms 
+11470103 1470 (under test) [Butterfly Armor] and Feet 
+11480100 1480 [Catalina Warrior] Head 
+11480101 1480 [Catalina Warrior] Chest 
+11480102 1480 [Catalina Warrior] Arms 
+11480103 1480 [Catalina Warrior] Feet 
+11490100 1490 [Wandering Knight] Head 
+11490101 1490 [Wandering Knight] Chest 
+11490102 1490 [Wandering Knight] Arms 
+11490103 1490 [Wandering Knight] Foot 
+11500100 1500 [Witch] Head 
+11500101 1500 [Witch] Chest 
+11500102 1500 [Witch] Arms 
+11500103 1500 [Witch] Feet 
+11501100 1501 [Witch - Head Difference 1] Head 
+11502100 1502 [Witch - Head Difference 2] Head 
+12020100 2020 (in creation) [Kingdom soldier (deceased)], head 
+12020101 2020 (in creation) [Kingdom soldier (deceased)]chest 
+12020102 2020 (in creation) [Kingdom soldier (deceased)], arm 
+12020103 2020 (in creation) [Kingdom soldier (deceased)], foot 
+12021100 2021 [Kingdom Soldier (Living Man)], Head 
+12021101 2021 [Kingdom Soldier (Living)] Chest 
+12021102 2021 [Kingdom Soldier (Living Man)], Arm 
+12021103 2021 [Kingdom Soldier (Living)] 
+12030100 2030 (in creation) [lower class soldier (deceased)], head 
+12030101 2030 (in creation) [lower class soldier (deceased)], chest 
+12030102 2030 (in creation) [lower class soldier (deceased)], arm 
+12030103 2030 (in creation) [lower class soldier (dead)], feet 
+12031100 2031 (in creation) [Lower class soldier (raw) ] head 
+12031101 2031 (in creation) [lower class soldier (raw) ] chest 
+12031102 2031 (in creation) [lower class soldier (raw) ] 
+12031103 2031 (in creation) [lower class soldier (raw) ] 
+12060100 2060 [Dark Priest: Color (1)】 Head 
+12060101 2060 [Dark Priest: Color (1)】 Chest 
+12060102 2060 [Dark Priest: Color (1)】 Arms 
+12060103 2060 [Dark Priest: Color (1)】 Feet 
+12062100 2062 [Dark Priest: Color (3): Head B], Head 
+12062101 2062 [Dark Priest: Color (3): Head B], Chest 
+12062102 2062 [Dark Priest: Color (3): Head B], Arm 
+12062103 2062 [Dark Priest: Color (3): Head B], Foot 
+12080100 2080 [Rogue] Head 
+12080101 2080 [Rogue] Chest 
+12080102 2080 [Rogue] Arms 
+12080103 2080 [Rogue] Feet 
+12110100 2110 (Under creation) [Bandit] Head 
+12110101 2110 (under creation) [Bandit] Chest 
+12110102 2110 (Under creation) [Bandit] Arm 
+12110103 2110 (Making) [Bandit] Foot 
+12130100 2130 [Sailor], head 
+12130101 2130 [Sailor], chest 
+12130102 2130 [Sailor], arm 
+12130103 2130 [Sailor], foot 
+12180100 2180 [Dark Wizard (deceased): Color (1)】 Head 
+12180101 2180 [Dark Wizard (deceased): Color (1)) ] Chest 
+12182100 2182 [Dark Wizard (deceased): Color (3)) 
+12182101 2182 [Dark Wizard (deceased): Color (3)) 
+12190101 2190 [Lion Black Mage] / Chest 
+12190102 2190 [Lion Black Mage] 
+12190103 2190 [Lion Black Mage] and Feet 
+12220100 2220 Knight of Bernice, Head 
+12220101 2220 Knight of Bernice, Chest 
+12220102 2220 Knight of Bernice, Arm 
+12220103 2220 Knight of Bernice, Foot 
+12230100 2230 (under creation) [shadow of deformed] head 
+12230101 2230 (under creation) [shadow of deformed] chest 
+12230102 2230 (under creation) [shadow of deformed] and arms 
+12230103 2230 (under creation) [shadow of deformed] and foot 
+12240100 2240 [Assassin] head 
+12240101 2240 [Assassin] Chest 
+12240102 2240 [Assassin] arm 
+12240103 2240 [Assassin] foot 
+12270100 2270 (in creation) [Immortal worker] head 
+12270101 2270 (in creation) [Immortal worker] chest 
+12270102 2270 (in creation) [Immortal worker] 
+12270103 2270 (in creation) [Immortal worker] and feet 
+12271100 2271 (in creation) [Immortal Worker (2)) head 
+12271101 2271 (in creation) [Immortal Worker (2)) 
+12310100 2310 (creating) [Cleric (deceased)], head 
+12310101 2310 (creating) [Cleric (deceased)], chest 
+12310102 2310 (creating) [Cleric (deceased)], arm 
+12310103 2310 (creating) [Cleric (deceased)], foot 
+12340100 2340 (in creation) [Dwarf (dead)], head 
+12340101 2340 (in creation) [Dwarf (deceased)], chest 
+12340102 2340 (in creation) [Dwarf (dead)], arm 
+12340103 2340 (in creation) [Dwarf], foot 
+12350100 2350 (under creation) [Heavy Dwarf (Deceased)], Head 
+12350101 2350 (under creation) [Heavy Dwarf (Deceased)]Chest 
+12350102 2350 (under creation) [Heavy Dwarf (Dead)], Arm 
+12350103 2350 (under creation) [Heavy Dwarf (Dead)], Feet 
+12351100 2351 (under creation) [Heavy dwarf (deceased): Head B: Helmet)】 Head 
+12360100 2360 [Dark Reis] head 
+12360101 2360 [Dark Wraith] chest 
+12360102 2360 [Dark Reis] arm 
+12360103 2360 [Dark Reis] Feet 
+12370100 2370 (under creation) [Necromancer (Immortal)) 
+12460100 2460 (In creation [deceased: ♂ clothes of the wealthy] head 
+12460101 2460 (In creation [deceased: clothes of the wealthy ♂] and chest 
+12460102 2460 (In creation [deceased: clothes of the wealthy ♂] and arms 
+12460103 2460 (In creation [deceased: clothes of the wealthy ♂] and feet 
+12480100 2480 (In creation [Dead: Farmer's Clothing ♂] head 
+12480101 2480 (In creation [deceased: farmer's clothes♂] chest 
+12480102 2480 (In creation [deceased: farmer's clothes ♂] and arms 
+12480103 2480 (In creation [Dead: Farmer's Clothing ♂] and Feet 
+12510100 2510 (in creation) [Kingdom heavy soldier (deceased): color (1)) head 
+12510101 2510 (in creation) [Kingdom heavy soldier (deceased): color (1)) chest 
+12510102 2510 (in creation) [Kingdom Heavy Soldier (deceased): Color (1)) 
+12510103 2510 (in creation) [Kingdom heavy soldier (deceased): color (1)) 
+12512100 2512 (in creation) [Kingdom Heavy Soldier (deceased): Color (3)) head 
+12512101 2512 (in creation) [Kingdom Heavy Soldier (deceased): Color (3)) / Chest 
+12512102 2512 (in creation) [Kingdom Heavy Soldier (deceased): Color (3)) 
+12512103 2512 (in creation) [Kingdom heavy soldier (deceased): color (3)) 
+12520100 2520 (in creation) [Kingdom Warrior] Head 
+12520101 2520 (in creation) [Kingdom Warrior] Chest 
+12520102 2520 (in creation) [Kingdom Warrior] 
+12520103 2520 (in creation) [Kingdom Warrior] foot 
+12530100 2530 (in creation) [Kingdom Escort] head 
+12530101 2530 (in creation) [Kingdom Escort] chest 
+12530102 2530 (in creation) [Kingdom Escort] 
+12530103 2530 (in creation) [Kingdom Escort] 
+12540100 2540 (in creation) [skeleton aristocracy] head 
+12540101 2540 (in creation) [skeleton aristocracy] chest 
+12540102 2540 (in creation) [skeleton aristocracy] arms 
+12540103 2540 (in creation) [skeleton aristocracy] feet 
+13010100 3010 (in creation) [Wandering Knight (dead person): Head A] head 
+13010101 3010 (in creation) [Wandering Knight (dead person): Head A] chest 
+13010102 3010 (in creation) [Wandering Knight (dead person): Head A) 
+13010103 3010 (in creation) [Wandering Knight (dead person): Head A) and feet 
+13011100 3011 (in creation) [Wandering Knight (deceased): Head B)/Head 
+13040101 3040 (under creation) [Banshee (deceased): Color (1)) chest 
+13050100 3050 [Demon Knight] Head 
+13050101 3050 [Demon Knight] Chest 
+13050102 3050 [Demon Knight] Arm 
+13050103 3050 [Demon Knight] Feet 
+13060100 3060 [Demon Armor: Captain] Head 
+13060101 3060 [Demon Armor: Captain] Chest 
+13060102 3060 [Demon Armor: Captain] Arms 
+13060103 3060 [Demon Armor: Captain] Feet 
+13061100 3061 [Daemon Armor: Mass Production Type] Head 
+13061101 3061 [Daemon Armor: Mass Production] Chest 
+13061102 3061 [Daemon Armor: Mass Production] 
+13061103 3061 [Daemon Armor: Mass Production Type] Feet 
+13070100 3070 [Durahan (deceased)], head 
+13070101 3070 [Durahan (deceased)], chest 
+13070102 3070 [Durahan (deceased)], arm 
+13070103 3070 [Durahan (deceased)], foot 
+13080101 3080 (Making) [Lion Warrior] Chest 
+13080102 3080 (Making) [Lion Warrior] 
+13080103 3080 (Making) [Lion Warrior] Feet 
+13081100 3081 (Making) [Lion Warrior Color (2)) Head 
+13081101 3081 (making) [Lion Warrior Color (2)) Chest 
+13081103 3081 (Making) [Lion Warrior Color (2)) Feet 
+13120100 3120 (under creation) [Immortal Senior Soldier (Immortal)] head 
+13120101 3120 (under creation) [Immortal Advanced Soldier (Immortal)] 
+13120102 3120 (under creation) [Immortal Senior Soldier (Immortal)] 
+13120103 3120 (under creation) [Immortal Senior Soldier (Immortal)], Foot 
+13130100 3130 (under creation) [Falcon Warrior] Head 
+13130101 3130 (under creation) [Falcon Warrior] Chest 
+13130102 3130 (under creation) [Falcon Warrior] 
+13130103 3130 (under creation) [Falcon Warrior] 
+13140100 3140 (in creation) [Elephant (deceased)], head 
+13140101 3140 (in creation) [Elephant (deceased)], chest 
+13140102 3140 (in creation) [Elephant (deceased)], arm 
+13140103 3140 (in creation) [Elephant (deceased)], foot 
+13150100 3150 (in creation) [Elephant (born)】 Head 
+13150101 3150 (in creation) [Elephant (born)] chest 
+13150102 3150 (in creation) [Elephant (live man)], arm 
+13150103 3150 (in creation) [Elephant (live man)], foot 
+13160100 3160 (in creation) [Captured Mage] head 
+13160101 3160 (in creation) [Captured Mage] chest 
+13160102 3160 (in creation) [Captured Mage] 
+13160103 3160 (in creation) [Captured Mage] feet 
+13170100 3170 (In creation) [Professor of dragon] head 
+13170101 3170 (in creation) [Professor of dragon] chest 
+13170102 3170 (In creation) [Professor of dragon] and arm 
+13170103 3170 (in creation) [Professor of dragon] and foot 
+13171100 3171 (Creating) [Researcher of The Dragon] Head 
+13250100 3250 (Creating) [Warrior in the Mirror] Head 
+13250101 3250 (In creation) [Warrior in the Mirror] Chest 
+13250102 3250 (In creation) [Warrior in the Mirror] Arms 
+13250103 3250 (Making) [Warrior in the Mirror] Feet 
+13300100 3300 (creating) [Ancient Warrior] Head 
+13300101 3300 (creating) [Ancient Warrior] Chest 
+13300102 3300 (creating) [Ancient Warrior] arm 
+13300103 3300 (creating) [Ancient Warrior] feet 
+13310100 3310 (under creation) [Demon Heavy Soldier] Head 
+13310101 3310 (under creation) [Demon Heavy Soldier] Chest 
+13310102 3310 (under creation) [Demon Heavy Soldier] arms 
+13310103 3310 (under creation) [Demon Heavy Soldier] feet 
+13320100 3320 (in creation) [Queen Knight A] Head 
+13320101 3320 (in creation) [Queen Knight A] Chest 
+13320102 3320 (in creation) [Queen Knight A] arms 
+13320103 3320 (in creation) [Queen Knight A] Feet 
+13330100 3330 (In creation) [Queen Knight B] Head 
+13330101 3330 (in creation) [Queen Knight B] chest 
+13330102 3330 (in creation) [Queen Knight B] arms 
+13330103 3330 (in creation) [Queen Knight B] feet 
+13340100 3340 (in creation) [Queen Knight C] head 
+13340101 3340 (in creation) [Queen Knight C] chest 
+13340102 3340 (in creation) [Queen Knight C] arms 
+13340103 3340 (in creation) [Queen Knight C] feet 
+15040100 5040 [Mirror Night] Head 
+15040101 5040 [Mirror Night] Chest 
+15040102 5040 [Mirror Night] Arm 
+15040103 5040 [Mirror Night] Feet 
+15060101 5060 (in creation) [Agaduran] chest 
+15060102 5060 (under creation) [Agaduran] arms 
+15060103 5060 (under creation) [Agaduran] foot 
+15090100 5090 (under creation) [Dark Bishop] Head 
+15090101 5090 (under creation) [Dark Bishop] Chest 
+15100100 5100 (in creation) [Phantom Priest (Spirit)] head 
+15100101 5100 (in creation) [Phantom Priest (Spirit)] chest 
+15100102 5100 (in creation) [Phantom Priest (Spirit) ] 
+15100103 5100 (in creation) [Phantom Priest (Spirit)] feet 
+15110100 5110 [Phantom Knight (Spirit)] head 
+15110101 5110 [Phantom Knight (Spirit)] chest 
+15110102 5110 [Phantom Knight (Spirit)] 
+15110103 5110 [Phantom Knight (Spirit)] and Feet 
+15120100 5120 [Phantom Mage (Spirit)] head 
+15120101 5120 [Phantom Mage (Spirit)] chest 
+15120102 5120 [Phantom Mage (Spirit)] 
+15130100 5130 [King Van Gratt (past)], head 
+15130101 5130 [King Van Gratt (past)], Chest 
+15130102 5130 [King Van Gratt (past)], arm 
+15130103 5130 [King Van Gratt (past)], Foot 
+16100100 6100 (under creation) [Heavy Cavalry: Heavy Knight (Born)] Head 
+16100101 6100 (under creation) [Heavy Cavalry: Heavy Knight (Born)] Chest 
+16100102 6100 (under creation) [Heavy Cavalry: Heavy Knight (Born)] 
+16100103 6100 (under creation) [Heavy Cavalry: Heavy Knight (Living) ] 
+16180100 6180 (Under creation) [Silver Chariot] head 
+16180101 6180 (under creation) [Silver Chariot] chest 
+16180102 6180 (under creation) [Silver Chariot] 
+16180103 6180 (Under creation) [Silver Chariot] Foot 
+16260100 6260 (in creation) [Forgotten Sinner] head 
+16260101 6260 (in creation) [Forgotten Sinner] / Chest 
+16260102 6260 (in creation) [Forgotten Sinner] 
+16260103 6260 (in creation) [Forgotten Sinner] feet 
+17210101 7210 [Kingdom Army Master (past)], Chest 
+17210102 7210 [Kingdom Army Master (past)], arm 
+17210103 7210 [Kingdom Army Master (past)], Foot 
+17240100 7240 (in creation) [SS Captain] Head 
+17240101 7240 (in creation) [SS Captain] Chest 
+17240102 7240 (in creation) [SS Captain] 
+17240103 7240 (in creation) [SS Captain] Feet 
+17420100 7420 (in creation) [Warrior of revenge] head 
+17420101 7420 (in creation) [Warrior of revenge] chest 
+17420102 7420 (making) [Warrior of revenge] 
+17420103 7420 (making) [Warrior of revenge] and feet 
+17430100 7430 (Making) [Father of the Warrior of Avenge] head 
+17430101 7430 (Making) [Father of the Warrior of Avenge] Chest 
+17430102 7430 (Making) [Father of the Warrior of Avenge] 
+17430103 7430 (Making) [Father of the Warrior of Avenge] Feet 
+17440100 7440 (under creation) [Patch (modern)] head 
+17440101 7440 (under creation) [Patch (modern)] chest 
+17440102 7440 (under creation) [Patch (modern)] 
+17440103 7440 (under creation) [Patch (modern)] and feet 
+17510100 7510 (making) [brother looking for a sister] head 
+17510101 7510 (making) [brother looking for a sister] chest 
+17510103 7510 (making) [brother looking for a sister] foot 
+17520100 7520 (in creation) [Sea Solar] head 
+17520101 7520 (in creation) [Sea Solar] chest 
+17520102 7520 (in creation) [Sea Solar] 
+17520103 7520 (in creation) [Sea Solar] feet 
+17530100 7530 (Under creation) [Sancho] head 
+17530101 7530 (under creation) [Sancho] chest 
+17530102 7530 (under creation) [Sancho] 
+17530103 7530 (Making) [Sancho] Foot 
+17550100 7550 (creating) [Stalker Warrior] Head 
+17550101 7550 (in creation) [Stalker Warrior] Chest 
+17550102 7550 (in creation) [Stalker Warrior] 
+17550103 7550 (creating) [Stalker Warrior] Feet 
+17630100 7630 [NPC Bookstore], Head 
+17630101 7630 [NPC Bookstore]/Chest 
+17630102 7630 [NPC Bookstore], Arm 
+17630103 7630 [NPC Bookstore], Foot 
+17680100 7680 [Spell Four Tenno (Magic)], Head 
+17680101 7680 [Spell Four Tenno (Magic)], Chest 
+17680102 7680 [Spell Four Tenno (Magic)], Arm 
+17680103 7680 [Spell Four Tenno (Magic)], Foot 
+17690100 7690 (in creation) [Spell Four Tenno (Miracle)], Head 
+17690101 7690 (in creation) [Spell Four Tenno (Miracle)]Chest 
+17690102 7690 (in creation) [Spell Four Tenno (Miracle)], Arm 
+17690103 7690 (in creation) [Spell Four Tenno (Miracle)], Foot 
+17700100 7700 [Dark Art Shop ※ Change to Sorcerer's Shop] Head 
+17700101 7700 [Dark Art Shop ※ Change to Sorcerer's Shop] Chest 
+17700102 7700 [Dark Art Shop ※ Change to sorcerer], arm 
+17700103 7700 [Dark Art Shop ※ Change to Sorcerer's Shop] 
+17710100 7710 [Sorcerer 's Shop * Change to Dark Art Shop] Head 
+17710101 7710 [Sorcerer 's Shop * Change to Dark Art Shop] Chest 
+17710102 7710 [Sorcerer 's Shop * Change to Dark Art Shop] 
+17710103 7710 [Sorcerer 's Shop * Change to Dark Art Shop] 
+17830100 7830 [Black Phantom Shop] head 
+17830101 7830 [Black Phantom Shop] chest 
+17950100 7950 (in creation) [With The Holy Woman] head 
+17950101 7950 (in creation) [With The Holy Woman] chest 
+17950102 7950 (in creation) [With The Holy Woman] arms 
+17950103 7950 (in creation) [With The Holy Woman] and Feet 
+19000100 9000 (creating) [Phantom - Naked] head 
+19000101 9000 (creating) [Phantom - Naked] / Chest 
+19000102 9000 (creating) [Phantom - Naked] arms 
+19000103 9000 (creating) [Phantom - Naked] feet 
+19010100 9010 (creating) [Phantom - Clothes] head 
+19010101 9010 (creating) [Phantom - Clothes] / Chest 
+19010102 9010 (creating) [Phantom - Clothes] and arms 
+19010103 9010 (creating) [Phantom - Clothes] and Feet 
+19020100 9020 (under creation) [Phantom - Light Clothing] head 
+19020101 9020 (under creation) [Phantom - Light Clothing] / Chest 
+19020102 9020 (under creation) [Phantom - Light Clothing] 
+19020103 9020 (under creation) [Phantom - Light Clothing] and Feet 
+19030100 9030 (under creation) [Phantom - Heavy Wear] head 
+19030101 9030 (under creation) [Phantom - Heavy Wear] chest 
+19030102 9030 (under creation) [Phantom - Heavy Equipment] 
+19030103 9030 (under creation) [Phantom - Heavy Equipment] and Feet 

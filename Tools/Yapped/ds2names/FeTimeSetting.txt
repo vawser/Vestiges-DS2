@@ -1,0 +1,11 @@
+1 《FE SEMI switching time》 
+2 《FE HIDE switching time》 
+3 《Item Retrieval Window Closing Time》 
+4 《Blood character window closing time》 
+5 "FE Seoul Increase and Decrease Rate" 
+6 《Enemy HP Close Time》 
+7 《Blood character window closing time》 
+8 "Multiplayer Notification Minimum Display Time" 
+9 "Multiplayer Notification Normal Display Time" 
+10 "Multiplayer Notification Flashing Interval" 
+11 《Event message display time》 

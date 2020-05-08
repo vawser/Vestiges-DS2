@@ -1,0 +1,25 @@
+10000060 【ゴブリン(生者):素手:ソウルブラック】ジャンプ 
+10100000 [Kobold: Bare Hands] Grass Sagasa 
+11500000 【Tutorial】Traveler: Bare Hands 
+11500001 【Tutorial】Traveler: Dagger 
+30000000 【Auga】Battle: Predatory Sound Reaction 
+30000001 【Auga】Battle: Normal 
+31300000 【Falcon Warrior】 
+31300001 【Falcon Warrior】2 
+70500000 [Fire protection woman 1 of the retirement] Npc 
+70500001 [Fire protection woman 1 of the retirement] NPC (Ghost) 
+70500002 [Fire protection woman 1 of the retirement] NPC: Cut Scene 
+70510000 [Fire protection woman 2 of the retirement] Npc 
+70510001 [Fire protection woman 2 of the retirement] NPC (Ghost) 
+70510002 [Fire protection woman 2 of the retirement] NPC: Cut Scene 
+70530000 [Fire protection woman 3 of the retirement] Npc 
+70530001 [Fire protection woman 3 of the retirement] NPC (Ghost) 
+70530002 [Fire protection woman 3 of the retirement] NPC: Cut Scene 
+72300000 【Housekeeper】 Npc 
+72300001 【Housekeeper】 NPC (Ghost) 
+72300002 【Housekeeper】 NPC: Cut Scene 
+78600000 [Glitter Daughter] Npc 
+80500000 [Player] Cut scene 
+83700000 【NPC Red Spirit】Second Lap Hunting 
+83710001 【Tutorial】 NPC: Gap Sinus: Proximity 
+83720000 【Tutorial】 NPC: Gap Sinus: Shooting 

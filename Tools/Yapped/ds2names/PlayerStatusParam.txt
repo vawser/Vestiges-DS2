@@ -1,0 +1,18 @@
+10 10: Early Characters 
+20 20: Nature - Warrior 
+30 30: Nature - Knight 
+50 50: Nature - Barbarian 
+70 70: Nature - Priest 
+80 80: Nature - Magician 
+90 90: Nature - Explorer 
+100 100: Nature - Swordsman 
+110 110: Nature - What You Have 
+500 500: None 
+510 510: Ring of Life 
+520 520: Statue of man 
+530 530: Healing Items 
+540 540: Returnbone fragments 
+550 550: Giant Tree Seeds 
+560 560: The Spark of The Bitter 
+570 570: Egg Fossils 
+999999999 Unauthorized data (prohibited) 

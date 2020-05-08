@@ -1,0 +1,2551 @@
+1 【Calculated Value Test】 
+2 【Calculated Value Test】 
+3 【Calculated Value Test】 
+400 General-purpose - Tossing - Baxta - Minimal - Hit target 
+410 General-purpose - Tossing - Baxta - Minimal - Hit not eligible 
+420 General-purpose - Tossing - Baxta - Medium - Hit target 
+430 General-purpose - Tossing - Baxta - Medium - Hit not eligible 
+440 General-purpose - Tossing - Baxta - Oversized - Hit on target 
+450 General-purpose - Tossing - Baxta - Oversized - Hit not eligible 
+490 General-purpose-throwing-directing-cutting-small 
+491 General-purpose - Throwing - Kicking - Small 
+500 General-purpose -Collision - Ground 
+510 General -Collision- Airborne 
+600 General-purpose-wind-very small 
+601 General-purpose-wind-small 
+602 General-purpose-wind-middle 
+603 General-purpose-wind-large 
+610 General-purpose-wind-oversized 
+611 General-purpose-wind-oversized 
+612 General-purpose-wind-special-purpose 
+700 General-purpose-throwing camera vibration-medium-sized-dagger system 
+710 General-purpose-throwing camera vibration-medium-handed-two-handed axe system 
+720 General-purpose-throwing camera vibration-medium-handed oversized sword system 
+800 General-purpose-throwing camera vibration-large-dagger system 
+810 General-purpose-throwing camera vibration-large-handed-two-handed axe system 
+820 General-purpose-throwing camera vibration-large-handed oversized sword system 
+900 General-purpose -Vibration-Swaying-Small 
+910 General-purpose -Vibration-Swaying-Medium 
+920 General-purpose - Vibration - Swaying - Large 
+930 General-purpose -Vibration-Vertical Shaking-Small 
+931 General-purpose - Vibration - Vertical Shaking - Small (Assault Spear) 
+940 General-purpose -Vibration-Vertical Shaking-Medium 
+941 General Purpose - Vibration - Vertical Shaking - Medium (Assault Spear) 
+950 General-purpose -Vibration-Vertical Shaking-Large 
+951 General Purpose - Vibration - Vertical Shaking - Large (Assault Spear) 
+960 General-purpose -Vibration- Up, Bottom, Left, Right - Large 
+1000 General-purpose-guard break 
+1400 General-purpose - Tossing - Guard Break Stub - Minimal - Hit on target 
+1420 General-purpose - Tossing - Guard Break Stub - Medium - Hit on target 
+1440 General-purpose - Tossing - Guard Break Stub - Oversized - Hit on target 
+2000 General-purpose- directing For SFX playback 
+2400 General -Pari-Break Stub-Kick-Minis 
+2420 Generic - Pariei Break Stub - Kicking - Medium 
+2440 General - Paribreak Stub - Kick - Oversized 
+5010 General -Stun 
+6010 General-purpose-equipment destruction 
+7010 General-purpose-equipment destruction 
+8010 General-purpose-throwing break 
+9000 Abnormal state - reduced effect time 
+9010 Poison 
+9020 Bleeding 
+9030 Weapon Destruction 
+9050 Combustion 
+9051 Combustion - Start 
+9060 Toxic 
+9070 Oil-soaked explosion 
+9090 Poison wet 
+10010 Ladder - Top Attack R1 Button - Weak - Right 
+10011 Ladder - Top Attack R1 Button - Weak - Left 
+10012 Ladder - Top Attack R1 Button - Weak - Right (vs. OBJ) 
+10013 Ladder - Top Attack R1 Button - Weak - Left (vs. OBJ) 
+10020 Ladder - Lower Attack R2 Button - Strong - Right 
+10021 Ladder - Lower Attack R2 Button - Strong - Left 
+10022 Ladder - Lower Attack R2 Button - Strong - Right (vs. OBJ) 
+10023 Ladder - Lower Attack R2 Button - Strong - Left (vs. OBJ) 
+10030 Ladder - Top Attack L1 Button - Weak - Right 
+10031 Ladder - Top Attack L1 Button - Weak - Left 
+10032 Ladder - Top Attack L1 Button - Weak - Right (vs. OBJ) 
+10033 Ladder - Top Attack L1 Button - Weak - Left (vs. OBJ) 
+10040 Ladder - Lower Attack L2 Button - Strong - Right 
+10041 Ladder - Lower Attack L2 Button - Strong - Left 
+10042 Ladder - Lower Attack L2 Button - Strong - Right (vs. OBJ) 
+10043 Ladder - Lower Attack L2 Button - Strong - Left (vs. OBJ) 
+10050 Ladder - Downhill Collision (Special Effects) 
+10060 Ladder - Climb end collision 
+10061 Ladder - Climb end collision (vs. OBJ) 
+10070 Ladder - Sliding collision (damage) 
+10071 Ladder - Downhill Collision (OBJ Damage) 
+11010 Per Rolling Body - Torch 
+12010 When Oil Wet - Magic Explosion 
+50000 Landing Confirmation - Small 
+50001 Landing confirmation - medium 
+50002 Landing Confirmation - Large 
+50003 Landing confirmation - oversized 
+50004 Landing confirmation - extra large 
+1720000 1720: Blade of Chaos: Self-inflicted damage 
+1960000 1960: Queen Knight A: Sword of Light 
+1960010 1960: Queen Knight A: Sword of Light: For Endurance Wear and Tear 
+1970000 1970: Queen Knight C: Sword of Light in the Dark Moon 
+1970010 1970: Queen Knight C: Sword of Light in the Dark Moon: For Endurance Wear and Tear 
+1980000 6000: Torch: Fire Damage 
+1990000 2890: Evangelist's Trigeminal Spear: Power-up 
+1990010 2890: Evangelist's Trigeminal Spear: Power-up (Effect) 
+3660000 3660: Old Whip: Additional Damage to the Dead (Section 1) 
+3660001 3660: Old Whip: Additional Damage to the Dead (Verse 2) 
+3660002 3660: Old Whip: Additional Damage to the Dead (Verse 3) 
+5295000 5295: Sinner's Sword: Self-inflicted damage 
+10000000 fist_one hand proximity_weak one 
+10000300 Fist_One Hand Proximity_Weak 2 
+10000400 Fist_One Hand Proximity_Weak 2_Barier 01 
+10000500 Fist_One Hand Proximity_Strong 1 
+10000510 Fist_One Hand Proximity_Strong 1_02 
+10000520 Fist_One Hand Proximity_Strong 1_03 
+10000800 Fist_One Hand Dash 
+10001000 Fist_One Hand Rolling 
+10001100 Fist_One-handed guard breaking 
+10001200 Fist_One-handed jump 
+10001300 Fist_one-handed fall 
+10001400 Fist_One Hand Jump Fall 
+10001500 Fist_One-handed chase 
+10001600 Fist_One-handed parie 
+10001700 Fist_Both Hands Proximity_Weak 1 
+10001900 Fist_Both Hands Proximity_Weak 2 
+10002100 Fist_Both Hands Proximity_Strong 1 
+10002110 Fist_Both Hands Proximity_Strong 1_02 
+10002400 Fist_Hands Dash 
+10002500 Fist_Both Hands Rolling 
+10002600 Fist_Both-handed guard breaking 
+10003110 Fist_Two-sword style one hand proximity_weak 1_02 
+10003200 Fist_Two-sword style both hands proximity_weak one 
+10003300 Fist_Two-sword style both hands proximity_weak 2 
+10003400 Fist_Two-sword style both hands proximity_strong 1 
+10003600 Fist_Hands Guard 
+10003700 fist_ attack weak on the ladder 
+10003710 Fist_ Attack weak on ladder (strong bare hands) 
+10003800 fist_attack strong on the ladder 
+10003810 Fist_ Attack strong on ladder (strong bare hands) 
+10003900 Fist _ attack under the ladder weak 
+10003910 Fist _ Attack under the ladder weak (strong bare hands) 
+10004000 fist_attack strong under the ladder 
+10004001 bare hand_one hand proximity_weak one 
+10004004 Bare hand_one-handed proximity_weak 2 
+10004006 Bare hands_one-handed proximity_strong one 
+10004007 Bare hand_one-handed proximity_strong 2 
+10004009 Bare hand_one-handed dash 
+10004010 Fist_ Attack strong under ladder (strong bare hands) 
+10004011 bare hand_one-handed rolling 
+10004012 Bare hands_one-handed guard breaking 
+10004013 Bare hand_one-handed jump 
+10004014 bare hand_one hand fall 
+10004015 Bare hand_one-handed jump fall 
+10004016 Bare hands_one-handed chase 
+10004017 Bare hands_one-handed parie 
+10004018 bare hands_both hands proximity_weak one 
+10004020 Bare hands_both hands proximity_weak 2 
+10004022 Bare hands_both hands proximity_strong one 
+10004025 Bare hands_dash of both hands 
+10004026 bare hands_rolling hands 
+10004027 Bare hands_both-hands guard breaking 
+10004033 Bare hands_two-sword-style two-handed both-handed proximity_weak one 
+10004034 Bare hands_Two-sword style both hands proximity_weak 2 
+10004035 Bare hands_Two-sword style both hands proximity_strong 1 
+10004037 Bare hands_hands guard 
+10004100 Dagger_One Hand Proximity_ Weak 1 
+10004200 Dagger_One Hand Proximity_Weak 1_Barier 01 
+10004300 Dagger_One Hand Proximity_Weak 1 (Two-Sword Style) 
+10004310 Dagger_One Hand Proximity_Weak 1_02 
+10004320 Dagger_One Hand Proximity_Weak 1_Barier 01 (Two-Sword Style) 
+10004330 Dagger_One Hand Proximity_Weak 1_04 
+10004340 Dagger_One Hand Proximity_Weak 1_05 
+10004350 Dagger_One Hand Proximity_Weak 1_06 
+10004400 Dagger_One Hand Proximity_Weak 2 
+10004500 Dagger_One Hand Proximity_Weak 2_Barier 01 
+10004510 Dagger_One Hand Proximity_Weak 2_02 
+10004520 Dagger_One Hand Proximity_Weak 2_03 
+10004530 Dagger_One Hand Proximity_Weak 2_04 
+10004540 Dagger_One Hand Proximity_Weak 2_05 
+10004600 Dagger_One Hand Proximity_Strong 1 
+10004700 Dagger_One Hand Proximity_Strong 1_Barier 01 
+10004810 Dagger_One Hand Proximity_Strong 1_02 
+10004820 Dagger_One Hand Proximity_Strong 1_03 
+10004830 Dagger_One Hand Proximity_Strong 1_04 
+10004840 Dagger_One Hand Proximity_Strong 1_05 
+10004850 Dagger_One Hand Proximity_Strong 1_06 
+10004860 Dagger_One Hand Proximity_Strong 1_07 
+10004870 Dagger_One Hand Proximity_Strong 1_08 
+10004900 Dagger_ One Hand Dash 
+10005000 Dagger_One Hand Rolling 
+10005010 Dagger_One Hand Rolling_02 
+10005100 Dagger_ One-handed guard breaking 
+10005200 Dagger_ One Hand Jump 
+10005300 Dagger_ one hand fall 
+10005400 Dagger_ One Hand Jump Fall 
+10005500 Dagger_One Hand Proximity_Weak 1_02 (Two-Sword Style) 
+10005600 Dagger_One Hand Pari 
+10005700 Dagger_Both Hands Proximity_ Weak 1 
+10005710 Dagger_Both Hands Proximity_Weak 1_02 
+10005720 Dagger_Both Hands Proximity_Weak 1_03 
+10005730 Dagger_Both Hands Proximity_Weak 1_04 
+10005800 Dagger_Both Hands Proximity_Weak 1_Barier 01 
+10005900 Dagger_Both Hands Proximity_Weak 2 
+10005910 Dagger_Both Hands Proximity_Weak 2_02 
+10005920 Dagger_Both Hands Proximity_Weak 2_03 
+10005930 Dagger_Both Hands Proximity_Weak 2_04 
+10006000 Dagger_Both Hands Proximity_Weak 2_Barier 01 
+10006100 Dagger_Both Hands Proximity_Strong 1 
+10006110 Dagger_Two-Handed Proximity_Strong_02 
+10006120 Dagger_Two-Handed Proximity_Strong_03 
+10006130 Dagger_Two-Handed Proximity_Strong_04 
+10006140 Dagger_Two-Handed Proximity_Strong_05 
+10006200 Dagger_Two-Handed Proximity_Strong 1_Barier 01 
+10006400 Dagger_ Two-Handed Dash 
+10006500 Dagger_Rolling Hands 
+10006510 Dagger_Both Hands Rolling_02 
+10006600 Dagger_Both-handed guard breaking 
+10007200 Dagger_Two-sword style both hands proximity_ weak one 
+10007210 Dagger_Two-sword style two-handed both-handed proximity_weak 1_02 
+10007300 Dagger_Two-sword style both hands proximity_weak 2 
+10007310 Dagger_Two-sword style two-handed both-handed proximity_weak 2_02 
+10007400 Dagger_Two-sword style both hands proximity_strong 1 
+10007410 Dagger_Two-sword style two-handed both-handed proximity_strong_02 
+10007500 Dagger_Hands Guard 
+10007600 Sting sword_one hand proximity_weak one 
+10007710 Sting sword_one hand proximity_weak 1_ shield tick weak one 
+10007711 Sting sword_one hand proximity_weak 1_ shield tick weak 2 
+10007712 Direct sword_one-handed proximity_weak 1_02 (two-sword style) 
+10007713 Curved Sword_One Hand Proximity_Weak 1_02 (Two-Sword Style) 
+10007800 Sting sword_one hand proximity_weak 2 
+10008000 Sting sword_one-handed proximity_strong one 
+10008010 Sting_One Hand Proximity_Strong 1_02 
+10008100 Sting sword_one hand proximity_strong_barier 01 
+10008101 Swords_One Hand Proximity_Strong 1_Barier 01 (Last Pick) 
+10008110 Sting Sword_One Hand Proximity_Strong 1_Barier 02 
+10008200 Sting sword_one hand proximity_strong 1_special 01 
+10008201 Swords_One Hand Proximity_Strong 1_Special 01 (Last Pick) 
+10008300 Stabbing sword _ one hand dash 
+10008400 Sashimi_One Hand Rolling 
+10008500 Stabbing sword_ one-handed guard breaking 
+10008600 Swords_One Hand Jump 
+10008700 Swords_ One Hand Fall 
+10008800 Swords_ One Hand Jump Fall 
+10008900 Stabbing sword_one-handed chase 
+10009000 Stabbing sword_one-handed parie 
+10009100 Swords_Both Hands Melee_ Weak 1 
+10009300 Swords_Both Hands Proximity_Weak 2 
+10009500 Swords_Both Hands Proximity_Strong 1 
+10009510 Sting_Both-Handed Proximity_Strong 1_02 
+10009600 Sting sword_both-handed proximity_strong_barier 01 
+10009601 Swords_Two-Handed Proximity_Strong_Barier 01 (Last Pick) 
+10009700 Sting sword_both hands proximity_strong 1_special 01 
+10009701 Swords_Both-Handed Proximity_Strong 1_Special 01 (Last Pick) 
+10009800 Stabbing sword_ two-handed dash 
+10009900 Swords_Rolling Hands 
+10010000 Stabbing sword_ two-handed guard breaking 
+10010600 Sashimi_Two-sword style both hands proximity_weak 1 
+10010700 Sashimi_Two-sword style both hands proximity_weak 2 
+10010800 Sashimi_Two-sword style two-handed both-handed proximity_strong 1 
+10010900 Swords_Both-handed Guard 
+10011000 whip_one-handed proximity_weak one 
+10011001 Whip_One Hand Proximity_Weak 1 (Section 2) 
+10011002 Whip_One Hand Proximity_Weak 1 (Section 3) 
+10011200 whip_one-handed proximity_weak 2 
+10011201 Whip_One Hand Proximity_Weak 2 (Verse 2) 
+10011202 Whip_One Hand Proximity_Weak 2 (Verse 3) 
+10011400 whip_one-handed proximity_strong one 
+10011401 Whip_One Hand Proximity_Strong 1 (Verse 2) 
+10011402 Whip_One Hand Proximity_Strong 1 (Section 3) 
+10011410 Whip_One Hand Proximity_Strong 1_02 
+10011411 Whip_One Hand Proximity_Strong 1_02 (Section 2) 
+10011412 Whip_One Hand Proximity_Strong 1_02 (Section 3) 
+10011700 Whip_One Hand Dash 
+10011701 Whip_One Hand Dash (Verse 2) 
+10011702 Whip_One Hand Dash (Verse 3) 
+10011800 Whip_One Hand Rolling 
+10011801 Whip_One-Handed Rolling (Verse 2) 
+10011802 Whip_One Hand Rolling (Verse 3) 
+10011900 Whip_One-handed guard breaking 
+10012000 Whip_One-handed jump 
+10012100 whip_one-handed fall 
+10012200 Whip_One Hand Jump Fall 
+10012300 Whip_One-handed chase 
+10012400 Whip_One-handed parie 
+10012500 whip_both hands proximity_weak one 
+10012501 Whip_Both-Handed Proximity_Weak 1 (Section 2) 
+10012502 Whip_Both-Handed Proximity_Weak 1 (Section 3) 
+10012700 Whip_Both Hands Proximity_Weak 2 
+10012701 Whip_Both-Handed Proximity_Weak 2 (Verse 2) 
+10012702 Whip_Both-Handed Proximity_Weak 2 (Section 3) 
+10012710 Whip_Both Hands Proximity_Weak 2_02 
+10012711 Whip_Both Hands Proximity_Weak 2_02 (Section 2) 
+10012712 Whip_Both-Handed Proximity_Weak 2_02 (Section 3) 
+10012900 whip_two-handed proximity_strong one 
+10012901 Whip_Two-Handed Proximity_Strong 1 (Section 2) 
+10012902 Whip_Two-Handed Proximity_Strong 1 (Section 3) 
+10012910 Whip_Both Hands Proximity_Strong 1_02 
+10012911 Whip_Both-Handed Proximity_Strong 1_02 (Section 2) 
+10012912 Whip_Two-Handed Proximity_Strong 1_02 (Section 3) 
+10013200 Whip_Hands Dash 
+10013201 Whip_Hands Dash (Verse 2) 
+10013202 Whip_Two-Handed Dash (Verse 3) 
+10013300 whip_rolling both hands 
+10013301 Whip_Hands Rolling (Verse 2) 
+10013302 Whip_Hands Rolling (Verse 3) 
+10013400 Whip_Both-handed guard breaking 
+10014000 whip_two-sword style two-handed both-handed proximity_weak one 
+10014001 Whip_Two-sword style two-handed both-handed proximity_weak 1 (Section 2) 
+10014002 Whip_Two-sword style two-handed two-handed proximity_weak 1 (Section 3) 
+10014100 Whip_Two-sword style both hands proximity_weak 2 
+10014101 Whip_Two-sword style two-handed two-handed proximity_weak 2 (Section 2) 
+10014102 Whip_Two-sword style two-handed two-handed proximity_weak 2 (Section 3) 
+10014200 Whip_Two-sword style both hands proximity_strong one 
+10014201 Whip_Two-sword style two-handed two-handed proximity_strong 1 (section 2) 
+10014202 Whip_Two-sword style two-handed two-handed proximity_strong 1 (Section 3) 
+10014210 Whip_Two-sword style both hands proximity_strong one 
+10014211 Whip_Two-sword style two-handed two-handed proximity_strong 1 (section 2) 
+10014212 Whip_Two-sword style two-handed two-handed proximity_strong 1 (Section 3) 
+10014300 Whip_Both-handed guard 
+10014400 Double-edged sword_one-handed proximity_weak one 
+10014401 Double-edged sword_one-handed proximity_weak 1 (reverse blade) 
+10014410 Double-edged sword_one-handed proximity_weak_02 
+10014411 Double-edged sword_one-handed proximity_weak 1_02 (reverse blade) 
+10014600 Double-edged sword_one-handed proximity_weak 2 
+10014601 Double-edged sword_one-handed proximity_weak 2 (reverse blade) 
+10014610 Double-edged sword_one-handed proximity_weak_02 
+10014611 Double Blade_One Hand Proximity_Weak 2_02 (Reverse Blade) 
+10014800 Double-edged sword_one-handed proximity_strong 1 
+10014801 Double-edged sword_one-handed proximity_strong 1 (reverse blade) 
+10014810 Double-edged sword_one-handed proximity_strong_02 
+10014811 Double-edged sword_one-handed proximity_strong_02 (reverse blade) 
+10014820 Double-edged sword_one-handed proximity_strong_03 
+10014821 Double-edged sword_one-handed proximity_strong_03 (reverse blade) 
+10014830 Double-edged sword_one-handed proximity_strong_04 
+10014831 Double-edged sword_one-handed proximity_strong_04 (reverse blade) 
+10015100 Double-edged sword_one-handed dash 
+10015101 Double-edged sword_one-handed dash (reverse blade) 
+10015200 Double-edged sword_one-handed rolling 
+10015201 Double-edged sword_one-handed rolling (reverse blade) 
+10015210 Double-edged sword_one-handed rolling_02 
+10015211 Double Blade_One-Handed Rolling_02 (Reverse Blade) 
+10015300 Double-edged sword_ one-handed guard breaking 
+10015301 Double-edged sword_one-handed guard collapse (reverse blade) 
+10015400 Double-edged sword_one-handed jump 
+10015500 Double-edged sword_one-handed fall 
+10015600 Double-edged sword_ one-handed jump fall 
+10015700 Double-edged sword_one-handed proximity_weak 1 (two-sword style) 
+10015800 Double-edged sword_one-handed parie 
+10015900 Double-edged sword_both-handed proximity_weak one 
+10015901 Double-edged sword_both-handed proximity_weak 1 (reverse blade) 
+10015910 Double-edged sword_both-handed proximity_weak_02 
+10015911 Double-edged sword_both-handed proximity_weak 1_02 (reverse blade) 
+10016100 Curved Sword_One Hand Proximity_Weak 1 
+10016101 Double-edged sword_both-handed proximity_weak 2 (reverse blade) 
+10016110 Double-edged sword_both-handed proximity_weak_02 
+10016111 Double-edged sword_both-handed proximity_weak 2_02 (reverse blade) 
+10016120 Double-edged sword_both-handed proximity_weak_03 
+10016121 Double-edged sword_both-handed proximity_weak 2_03 (reverse blade) 
+10016200 Double-edged sword_two-handed proximity_weak 2_barier 01 
+10016201 Double-edged sword_two-handed proximity_weak_barrier 01 (reverse blade) 
+10016300 Double-edged sword_two-handed proximity_strong 1 
+10016301 Double-edged sword_both-handed proximity_strong 1 (reverse blade) 
+10016310 Double-edged sword_two-handed proximity_strong_02 
+10016311 Double-edged sword_two-handed proximity_strong_02 (reverse blade) 
+10016400 Double-edged sword_two-handed proximity_strong_barier 01 
+10016401 Double-edged sword_two-handed proximity_strong_barier 01 (reverse blade) 
+10016500 Double-edged sword_two-handed proximity_strong_special 01 
+10016501 Double-edged sword_two-handed proximity_strong_special 01 (reverse blade) 
+10016600 Double-edged sword_ two-handed dash 
+10016601 Double-edged sword_two-handed dash (reverse blade) 
+10016610 Double-edged sword_two-handed dash_02 
+10016611 Double-edged sword_two-handed dash_02 (reverse blade) 
+10016700 Double-edged sword_both-handed rolling 
+10016701 Double-edged sword_both-handed rolling (reverse blade) 
+10016800 Double-edged sword_ two-handed guard breaking 
+10016801 Double-edged sword_two-handed guard breaking (reverse blade) 
+10017300 Double-edged sword_two-handed parie 
+10017400 Double-edged sword_two-sword-style two-handed two-handed proximity_weak 1 (right) 
+10017401 Double-edged sword_two-sword-style two-handed two-handed proximity_weak 1 (right) (reverse blade) 
+10017410 Double-edged sword_two-sword-style two-handed two-handed proximity_weak 1 (left) 
+10017411 Double-edged sword_two-sword-style two-handed two-handed proximity_weak 1 (left) (reverse blade) 
+10017500 Double-edged sword_two-sword-style two-handed two-handed proximity_weak 2 (right) 
+10017501 Double-edged sword_two-sword-style two-handed two-handed proximity_weak 2 (right) (reverse blade) 
+10017510 Double-edged sword_two-sword-style two-handed two-handed proximity_weak 2 (left) 
+10017511 Double-edged sword_two-sword-style two-handed two-handed proximity_weak_left-blade 
+10017600 Double-edged sword_two-sword-style two-handed two-handed proximity_strong 1 (right) 
+10017601 Double-edged sword_two-sword-style two-handed two-handed proximity_strong 1 (right) (reverse blade) 
+10017610 Double-edged sword_two-sword-style two-handed two-handed proximity_strong 1 (left) 
+10017611 Double-edged sword_two-sword-style two-handed two-handed proximity_strong 1 (left) (reverse blade) 
+10017700 Double-edged sword_two-handed guard 
+10017800 spear_one hand proximity_weak one 
+10017910 Spear_One Hand Proximity_Weak 1_ Shield Chik Weak 1 
+10017920 Spear_One Hand Proximity_Weak 1_ Shield Chik Weak 2 
+10017930 Sword_Both Hands Proximity_Weak 1 (Two-Sword Style) 
+10017940 Spear_Both Hands Proximity_Strong 1_Second Stage 
+10018000 Spear_One Hand Proximity_Weak 2 
+10018010 Spear_One Hand Proximity_Weak 2_02 
+10018200 Spear_One Hand Proximity_Strong 1 
+10018210 Spear_One Hand Proximity_Strong 1_02 
+10018220 Spear_One Hand Proximity_Strong 1_03 
+10018230 Spear_One Hand Proximity_Strong 1_04 
+10018231 Spear_One Hand Proximity_Strong 1_04 (Extrusion) 
+10018240 Spear_One Hand Proximity_Strong 1_05 (Evangelist) 
+10018241 Spear_One Hand Proximity_Strong 1_05 (Evangelist) (Tip Rotation) 
+10018250 Spear_One Hand Proximity_Strong 1_06 (Evangelist) 
+10018600 Spear_One Hand Dash 
+10018610 Spear_One Hand Dash_02 
+10018611 Spear_One Hand Dash_02 (Extrusion) 
+10018700 Two-handed sword_one-handed proximity_weak 1 (two-sword style) 
+10018705 Spear_One Hand Rolling_02 (Evangelist) 
+10018710 Spear_One Hand Rolling_Barier 01 
+10018800 Spear_One-handed guard breaking 
+10018900 Spear_One-handed jump 
+10019000 Spear_One Hand Fall 
+10019100 Spear_One Hand Jump Fall 
+10019200 Spear_One Hand Proximity_Weak 1 (Two-Sword Style) 
+10019400 Spear_Both Hands Proximity_ Weak 1 
+10019600 Spear_Both Hands Proximity_ Weak 2 
+10019610 Spear_Both Hands Proximity_Weak 2_02 
+10019800 Spear_Both Hands Proximity_Strong 1 
+10019810 Spear_Both Hands Proximity_Strong 1_02 
+10019820 Spear_Both Hands Proximity_Strong 1_03 
+10019830 Spear_Both Hands Proximity_Strong 1_04 
+10020100 Spear_Both Hands Proximity_Strong 1_Special 02 
+10020200 Spear_ Two-Handed Dash 
+10020210 Spear_Both Hands Dash_02 
+10020211 Spear_Both Hands Dash_02 (Extrusion) 
+10020300 Two-handed axe_one-handed proximity_weak 1 (two-sword style) 
+10020305 Spear_Hands Rolling_02 (Evangelist) 
+10020310 Spear_Both Hands Rolling_Barier 1 
+10020400 Spear_Both-handed guard breaking 
+10021000 Spear_Two-sword style both hands proximity_weak 1 (right) 
+10021010 Spear_Two-sword style both hands proximity_weak 1 (left) 
+10021050 Spear_Two-sword style two-handed two-handed proximity_weak 1 (evangelist) (right) 
+10021060 Spear_Two-sword style two-handed two-handed proximity_weak 1 (evangelist) (left) 
+10021100 Spear_Two-sword style two-handed both-handed proximity_weak 2 (right) 
+10021110 Spear_Two-sword style two-handed both-handed proximity_weak 2 (left) 
+10021150 Spear_Two-sword style two-handed two-handed proximity_weak 2 (evangelist) (right) 
+10021160 Spear_Two-sword style two-handed two-handed proximity_weak 2 (evangelist) (left) 
+10021200 Spear_Two-sword style two-handed both-handed proximity_strong 1 (right) 
+10021210 Spear_Two-sword style two-handed both-handed proximity_strong 1 (left) 
+10021250 Spear_Two-sword style two-handed two-handed proximity_strong 1 (evangelist) (right) 
+10021260 Spear_Two-sword style two-handed two-handed proximity_strong 1 (evangelist) (left) 
+10021300 Spear_Both Hands Guard 
+10021400 Assault Spear _One Hand Proximity_ Weak 1 
+10021410 Assault Spear_One Hand Proximity_Weak 1_02 
+10021510 Assault Spear_One Hand Proximity_Weak 1_ Shield Chik Weak 1 
+10021520 Assault Spear_One Hand Proximity_Weak 1_ Shield Chik Weak 2 
+10021530 Assault Spear_One Hand Proximity_Weak 1_ Shield Chik Strong 1 
+10021540 Assault Spear_One Hand Proximity_Weak 1_ Shield Chik Strong 2 
+10021600 Assault Spear _One Hand Proximity_ Weak 2 
+10021610 Assault Spear_One Hand Proximity_Weak 2_02 
+10021800 Assault Spear _One Hand Proximity_Strong 1 
+10021801 Assault Spear_One Hand Proximity_Strong 1 (Extrusion) 
+10021810 Assault Spear_One Hand Proximity_Strong 1_02 
+10022100 Assault Spear _ One Hand Dash 
+10022101 Assault Spear_One Hand Dash (Extrusion) 
+10022200 Assault Spear_One Hand Rolling 
+10022300 Assault Spear _ One-handed guard collapse 
+10022400 Assault Spear_ One Hand Jump 
+10022500 Assault Spear _ One Hand Fall 
+10022600 Assault Spear _ One Hand Jump Fall 
+10022700 Assault Spear_One Hand Proximity_Weak 1 (Two-Sword Style) 
+10022800 Assault Spear _One Hand Pari 
+10022900 Assault Spear _Both Hands Proximity_ Weak 1 
+10022910 Assault Spear_Both Hands Proximity_Weak 1_02 
+10023100 Assault Spear _Both Hands Proximity_ Weak 2 
+10023110 Assault Spear_Both Hands Proximity_Weak 2_02 
+10023300 Assault Spear _Both Hands Proximity_Strong 1 
+10023301 Assault Spear _Both Hands Proximity_Strong 1 (Extrusion) 
+10023310 Assault Spear_Both Hands Proximity_Strong 1_02 
+10023600 Assault Spear _ Two Hands Dash 
+10023601 Assault Spear_ Two-Handed Dash (Extrusion) 
+10023700 Assault Spear_Rolling Hands 
+10023800 Assault spear _ two-handed guard breaking 
+10024350 Assault Spear_Two-Sword Sword Dash (Right) 
+10024360 Assault Spear_Two-Sword Sword Dash (left) 
+10024400 Assault Spear_Two-Sword Style Two-Handed Both-Handed Proximity_Weak 1 (Right) 
+10024410 Assault Spear_Two-Sword Style Two-Handed Both-Handed Proximity_Weak 1 (Left) 
+10024500 Assault Spear_Two-Sword Style Two-Handed Both-Handed Proximity_Weak 2 (Right) 
+10024510 Assault Spear_Two-Sword Style Two-Handed Both-Handed Proximity_Weak 2 (Left) 
+10024600 Assault Spear_Two-Sword Style Two-Handed Both-Handed Proximity_Strong 1 (Right) 
+10024610 Assault Spear_Two-Sword Style Two-Handed Both-Handed Proximity_Strong 1 (Left) 
+10024700 Assault Spear_Both Hands Guard 
+10024800 Curved Sword_One Hand Proximity_Weak 1 
+10024810 Curved Sword_One Hand Proximity_Weak 1_02 
+10024900 Curved Sword_One Hand Proximity_Weak 1_Barier 01 
+10025000 Curved Sword_One Hand Proximity_Weak 2 
+10025010 Curved Sword_One Hand Proximity_Weak 2_02 
+10025100 Curved Sword_One Hand Proximity_Weak 2_Barier 01 
+10025200 Curved Sword_One Hand Proximity_Strong 1 
+10025210 Curved Sword_One Hand Proximity_Strong 1_02 
+10025220 Curved Sword_One Hand Proximity_Strong 1_03 
+10025230 Curved Sword_One Hand Proximity_Strong 1_04 
+10025300 Curved Sword_One Hand Proximity_Strong 1_Barier 01 
+10025500 Curved Sword_ One Hand Dash 
+10025600 Song Sword_One Hand Rolling 
+10025700 Song sword_ one-handed guard breaking 
+10025800 Song Sword_One Hand Jump 
+10025900 Song sword_ one hand fall 
+10026000 Song Sword_ One Hand Jump Fall 
+10026100 Song sword_one-handed chase 
+10026200 Song Sword_One Hand Parii 
+10026300 Curved sword_both hands proximity_weak one 
+10026310 Curved Sword_Both Hands Proximity_Weak 1_02 
+10026500 Curved Sword_Both Hands Proximity_Weak 2 
+10026510 Curved Sword_Both Hands Proximity_Weak 2_02 
+10026600 Curved Sword_Both Hands Proximity_Weak 2_Barier 01 
+10026710 Curved Sword_Both Hands Proximity_Strong 1_02 
+10026800 Curved Sword_Both Hands Proximity_Strong 1_Barier 01 
+10027000 Curved Sword_Hands Dash 
+10027100 Curved Sword_Rolling Hands 
+10027200 Curved sword_both-hands guard breaking 
+10027800 Curved Sword_Two-Sword Style Both Hand Proximity_Weak 1 
+10027900 Curved Sword_Two-Sword Style Both Hand Proximity_Weak 2 
+10028000 Curved Sword_Two-Sword Style Both Hand Proximity_Strong 1 
+10028050 Curved Sword_Two-Sword Style Two-Handed Two-Handed Proximity_Strong 1_Special 01 
+10028100 Curved Sword_Both Hands Guard 
+10028200 Sword_One Hand Proximity_Weak 1 
+10028400 Sword_One Hand Proximity_Weak 2 
+10028600 Sword_One Hand Proximity_Strong 1 
+10028610 Sword_One Hand Proximity_Strong 1_02 
+10028700 Sword_One Hand Proximity_Strong 1_Barier 01 
+10028900 Sword_One Hand Dash 
+10029000 Sword_One Hand Rolling 
+10029100 Sword_One Hand Guard Breaking 
+10029200 Sword_One-handed Jump 
+10029300 Sword_One Hand Fall 
+10029400 Sword_One Hand Jump Fall 
+10029500 Sword_One Hand Proximity_Strong 1_03 
+10029600 Sword_One Hand Parii 
+10029700 Sword_Both Hands Proximity_Weak 1 
+10029900 Sword_Both Hands Proximity_Weak 2 
+10030100 Sword_Both Hands Proximity_Strong 1 
+10030110 Sword_Both Hands Proximity_Strong 1_02 
+10030120 Sword_Both Hands Proximity_Strong 1_03 
+10030130 Sword_Both Hands Proximity_Strong 1_04 
+10030200 Sword_Both Hands Proximity_Strong 1_Barier 01 
+10030300 Sword_Both Hands Proximity_Strong 1_Special 01 
+10030400 Sword_Both Hands Dash 
+10030500 Sword_Both Hands Rolling 
+10030600 Sword_Both-Handed Guard Breaking 
+10031200 Sword_Two-sword style both hands proximity_weak 1 
+10031300 Sword_Two-sword style both hands proximity_weak 2 
+10031400 Sword_Two-sword style both hands proximity_strong 1 
+10031500 Sword_Both-Handed Guard 
+10031600 Direct sword_one-handed proximity_weak one 
+10031610 Direct sword_one hand proximity_weak 1_02 
+10031700 Direct Sword_One Hand Proximity_Weak 1_Barier 01 
+10031800 Direct Sword_One Hand Proximity_Weak 1_Barier 02 
+10031900 Direct sword_one-handed proximity_weak 2 
+10031910 Direct Sword_One Hand Proximity_Weak 2_02 
+10032000 Direct Sword_One Hand Proximity_Weak 2_Barier 01 
+10032050 Direct Sword_One Hand Proximity_Weak 2_Barier 02 
+10032100 Straight sword_one-handed proximity_strong one 
+10032200 Direct Sword_One Hand Proximity_Strong 1_Barier 01 
+10032400 Straight sword_one hand proximity_strong 1_special 02 
+10032410 Straight sword_one-handed proximity_strong_02 
+10032420 Straight sword_one-handed proximity_strong_03 
+10032430 Straight sword_one-handed proximity_strong_04 
+10032440 Straight sword_one-handed proximity_strong_05 
+10032500 Direct sword_one-handed dash 
+10032510 Direct Sword_One Hand Dash_02 
+10032600 Straight sword_one-handed rolling 
+10032605 Direct Sword_One Hand Rolling_02 
+10032610 Direct Sword_One Hand Rolling_Barier 01 
+10032700 Straight sword_one-handed guard breaking 
+10032800 Direct sword_one-handed jump 
+10032900 Direct sword_one hand fall 
+10033100 Direct sword_one-handed proximity_weak 1_Barier 02 (two-sword style) 
+10033200 Direct sword_one-handed parie 
+10033300 Direct sword_both hands proximity_weak one 
+10033510 Direct sword_both hands proximity_weak 1_02 
+10033520 Direct sword_both hands proximity_weak 1_03 
+10033600 Direct sword_both hands proximity_weak 2 
+10033710 Direct sword_both hands proximity_weak 2_02 
+10033720 Direct sword_both hands proximity_weak 2_03 
+10033800 Direct sword_both hands proximity_strong one 
+10033810 Direct Sword_Both Hands Proximity_Strong 1_02 
+10033820 Direct sword_Both Hands Proximity_Strong 1_03 
+10033830 Direct sword_Both Hands Proximity_Strong 1_04 
+10033840 Direct Sword_Both Hands Proximity_Strong 1_05 
+10033850 Direct sword_Both Hands Proximity_Strong 1_06 
+10034200 Direct sword_both-handed dash 
+10034210 Direct Sword_Both Hands Dash_02 
+10034220 Direct Sword_Both Hands Dash_03 
+10034300 Straight sword_both hands rolling 
+10034310 Direct Sword_Both Hands Rolling_02 
+10034320 Direct Sword_Both Hands Rolling_03 
+10034400 Direct sword_both-handed guard breaking 
+10035000 Direct sword_two-sword style two-handed both-handed proximity_weak 1 
+10035010 Direct sword_two-sword style two-handed both-handed proximity_weak_02 
+10035100 Direct sword_two-sword style both hands proximity_weak 2 
+10035110 Direct sword_two-sword style two-handed both-handed proximity_weak_02 
+10035200 Direct sword_two-sword style both hands proximity_strong 1 
+10035210 Direct sword_Two-sword style both hands proximity_strong_02 
+10035300 Direct sword_both hands guard 
+10035400 two-handed sickle_one-handed proximity_weak one 
+10035410 Two-Handed Sickle_One Hand Proximity_Weak 1_02 
+10035500 Two-handed sickle_one-handed proximity_weak 1_barier 01 
+10035600 Two-handed sickle_one-handed proximity_weak 2 
+10035700 Two-Handed Sickle_One Hand Proximity_Weak 2_Barier 01 
+10035800 Two-handed sickle_one-handed proximity_strong one 
+10035810 Two-Handed Sickle_One Hand Proximity_Strong 1_02 
+10036100 Two-handed sickle_ one-handed dash 
+10036210 Two-Handed Sickle_One Hand Rolling_02 
+10036300 Two-handed sickle_ one-handed guard breaking 
+10036400 Two-handed sickle_ one-handed jump 
+10036500 Two-handed sickle_ one hand fall 
+10036600 Two-handed sickle_ one-handed jump fall 
+10036700 Two-handed sickle_one-handed proximity_weak 1 (two-sword style) 
+10036900 Two-handed sickle_two-handed proximity_weak one 
+10036910 Two-Handed Sickle_Both Hands Proximity_Weak 1_02 
+10037000 Two-Handed Sickle_Two-Handed Proximity_Weak 1_Barier 01 
+10037100 Two-handed sickle_two-handed proximity_weak 2 
+10037200 Two-Handed Sickle_Two-Handed Proximity_Weak 2_Barier 01 
+10037300 Two-handed sickle_two-handed proximity_strong one 
+10037310 Two-Handed Sickle_Two-Handed Proximity_Strong_02 
+10037500 Two-Handed Sickle_Two-Handed Proximity_Strong 1_Special 01 
+10037600 Two-Handed Sickle_ Two-Handed Dash 
+10037700 Two-Handed Sickle_ Rolling Hands 
+10037800 Two-handed sickle_ two-handed guard breaking 
+10038400 Two-handed sickle_two-sword style two-handed two-handed proximity_weak 1 (right) 
+10038410 Two-handed sickle_two-sword style two-handed hand-powered_weak 1 (left) 
+10038500 Two-handed sickle_two-sword style two-handed hand-powered two-handed proximity_weak 2 (right) 
+10038510 Two-handed sickle_two-sword style two-handed hand-powered two-handed proximity_weak 2 (left) 
+10038600 Two-handed sickle_two-sword-style two-handed two-handed proximity_strong 1 (right) 
+10038610 Two-handed sickle_two-sword style two-handed two-handed proximity_strong 1 (left) 
+10038700 Two-handed sickle_ two-handed guard 
+10038800 Two-handed sword_one-handed proximity_weak one 
+10038810 Two-handed sword_one-handed proximity_weak 1 (moonlight sword) 
+10039100 Two-handed sword_one-handed proximity_weak 2 
+10039410 Two-handed sword_one-handed proximity_strong_02 
+10039500 Two-handed sword_one-handed proximity_strong_barier 01 
+10039600 Two-handed sword_one-handed proximity_strong_barier 02 
+10039700 Two-handed sword_one-handed proximity_strong_barier 03 
+10039900 Two-handed sword_ one-handed dash 
+10039910 Two-handed sword_ one-handed dash (moonlight sword) 
+10040000 Two-handed sword_one-handed rolling 
+10040100 Two-handed sword_ one-handed guard breaking 
+10040200 Two-handed sword_ one-handed jump 
+10040300 Two-handed sword_ one hand fall 
+10040400 Two-handed sword_ one-handed jump fall 
+10040700 Two-handed sword_both-handed proximity_weak one 
+10040800 Two-handed sword_two-handed proximity_weak_barier 01 
+10040810 Two-handed sword_both hands proximity_weak 1_02 
+10040900 Two-handed sword_both-handed proximity_weak 2 
+10041000 Two-handed sword_two-handed proximity_weak_barier 01 
+10041020 Two-handed sword_both hands proximity_weak_02 
+10041100 Two-handed sword_two-handed proximity_strong one 
+10041110 Two-handed sword_two-handed proximity_strong_02 
+10041120 Two-handed sword_two-handed proximity_strong_03 
+10041200 Two-handed sword_two-handed proximity_strong_barier 01 
+10041300 Two-handed sword_two-handed proximity_strong_05 
+10041350 Two-handed sword_two-handed proximity_strong_04 
+10041400 Two-handed sword_ two-handed dash 
+10041410 Two-handed sword_two-handed dash (moonlight sword) 
+10041500 Two-handed sword_ rolling both hands 
+10041510 Two-Handed Sword_Both-Handed Rolling_02 
+10041520 Two-Handed Sword_Both-Handed Rolling_03 
+10041600 Two-handed sword_ two-handed guard breaking 
+10042100 Two-handed sword_two-handed parie 
+10042200 Two-handed sword_two-sword style two-handed two-handed proximity_weak one 
+10042300 Two-handed sword_two-sword style two-handed two-handed proximity_weak 2 
+10042400 Two-handed sword_two-sword style two-handed two-handed proximity_strong 1 
+10042500 Two-handed sword_ two-handed guard 
+10042600 Two-handed oversized sword_one-handed proximity_weak one 
+10042601 Two-handed oversized sword_one-handed proximity_weak 1 (root) 
+10042610 Two-Handed Oversized Sword_One Hand Proximity_Weak_02 
+10042620 Two-handed large sword_one hand proximity_weak_03 
+10042630 Two-handed large sword_one hand proximity_weak_04 
+10042700 Two-handed oversized sword_one hand proximity_weak 1_barier 01 
+10042701 Two-handed oversized sword_one hand proximity_weak 1_Barier 01 (root) 
+10042800 Two-handed oversized sword_one-handed proximity_weak 2 
+10042801 Two-handed oversized sword_one-handed proximity_weak_2 (root) 
+10042810 Two Hands Extra Large Sword_One Hand Proximity_Weak_01 
+10042811 Two-handed oversized sword_one hand proximity_weak 2_01 (root) 
+10042900 Two-Handed Oversized Sword_One Hand Proximity_Weak 2_Barier 01 
+10042901 Two-handed oversized sword_one hand proximity_weak_barier 01 (root) 
+10042910 Two Hands Extra Large Sword_One Hand Proximity_Weak_02 
+10042911 Two-handed oversized sword_one hand proximity_weak 2_02 (root) 
+10042920 Two-Handed Oversized Sword_One Hand Proximity_Weak_03 
+10042930 Two-Handed Large Sword_One Hand Proximity_Weak_04 
+10042931 Two-handed large sword_one hand proximity_weak_04 (root) 
+10043000 Two-handed oversized sword_one-handed proximity_strong 1 
+10043001 Two-handed oversized sword_one-handed proximity_strong 1 (root) 
+10043010 Two-handed oversized sword_one hand proximity_strong_02 
+10043011 Two-handed oversized sword_one-handed proximity_strong_02 (root) 
+10043020 Two-handed oversized sword_one hand proximity_strong_03 
+10043030 Two-handed oversized sword_one hand proximity_strong_04 
+10043040 Two-handed large sword_one hand proximity_strong_05 
+10043050 Two-handed large sword_one hand proximity_strong_06 
+10043200 Two-Handed Oversized Sword_One Hand Proximity_Strong 1_Barier 02 
+10043201 Two-handed oversized sword_one-handed proximity_strong_barier 02 (root) 
+10043600 Two-handed oversized sword_one-handed dash 
+10043610 Two Hands Oversized Sword_One Hand Dash_02 
+10043620 Two-handed sword_one-handed dash_03 
+10043700 Two hands oversized sword_one-handed rolling 
+10043701 Two-handed oversized sword_one-handed rolling (root) 
+10043710 Two Hands Oversized Sword_One Hand Rolling_02 
+10043720 Two-Handed Sword_One Hand Rolling_03 
+10043721 Two-handed large sword_one-handed rolling_03 (root) 
+10043800 Two hands oversized sword _ one-handed guard collapse 
+10043810 Two-handed large sword_one-handed guard collapse_02 
+10043900 Two-handed oversized sword_one-handed jump 
+10043910 Two-handed sword_one-handed jump_02 
+10044000 Two hands oversized sword _ one hand fall 
+10044010 Two-handed large sword_one-handed fall_02 
+10044100 Two hands oversized sword _ one hand jump fall 
+10044110 Two-handed large sword_one-handed jump fall_02 
+10044200 Two-handed oversized sword_one-handed proximity_weak 1_Barier 01 (two-sword style) 
+10044210 Two-handed large sword_one-handed proximity_weak 1_04 (two-sword style) 
+10044400 Two Hands Extra Large Sword_Both Hands Proximity_Weak 1 
+10044401 Two-handed oversized sword_two-handed proximity_weak 1 (root) 
+10044410 Two Hands Extra Large Sword_Both Hands Proximity_Weak_02 
+10044420 Two-Handed Sword_Two-Handed Proximity_Weak_03 
+10044500 Two Hands Extra Large Sword_Both Hands Proximity_Weak 1_Barier 01 
+10044501 Two-handed oversized sword_two-handed proximity_weak_barier 01 (root) 
+10044510 Two-handed oversized sword_one-handed proximity_weak 1_02 (two-sword style) 
+10044600 Two Hands Extra Large Sword_Both Hands Proximity_Weak 2 
+10044601 Two-handed oversized sword_two-handed proximity_weak 2 (root) 
+10044610 Two Hands Extra Large Sword_Both Hands Proximity_Weak_02 
+10044611 Two-handed oversized sword_both-handed proximity_weak 2_02 (root) 
+10044620 Two-Handed Sword_Two-Handed Proximity_Weak_03 
+10044621 Two-handed large sword_two-handed proximity_weak_03 (root) 
+10044700 Two Hands Extra Large Sword_Both Hands Proximity_Weak 2_Barier 01 
+10044701 Two-handed oversized sword_two-handed proximity_weak_barier 01 (root) 
+10044710 Two Hands Extra Large Sword_Both Hands Proximity_Weak 2_Barier 02 
+10044800 Two Hands Extra Large Sword_Both Hands Proximity_Strong 1 
+10044801 Two-handed oversized sword_two-handed proximity_strong 1 (root) 
+10044900 Two Hands Extra Large Sword_Two-Handed Proximity_Strong 1_Barier 01 
+10044901 Two-handed oversized sword_two-handed proximity_strong_barier 01 (root) 
+10044910 Two Hands Extra Large Sword_Two-Handed Proximity_Strong_02 
+10044911 Two-handed oversized sword_two-handed proximity_strong_02 (root) 
+10044920 Two-Handed Sword_Two-Handed Proximity_Strong_03 
+10044921 Two-handed large sword_two-handed proximity_strong_03 (root) 
+10044930 Two Hands Extra Large Sword_Two-Handed Proximity_Strong_04 
+10044931 Two-handed oversized sword_two-handed proximity_strong_04 (root) 
+10044940 Two Hands Extra Large Sword_Two-Handed Proximity_Strong_05 
+10044941 Two-handed oversized sword_two-handed proximity_strong_05 (root) 
+10044950 Two-Handed Sword_Two-Handed Proximity_Strong_06 
+10045200 Two Hands Extra Large Sword_Two-Handed Proximity_Strong_Special 03 
+10045300 Two Hands Oversized Sword_ Two-Handed Dash 
+10045310 Two Hands Oversized Sword_Hand Dash_02 
+10045311 Two Hands Oversized Sword_Both-Handed Dash_02 (Root) 
+10045320 Two-Handed Sword_Hand Dash_03 
+10045400 Two Hands Oversized Sword_Both Hands Rolling 
+10045410 Two Hands Oversized Sword_Hand Rolling_02 
+10045411 Two Hands Extra Large Sword_Both Hands Rolling_02 (Peripheral Damage) 
+10045420 Two-Handed Sword_Both-Handed Rolling_03 
+10045430 Two Hands Oversized Sword_Hand Rolling_04 
+10045500 Two-handed oversized sword_ two-handed guard breaking 
+10045510 Two-handed oversized sword_one-handed proximity_weak 1 (two-sword style) 
+10046000 Two Hands Oversized Sword_Both Hands Parii 
+10046010 Two-Handed Sword_Both-Handed Pari_02 
+10046100 Two Hands Extra Large Sword_Two-Sword Style Two-Handed Hand Proximity_Weak 1 
+10046110 Two Hands Extra Large Sword_Two-Sword Style Hand Proximity_Weak 1_02 
+10046120 Two-handed large sword_two-sword style two-handed two-handed melee_weak_03 
+10046200 Two Hands Extra Large Sword_Two-Sword Style Two-Handed Hand Proximity_Weak 2 
+10046210 Two Hands Extra Large Sword_Two-Sword Style Two-Handed Hand Proximity_Weak_02 
+10046220 Two-handed large sword_two-sword style two-handed two-handed proximity_weak_03 
+10046300 Two Hands Extra Large Sword_Two-Sword Sword Hand Melee_Strong 1 
+10046310 Two-handed oversized sword_two-sword style two-handed two-handed proximity_strong_02 
+10046320 Two-handed large sword_two-sword style two-handed two-handed proximity_strong_03 
+10046400 Two-handed large sword_hands guard 
+10046410 Two-Handed Sword_Two-Handed Guard_02 
+10046510 One Hand Mallet_One Hand Proximity_Weak 1_02 
+10046520 One Hand Mallet_One Hand Proximity_Weak 1_03 
+10046710 One Hand Mallet_One Hand Proximity_Weak 2_02 
+10046720 One Hand Mallet_One Hand Proximity_Weak 2_03 
+10046900 One hand mallet_one-handed proximity_strong one 
+10046910 One Hand Mallet_One Hand Proximity_Strong 1_02 
+10046920 One Hand Mallet_One Hand Proximity_Strong 1_03 
+10047200 One hand mallet_ one hand dash 
+10047300 One hand mallet_one hand rolling 
+10047400 One hand mallet_one-handed guard collapse 
+10047500 One hand mallet_ one hand jump 
+10047600 One hand mallet_ one hand fall 
+10047700 One hand mallet_ one hand jump fall 
+10047800 One hand mallet_one-handed chase 
+10047900 One Hand Mallet 
+10048000 One hand mallet_both hands proximity_weak one 
+10048010 One Hand Mallet_Both Hands Proximity_Weak 1_02 
+10048200 One hand mallet_both hands proximity_weak 2 
+10048210 One Hand Mallet_Both Hands Proximity_Weak 2_02 
+10048400 One hand mallet_both hands proximity_strong one 
+10048410 One Hand Mallet_Both Hands Proximity_Strong 1_02 
+10048420 One Hand Mallet_Both Hands Proximity_Strong 1_03 
+10048700 One hand mallet_two-handed dash 
+10048810 One Hand Mallet_Both Hands Rolling_02 
+10048900 One hand mallet_two-handed guard breaking 
+10049500 One hand mallet_two-sword style two-handed both-handed proximity_weak one 
+10049600 One hand mallet_two-sword style two-handed two-handed proximity_weak 2 
+10049700 One hand mallet_two-sword style two-handed both-handed proximity_strong 1 
+10049800 One hand mallet_two-handed guard 
+10050000 Two-handed mallet_one-handed proximity_weak 1_barier 01 
+10050100 Two-handed mallet_one-handed proximity_weak 2 
+10050200 Two-handed mallet_one-handed proximity_weak 2_barier 01 
+10050300 Two-handed mallet_one-handed proximity_strong one 
+10050310 Two-handed mallet_one-handed proximity_strong_02 
+10050320 Two-handed mallet_one-handed proximity_strong_03 
+10050330 Two-handed mallet_one-handed proximity_strong_04 
+10050600 Two-handed dash 
+10050700 Two-handed mallet rolling 
+10050800 Both hands mallet_one-handed guard breaking 
+10050900 Two-handed hammer_one-handed jump 
+10051000 Two-handed mallet_ one hand fall 
+10051100 Two-handed hammer_one-handed jump fall 
+10051200 Two-handed mallet_one-handed chase 
+10051300 Two-handed mallet 
+10051400 Two-handed mallet_both hands proximity_weak one 
+10051410 Two Hands Mallet_Both Hands Proximity_Weak 1_02 
+10051500 Two Hands Mallet_Both Hands Proximity_Weak 1_Barier 01 
+10051610 Two Hands Mallet_Both Hands Proximity_Weak 2_02 
+10051620 Two Hands Mallet_Both Hands Proximity_Weak 2_03 
+10051630 Two Hands Mallet_Both Hands Proximity_Weak 2_04 
+10051800 Two-handed mallet_both hands proximity_strong one 
+10051810 Two Hands Mallet_Both Hands Proximity_Strong 1_02 
+10051900 Two Hands Mallet_Both Hands Proximity_Strong 1_Barier 01 
+10051901 Two-handed mallet_both-handed proximity_strong_barrier 01 (rotation start part) 
+10052100 Both hands hammer_both hands dash 
+10052200 Both hands hammer_both hands rolling 
+10052210 Two Hands Mallet_Both Hands Rolling_Barier 01 
+10052211 Two-Handed Mallet_Both-Handed Rolling_Barrier 01 (Peripheral Damage) 
+10052300 Both hands mallet_both-handed guard breaking 
+10052900 Two-handed mallet_two-sword style two-handed two-handed proximity_weak one 
+10053000 Two-handed mallet_two-sword style two-handed two-handed proximity_weak 2 
+10053100 Two-handed mallet_two-sword-style two-handed two-handed proximity_strong 1 
+10053200 Two-handed mallet_ two-handed guard 
+10053300 one-handed axe_one-handed proximity_weak one 
+10053400 One Hand Axe_One Hand Proximity_Weak 1_Barier 01 
+10053500 One Hand Axe_One Hand Proximity_Weak 2 
+10053700 One-handed axe_one-handed proximity_strong one 
+10053800 One Hand Axe_One Hand Proximity_Strong 1_Barier 01 
+10053900 One Hand Axe_One Hand Proximity_Strong 1_Special 01 
+10054010 One Hand Axe_One Hand Proximity_Strong 1_02 
+10054080 One Hand Axe_ One Hand Dash 
+10054090 One Hand Axe_One Hand Dash_02 
+10054100 One-handed axe_one-handed rolling 
+10054200 One-handed axe_one-handed guard collapse 
+10054300 One-handed axe_ one-handed jump 
+10054400 One-handed axe_ one-handed fall 
+10054500 One Hand Axe_ One Hand Jump Fall 
+10054700 One-handed axe_one-handed parie 
+10054800 one-handed axe_two-handed proximity_weak one 
+10055000 One Hand Axe_Two-Handed Proximity_Weak 2 
+10055200 One-handed axe_two-handed proximity_strong one 
+10055400 One Hand Axe_Two-Handed Proximity_Strong 1_Special 01 
+10055510 One Hand Axe_Two-Handed Proximity_Strong_02 
+10055520 One Hand Axe_Two-Handed Proximity_Strong_03 
+10055600 One Hand Axe_ Two-Handed Dash 
+10055610 One Hand Axe_Hand Dash_02 
+10055700 One Hand Axe_ Rolling Hands 
+10055800 One-handed axe_two-handed guard breaking 
+10056400 One-handed axe_two-sword-style two-handed two-handed proximity_weak one 
+10056500 One-handed axe_two-sword-style two-handed two-handed proximity_weak 2 
+10056600 One-handed axe_two-sword-style two-handed two-handed proximity_strong 
+10056700 One-handed axe_two-handed guard 
+10056800 two-handed axe_one-handed proximity_weak one 
+10056801 Two-handed axe_one-handed proximity_weak 1 (root) 
+10056900 Two-Handed Axe_One Hand Proximity_Weak 1_Barier 01 
+10057000 Two-Handed Axe_One Hand Proximity_Weak 2 
+10057110 Two-Handed Axe_One Hand Proximity_Weak_02 
+10057111 Two-Handed Axe_One Hand Proximity_Weak 2_02 (Root) 
+10057120 Two-Handed Axe_One Hand Proximity_Weak 2_03 
+10057200 Two-handed axe_one-handed proximity_strong one 
+10057201 Two-handed axe_one-handed proximity_strong 1 (root) 
+10057300 Two-Handed Axe_One Hand Proximity_Strong 1_Barier 01 
+10057301 Two-handed axe_one-handed proximity_strong_barier 01 (root) 
+10057310 Two-Handed Axe_One Hand Proximity_Strong 1_02 
+10057311 Two-handed axe_one-handed proximity_strong_02 (root) 
+10057600 Two-Handed Axe_ One Hand Dash 
+10057601 Two-handed axe_ one-handed dash (root) 
+10057700 Two-handed axe_ one hand rolling 
+10057701 Two-handed axe_one-handed rolling (root) 
+10057800 Two-handed axe_ one-handed guard breaking 
+10057810 Two-Handed Axe_One Hand Guard Breaking_02 
+10057900 Two-handed axe_ one-handed jump 
+10058000 Two-handed axe_ one hand fall 
+10058400 Two-handed axe_two-handed proximity_weak one 
+10058410 Two-Handed Axe_Both-Handed Proximity_Weak_02 
+10058411 Two-Handed Axe_Two-Handed Proximity_Weak 1_02 (Root) 
+10058500 Two-Handed Axe_Two-Handed Proximity_Weak 1_Barier 01 
+10058600 Two-Handed Axe_Two-Handed Proximity_Weak 1_Barier 02 
+10058700 Two-Handed Axe_Two-Handed Proximity_Weak 2 
+10058710 Two-Handed Axe_Both Hands Proximity_Weak_02 
+10058711 Two-Handed Axe_Two-Handed Proximity_Weak 2_02 (Root) 
+10058900 Two-Handed Axe_Two-Handed Proximity_Weak 2_Barier 02 
+10059000 Two-Handed Axe_Two-Handed Proximity_Strong 1 
+10059001 Two-handed axe_two-handed proximity_strong 1 (root) 
+10059310 Two-Handed Axe_Two-Handed Proximity_Strong_02 
+10059311 Two-Handed Axe_Two-Handed Proximity_Strong 1_02 (Root) 
+10059320 Two-Handed Axe_Two-Handed Proximity_Strong_03 
+10059330 Two-Handed Axe_Two-Handed Proximity_Strong_04 
+10059331 Two-handed axe_two-handed proximity_strong_04 (rotating part) 
+10059400 Two-Handed Axe_ Two-Handed Dash 
+10059401 Two-handed axe_ two-handed dash (root) 
+10059500 Two-Handed Axe_ Rolling Hands 
+10059510 Two-Handed Axe_Both-Handed Rolling_02 
+10059511 Two-Handed Axe_Both-Handed Rolling_02 (Peripheral Damage) 
+10059600 Two-handed axe_ two-handed guard breaking 
+10059610 Two-Handed Axe_Both-Handed Guard Breaking_02 
+10059620 Two-Handed Axe_Both-Handed Guard Breaking_03 
+10060100 Two-Handed Axe_Two-Handed Pari 
+10060200 Two-handed axe_two-sword-style two-handed two-handed proximity_weak one 
+10060210 Two-Handed Axe_Two-Sword Style Two-Handed Hand Proximity_Weak_02 
+10060220 Two-Handed Axe_Two-Sword Style Two-Handed Hand Proximity_Weak 1_03 
+10060300 Two-handed axe_two-sword-style two-handed two-handed proximity_weak 2 
+10060310 Two-Handed Axe_Two-Sword Style Two-Handed Hand Proximity_Weak_02 
+10060320 Two-Handed Axe_Two-Sword Style Two-Handed Hand Proximity_Weak 2_03 
+10060400 Two-handed axe_two-sword-style two-handed two-handed proximity_strong 
+10060410 Two-Handed Axe_Two-Sword Style Two-Handed Hand Proximity_Strong_02 
+10060420 Two-Handed Axe_Two-Sword Style Two-Handed Hand Proximity_Strong_03 
+10060500 Two-Handed Axe_Two-Handed Guard 
+10060610 Two-handed long axe_one-handed proximity_weak_02 
+10060620 Two-handed long axe_one-handed proximity_weak_03 
+10060710 Two-handed long axe_one-handed proximity_weak 1_barier 01_02 
+10060720 Two-handed long axe_one-handed proximity_weak 1_barier 01_03 
+10060730 Two-handed long axe_one-handed proximity_weak 1_barier 01_04 
+10060740 Two-handed long axe_one-handed proximity_weak 1_barier 01_05 
+10060800 Two-handed ax_one-handed proximity_weak 2 
+10060900 Two-handed long axe_one-handed proximity_weak 2_barier 01 
+10060910 Two-handed long axe_one-handed proximity_weak_02 
+10061000 Two-handed ax_one-handed proximity_strong one 
+10061010 Two-handed long axe_one-handed proximity_strong_02 
+10061020 Two-handed long axe_one-handed proximity_strong_03 
+10061100 Two-handed long axe_one-handed proximity_strong_barier 01 
+10061400 Two-handed ax_one-handed dash 
+10061410 Two-handed ax_one-handed dash_02 
+10061500 Two-handed ax_one-handed rolling 
+10061600 Two-handed ax_one-handed guard breaking 
+10061700 Two-handed ax_one-handed jump 
+10061800 Two-handed ax_one-handed fall 
+10061900 Two-handed ax_one-handed jump fall 
+10062000 Two-handed long axe_one-handed proximity_weak 1_02 (two-sword style) 
+10062200 Two-handed long axe_ two-handed proximity_ weak one 
+10062210 Two-handed long axe_both hands proximity_weak_02 
+10062220 Two-handed long axe_both hands proximity_weak_03 
+10062300 Two-handed long axe_two-handed proximity_weak_barier 01 
+10062410 Two-handed long axe_both hands proximity_weak_02 
+10062420 Two-handed long axe_both hands proximity_weak_03 
+10062500 Two-handed long axe_two-handed proximity_weak_barier 01 
+10062600 Two-handed long axe_two-handed proximity_strong one 
+10062610 Two-handed long axe_two-handed proximity_strong_02 
+10062700 Two-handed long axe_two-handed proximity_strong_barier 01 
+10063000 Two-handed ax_two-handed dash 
+10063010 Two-Handed Ax_Two-Handed Dash_Barier 01 
+10063110 Two-handed ax_both hands rolling_02 
+10063200 Two-handed long axe_ two-handed guard breaking 
+10063800 Two-handed long axe_two-sword style two-handed two-handed proximity_weak 1 (right) 
+10063801 Two-handed long axe_two-sword style two-handed two-handed proximity_weak 1 (left) 
+10063900 Two-handed long axe_two-sword style two-handed two-handed proximity_weak 2 (right) 
+10063901 Two-handed long axe_two-sword style two-handed two-handed proximity_weak 2 (left) 
+10064000 Two-handed long axe_two-sword style two-handed two-handed proximity_strong 1 (right) 
+10064001 Two-handed long axe_two-sword style two-handed two-handed proximity_strong 1 (left) 
+10064100 Two-handed ax_two-handed guard 
+10065600 Shield_One-handed guard breaking 
+10065700 Small Shield_One-handed Jump 
+10065800 One hand fall 
+10065900 Small shield_one-handed jump fall 
+10066000 Small Shield_One-handed Chase 
+10066100 Small Shield_One-Handed Parie 
+10066110 Small Shield_One Hand Pari_02 
+10066310 Shield_Both Hands Proximity_Weak 1_02 
+10066810 Shield_Both Hands Proximity_Strong 1_02 
+10067100 Shield_Both-hands guard breaking 
+10067600 Small Shield_Both Hands Parie 
+10067610 Small Shield_Both Hands Pari_02 
+10068000 Shield_One Hand Guard 
+10068100 Shield_Hands Guard 
+10068600 Medium Shield_One Hand Proximity_Strong 1 
+10069200 Medium Shield_One-handed jump 
+10069300 Middle shield_one hand fall 
+10069400 Medium Shield_One Hand Jump Fall 
+10069500 Medium Shield_One-handed chase 
+10069600 Medium Shield_One-Handed Parie 
+10069700 Medium Shield_Both Hands Proximity_Weak 1 
+10069900 Medium Shield_Both Hands Proximity_Weak 2 
+10070100 Medium Shield_Both Hands Proximity_Strong 1 
+10071100 Medium Shield_Both Hands Parie 
+10071500 Medium Shield_One Hand Guard 
+10071600 Medium Shield_Both Hands Guard 
+10072100 Large Shield_One Hand Proximity_Strong 1 
+10072101 Large Shield_One Hand Proximity_Strong 1 (for object destruction) 
+10072200 Large Shield_One Hand Proximity_Strong 1_Barier 01 
+10072700 Large Shield_One Hand Jump 
+10072800 Large shield_one-handed fall 
+10072900 Large Shield_One Hand Jump Fall 
+10073200 Large Shield_Both Hands Proximity_Weak 1 
+10073600 Large Shield_Both Hands Proximity_Strong 1 
+10073700 Large Shield_Both Hands Proximity_Strong 1_Barier 01 
+10073800 Large Shield_Both Hands Proximity_Strong 1_Special 01 
+10074200 Large Shield_Both Hands Jump 
+10074300 Large shield_both hands falling 
+10074400 Large Shield_Both Hands Jump Fall 
+10074900 Large Shield_Two-Sword Style Two-Handed Two-Handed Proximity_Strong 1 
+10075000 Large Shield_One Hand Guard 
+10075100 Large Shield_Hands Guard 
+10080000 Fist_One-handed grab (medium) 
+10080100 Fist_One-handed grab (large) 
+10080800 Spear _One Hand Fall Stub_Giant Lower Soldier 
+10080900 Spear _One-handed Fall Stub_Giant Basilrisk 
+10081000 Spear_One-handed Fall Stub_Auger 
+10081100 Spear_One-handed Fall Stub_Bayground 
+10081200 Spear _One Hand Fall Stub_Jabaza Hat 
+10081300 Spear _One Hand Fall Stub_Salamander 
+10081900 Direct sword_one-handed fall stub_giant lower-level soldier 
+10082000 Straight sword_one-handed fall stub_giant basilrisk 
+10082100 Direct sword_one-handed fall stub_auger 
+10082200 Direct Sword_One-Handed Fall Stub_Bayground 
+10082300 Direct Sword_One Hand Fall Stub_Javaza Hat 
+10082400 Direct Sword_One Hand Fall Stub_Salamander 
+10082700 Two-handed oversized sword_one-handed tossing (medium) 
+20000000 one hand cane_one-handed spelling_weak one 
+20000100 One Hand Cane_One Hand Spell_Weak 2 
+20000200 One Hand Cane_One Hand Spell_Strong 1 
+20000300 One Hand Cane_One Hand Spell_Strong 2 
+20000600 One Hand Cane_One Hand Spell_Chase 
+20000700 one hand cane_one-handed spell_fall 
+20000800 One Hand Cane_One Hand Spell_Jump 
+20000900 One Hand Cane_One Hand Spell_ Jump Fall 
+20001000 One Hand Cane_One Hand Spell_Guard Breaking 
+20001100 One hand cane _two-handed spelling_weak one 
+20001200 One Hand Cane_Double Handed Spell_Weak 2 
+20001300 One hand cane _two-handed spell_strong one 
+20001400 One Hand Cane_Double Handed Spell_Strong 2 
+20002100 One hand cane_both-handed spell_guard breaking 
+20002500 One hand cane_two-handed spell_guard 
+20002510 One hand cane_two-handed spell_precision shooting 
+20002600 one-handed bell_one-handed spelling_weak one 
+20002700 One-handed bell_one-handed spelling_weak 2 
+20002800 One-handed bell_one-handed spelling_strong one 
+20002900 One-handed bell_one-handed spelling_strong 2 
+20003200 One-handed bell_one-handed spelling_chasing 
+20003300 one-handed bell_one-handed spell_ fall 
+20003400 One-handed bell_one-handed spell_jump 
+20003500 One Hand Bell_One Hand Spell_ Jump Fall 
+20003600 One-handed bell_one-handed spelling_guard breaking 
+20003700 one-handed bell_two handed spell_weak one 
+20003800 One Hand Bell_Double Handed Spell_Weak 2 
+20003900 one-handed bell_two handed spell_strong one 
+20004000 One Hand Bell_Double Handed Spell_Strong 2 
+20004700 One-handed bell_two-handed spell_guard breaking 
+20005100 One-handed bell_two-handed spell_guard 
+20005110 One-handed bell_two-handed spell_precision shooting 
+20005200 Two-handed bow_one-handed shooting_with both hands 
+20005300 Two-handed bow_one-handed shooting_fall 
+20005400 Two-handed bow_one-handed shooting_jump 
+20005500 Two-handed bow_one-handed shooting_jump fall 
+20005600 Two-handed bow_one-handed shooting_guard breaking 
+20005700 Two-handed bow_two-handed shooting_attack 
+20005800 Two-handed bow_two-handed shooting_precision shooting 
+20006200 Two-handed bow_both-handed shooting_guard breaking 
+20006400 Two-handed bow_both-handed shooting_guard 
+20006500 Binoculars_One hand_precision shooting 
+20006600 Binoculars_Both_Precision Shooting 
+20006700 Binoculars_Both-hands_guard 
+20006800 One-handed bow_one-handed shooting_attack 
+20006900 One Hand Bow_One Hand Shooting_Fall 
+20007000 One Hand Bow_One-Handed Shooting_Jump 
+20007100 One Hand Bow_One Hand Shooting_Jump Fall 
+20007200 One-handed bow_one-handed shooting_guard collapse 
+20007300 One-handed bow_two-handed shooting_attack 
+20007400 One-handed bow_two-handed shooting_precision shooting 
+20007800 One Hand Bow_Two-Handed Shooting_Guard Breaking 
+20008000 One Hand Bow_Two-Handed Shooting_Guard 
+20008100 One-handed bow_two-sword-style two-handed shooting_attack 
+20008200 One-handed bow_two-sword-style two-handed shooting_precision shooting 
+20008600 One-handed bow_two-sword-style two-handed both-handed shooting_guard collapse 
+20008700 One-handed bow_two-sword-style two-handed two-handed shooting_no 
+20008800 Two-handed bow_one-handed shooting_with both hands 
+20008900 Two-handed large bow_one-handed shooting_fall 
+20009000 Two-handed large bow_one-handed shooting_jump 
+20009100 Two-handed large bow_one-handed shooting_jump fall 
+20009200 Two-handed large bow_one-handed shooting_guard breaking 
+20009300 Two-handed bow_two-handed shooting_attack 
+20009400 Two-handed bow_two-handed shooting_precision shooting 
+20009800 Two-handed large bow_both-handed shooting_guard breaking 
+20010000 Two-handed large bow_two-handed shooting_guard 
+20010100 Two hands large bow B_ one hand shooting_ with both hands 
+20010200 One hand shooting B_ fall 
+20010300 One hand shooting B_ jump 
+20010400 Two-handed large bow B_ one-handed shooting_ jump fall 
+20010500 Two-handed large bow B_ one-handed shooting_guard breaking 
+20010600 Both hands large bowB_ both hands shooting_ attack 
+20010700 Both hands large bowB_ both hands shooting_ precision shooting 
+20011100 Both hands large bow B_ both hands shooting _ guard breaking 
+20011300 Both hands large bowB_ both hands shooting_guard 
+20011400 One-handed shooting bow_one-handed shooting_attack 
+20011500 One-handed shooting bow_one-handed shooting_fall 
+20011600 One-handed shooting bow_one-handed shooting_jump 
+20011700 One-handed shooting bow_one-handed shooting_jump fall 
+20011800 One-handed shooting bow_ one-handed shooting_ guard collapse 
+20011900 One-handed shot bow_two-handed shooting_attack 
+20012000 One-handed shooting bow_two-handed shooting_precision shooting 
+20012400 One-handed shooting bow_ two-handed shooting_ guard breaking 
+20012600 One-handed shooting bow_two-handed shooting_guard 
+20012700 One-handed shooting bow_two-sword-style two-handed two-handed shooting_attack 
+20012800 One-handed shooting bow_two-sword-style two-handed two-handed shooting_precision shooting 
+20012900 One-handed shooting bow_two-sword-style two-handed two-handed shooting_fall 
+20013000 One-handed shooting bow_two-sword-style two-handed two-handed shooting_jump 
+20013100 One-handed shooting bow_two-sword-style two-handed two-handed shooting_jump fall 
+20013200 One-handed shooting bow_two-sword-style two-handed both-handed shooting_guard collapse 
+20013300 One-handed shooting bow_two-sword-style two-handed two-handed shooting_no 
+20013600 Torch_One Hand Proximity_Strong 1_02 
+20013700 Torch_One Hand Proximity_Strong 2_02 
+20014100 Pine light_one-handed proximity_fall 
+20014200 Torch_One Hand Proximity_Jump 
+20014400 Torch_One-handed proximity_guard collapse 
+20014500 Torch_One Hand Proximity_Guard 
+20014600 Torch_Both Hands Proximity_Weak 1_02 
+20014700 Torch_Both Hands Proximity_Weak 2_02 
+20014800 Torch_Both Hands Proximity_Strong 1_02 
+20014900 Torch_Both Hands Proximity_Strong 2_02 
+20015000 Torch_Both Hands Proximity_Dash_02 
+20015100 Torch_Both Hands Proximity_Rolling_02 
+20015600 Torch_Both Hands Proximity_Guard Breaking 
+20015700 Torch_Both Hands Proximity_Guard 
+20015800 Magic Fire_ One Hand Spell_ Weak 1 
+20015900 Magic Fire_ One Hand Spell_ Weak 2 
+20016000 Magic Fire_ One Hand Spell_ Strong 1 
+20016100 Magic Fire_ One Hand Spell_ Strong 2 
+20016400 The Fire of The Magic_ One-Handed Spelling_ After-Attack 
+20016500 Magic Fire_ One Hand Spell_ Fall 
+20016600 Magic Fire_ One Hand Spell_ Jump 
+20016700 Magic Fire_ One Hand Spell_ Jump Fall 
+20016800 Magic Fire_ One Hand Spell_ Guard Breaking 
+20016900 Magic Fire_ Both Hands Spell_ Weak 1 
+20017000 Magic Fire_ Both Hands Spell_ Weak 2 
+20017100 Magic Fire_ Two-Handed Spell_Strong 1 
+20017200 Magic Fire_ Two-Handed Spell_Strong 2 
+20017900 Magic Fire_ Both Hands Spell_ Guard Breaking 
+20018300 Magic Fire_Both-Handed Spell_Guard 
+20018400 Magic Fire_ Two-Handed Spell_ Precision Shooting 
+20018500 Venomdagger_ One Hand Proximity _ Weak 1 
+20018600 Venomdagger_One Hand Proximity_Weak 2 
+20018700 Venom dagger_one-handed proximity_strong one 
+20018800 Venom dagger_one-handed proximity_strong 2 
+20018900 Venomous Dagger_ One Hand Dash 
+20019000 Highly toxic dagger_ one hand rolling 
+20019100 Venomdagger_ One-handed Guard Breaking 
+20019200 Highly poisoned dagger_ one-handed jump 
+20019300 Poison dagger_ one hand fall 
+20019400 Highly poisoned dagger_ one hand jump fall 
+20019500 Poison Dagger_ One-handed Chase 
+20019600 Venomous Dagger_One Hand Parii 
+20019700 Venomdagger_ Two-Handed Proximity_ Weak 1 
+20019800 Venomdagger_Both Hands Proximity_Weak 2 
+20019900 Venom dagger_two-handed proximity_strong one 
+20020000 Venom dagger_two-handed proximity_strong 2 
+20020100 Venomous Dagger_ Two-Handed Dash 
+20020200 Highly toxic dagger_rolling hands 
+20020300 Venomdagger_ Two-handed guard breaking 
+20020900 Venom dagger_two-sword style two-handed both-handed proximity_weak 1 
+20021000 Venom dagger_two-sword style two-handed both-handed proximity_weak 2 
+20021100 Venom dagger_two-sword style two-handed both-handed proximity_strong 1 
+20021200 Venomous Dagger_ Two-Handed Guard 
+20021300 curved sword_one hand proximity_weak one 
+20021400 Curved Sword_One Hand Proximity_Weak 2 
+20021500 curved sword_one hand proximity_strong one 
+20021600 Curved Sword_One Hand Proximity_Strong 1_02 
+20021700 Curved Sword_ One Hand Dash 
+20021800 curved sword_one-handed rolling 
+20021900 Curved sword_one-handed guard breaking 
+20022000 Curved Sword_One Hand Jump 
+20022100 curved sword_one hand fall 
+20022200 Curved sword_ one hand jump fall 
+20022300 Curved Sword_One-handed Chase 
+20022400 Curved Sword_One Hand Pari 
+20022500 curved sword_both hands proximity_weak one 
+20022600 Curved Sword_Both Hands Proximity_Weak 2 
+20022700 Curved Sword_Both Hands Proximity_Strong 1 
+20022800 Curved Sword_Both Hands Proximity_Strong 1_02 
+20022900 Curved Sword_Both Hands Dash 
+20023000 Curved Sword_Rolling Hands 
+20023100 Curved sword_both-handed guard breaking 
+20023700 Curved Sword_Two-Sword Style Both Hand Proximity_Weak 1 
+20023800 Curved Sword_Two-Sword Style Both Hand Proximity_Weak 2 
+20023900 Curved Sword_Two-Sword Style Both Hand Proximity_Strong 1 
+20024000 Curved Sword_Both Hands Guard 
+20024100 Spider Thread_One Hand Proximity_Strong 1 
+20024110 Spider Thread_One Hand Proximity_Strong 1 (Weapon Damage) 
+20024200 Spider Thread_One Hand Proximity_Strong 2 
+20024210 Spider Thread_One Hand Proximity_Strong 2 (Weapon Damage) 
+20024300 Spider Thread_Both Hands Proximity_Strong 1 
+20024310 Spider Thread_Both-Handed Proximity_Strong 1 (Weapon Damage) 
+20024400 Spider Thread_Two-Handed Proximity_Strong 2 
+20024410 Spider Thread_Both-Handed Proximity_Strong 2 (Weapon Damage) 
+20024500 Youyato_One-handed proximity_weak 1 
+20024600 Youyto_One-handed Proximity_Weak 2 
+20024700 Yousword_One-handed Proximity_Strong 1 
+20024800 Yousword_One Hand Proximity_Strong 1_02 
+20024900 Yousword_One Hand Dash 
+20025000 One hand rolling 
+20025100 Youyato_One-handed guard collapse 
+20025200 One-handed jump 
+20025300 One hand fall 
+20025400 Yousword_One-handed jump fall 
+20025500 One-handed chase 
+20025600 Yousword_One-handed Parii 
+20025700 Youyto_Both-Handed Proximity_Weak 1 
+20025800 Youyto_Two-Handed Proximity_Weak 2 
+20025900 Youyto_Two-Handed Proximity_Strong 1 
+20026000 Youyto_Two-Handed Proximity_Strong 2 
+20026100 Youyato_Double-handed Dash 
+20026200 Youyasword_Both Hands Rolling 
+20026300 Youyato_Both-Hands Guard Breaking 
+20026900 Youyto_Two-sword style two-handed both-handed proximity_weak 1 
+20027000 Youyto_Two-sword style two-handed two-handed proximity_weak 2 
+20027100 Yousword_Two-sword style two-handed two-handed proximity_strong 1 
+20027200 Youyato_Both-Hands Guard 
+20027300 Transparent sword_one hand proximity_weak one 
+20027400 Transparent Sword_One Hand Proximity_Weak 2 
+20027500 Transparent sword_one-handed proximity_strong 1 
+20027600 Transparent Sword_One Hand Proximity_Strong 1_02 
+20027700 Transparent Sword_One Hand Dash 
+20027800 Transparent Sword_One Hand Rolling 
+20027900 Transparent sword_one-handed guard breaking 
+20028000 Transparent Sword_One Hand Jump 
+20028100 Transparent sword_one hand fall 
+20028200 Transparent sword_one-handed jump fall 
+20028300 Transparent Sword_One-handed Chase 
+20028400 Transparent Sword_One Hand Parii 
+20028500 Transparent sword_both hands proximity_weak one 
+20028600 Transparent Sword_Both Hands Proximity_Weak 2 
+20028700 Transparent sword_both hands proximity_strong 1 
+20028800 Transparent Sword_Both Hands Proximity_Strong 1_02 
+20028900 Transparent Sword_Both Hands Dash 
+20029000 Transparent Sword_Rolling Hands 
+20029100 Transparent sword_both-handed guard breaking 
+20029700 Transparent sword_two-sword style both hands proximity_weak 1 
+20029800 Transparent Sword_Two-Sword Style Both Hand Proximity_Weak 2 
+20029900 Transparent Sword_Two-Sword Style Both Hand Proximity_Strong 1 
+20030000 Transparent Sword_Both Hands Guard 
+20030100 Lightning Sword_One Hand Proximity_Strong 1 
+20030110 Lightning Sword_One Hand Proximity_Strong 1 (Weapon Damage) 
+20030200 Lightning Sword_One Hand Proximity_Strong 2 
+20030210 Lightning Sword_One Hand Proximity_Strong 2 (Weapon Damage) 
+20030300 Thunder sword_two-handed proximity_strong 1 
+20030310 Lightning Sword_Both Hands Proximity_Strong 1 (Weapon Damage) 
+20030400 Thunder sword_two-handed proximity_strong 2 
+20030410 Lightning Sword_Two-Handed Proximity_Strong 2 (Weapon Damage) 
+20030500 Moonlight wave_one-handed proximity_strong 1 
+20030510 Moonlight Wave_One Hand Proximity_Strong 1 (Weapon Damage) 
+20030520 Moonlight wave_One-handed proximity_strong 1 (landing) 
+20030600 Moonlight Wave_One-Handed Proximity_Strong 2 
+20030610 Moonlight Wave_One Hand Proximity_Strong 2 (Weapon Damage) 
+20030620 Moonlight Wave_One-Handed Proximity_Strong 2 (Landing) 
+20030700 Moonlight wave_Two-handed proximity_strong 1 
+20030710 Moonlight Wave_Both-Handed Proximity_Strong 1 (Weapon Damage) 
+20030720 Moonlight wave_Both-hands proximity_strong 1 (landing) 
+20030800 Moonlight Wave_Two-Handed Proximity_Strong 2 
+20030810 Moonlight Wave_Both-Handed Proximity_Strong 2 (Weapon Damage) 
+20030820 Moonlight Wave_Both-Handed Proximity_Strong 2 (Landing) 
+20030900 Large kitchen knife_one-handed proximity_weak one 
+20031000 Large kitchen knife_one-handed proximity_weak 2 
+20031100 Large kitchen knife_one-handed proximity_strong one 
+20031200 Large kitchen knife_one-handed proximity_strong_02 
+20031300 Large kitchen knife _ one hand dash 
+20031400 Large kitchen knife _one hand rolling 
+20031500 Large kitchen knife _one-handed guard breaking 
+20031600 Large kitchen knife_one-handed jump 
+20031700 Large kitchen knife _ one hand fall 
+20031800 Large kitchen knife _ one hand jump fall 
+20031900 Large kitchen knife_one-handed chase 
+20032000 Large kitchen knife_one-handed parie 
+20032100 Large kitchen knife _both hands proximity_weak one 
+20032200 Large kitchen knife _both hands proximity_weak 2 
+20032300 Large kitchen knife _both hands proximity_strong 1 
+20032400 Large kitchen knife_both hands proximity_strong_02 
+20032500 Large kitchen knife _ two-handed dash 
+20032600 Large kitchen knife_rolling hands 
+20032700 Large kitchen knife _both hands guard breaking 
+20033300 Large kitchen knife_two-sword style both hands proximity_weak 1 
+20033400 Large kitchen knife_two-sword style both hands proximity_weak 2 
+20033500 Large kitchen knife_two-sword style both hands proximity_strong 1 
+20033600 Large kitchen knife_hands guard 
+20033700 Self Enchantment - Lightning 
+20033800 Self Enchantment - Magic 
+20033900 Salamander Spear - One Hand Breath 
+20033901 Salamander Spear - One Hand Breath (Explosion) 
+20033910 Salamander Spear - One Hand Breath (Weapon Damage) 
+20034000 Salamander Spear - Breath Of Hands 
+20034001 Salamander Spear - Breath of Both Hands (Explosion) 
+20034010 Salamander Spear - Breath of Both Hands (Weapon Damage) 
+20034050 Salamander Spear - Two-Sword Style Two-Handed Hands Breath 
+20034051 Salamander Spear - Two-Sword Hand Breath (Explosion) 
+20034060 Salamander Spear - Two-Sword Hand Breath (Weapon Damage) 
+20034100 vine swells_one-handed proximity_weak one 
+20034200 vine swells_one-handed proximity_weak 2 
+20034300 vine swells_one-handed proximity_strong one 
+20034400 Vine shards_one-handed proximity_strong 2 
+20034500 One hand dash 
+20034600 hanging sushi_ one hand rolling 
+20034700 One-handed guard breaking 
+20034800 One hand jump 
+20034900 one hand falling 
+20035000 One hand jump fall 
+20035100 One-handed chase 
+20035200 Vine Sai 
+20035300 vine sands_both hands proximity_weak one 
+20035400 Vine shards_both hands proximity_weak 2 
+20035500 vine sands_both hands proximity_strong one 
+20035600 Vine shards_two-handed proximity_strong 2 
+20035601 Tsurushi_Both-Handed Proximity_Strong 2 (Rotating Part) 
+20035700 Vine Dash 
+20035800 hanging sushi_ rolling both hands 
+20035900 Tsurushi_ Two-Handed Guard Breaking 
+20036500 Tsurushi_Two-sword style two-handed two-handed proximity_weak 1 (right) 
+20036510 Tsurushi_Two-sword style two-handed two-handed proximity_weak 1 (left) 
+20036600 Tsurushi_Two-sword style two-handed two-handed proximity_weak 2 (right) 
+20036610 Tsurushi_Two-sword style two-handed two-handed proximity_weak 2 (left) 
+20036700 Tsurushi_Two-sword style two-handed two-handed proximity_strong 1 (right) 
+20036710 Tsurushi_Two-sword style two-handed two-handed proximity_strong 1 (left) 
+20036800 Tsurushi_ Two-Handed Guard 
+20036900 Long hammer_one hand proximity_weak one 
+20036901 Long mallet_one-handed proximity_weak 1 (pattern) 
+20037000 Long hammer_one hand proximity_weak 2 
+20037001 Long mallet_one-handed proximity_weak 2 (pattern) 
+20037100 Long hammer_one-handed proximity_strong one 
+20037101 Long mallet_one-handed proximity_strong 1 (pattern) 
+20037200 Long hammer_one-handed proximity_strong 2 
+20037201 Long mallet_one-handed proximity_strong 2 (pattern) 
+20037300 Long mallet_one-handed dash 
+20037301 Long mallet_one-handed dash (pattern) 
+20037400 Long hammer_one-handed rolling 
+20037401 Long mallet_one-handed rolling (handle) 
+20037500 Long mallet_one-handed guard breaking 
+20037600 Long hammer_one-handed jump 
+20037700 Long hammer_one hand fall 
+20037800 Long hammer_one hand jump fall 
+20037900 Long mallet_one-handed chase 
+20038000 Long hammer_one-handed parie 
+20038100 Long hammer_both hands proximity_weak one 
+20038101 Long mallet_Both-handed proximity_Weak 1 (pattern) 
+20038200 Long hammer_both hands proximity_weak 2 
+20038201 Long mallet_Both-handed proximity_Weak 2 (pattern) 
+20038300 Long mallet_both hands proximity_strong one 
+20038301 Long mallet_Both-handed proximity_strong 1 (pattern) 
+20038400 Long mallet_both hands proximity_strong 2 
+20038401 Long mallet_Both-handed proximity_strong 2 (pattern) 
+20038500 Long mallet_both hands dash 
+20038501 Long mallet_both-handed dash (pattern) 
+20038600 Long hammer_both hands rolling 
+20038601 Long mallet_both-handed rolling (pattern) 
+20038700 Long mallet_both-handed guard breaking 
+20039300 Long hammer_two-sword style two-handed both-handed proximity_weak 1 (right) 
+20039301 Nagatachi_Two-sword style two-handed two-handed proximity_weak 1 (right) (pattern) 
+20039310 Long mallet_Two-sword style two-handed both-handed proximity_weak 1 (left) 
+20039311 Nagatachi_Two-sword style two-handed two-handed proximity_weak 1 (left) (pattern) 
+20039400 Nagatachi_Two-sword style two-handed two-handed proximity_weak 2 (right) 
+20039401 Nagatachi_Two-sword style two-handed two-handed proximity_weak 2 (right) (pattern) 
+20039410 Nagatachi_Two-sword style two-handed two-handed proximity_weak 2 (left) 
+20039411 Nagatachi_Two-sword style two-handed two-handed proximity_weak_left-left-pattern 
+20039500 Nagatachi_Two-sword style two-handed both-handed proximity_strong 1 (right) 
+20039501 Nagatachi_Two-sword style two-handed two-handed proximity_strong 1 (right) (pattern) 
+20039510 Nagatachi_Two-sword style two-handed two-handed proximity_strong 1 (left) 
+20039511 Nagatachi_Two-sword style two-handed two-handed proximity_strong 1 (left) (pattern) 
+20039600 Long mallet_both hands guard 
+20039700 Two-handed explosion of the molten iron daemon 
+20039710 Molten Iron Daemon's Two Hands Mallet - One Hand (Weapon Damage) 
+20039720 Two-handed explosion of the molten iron daemon 
+20039800 Two-handed mallet of the molten iron daemon - two-handed explosion (for production) 
+20039810 Molten Iron Daemon's Two Hands Mallet - Both Hands (Weapon Damage) 
+20039820 Molten iron daemon both hands mallet - both-handed explosion (for damage) 
+20039900 Queen Knight B's Two Hands Mallet - Both Hands - Grudge Bullets 
+20039901 Queen Knight B's Two Hands Mallet - Both Hands - Grudge Bullets (For Production) 
+20039910 Queen Knight B's Two Hands Mallet - Both Hands (Weapon Damage) 
+20040000 Leviathan's Long Axe - One Hand - Strong 1 (Spear) 
+20040001 Leviathan's Long-Handed Axe - One Hand - Strong 1 (Axe Part) 
+20040100 Leviathan's Long Axe - One Hand - Strong 2 (Spear) 
+20040101 Leviathan's Long-Handed Axe - One Hand - Strong 2 (Axe Part) 
+20040200 Leviathan's Long Axe - Both Hands - Strong 1 (Spear) 
+20040201 Leviathan's Long-Handed Axe - Two-Handed - Strong 1 (Axe Part) 
+20040300 Leviathan's Long Axe - Both Hands - Strong 2 (Spear) 
+20040301 Leviathan's Long Ax - Two Hands - Strong 2 (Axe Part) 
+20040400 Leviathan's Long-Handed Axe - Two-Sword Style - Weak 1 (Spear) 
+20040401 Leviathan's Long-Handed Axe - Two-Sword Style - Weak 1 (Axe Part) 
+20040410 Leviathan's Long-Handed Axe- Two-Sword Style Two-Handed Hand- Weak 1 (Spear) (Left) 
+20040411 Leviathan's Two-Handed Long Axe - Two-Sword Style - Weak 1 (Axe) (Left) 
+20040500 Leviathan's Long-Handed Axe - Two-Sword Style - Weak 2 (Spear) 
+20040501 Leviathan's Long-Handed Axe - Two-Sword Style - Weak 2 (Axe Part) 
+20040510 Leviathan's Long-Handed Axe- Two-Sword Style Two-Handed Two-Handed-Weak 2-Spear Part -Left 
+20040511 Leviathan's Two-Handed Long Axe - Two-Sword Style - Weak 2 (Axe) (Left) 
+20040600 Leviathan's Long-Handed Axe - Two-Sword-Style Two-Handed -Strong 1 (Spear) 
+20040601 Leviathan's Long-Handed Axe - Two-Sword-Style Two-Handed -Strong 1 (Axe Part) 
+20040610 Leviathan's Two-Handed Long Axe- Two-Sword-Style Two-Handed-Strong-Strong-Spear-1-1-Left 
+20040611 Leviathan's Two-Handed Long Axe- Two-Sword-Style Two-Handed-Strong-Powered-A-X-Ei-ya-ya-ya-ya-ya-ya-ya-ya-ya-ya-ya- 
+20040700 One Hand Wand - One Hand - Strong 1 
+20040800 One Hand Wand - One Hand - Strong 2 
+20040900 One Hand Wand - Hands - Strong 1 
+20041000 One Hand Wand - Hands - Strong 2 
+20041500 One-handed bell - one hand - strong 1 
+20041600 One-handed bell - one hand - strong 2 
+20041700 One-handed bell - hands - strong 1 
+20041800 One-handed bell - hands - strong 2 
+20041900 The Fire of Magic - One Hand - Strong 1 
+20042000 Magic Fire - One Hand - Strong 2 
+20042100 The Fire of Magic - Both Hands - Strong 1 
+20042200 The Fire of Magic - Hands - Strong 2 
+20042300 drying rod_one-handed proximity_weak one 
+20042400 drying rod_one-handed proximity_weak 2 
+20042500 drying rod_one-handed proximity_strong one 
+20042600 Drying rod_one-handed proximity_strong 2 
+20042700 one hand dash of drying rod 
+20042800 one hand rolling 
+20042900 Drying rod_one-handed guard breaking 
+20043000 One hand jumping 
+20043100 one hand falling 
+20043200 One hand jump fall 
+20043300 One-handed chase 
+20043400 Drying Rod_One-Handed Parie 
+20043500 drying rod_both hands proximity_weak one 
+20043600 drying rod_both hands proximity_weak 2 
+20043700 drying rod_both hands proximity_strong one 
+20043800 Drying rod_both hands proximity_strong 2 
+20043900 drying rod_both-handed dash 
+20044000 drying rod_both hands rolling 
+20044100 Drying rod_both-handed guard breaking 
+20044700 Drying rod_two-sword style both hands proximity_weak 1 
+20044800 Drying rod_two-sword style both hands proximity_weak 2 
+20044900 Drying rod_two-sword-style two-handed two-handed proximity_strong 1 
+20045000 Drying rod_hands guard 
+20045100 One-handed long axe_ one-handed proximity_ weak one 
+20045200 One-handed long axe_one-handed proximity_weak 2 
+20045300 One-handed long axe_one-handed proximity_strong one 
+20045400 One-handed long axe_one-handed proximity_strong 2 
+20045500 One-handed long axe_ one-handed dash 
+20045600 One-handed long axe_ one-handed rolling 
+20045700 One-handed long axe_ one-handed guard collapse 
+20045800 One-handed long axe_ one-handed jump 
+20045900 One-handed long axe_one-handed fall 
+20046000 One-handed long axe_ one-handed jump fall 
+20046100 One-handed long axe_ one-handed chase 
+20046200 One-handed long axe_one-handed parie 
+20046300 One-handed long axe_two-handed proximity_weak one 
+20046400 One-handed long axe_two-handed proximity_weak 2 
+20046500 One-handed long axe_two-handed proximity_strong one 
+20046600 One-handed long axe_two-handed proximity_strong 2 
+20046700 One-handed long axe_ two-handed dash 
+20046800 One-handed long axe_rolling hands 
+20046900 One-handed long axe_ two-handed guard breaking 
+20047500 One-handed long axe_two-sword style two-handed two-handed proximity_weak 1 (right) 
+20047510 One-handed long axe_two-sword-style two-handed two-handed proximity_weak 1 (left) 
+20047600 One-handed long axe_two-sword style two-handed two-handed proximity_weak 2 (right) 
+20047610 One-handed long axe_two-sword style two-handed two-handed proximity_weak 2 (left) 
+20047700 One-handed long axe_two-sword-style two-handed two-handed proximity_strong 1 (right) 
+20047710 One-handed long axe_two-sword-style two-handed two-handed proximity_strong 1 (left) 
+20048100 One-handed long axe_two-handed guard 
+20048200 black knight axe_one hand proximity_ weak one 
+20048300 Black Knight Axe_ One Hand Proximity _ Weak 2 
+20048400 Black Knight Axe_One Hand Proximity_Strong 1 
+20048500 Black Knight Axe_One Hand Proximity_Strong 2 
+20048600 Black Knight Axe_ One Hand Dash 
+20048700 Black Knight Axe_ One Hand Rolling 
+20048800 Black Knight Axe_ One Hand Guard Breaking 
+20048900 Black Knight Axe_ One Hand Jump 
+20049000 Black Knight Axe_ One Hand Fall 
+20049100 Black Knight Axe_ One Hand Jump Fall 
+20049200 Black Knight Axe_ One-Handed Chase 
+20049300 Black Knight Axe_One Hand Parie 
+20049400 Black Knight Axe_ Two-Handed Proximity_ Weak 1 
+20049500 Black Knight Axe_ Two Hands Proximity _ Weak 2 
+20049600 Black Knight Axe_Two-Handed Proximity_Strong 1 
+20049700 Black Knight Axe_Two-Handed Proximity_Strong 2 
+20049800 Black Knight Axe_ Two-Handed Dash 
+20049900 Black Knight Axe_ Rolling Hands 
+20050000 Black Knight Axe_ Two-Handed Guard Breaking 
+20050600 Black Knight Axe_Two-Sword Style Two-Handed Both Hand Proximity_Weak 1 (Right) 
+20050700 Black Knight Axe_Two-Sword Style Two-Handed Both-Handed Proximity_Weak 1 (Left) 
+20050800 Black Knight Axe_Two-Sword Style Two-Handed Both Hand Proximity_Weak 2 (Right) 
+20050900 Black Knight Axe_Two-Sword Style Two-Handed Two-Handed Proximity_Weak 2 (Left) 
+20051000 Black Knight Axe_Two-Sword Style Two-Handed Both-Handed Proximity_Strong 1 (Right) 
+20051100 Black Knight Axe_Two-Sword Style Two-Handed Two-Handed Proximity_Strong 1 (Left) 
+20051200 Black Knight Axe_Hands Guard 
+20051400 Tama_One Hand Proximity_Weak 1 
+20051600 Tama_One Hand Proximity_Weak 2 
+20051800 Tama_One-handed proximity_strong one 
+20052000 Tama_One-handed proximity_strong 2 
+20052200 Tama_One Hand Dash 
+20052400 Tama_One-handed rolling 
+20052600 Otama_One-handed guard breaking 
+20052800 Tama_One-handed jump 
+20053000 One hand fall 
+20053200 Tama_One-handed jump fall 
+20053400 Otama_One-handed chase 
+20053600 Otama_One-handed Parii 
+20053800 Otama_Both Hands Proximity_Weak 1 
+20054000 Otama_Both Hands Proximity_Weak 2 
+20054200 Otama_Both Hands Proximity_Strong 1 
+20054400 Otama_Both-Handed Proximity_Strong 2 
+20054600 Otama_Both-Handed Dash 
+20054800 Otama_Both Hands Rolling 
+20055000 Otama_Both-handed guard breaking 
+20056200 Otama_Two-sword style two-handed both-handed proximity_weak 1 
+20056400 Otama_Two-sword style two-handed both-handed proximity_weak 2 
+20056600 Otama_Two-sword style two-handed both-handed proximity_strong 1 
+20056800 Otama_Both-Handed Guard 
+20057000 One hand mallet (stabbing) _ one-handed proximity _ weak 1 
+20057200 One Hand Mallet (Stabbing) _ One Hand Proximity _ Weak 2 
+20057400 One hand mallet (stabbing) _ one-handed proximity _ strong 1 
+20057600 One Hand Mallet (Stabbing) _ One Hand Proximity _ Strong 2 
+20057800 One hand mallet 
+20058000 One hand mallet (stabbing) _ one-handed rolling 
+20058200 One hand mallet _one-handed guard breaking 
+20058400 One hand mallet (stabbing) _ one-handed jump 
+20058600 One hand mallet (stabbing) _ one hand fall 
+20058800 One hand mallet (stabbing) _ one-handed jump fall 
+20059000 One-handed mallet (stabbing) _ one-handed chase 
+20059200 One hand mallet 
+20059400 One hand mallet (stabbing) _ both hands proximity _ weak 1 
+20059600 One hand mallet (stabbing) _ both hands proximity _ weak 2 
+20059800 One hand mallet (stabbing) _both hands proximity_strong 1 
+20060000 One hand mallet (stabbing) _Both hands proximity_strong 2 
+20060200 One hand mallet 
+20060400 One hand mallet (stabbing) _ rolling both hands 
+20060600 One hand mallet _broken guard in both hands 
+20061800 One hand mallet (stabbing) _ two-sword style both hands proximity _ weak 1 
+20062000 One hand mallet (stabbing) _ two-sword style both hands proximity _ weak 2 
+20062200 One hand mallet (stabbing) _ two-sword style both hands proximity _strong 1 
+20062400 One hand mallet _two-handed guard 
+20062500 nail_one hand proximity_weak one 
+20062600 Nail_One Hand Proximity_Weak 2 
+20062700 nail_one-handed proximity_strong one 
+20062800 Nail_One Hand Proximity_Strong 2 
+20062900 Nail_ One Hand Dash 
+20063000 Nail_One Hand Rolling 
+20063100 Nail_One-handed guard breaking 
+20063200 Nail_One-handed jump 
+20063300 Nail_ One hand fall 
+20063400 Nail_ One Hand Jump Fall 
+20063500 Nail_One-handed chase 
+20063600 Nail_One Hand Pari 
+20063700 nail_both hands proximity_weak one 
+20063800 Nail_Both Hands Proximity_Weak 2 
+20063900 Nail_Both Hands Proximity_Strong 1 
+20064000 Nail_Both Hands Proximity_Strong 2 
+20064100 Nail_ Two-Handed Dash 
+20064200 Nail_Rolling Hands 
+20064300 Nail_Both-handed guard breaking 
+20064400 Nail_ Both Hands Jump 
+20064500 Nail_Both hands falling 
+20064600 Nail_Both Hands Jump Falling 
+20064700 Nail_Both Hands Chase 
+20064800 Nail_Both Hands Parie 
+20064900 Nail_Two-sword style two-handed both hands proximity_weak one 
+20065000 Nail_Two-sword style two-handed both hands proximity_weak 2 
+20065100 Nail_Two-sword style both hands proximity_strong 1 
+20065200 Nail_Hands Guard 
+20065300 Queen's Sickle_ One Hand Proximity_ Weak 1 
+20065400 Queen's Sickle_ One Hand Proximity_ Weak 2 
+20065500 Queen's Sickle_One Hand Proximity_Strong 1 
+20065600 Queen's Sickle_One Hand Proximity_Strong 2 
+20065700 Queen's Sickle_ One Hand Dash 
+20065800 Queen's Sickle Rolling One Hand 
+20065900 Queen's Sickle_ One Hand Guard Breaking 
+20066000 Queen's Sickle One Hand Jump 
+20066100 Queen's Sickle_ One Hand Fall 
+20066200 Queen's Sickle_ One Hand Jump Fall 
+20066300 The Queen's Sickle 
+20066400 Queen's Sickle_One-Handed Parisi 
+20066500 Queen's Sickle_ Two-Handed Proximity_ Weak 1 
+20066600 Queen's Sickle_ Two-Handed Proximity_ Weak 2 
+20066700 Queen's Sickle_Both Hands Proximity_Strong 1 
+20066800 Queen's Sickle_Two-Handed Proximity_Strong 2 
+20066900 Queen's Sickle_ Two-Handed Dash 
+20067000 Queen's Sickle Rolling Hands 
+20067100 Queen's Sickle_ Two-Handed Guard Breaking 
+20067700 Queen's Sickle_Two-Sword Style Two-Handed Hand Proximity_Weak 1 (Right) 
+20067710 Queen's Sickle_Two-Sword Style Two-Handed Hand Proximity_Weak 1 (Left) 
+20067800 Queen's Sickle_Two-Sword Style Two-Handed Hand Proximity_Weak 2 (Right) 
+20067810 Queen's Sickle_Two-Sword Style Two-Handed Hand Proximity_Weak 2 (Left) 
+20067900 Queen's Sickle_Two-Sword Style Two-Handed Two-Handed Proximity_Strong 1 (Right) 
+20067910 Queen's Sickle_Two-Sword Style Two-Handed Hand Proximity_Strong 1 (Left) 
+20068000 Queen's Sickle_ Hands Guard 
+20068100 The brain trunk of the shinmiki spear_ one-handed proximity _ weak 1 
+20068200 The brain trunk of the shinmiki spear_one-handed proximity_weak 2 
+20068300 The shinmiki spear of the brain trunk_one-handed proximity_strong 1 
+20068400 The shinmiki spear of the brain trunk_one-handed proximity_strong 2 
+20068500 The shinmiki spear of the brain trunk_ one-handed dash 
+20068600 The shinmiki spear of the brain trunk_ one-handed rolling 
+20068700 The shinmiki spear of the brain trunk_ one-handed guard collapse 
+20068800 The brain trunk of the shinmiki spear_ one-handed jump 
+20068900 The shinmiki spear of the brain trunk_ one-handed fall 
+20069000 The brain trunk of the shinoki spear_ one-handed jump fall 
+20069100 The Shinmiki Spear of the Brain Trunk 
+20069200 The shinmiki spear of the brain trunk_one-handed parie 
+20069300 The shinmiki spear of the brain trunk_two-handed proximity_weak 1 
+20069400 The shinmiki spear of the brain trunk_two-handed proximity_weak 2 
+20069500 The shinmiki spear of the brain trunk_two-handed proximity_strong 1 
+20069600 The Shinmiki Spear of the Brain Trunk_Two-Handed Proximity_Strong 2 
+20069700 The shinmiki spear of the brain trunk_ both hands dash 
+20069800 The shinmiki spear of the brain trunk_ rolling both hands 
+20069900 The shinmiki spear of the brain trunk_ two-handed guard collapse 
+20070500 The shinmiki spear of the brain trunk_two-sword style both hands proximity_weak 1 (right) 
+20070510 The brain trunk of the shinmiki spear_two-sword style two-handed two-handed proximity_weak 1 (left) 
+20070600 The brain trunk of the shinmiki spear_two-sword style two-handed two-handed proximity_weak_weak 2 (right) 
+20070610 The brain trunk of the shinmiki spear_two-sword style two-handed two-handed proximity_weak_weak 2 (left) 
+20070700 The shinmiki spear of the brain trunk_Two-sword style both hands proximity_strong 1 (right) 
+20070710 The brain trunk of the shinmiki spear_two-sword style two-handed two-handed proximity_strong 1 (left) 
+20070800 The shinmiki spear of the brain trunk_ two-handed guard 
+20070900 Damon Knight's Oversized Sword_One Hand Proximity_Strong 1 (for Directing) 
+20070910 Damon Knight's Oversized Sword_One Hand Proximity_Strong 1 (Weapon Damage) 
+20070920 Damon Knight's Oversized Sword_One Hand Proximity_Strong 1 (for Damage) 
+20071000 Damon Knight's Oversized Sword_One Hand Proximity_Strong 2 (for Directing) 
+20071010 Damon Knight's Oversized Sword_One Hand Proximity_Strong 2 (Weapon Damage) 
+20071020 Damon Knight's Oversized Sword_One Hand Proximity_Strong 2 (for Damage) 
+20071100 Damon Knight's Oversized Sword_Two-Handed Proximity_Strong 1 (for Directing) 
+20071110 Damon Knight's Oversized Sword_Two-Handed Proximity_Strong 1 (Weapon Damage) 
+20071120 Damon Knight's Oversized Sword_Both-Handed Proximity_Strong 1 (for Damage) 
+20071200 Damon Knight's Oversized Sword_Two-Handed Proximity_Strong 2 (for Directing) 
+20071210 Damon Knight's Oversized Sword_Two-Handed Proximity_Strong 2 (Weapon Damage) 
+20071220 Damon Knight's Oversized Sword_Two-Handed Proximity_Strong 2 (for Damage) 
+20071300 Bi-headed Wyburn's Great Bent Sword_One Hand Proximity_Strong 1 (Parent) 
+20071310 Bi-headed Wyvern's Great Sword_One Hand Proximity_Strong 1 (crack) 
+20071320 Twin-headed Wyburn's Great Sword_One Hand Proximity_Strong 1 (Weapon Damage) 
+20071400 Two-headed Wyvern's Great Bent Sword_One Hand Proximity_Strong 2 
+20071401 Two-headed Wyburn's Great Sword_One Hand Proximity_Strong 2 (Root) 
+20071500 Bi-headed Wyburn's Great Bent Sword_Two-Handed Proximity_Strong 1 (Parent) 
+20071510 Bi-headed Wyvern's Great Sword_Two-Handed Proximity_Strong 1 (crack) 
+20071520 Two-headed Wyburn's Great Sword_Two-Handed Proximity_Strong 1 (Weapon Damage) 
+20071600 Two-headed Wyvern's Great Bent Sword_Two-Handed Proximity_Strong 2 
+20071601 Two-headed Wyburn's Great Sword_Two-Handed Proximity_Strong 2 (Root) 
+20071900 Queen's Two-Handed Bow_Two-Handed Proximity_Strong 1 
+20071901 Queen's Two-Handed Bow_Two-Handed Proximity_Strong 1 (Charge) 
+20071910 Queen's Two-Handed Bow_Two-Handed Proximity_Strong 1 (Weapon Damage) 
+20072000 Queen's Two-Handed Bow_Two-Handed Proximity_Strong 2 
+20072001 Queen's Two-Handed Bow_Two-Handed Proximity_Strong 2 (Charge) 
+20072010 Queen's Two-Handed Bow_Two-Handed Proximity_Strong 2 (Weapon Damage) 
+20072100 sinner's sword_one-handed proximity_weak one 
+20072200 Sinner's Sword_ One Hand Proximity_ Weak 2 
+20072300 sinner's sword_one-handed proximity_strong one 
+20072400 Sinner's Sword_One Hand Proximity_Strong 2 
+20072500 Sinner's Sword_ One Hand Dash 
+20072600 Sinner's Sword_ One Hand Rolling 
+20072700 Sinner's Sword_ One-Handed Guard Breaking 
+20072800 Sinner's Sword_ One Hand Jump 
+20072900 Sinner's Sword_ One Hand Fall 
+20073000 Sinner's Sword_ One Hand Jump Fall 
+20073100 Sinner's Sword_ One-handed Chase 
+20073200 Sinner's Sword_ One Hand Parie 
+20073300 sinner's sword_both hands proximity_weak one 
+20073400 Sinner's Sword_ Two Hands Proximity_ Weak 2 
+20073500 Sinner's Sword_Two-Handed Proximity_Strong 1 
+20073600 Sinner's Sword_Two-Handed Proximity_Strong 2 
+20073700 Sinner's Sword_ Two-Handed Dash 
+20073800 Sinner's Sword_ Rolling Hands 
+20073900 Sinner's Sword_ Two-Handed Guard Breaking 
+20074000 Sinner's Sword_ Both Hands Jump 
+20074100 Sinner's Sword_ Falling Both Hands 
+20074200 Sinner's Sword_ Both Hands Jump Fall 
+20074300 Sinner's Sword_ Two-Handed Chase 
+20074400 Sinner's Sword_ Both Hands Parie 
+20074500 Sinner's Sword_ Two-Sword Style Both Hands Proximity_ Weak 1 
+20074600 Sinner's Sword_ Two-Sword Style Both Hands Proximity_ Weak 2 
+20074700 Sinner's Sword_Two-Sword Style Two-Handed Two-Handed Proximity_Strong 1 
+20074800 Sinner's Sword_ Two-Handed Guard 
+20074900 strong bare hands_one hand proximity_weak one 
+20075000 strong bare hands_one hand proximity_weak 2 
+20075100 strong bare hands_one-handed proximity_strong one 
+20075200 Strong bare hands_one-handed proximity_strong 2 
+20075300 Strong bare hands_ one-handed dash 
+20075400 strong bare hands_one-handed rolling 
+20075500 Strong bare hands_ one-handed guard breaking 
+20075600 Strong bare hands_ one-handed jump 
+20075700 Strong bare hands_ one hand fall 
+20075800 Strong bare hands_ one hand jump fall 
+20075900 Strong bare hands_ one-handed chase 
+20076000 Strong bare hands_one-handed parie 
+20076100 strong bare hands_both hands proximity_weak one 
+20076200 Strong bare hands_both hands proximity_weak 2 
+20076300 strong bare hands_two-handed proximity_strong one 
+20076400 Strong bare hands_two-handed proximity_strong 2 
+20076500 Strong bare hands_ dash of both hands 
+20076600 strong bare hands_rolling hands 
+20076700 Strong bare hands_ two-handed guard breaking 
+20077300 strong bare hands_two-sword style two-handed both hands proximity_weak one 
+20077400 Strong bare hands_two-sword-style two-handed both-handed proximity_weak 2 
+20077500 Strong bare hands_two-sword-style two-handed both-handed proximity_strong 
+20077600 Strong bare hands_hands guard 
+20078100 Great crush_ one-handed proximity_ weak one 
+20078200 Great crush_ one-handed proximity_ weak 2 
+20078300 Great crush_ one-handed proximity_strong one 
+20078400 Great crush_one-handed proximity_strong 2 
+20078500 Great crush_ one-handed dash 
+20078600 Great crushing_ one-handed rolling 
+20078700 Great crush_ one-handed guard breaking 
+20078800 Great crush_ one-handed jump 
+20078900 Crushed fangs_ one hand fall 
+20079000 Great crush_ one hand jump fall 
+20079100 Crushed fangs_ one-handed chase 
+20079300 Great crush_ both hands proximity _ weak one 
+20079400 Great crush_ Two-handed proximity_ weak 2 
+20079500 Great crush_ Two-handed proximity_strong 1 
+20079600 Great crush_ Two-handed proximity_strong 2 
+20079700 Great crush_ two-handed dash 
+20079800 Great crushing_ rolling hands 
+20079900 Great crushed fangs_ both hands guard breaking 
+20080400 Great crushed fangs_both hands parie 
+20080500 Great crush_ Two-sword style both hands proximity_ weak 1 
+20080600 Great crush_ Two-sword style both hands proximity_ weak 2 
+20080700 Great crushed fangs_two-sword-style two-handed two-handed proximity_strong 1 
+20080800 Large crushed_ two-handed guard 
+20080900 Bi-headed Wyvern's Oversized Sword_Two-Handed Proximity_Strong 1 
+20080910 Bi-headed Wyburn's Oversized Sword_Two-Handed Proximity_Strong 1 (Weapon Damage) 
+20080920 Bi-headed Wyburn's Oversized Sword_Two-Handed Proximity_Strong 1 (Landing) 
+20081000 Bi-headed Wyvern's Oversized Sword_Two-Handed Proximity_Strong 2 
+20081010 Bi-headed Wyburn's Oversized Sword_Two-Handed Proximity_Strong_Strong 2 (Weapon Damage) 
+20081020 Bi-headed Wyburn's Oversized Sword_Two-Handed Proximity_Strong 2 (Landing) 
+20081100 Ornstein Spear_One Hand Proximity_Strong 1 
+20081110 Ornstein Spear _ One Hand Proximity _ Strong 1 (Weapon Damage) 
+20081200 Ornstein Spear_One Hand Proximity_Strong 2 
+20081210 Ornstein Spear _ One Hand Proximity _ Strong 2 (Weapon Damage) 
+20081300 Ornstein Spears_Both-Handed Proximity_Strong 1 
+20081310 Ornstein Spears_ Two-Handed Proximity_ Strong 1 (Weapon Damage) 
+20081400 Ornstein Spears_Both-Handed Proximity_Strong 2 
+20081410 Ornstein Spears_ Two-Handed Proximity_ Strong 2 (Weapon Damage) 
+20083300 Beam Sword_One Hand Proximity_ Weak 1 
+20083400 Beam Sword_One Hand Proximity_Weak 1 (Two-Sword Style) 
+20083500 Beam Sword_One Hand Proximity_Weak 2 
+20083600 Beam Sword_One Hand Proximity_Strong 1 
+20083700 Beam Sword_One Hand Proximity_Strong 2 
+20083800 Beam Sword_One Hand Dash 
+20083900 Beam Sword_One Hand Rolling 
+20084000 Beam Sword_One Hand Guard Breaking 
+20084100 Beam Sword_One Hand Jump 
+20084200 Beam Sword_One-handed Fall (for directing) 
+20084210 Beam Sword_One Hand Fall (for Damage) 
+20084300 Beam Sword_One Hand Parie 
+20084400 Beam Sword_Both Hands Proximity_ Weak 1 
+20084500 Beam Sword_Both Hands Proximity_ Weak 2 
+20084600 Beam Sword_Both Hands Proximity_Strong 1 
+20084700 Beam Sword_Two-Handed Proximity_Strong 2 
+20084800 Beam Sword_ Two-Handed Dash 
+20084900 Beam Sword_ Rolling Both Hands 
+20085000 Beam Sword_ Two-Handed Guard Breaking 
+20085100 Beam Sword_Both Hands Parie 
+20085200 Beam Sword_ Two-Sword Style Both Hand Proximity _ Weak 1 
+20085300 Beam Sword_Two-Sword Style Both Hand Proximity_ Weak 2 
+20085400 Beam Sword_Two-Sword Style Both Hand Proximity_Strong 1 
+20085500 Beam Sword_Both-Handed Guard 
+20085600 Beam Sword for Stamina Consumption 
+20085601 Beam Sword_Durable Shaving 
+20085700 Ice Crystal Sting Sword_One Hand Proximity_Strong 1 
+20085710 Ice Crystal Sting Sword_ One Hand Proximity_ Strong 1 (Weapon Damage) 
+20085800 Ice Crystal Sting Sword_One Hand Proximity_Strong 2 
+20085810 Ice Crystal Sting Sword_ One Hand Proximity_ Strong 2 (Weapon Damage) 
+20085900 Ice Crystal Sting Sword_Both-Handed Proximity_Strong 1 
+20085910 Ice Crystal Sting Sword_ Two-Handed Proximity_ Strong 1 (Weapon Damage) 
+20086000 Ice Crystal Sting Sword_Two-Handed Proximity_Strong 2 
+20086010 Ice Crystal Sting Sword_ Two-Handed Proximity_ Strong 2 (Weapon Damage) 
+20086100 Left Hand Sword_One Hand Proximity_Strong 1 
+20086101 Left Hand Sword_One Hand Proximity_Strong 1 (2st Turn) 
+20086200 Left Hand Sword_One Hand Proximity_Strong 2 
+20086300 Left Hand Sword_Both-Handed Proximity_Strong 1 (per Airborne Body) 
+20086301 Left Hand Sword_Both-Handed Proximity_Strong 1 (Slap) 
+20086400 Left Hand Sword_Two-Handed Proximity_Strong 2 
+20086500 Left Hand Sword_Two-Sword Style Two-Handed Two-Handed Proximity_Strong 1 (Horizontal Rotation) 
+20086501 Left Hand Sword_Two-Sword Style Two-Handed Two-Handed Proximity_Strong 1 (Vertical Rotation) 
+20086600 martial artist glove_one-handed proximity_weak one 
+20086700 Martial Artist Glove_One Hand Proximity_Weak 1 (Two-Sword Style) 
+20086800 Martial Artist Glove_One Hand Proximity_Weak 2 (Water Kick) 
+20086801 Martial Artist Grove_One Hand Proximity_Weak 2 (Butt) 
+20086900 Martial Artist Grove_One Hand Proximity_Strong 1 
+20087000 Martial Artist Grove_One Hand Proximity_Strong 2 
+20087100 Martial Artist Globe_One Hand Dash 
+20087200 Martial Artist Globe_One Hand Rolling 
+20087300 Martial Artist Glove_One-Handed Guard Breaking 
+20087400 Martial Artist Globe_One-Handed Jump 
+20087500 Martial Artist Glove_One Hand Fall 
+20087600 Martial Artist Globe_One-Handed Parie 
+20087700 Martial Artist Grove_Both Hands Proximity_Weak 1 
+20087800 Martial Artist Glove _Both Hands Proximity_Weak 2 (Kick) 
+20087801 Martial Artist Glove_Two-Handed Proximity_Weak 2 (One Inch) 
+20087900 Martial Artist Grove_Two-Handed Proximity_Strong 1 
+20088000 Martial Artist Grove_Two-Handed Proximity_Strong 2 
+20088100 Martial Artist Globe_Hands Dash 
+20088200 Martial Artist Globe_Rolling Hands 
+20088300 Martial Artist Glove _Both Hands Guard Breaking 
+20088400 Martial Artist Globe_Both Hands Parie 
+20088500 Martial Artist Grove_Two-Sword Style Two-Handed Two-Handed Proximity_Weak 1 
+20088600 Martial Artist Grove_Two-Sword Style Two-Handed Two-Handed Proximity_Weak 2 
+20088700 Martial Artist Grove_Two-Sword Style Two-Handed Two-Handed Proximity_Strong 1 
+20088710 Martial Artist Glove_Two-Sword Style Two-Handed Two-Handed Proximity_Strong 1 (Weapon Damage) 
+20088800 Martial Artist Glove_Hands Guard 
+20088900 Incut a sword_two-handed proximity_strong 1 
+20088910 Incut sword_both-handed proximity_strong 1 (self-blade) 
+20088920 Incut sword_both-handed proximity_strong 1 (pull out) 
+20089000 Recovery Song Sword _One Hand Proximity_Strong 1 
+20089001 Recovery Song Sword_One Hand Proximity_Strong 1 (Charge) 
+20089010 Recovery Song Sword_One Hand Proximity_Strong 1 (for Recovery) 
+20089100 Recovery Song Sword_Both Hands Proximity_Strong 1 
+20089101 Recovery Song Sword_Both Hands Proximity_Strong 1 (Charge) 
+20089110 Recovery Song Sword_Both Hands Proximity_Strong 1 (for Recovery) 
+20089200 Oversized Shield Sword_One Hand Proximity_Strong 1 
+20089300 Oversized Shield Sword_Two-Handed Proximity_Strong 1 
+20089400 Circumferential Large Sword_Two-Handed Proximity_Strong 1 
+20089500 Circumferential Large Sword_Two-Sword Style Two-Handed Two-Handed Proximity_Strong 1 
+20089600 Bellows Sword_One Hand Proximity_Strong 1 (Section 1) 
+20089601 Bellows Sword_One Hand Proximity_Strong 1 (Section 2) 
+20089602 Bellows Sword_One Hand Proximity_Strong 1 (Section 3) 
+20089700 Bellows Sword_One Hand Proximity_Strong 2 (Section 1) 
+20089701 Bellows Sword_One Hand Proximity_Strong 2 (Section 2) 
+20089702 Bellows Sword_One Hand Proximity_Strong 2 (Section 3) 
+20089800 Bellows Sword_Two-Handed Proximity_Strong 1 (Section 1) 
+20089801 Bellows Sword_Two-Handed Proximity_Strong 1 (Section 2) 
+20089802 Bellows Sword_Two-Handed Proximity_Strong 1 (Section 3) 
+20089900 Bellows Sword_Two-Handed Proximity_Strong 2 (Section 1) 
+20089901 Bellows Sword_Two-Handed Proximity_Strong 2 (Section 2) 
+20089902 Bellows Sword_Two-Handed Proximity_Strong 2 (Section 3) 
+20090000 Crossbow_One Hand Proximity_Strong 1 
+20090001 Crossbow_One Hand Proximity_Strong 1 (Charge) 
+20090010 Crossbow_One Hand Proximity_Strong 1 (Weapon) 
+20090100 Crossbow_Both-Handed Proximity_Strong 1 
+20090101 Crossbow_Both-Handed Proximity_Strong 1 (Charge) 
+20090102 Crossbow_Both-Handed Proximity_Strong 1 (Weapon) 
+20090200 Two-handed hammer assault spear_one-handed proximity_weak one 
+20090300 Two-handed hammer assault spear_ one-handed proximity_ weak 1 (two-sword style) 
+20090400 Two-handed hammer assault spear_one hand proximity_weak 2 
+20090500 Two-handed hammer assault spear_one-handed proximity_strong 1 
+20090600 Two-handed hammer assault spear_one-handed proximity_strong 2 
+20090700 Two-handed hammer assault spear_ one-handed dash 
+20090800 Two-handed hammer assault spear_one-handed rolling 
+20090900 Both hands hammer assault spear _ one-handed guard collapse 
+20091000 Two-handed hammer assault spear_ one-handed jump 
+20091100 Two-handed hammer assault spear _ one hand fall 
+20091300 Two-handed hammer assault spear_both hands proximity_ weak one 
+20091400 Two-handed hammer assault spear_both hands proximity_weak 2 
+20091500 Two-handed hammer assault spear_both hands proximity_strong 1 
+20091600 Two-handed hammer assault spear_both hands proximity_strong 2 
+20091700 Two-handed hammer assault spear_ two-handed dash 
+20091800 Two-handed hammer assault spear_rolling both hands 
+20091900 Both hands hammer assault spear_ both hands guard collapse 
+20092000 Two-handed hammer assault spear_both hands parie 
+20092100 Two-handed hammer assault spear_two-sword style two-handed two-handed proximity_weak 1 
+20092200 Two-handed hammer assault spear_two-sword style two-handed two-handed proximity_weak 2 
+20092300 Two-handed hammer assault spear_two-sword style two-handed two-handed proximity_strong 
+20092400 Two-handed hammer assault spear_both hands guard 
+21001000 Throw - Bare Hands - Backstub 
+21001010 Throw - Strong Bare Hands - Backstab 
+21002000 Throw - Fist - Backstab 
+21003000 Toss - Nails - Backstubs 
+21004000 Throw - Dagger - Backstab 
+21004010 Throw - Venomous Dagger - Backstab 
+21004020 Throw - Mailbreaker - Backstab 
+21005000 Throw -Whip-Backstub 
+21006000 Throw - Double Blade - Backstab 
+21007000 Throw - Stabbing - Backstab 
+21008000 Throw -Spear-Backstab 
+21009000 Throw - Assault Spear - Backstab 
+21010000 Toss - Bent Sword - Backstab 
+21011000 Throw -Sword-Backstub 
+21011010 Throw - Youkai - Backstab 
+21012000 Throw - Two-Handed Sickle - Backstab 
+21013000 Throw - Direct Sword - Backstab 
+21013010 Toss - Beam Sword - Backstab 
+21013011 Throw - Beam Sword (for Production) - Backstab 
+21014000 Throw - Two-Handed Sword - Backstab 
+21015000 Throw - Oversized Sword - Backstab 
+21016000 Throw - Big Sword - Backstab 
+21017000 Toss - One Hand Mallet - Backstub 
+21018000 Toss - Both Hands Mallet - Backstub 
+21018010 Toss -Long Mallet-Backstub 
+21019000 Toss - One-Handed Axe - Backstab 
+21020000 Throw - Two-Handed Axe - Backstab 
+21021000 Throw - Two-Handed Ax - Backstub 
+21022000 Toss - One Hand Cane - Backstab 
+21023000 Toss - One-handed bell - backstub 
+21024000 Toss - Two-Handed Bow - Backstub 
+21025000 Toss - Two-Handed Bow - Backstab 
+21026000 Toss - One-handed bow - backstub 
+21027000 Throw - Small Shield - Backstub 
+21028000 Toss -Medium Shield - Backstab 
+21029000 Throw - Large Shield - Backstab 
+21030000 Throw - Binoculars - Backstub 
+21031000 Throw - Torch - Backstab 
+21032000 Throw - Magic Fire - Backstab 
+22001000 Throw - Bare Hands - Guard Break Stub 
+22001010 Throw - Strong Bare Hands - Guard Break Stub 
+22002000 Throw - Fist - Guard Break Stub 
+22003000 Toss - Claws - Guard Break Stub 
+22004000 Throw - Dagger - Guard Break Stub 
+22004010 Throw - Venomous Dagger - Guard Break Stub 
+22004020 Throw - Mailbreaker - Guard Break Stub 
+22005000 Throw -Whip-Guard Break Stub 
+22006000 Throw - Double Blade - Guard Break Stub 
+22007000 Throw - Sting - Guard Break Stub 
+22008000 Throw-Spear-Guard Break Stub 
+22009000 Throw -Assault Spear - Guard Break Stub 
+22010000 Toss - Bent Sword - Guard Break Stub 
+22011000 Throw-Sword-Guard Break Stub 
+22011010 Throw - Youkai - Guard Break Stub 
+22012000 Throw - Two-Handed Sickle - Guard Break Stub 
+22013000 Toss - Straight Sword - Guard Break Stub 
+22013010 Throw -Beam Sword-Guard Break Stub 
+22013011 Throw - Beam Sword (for Production) - Guard Break Stub 
+22014000 Throw - Two-Handed Sword - Guard Break Stub 
+22015000 Throw - Oversized Sword - Guard Break Stub 
+22016000 Throw - Daiken - Guard Break Stub 
+22017000 Toss - One Hand Mallet - Guard Break Stub 
+22018000 Toss - Both Hands Mallet - Guard Break Stub 
+22018010 Toss - Long Mallet - Guard Break Stub 
+22019000 Throw - One Hand Axe - Guard Break Stub 
+22020000 Throw - Two-Handed Axe - Guard Break Stub 
+22021000 Throw - Two-Handed Ax - Guard Break Stub 
+22022000 Toss - One Hand Cane - Guard Break Stub 
+22023000 Toss - One-handed bell - guard break stub 
+22024000 Toss - Two-Handed Bow - Guard Break Stub 
+22025000 Throw - Two-Handed Bow - Guard Break Stub 
+22026000 Toss - One-Handed Bow - Guard Break Stub 
+22027000 Throw - Small Shield - Guard Break Stub 
+22028000 Toss - Medium Shield - Guard Break Stub 
+22029000 Throw - Large Shield - Guard Break Stub 
+22030000 Throw - Binoculars - Guard Break Stub 
+22031000 Throw - Torch - Guard Break Stub 
+22032000 Throw - Magic Fire - Guard Break Stub 
+23001000 Toss - Bare Hands - Paribreak Stub 
+23001010 Throwing - Strong Bare Hands - Pariebreak Stub 
+23002000 Throw - Fist - Paribreak Stub 
+23003000 Toss - Nails - Paribreak Stub 
+23004000 Throw - Dagger - Paribreak Stub 
+23004010 Throw - Venomous Dagger - Paribreak Stub 
+23004020 Throw - Mailbreaker - Paribreak Stub 
+23005000 Throw - Whip - Paribreak Stub 
+23006000 Toss - Double-Edged Sword - Paribreak Stub 
+23007000 Toss - Stabbing - Pariei Break Stub 
+23008000 Throw - Spear - Paribreak Stub 
+23009000 Throw - Assault Spear - Paribreak Stub 
+23010000 Toss - Bent Sword - Pariei Break Stub 
+23011000 Throw - Sword - Pari break stub 
+23011010 Throw - Youkai - Pari break stub 
+23012000 Toss - Two-Handed Sickle - Paribreak Stub 
+23013000 Toss - Direct Sword - Paribreak Stub 
+23013010 Toss - Beam Sword - Paribreak Stub 
+23013011 Toss - Beam Sword (for Production) - Paribreak Stub 
+23014000 Toss - Two-Handed Sword - Paribreak Stub 
+23015000 Throw - Oversized Sword - Paribreak Stub 
+23016000 Toss - The Great Sword - Paribreak Stub 
+23017000 Toss - One Hand Mallet - Paribreak Stub 
+23018000 Toss - Both Hands Mallet - Paribreak Stub 
+23018010 Toss - Long Mallet - Paribreak Stub 
+23019000 Toss - One-Handed Axe - Paribreak Stub 
+23020000 Toss - Two-Handed Axe - Pari break stub 
+23021000 Toss - Two-Handed Ax - Pari break stub 
+23022000 Toss - One Hand Cane - Paribreak Stub 
+23023000 Toss - One-Handed Bell - Paribreak Stub 
+23024000 Toss - Two-Handed Bow - Paribreak Stub 
+23025000 Toss - Two Hands Large Bow - Paribreak Stub 
+23026000 Toss - One-Handed Bow - Pariei Break Stub 
+23027000 Toss - Small Shield - Paribreak Stub 
+23028000 Toss - Medium Shield - Paribreak Stub 
+23029000 Throw - Great Shield - Pari break stub 
+23030000 Throw - Binoculars - Pari break stub 
+23031000 Toss - Torch - Paribreak Stub 
+23032000 Throw - Magic Fire - Paribreak Stub 
+30000010 Spell Control - Floor Search 
+30000020 For spell control - ground search right below 
+30000030 Spell Control - Target Location Search 
+30000040 Spell Control - Right Foot Enchantment 
+30000041 Spell Control - Left Foot Enchantment 
+30000042 Spell Control - Left Arm Enchantment 
+30000043 Spell Control - Right Arm Enchantment 
+30000044 For Spell Control - Body Enchantment 
+30000060 For spell control - single feet 
+30000061 For spell control - range feet 
+30000070 Spell control - parent position 
+30000110 For Spell Control - Magic Muzzle Flash 
+30000120 For Spell Control - Miracle Muzzle Flash 
+30000130 Spell Control - Magic Muzzle Flash 
+30000140 For Spell Control - Dark Magic Muzzle Flash 
+31010000 Magic: The Arrow of Soul 
+31020000 Magic: Strong Soul Arrows 
+31030000 Magic: The Head of Seoul 
+31040000 Magic: The Strong Soul's Taya 
+31050000 Magic: The Arrows of Seoul Inducing 
+31060000 Magic: The Arrow of Seoul To Induce 
+31070000 Magic: Floating Chunks of Soul (Special Effects) 
+31070010 Magic: Floating Soul Mass (Main Body) 
+31070060 Magic: A floating mass of soul (bullet) 
+31080000 Magic: Floating Soul Crystal Mass (Special Effects) 
+31080010 Magic: Floating soul crystal mass (main body) 
+31080060 Magic: Floating soul crystal mass (bullet) 
+31090000 Magic: The Spear of Soul 
+31100000 Magic: Crystal Spear of Soul 
+31110000 Magic: Fall bullets 
+31120000 Magic: Continuous Magic Bullet 
+31130000 Magic: The arrow of the magic which explodes (main body) 
+31130010 Magic: The Arrow of Magic (Bullet) 
+31140000 Magic: An Oversized Sword of Magic 
+31140010 Magic: An oversized sword of magic (delayed activation) 
+31140020 Magic: Magic's Oversized Sword (Damage) 
+31150000 Magic: Swirling Magic Ball (Main Body) 
+31150010 Magic: Swirling Magic Ball (Bullet) 
+31160000 Magic: The Flash of Magic (Muzzle Flash) 
+31160001 Magic: The Flash of Magic 
+31160002 Magic: Magic Flash (Generation Delay) 
+31160010 Magic: The Flash of Magic (Directing Part) 
+31160011 Magic: Magic Flash (for Damage) 
+31170000 Magic: Seoul's Torrent (Parent) 
+31170001 Magic: The Flow of Soul (Child 1) 
+31170002 Magic: The Flow of Soul (Child 2) 
+31170010 Magic: Seoul's Torrent (Bullet 1) 
+31170011 Magic: Seoul's Torrent (Bullet 2) 
+31170012 Magic: Seoul's Torrent (Bullet 3) 
+31170013 Magic: Seoul's Torrent (Bullet 4) 
+31180000 Magic: Magic Weapon: Right Hand (Muzzle Flash) 
+31180001 Magic: Magic Weapon: Right Hand 
+31181000 Magic: Magic Weapon: Left Hand (Muzzle Flash) 
+31181001 Magic: Magic Weapon: Left Hand 
+31190000 Magic: Strong Magic Weapon: Right Hand (Muzzle Flash) 
+31190001 Magic: Strong Magic Weapon: Right Hand 
+31191000 Magic: Strong Magic Weapon: Left Hand (Muzzle Flash) 
+31191001 Magic: Strong Magic Weapon: Left Hand 
+31200000 Magic: Crystal Magic Weapon: Right Hand (Muzzle Flash) 
+31200001 Magic: Crystal Magic Weapon: Right Hand 
+31201000 Magic: Crystal Magic Weapon: Left Hand (Muzzle Flash) 
+31201001 Magic: Crystal Magic Weapon: Left Hand 
+31210000 Magic: Strong Magic Shield: Right Hand (Muzzle Flash) 
+31210001 Magic: Strong Magic Shield: Right Hand 
+31211000 Magic: Strong Magic Shield: Left Hand (Muzzle Flash) 
+31211001 Magic: Strong Magic Shield: Left Hand 
+31220000 Magic: The Mischief of the Devil (Bullet) 
+31220001 Magic: Mischievous Mischief (Production Landing) 
+31220010 Magic: Mischief of the Devil (Decoy) 
+31230000 Magic: No Sound 
+31240000 Magic: Fall Control 
+31250000 Magic: Invisible Weapon: Right Hand (Muzzle Flash) 
+31250001 Magic: Invisible Weapon: Right Hand (Directing) 
+31250002 Magic: Invisible Weapon: Right Hand (Annihilation) 
+31251000 Magic: Invisible Weapon: Right Hand (Muzzle Flash) 
+31251001 Magic: Invisible Weapon: Right Hand (Directing) 
+31251002 Magic: Invisible Weapon: Right Hand (Annihilation) 
+31260000 Magic: Restoration 
+31270000 Magic: Illuminating Light (Muzzle Flash) 
+31270001 Magic: Illuminating Light 
+31280000 Magic: Mimicry (directing) 
+31280010 Magic: Mimicry (Makeover) 
+31290000 Magic: Magic Open (Muzzle Flash) 
+31290001 Magic: Magic Open 
+31300000 DLC: Self-centered explosion (muzzle flash) 
+31300010 DLC: Self-centered explosion (directing) 
+31300020 DLC: Self-centered explosion (damage) 
+31310000 DLC: Laser beam one hand (muzzle flash) 
+31310002 DLC: Laser Beam Both Hands (Muzzle Flash) 
+31310010 DLC: Laser beam one hand (firing light) 
+31310012 DLC: Laser beam both hands (firing light) 
+31310020 DLC: Laser beam one hand (firing delay) 
+31310022 DLC: Laser beam both hands (firing delay) 
+31310030 DLC: Laser beam one hand (bullet) 
+31310032 DLC: Laser beam both hands (bullet) 
+32010000 Miracle: Recovery (Muzzle Flash) 
+32010001 Miracle: Recovery 
+32020000 Miracle: Medium Recovery (Muzzle Flash) 
+32020001 Miracle: Medium Recovery 
+32030000 Miracles: Limited Great Recovery (Muzzle Flash) 
+32030001 Miracles: Limited Great Recovery 
+32040000 Miracle: The Great Recovery (Muzzle Flash) 
+32040001 Miracle: Great Recovery 
+32050000 Miracle: The Healing of the Sun's Light (Muzzle Flash) 
+32050001 Miracles: The Healing of the Sun's Rays 
+32060000 Miracle: Life Springing (Muzzle Flash) 
+32060001 Miracles: Springing of Life 
+32070000 Miracle: Automatic Medium Recovery (Muzzle Flash) 
+32070001 Miracles: Automatic Medium Recovery 
+32080000 Miracle: The Grace of Sunshine (Muzzle Flash) 
+32080001 Miracle: The Grace of the Sun's Light 
+32090000 Miracle: Poison Recovery (Muzzle Flash) 
+32090001 Miracle: Poison Recovery 
+32100000 Miracle: Force (for timing delay) 
+32100001 Miracle: Force (bullet) 
+32110000 Miracle: Wrath of God (Muzzle Flash) 
+32110001 Miracle: The Wrath of God 
+32120000 Miracle: The Force that Shoots 
+32120010 Miracle: The Force that Shoots (Landing Explosion) 
+32130000 Miracle: Discharge (position determination) 
+32130001 Miracle: Discharge (ceiling judgment) 
+32130010 Miracle: Discharge (bullet) 
+32130020 Miracle: Discharge (water propagation determination) 
+32130021 Miracle: Discharge (water propagation water surface search) 
+32130030 Miracle: Discharge (water propagation damage) 
+32130031 Miracle: Discharge (water propagation damage) 
+32140000 Miracle: Spear of Thunder (Bullet) 
+32140010 Miracle: Spear of Thunder (Landing) 
+32140020 Miracle: Spear of Thunder (Water Propagation Judgment) 
+32140021 Miracle: Spear of Thunder (Search for surface of the water) 
+32140030 Miracle: Spear of Thunder (Water Propagation Damage) 
+32140031 Miracle: Spear of Thunder (Water Propagation Damage) 
+32150000 Miracle: The Great Spear of Thunder (Bullet) 
+32150010 Miracle: The Great Spear of Thunder (Landing) 
+32150020 Miracle: The Great Spear of Thunder (Water Propagation Judgment) 
+32150021 Miracle: The Great Spear of Thunder (Search for the Surface of the Water) 
+32150030 Miracle: The Great Spear of Thunder (Water Propagation Damage) 
+32150031 Miracle: The Great Spear of Thunder (Water Propagation Damage) 
+32160000 Miracle: Spear of the Sun's Light (bullet) 
+32160010 Miracle: Spear of the Sun's Light 
+32160020 Miracle: Spear of sunlight (water propagation judgment) 
+32160021 Miracle: Spear of sunlight (water surface propagation water search) 
+32160030 Miracle: Spear of sunlight (water propagation damage) 
+32160031 Miracle: Spear of sunlight (water propagation damage) 
+32170000 Miracle: Immortal Annihilation: Parents 
+32170010 Miracle: Immortal Annihilation: Directing 
+32170011 Miracle: Immortal Annihilation: For Damage 
+32180000 Miracle: The Source of Thunder (Main Body) 
+32180001 Miracle: The Source of Thunder (Body: Stationary) 
+32180010 Miracle: The Source of Thunder (Bullet) 
+32180011 Miracle: The Source of Thunder (Landing) 
+32180020 Miracle: Source of Lightning (Water Propagation Judgment) 
+32180021 Miracle: Source of Lightning (Water Propagation Surface Search) 
+32180030 Miracle: Source of Lightning (Water Propagation Damage) 
+32180031 Miracle: Source of Lightning (Water Propagation Damage) 
+32190000 Miracles: Magic Protection (Muzzle Flash) 
+32190001 Miracles: Magic Protection (Bullet) 
+32200000 Miracle: Great Magic Protection (Muzzle Flash) 
+32200001 Miracle: Great Magic Protection (Bullet) 
+32210000 Miracle: Home Journey 
+32220000 Miracle: Seeking Advice (Muzzle Flash) 
+32220001 Miracle: Seeking Advice (Bullet) 
+32230000 Miracle: Jihad (Muzzle Flash) 
+32230001 Miracle: Jihad 
+32240000 Miracle: Dark Spirit Detection (Muzzle Flash) 
+32250000 Miracle: Increased resistance (muzzle flash) 
+32250001 Miracle: Increased resistance (bullet) 
+32260000 Miracle: Sword of Sunshine: Right Hand 
+32261000 Miracle: Sword of Sunshine: Left Hand 
+32300000 DLC: One-time Resurrection 
+32310000 DLC: Lightning of defense neglect (muzzle flash) 
+32310010 DLC: Lightning in defense neglect (position search) 
+32310020 DLC: Lightning for ignoring defense (omen) 
+32310030 DLC: Lightning to ignore defense (bullet) 
+33010000 Magic: Fireball 
+33010001 Magic: Fireball (landing) 
+33010010 Magic: Fireball (Friendfire) 
+33020000 Magic: Fireball 
+33020001 Magic: Fireball (Landing) 
+33020010 Magic: Fireball (Friendfire) 
+33030000 Magic: The Great Fireball 
+33030001 Magic: Large fireball (landing) 
+33030010 Magic: The Great Fireball (Friendfire) 
+33040000 Magic: The Great Fireball of Chaos (Bullet) 
+33040001 Magic: The Great Fire Ball of Chaos (Landing) 
+33040002 Magic: The Great Fire Ball of Chaos (Landing Damage) 
+33040010 Magic: The Great Fire Ball of Chaos (Friendfire) 
+33040020 Magic: A Large Fireball of Chaos (Lava Floor Search) 
+33040021 Magic: The Great Fire Ball of Chaos (Lava) 
+33050000 Magic: Storm of Fire (Parent) 
+33050001 Magic: Storm of Fire (Location Search A) 
+33050002 Magic: Storm of Fire (Location Search B) 
+33050003 Magic: Storm of Fire (Light Source) 
+33050004 Magic: Storm of Fire (Light Source: Attach) 
+33050010 Magic: Storm of Fire (Floor Search A) 
+33050011 Magic: Storm of Fire (Floor Search B) 
+33050020 Magic: Storm of Fire (Foreboding A) 
+33050021 Magic: Storm of Fire (Foreboding B) 
+33050030 Magic: Storm of Fire (Pillar of Fire) 
+33060000 Magic: The Great Storm of Fire (Parent) 
+33060001 Magic: The Great Storm of Fire (Location Search A) 
+33060002 Magic: The Great Storm of Fire (Location Search B) 
+33060003 Magic: The Great Storm of Fire (Light Source) 
+33060004 Magic: The Great Storm of Fire (Light Source: Attach) 
+33060010 Magic: The Great Storm of Fire (Floor Search A) 
+33060011 Magic: The Great Storm of Fire (Floor Search B) 
+33060020 Magic: The Great Storm of Fire (Oensign A) 
+33060021 Magic: The Great Storm of Fire (Foreboding B) 
+33060030 Magic: The Great Storm of Fire 
+33070000 Magic: Storm of Chaos (Parent) 
+33070001 Magic: Storm of Chaos (Location Search A) 
+33070002 Magic: Storm of Chaos (Location Search B) 
+33070003 Magic: Storm of Chaos (Light Source) 
+33070004 Magic: Storm of Chaos (Light Source: Attach) 
+33070010 Magic: Storm of Chaos (Floor Search A) 
+33070011 Magic: Storm of Chaos (Floor Search B) 
+33070020 Magic: Storm of Chaos (OenaA) 
+33070021 Magic: Storm of Chaos (Foreboding B) 
+33070030 Magic: Storm of Chaos (Pillar of Fire) 
+33070040 Magic: Storm of Chaos (Lava) 
+33080000 Sorcery: Fire (directing) 
+33080010 Magic: Fire (Damage) 
+33090000 Magic: Large fire (directing) 
+33090010 Magic: Large fire (damage) 
+33100000 Magic: The Flame of The Fire: (Parent) 
+33100001 Magic: Flame to be removed: (directing) 
+33100010 Magic: Flame to be removed (damage): 
+33110000 Magic: Fog of Poison (Location Search) 
+33110010 Magic: The Fog of Poison (Production) 
+33110011 Magic: The Fog of Poison (Stagnation) 
+33120000 Magic: Fog of venom (location search) 
+33120010 Magic: The Fog of The Poison (Generation) 
+33120011 Magic: The fog of the poison (the place stagnation) 
+33130000 Magic: Acid injection (location search) 
+33130010 Magic: Acid injection (production of) 
+33130011 Magic: Acid injection (stagnant) 
+33140000 Magic: Floating Fireball (Parent) 
+33140001 Magic: Floating Fireball (Child) 
+33140010 Magic: Floating Fireball (Explosion) 
+33140011 Magic: Floating Fireball (Explosion) 
+33150000 Magic: Fire's Fire (Location Search) 
+33150001 Magic: Fire Fire (Bullet) 
+33150010 Magic: Fire's Fire (Explosion) 
+33150011 Magic: Fire Fire (Explosion Damage) 
+33160000 Magic: The Sun of Chaos (bullet) 
+33160001 Magic: The Sun of Chaos (Landing) 
+33160002 Magic: The Sun of Chaos (Landing Damage) 
+33160010 Magic: The Sun of Chaos (Friendfire) 
+33160020 Magic: The Sun of Chaos (Lava Floor Search) 
+33160021 Magic: The Chaotic Sun (Lava) 
+33170000 Magic: Weapon of Fire: Right Hand 
+33171000 Magic: Weapon of Fire: Left Hand 
+33180000 Magic: Intense Sweating 
+33190000 Magic: The Iron Body 
+33200000 Magic: The Recovery Soul 
+33210000 Magic: Burnt (parent) 
+33210010 Magic: Burn (Barrett Trigger) 
+33210020 Magic: Burn (self-damage) 
+33210021 Sorcery: Burn (surrounding damage) 
+33210022 Sorcery: Burn (surrounding damage) 
+33300000 DLC: Smoke Dragon (Storm of Fire 0: Location Search) 
+33300001 DLC: Smoke Dragon (Storm of Fire 0: Bullet) 
+33300010 DLC: The Smoke Dragon (Production Pillar) 
+33300020 DLC: Smoke Dragon (Storm of Fire 1: Location Search) 
+33300021 DLC: The Smoke Dragon (Storm of Fire 1: Bullet) 
+33300030 DLC: Smoke Dragon (Storm of Fire 2: Location Search) 
+33300031 DLC: The Smoke Dragon (Storm of Fire 2: Bullet) 
+33300040 DLC: Smoke Dragon (Storm of Fire 3: Location Search) 
+33300041 DLC: The Smoke Dragon (Storm of Fire 3: Bullet) 
+33300050 DLC: Smoke Dragon (Storm of Fire 4: Location Search) 
+33300051 DLC: The Smoke Dragon (Storm of Fire 4: Bullet) 
+33300060 DLC: Smoke Dragon (Storm of Fire 5: Location Search) 
+33300061 DLC: The Smoke Dragon (Storm of Fire 5: Bullet) 
+33300070 DLC: Smoke Dragon (Storm of Fire 6: Location Search) 
+33300071 DLC: The Smoke Dragon (Storm of Fire 6: Bullet) 
+33300080 DLC: Smoke Dragon (Storm 7 of the Flame: Location Search) 
+33300081 DLC: The Smoke Dragon (Storm of Fire 7: Bullet) 
+33310000 DLC: Dark Ness: Right Hand (Position Search) 
+33310010 DLC: Dark Ness: Right Hand (Wall Search) 
+33310020 DLC: Dark Pay: Right Hand (Directing) 
+33310030 DLC: Dark- off: Right Hand (bullet) 
+33311000 DLC: Dark Ness: Left Hand (Location Search) 
+33311010 DLC: Dark Ness: Left Hand (Wall Search) 
+33311020 DLC: Dark Pay: Left Hand (Directed) 
+33311030 DLC: Dark- off: Left hand (bullet) 
+34010000 Dark Art - The Devil: The Ball of Darkness 
+34020000 Dark Art - The Devil: The Splash of Darkness (Muzzle Flash) 
+34020001 Dark Art - The Devil: The Splash of Darkness 
+34030000 Dark Art - The Devil: The Fog of Darkness (Location Search) 
+34030010 Dark Art - The Devil: The Fog of Darkness (Generation) 
+34030011 Dark Art - The Devil: The Fog of Darkness (Stagnant) 
+34040000 Dark Art - The Devil: The Mourners (Special Effects) 
+34040010 Dark Art - The Devil: The Chasing People (Main Body) 
+34040060 Dark Art - The Devil: The Chasing People (Bullet) 
+34050000 Dark Art - Demon: Range Corpse Bombing (Muzzle Flash) 
+34050001 Dark Art - Demon: Range Corpse Bombing (Body Search) 
+34050010 Dark Art - Demon: Range Corpse Bombing (Explosion Warning) 
+34050011 Dark Art - Demon: Range Corpse Explosion (Explosion) 
+34050012 Dark Art - Demon: Range Corpse Bombing (Bullet) 
+34060000 Dark Art - The Devil: Weapon of Darkness: Right Hand 
+34061000 Dark Art - The Devil: Weapon of Darkness: Left Hand 
+34070000 Dark Art - The Devil: The Whisper of Darkness 
+34080000 Dark Art - The Devil: The Space of Nothingness 
+34090000 Dark Art - The Devil: The Spellparibarrier 
+34100000 Dark Art - The Devil: Darkness 
+34300000 DLC: Armor editer (muzzle flash) 
+34300010 DLC- Armor editer 
+34310000 DLC: A Blow of Resentment (Muzzle Flash) 
+34310010 DLC: A blow of resentment (bullet) 
+35010000 The Art of Darkness - Bizarre: Summoning The Self-Restraint Spirit (Muzzle Flash) 
+35010001 Dark Art - Bizarre: Self-Restraint Summoning (Magic Square) 
+35010002 The Art of Darkness - Bizarre: Self-Restraint Summoning (Parent) 
+35010011 Dark Art - Bizarre: Self-Restraint Summoning (Position Search A) 
+35010012 Dark Art - Bizarre: Self-Restraint Summoning (Position Search B) 
+35010020 Dark Art - Bizarre: Self-Restraint Summoning (Floor Search A) 
+35010021 Dark Art - Bizarre: Self-Restraint Summoning (Floor Search B) 
+35010030 The Art of Darkness - Bizarre: Summoning The Self-Restraint Spirit (Foreboding A) 
+35010031 The Art of Darkness - Bizarre: Summoning The Self-Restraint Spirit (Oensign B) 
+35010040 The Art of Darkness - Bizarre: Self-Restraint Summoning (Pillar of Fire) 
+35020000 Dark Art - Bizarre: Self-Centered Typhoon 
+35020010 Dark Art - Bizarre: Self-Centered Typhoon (Turning Bullet: Directing) 
+35020011 Dark Art - Bizarre: Self-Centered Typhoon (Turning Bullet: Damage) 
+35020012 Dark Art - Bizarre: Self-centered typhoon (turning bullet: damage small) 
+35030000 The Dark Art - Bizarre: Soul Ball: Max 
+35030001 The Art of Darkness - Bizarre: Soul Ball: Large 
+35030002 The Dark Art - Bizarre: Soul Ball: Inside 
+35030003 The Dark Art - Bizarre: Soul Ball: Small 
+35030004 Dark Art - Bizarre: Soul Ball: Tiny 
+35040000 The Dark Art - Bizarre: Soul Great Ball: Max 
+35040001 The Dark Art - Bizarre: Soul Great Ball: Large 
+35040002 Dark Art - Bizarre: Soul Great Ball: Inside 
+35040003 Dark Art - Bizarre: Soul Great Ball: Small 
+35040004 Dark Art - Bizarre: Soul Great Ball: Tiny 
+35050000 Dark Art - Bizarre: Soul Super Large Ball: Max 
+35050001 Dark Art - Bizarre: Soul Super Large Ball: Large 
+35050002 Dark Art - Bizarre: Soul Super Large Ball: Inside 
+35050003 Dark Art - Bizarre: Soul Super Large Ball: Small 
+35050004 Dark Art - Bizarre: Soul Super Large Ball: Tiny 
+35060000 The Art of Darkness - Bizarre: The Body of Seoul: The Greatest 
+35060001 The Art of Darkness - Bizarre: The Body of Seoul: Large 
+35060002 The Art of Darkness - Bizarre: The Body of Seoul: Inside 
+35060003 The Art of Darkness - Bizarre: The Body of Seoul: Small 
+35060004 The Art of Darkness - Bizarre: The Body of Seoul: Tiny 
+35070000 Dark Art - Bizarre: The Sword of Soul: Right Hand Lv.5 
+35070001 Dark Art - Bizarre: The Sword of Soul: Right Hand Lv.4 
+35070002 Dark Art - Bizarre: The Sword of Soul: Right Hand Lv.3 
+35070003 Dark Art - Bizarre: The Sword of Soul: Right Hand Lv.2 
+35070004 Dark Art - Bizarre: The Sword of Soul: Right Hand Lv.1 
+35071000 Dark Art - Bizarre: The Sword of Soul: Left Hand Lv.5 
+35071001 Dark Art - Bizarre: The Sword of Soul: Left Hand Lv.4 
+35071002 Dark Art - Bizarre: The Sword of Soul: Left Hand Lv.3 
+35071003 Dark Art - Bizarre: The Sword of Soul: Left Hand Lv.2 
+35071004 Dark Art - Bizarre: The Sword of Soul: Left Hand Lv.1 
+35071010 The Art of Darkness - Bizarre: The Sword of Seoul: For SE Play 
+35080000 Dark Art - Bizarre: The Hole of Soul (First Bullet): Max: Muzzle Flash 
+35080001 Dark Art - Bizarre: The Hole of Soul (First Bullet): Max 
+35080002 Dark Art - Bizarre: The Hole of Soul (First Bullet): Max (Small) 
+35080010 Dark Art - Bizarre: The Hole of Soul (First Bullet): Large: Muzzle Flash 
+35080011 Dark Art - Bizarre: The Hole of Soul (First Bullet): Large 
+35080012 Dark Art - Bizarre: The Hole of Soul (First Bullet): Large (Small) 
+35080020 Dark Art - Bizarre: The Hole of Soul (First Bullet): Medium: Muzzle Flash 
+35080021 The Dark Art - Bizarre: The Hole of Soul (First Bullet): Inside 
+35080022 Dark Art - Bizarre: The Hole of Soul (First Bullet): Medium (Small) 
+35080030 Dark Art - Bizarre: The Hole of Soul (First Bullet): Small: Muzzle Flash 
+35080031 Dark Art - Bizarre: The Hole of Soul (First Bullet): Small 
+35080032 Dark Art - Bizarre: The Hole of Soul (First Bullet): Small (Small) 
+35080040 Dark Art - Bizarre: The Hole of Soul (First Bullet): Tiny: Muzzle Flash 
+35080041 Dark Art - Bizarre: The Hole of Soul (First Bullet): Tiny 
+35080042 Dark Art - Bizarre: The Hole of Soul (First Bullet): Tiny (Small) 
+35090000 Dark Art - Bizarre: Multi-Target Spell Seal (Muzzle Flash) 
+35090001 Dark Art - Bizarre: Multi-Target Spell Seal (Effect Range) 
+35300000 DLC: The Walk of Gentle Peace: Lv.5 (Muzzle Flash) 
+35300001 DLC: The Walk of Gentle Peace: Lv.4 (Muzzle Flash) 
+35300002 DLC: The Walk of Gentle Peace: Lv.3 (Muzzle Flash) 
+35300003 DLC: The Walk of Gentle Peace: Lv.2 (Muzzle Flash) 
+35300004 DLC: The Walk of Gentle Peace: Lv.1 (Muzzle Flash) 
+35300010 DLC: The Walk of Gradual Peace: Lv.5 
+35300011 DLC: The Walk of Gradual Peace: Lv.4 
+35300012 DLC: The Walk of Gradual Peace: Lv.3 
+35300013 DLC: The Walk of Gradual Peace: Lv.2 
+35300014 DLC: The Walk of Gradual Peace: Lv.1 
+35310000 DLC: CurrentHP 1/4 Damage Bullet: Lv.5 
+35310001 DLC: CurrentHP 1/4 Damage Bullet: Lv.4 
+35310002 DLC: CurrentHP 1/4 Damage Bullet: Lv.3 
+35310003 DLC: CurrentHP 1/4 Damage Bullet: Lv.2 
+35310004 DLC: CurrentHP 1/4 Damage Bullet: Lv.1 
+40000010 Spear _ one hand pole part 
+40000011 Spear _ One-handed pole part (root) 
+40000015 Spear _ one-handed pole part (non-bounced) 
+40000016 Spear _ one-handed pole part (non-bounced - root) 
+40000020 Spear _ Both Hands Pole Part 
+40000021 Spear_ Both hands pole part (root) 
+40000025 Spear _ Both Hands Pole Part (Non-Bouncy) 
+40000026 Spear _ Both hands pole part (non-bounced - root) 
+40000030 Spear_Two-sword-style pole part 
+40000031 Spear_Two-sword pole part (root) 
+40000040 Spear_Two-sword-style two-handed both-handed pole part (right) 
+40000041 Spear_Two-sword-style two-handed pole part (right) (root) 
+40000042 Spear_Two-sword-style two-handed pole part (left) 
+40000043 Spear_Two-sword-style two-handed pole part (left) (root) 
+40000110 Two-handed ax_ one-handed pole part 
+40000111 Two-handed ax_ one-handed pole part (root) 
+40000115 Two-handed ax_ one-handed pole part (non-bounced) 
+40000116 Two-handed ax_ one-handed pole part (non-bounced- root) 
+40000120 Two-handed ax_ both hands pole part 
+40000121 Both-handed ax_ both hands pole part (root) 
+40000125 Two-handed ax_ both-hands pole part (non-bounced) 
+40000126 Both-handed ax_ both-hands pole part (non-bounced-root) 
+40000130 Two-handed ax_two-sword-style pole part 
+40000131 Two-handed ax_two-sword pole part (root) 
+40000140 Two-handed long axe_two-sword-style two-handed two-handed pole part (right) 
+40000141 Two-handed long axe_two-sword-style two-handed two-handed pole part (right) (root) 
+40000142 Two-handed long axe_two-sword-style two-handed two-handed pole part (left) 
+40000143 Two-handed long axe_two-sword-style two-handed two-handed pole part (left) (root) 
+40000210 Two-handed sickle_ one-handed pole part 
+40000211 Two-handed sickle_ one-handed pole part (root) 
+40000215 Two-handed sickle_ one-handed pole part (non-bounced) 
+40000216 Two-handed sickle_ one-handed pole part (non-bounced- root) 
+40000220 Two-handed sickle_ both hands pole part 
+40000221 Two-handed sickle_ both-hands pole part (root) 
+40000225 Two-handed sickle_ both hands pole part (non-bounced) 
+40000226 Two-handed sickle_ both-hands pole part (non-bounced- root) 
+40000230 Two-handed sickle_ two-sword-style pole part 
+40000231 Two-handed sickle_two-sword pole part (root) 
+40000240 Two-handed sickle_two-sword-style two-handed two-handed pole part (right) 
+40000241 Two-handed sickle_two-sword-style two-handed two-handed pole part (right) (root) 
+40000242 Two-handed sickle_two-sword-style two-handed two-handed pole part (left) 
+40000243 Two-handed sickle_two-sword-style two-handed two-handed pole part (left) (root) 
+40000310 One-handed long axe_ one-handed pole part 
+40000311 One-handed long axe_ one-handed pole part (root) 
+40000315 One-handed long axe_ one-handed pole part (non-bounced) 
+40000316 One-handed long axe_ one-handed pole part (non-bounced- root) 
+40000320 One-handed long axe_ both hands pole part 
+40000321 One-handed long axe_ both hands pole part (root) 
+40000325 One-handed long axe_ both hands pole part (non-bounced) 
+40000326 One-handed long axe _ both hands pole part (non-bounced - root) 
+40000330 One-handed long axe_two-sword-style pole part 
+40000331 One-handed long axe_two-sword-style pole part (root) 
+40000340 One-handed long axe_two-sword-style two-handed both-handed pole part (right) 
+40000341 One-handed long axe_two-sword-style two-handed pole part (right) (root) 
+40000342 One-handed long axe_two-sword-style two-handed both-handed pole part (left) 
+40000343 One-handed long axe_two-sword-style two-handed pole part (left) (root) 
+40000410 Black Knight Axe_ One Hand Pole Part 
+40000411 Black Knight Axe_ One Hand Pole Part (Root) 
+40000415 Black Knight Axe_ One Hand Pole Part (Non-Bouncy) 
+40000416 Black Knight Axe_ One Hand Pole Part (Non-Bouncy- Root) 
+40000420 Black Knight Axe_ Both Hands Pole Part 
+40000421 Black Knight Axe_ Both Hands Pole Part (Root) 
+40000425 Black Knight Axe_ Both Hands Pole Part (Non-Bouncy) 
+40000426 Black Knight Axe_ Both Hands Pole Part (Non-Bulleted- Root) 
+40000430 Black Knight Axe_Two-Sword Pole Part 
+40000431 Black Knight Axe_Two-Sword Pole Part 
+40000440 Black Knight Axe_Two-Sword Style Both-Handed Pole Part (right) 
+40000441 Black Knight Axe_Two-Sword-Style Both-Handed Pole Part (Right) (Root) 
+40000442 Black Knight Axe_Two-Sword Sword-Style Both-Handed Pole Part (left) 
+40000443 Black Knight Axe_Two-Sword-Style Two-Handed Pole Part (Left) (Root) 
+40000510 vine sushi _ one-handed pole part 
+40000511 One-handed pole part (root) 
+40000515 Tsurushi _ One-handed pole part (non-bounced) 
+40000516 Tsurushi_ One-handed pole part (non-bounced- root) 
+40000520 Vine shards_ both hands pole part 
+40000521 Tsurushi_ Both Hands Pole Part (Root) 
+40000525 Tsurushi_ Both-Hands Pole Part (Non-Bounced) 
+40000526 Tsurushi_ Both-hands pole part (non-bounced - root) 
+40000530 Tsurushi_ Two-sword pole part 
+40000531 Tsurushi_Two-sword pole part 
+40000540 Tsurushi_Two-sword-style two-handed two-handed pole part (right) 
+40000541 Tsurushi_Two-sword-style two-handed two-handed pole part (right) 
+40000542 Tsurushi_Two-sword-style two-handed two-handed pole part (left) 
+40000543 Tsurushi_Two-sword-style two-handed pole part (left) (root) 
+40000610 The Queen's Sickle_ One Hand Pole Part 
+40000611 Queen's sickle_ one-handed pole part (root) 
+40000615 Queen's sickle_ one-handed pole part (non-bounced) 
+40000616 Queen's sickle_one-handed pole part (non-bounced-root) 
+40000620 Queen's Sickle_ Both Hands Pole Part 
+40000621 Queen's sickle_ both hands pole part (root) 
+40000625 Queen's sickle_ both hands pole part (non-bounced) 
+40000626 Queen's sickle_ both hands pole part (non-bounced- root) 
+40000630 The Queen's Sickle_ Two-Sword Pole Part 
+40000631 Queen's Sickle_Two-Sword Pole Part (Root) 
+40000640 Queen's Sickle_Two-Sword Style Both Hands Pole Part (right) 
+40000641 Queen's Sickle_ Two-Sword Style Both Hands Pole Part (Right) (Root) 
+40000642 Queen's Sickle_Two-Sword Style Both Hands Pole Part (left) 
+40000643 Queen's Sickle_Two-Sword Style Both Hands Pole Part (Left) (Root) 
+40480000 Old Sun Ring (Causal Retribution): Omen 
+40480010 Old Sun Ring (Causal Retribution): Explosion 
+40530000 Thorn ring: Parent 
+40530010 Thorn Ring (Thorn Ring): Bullet 
+50000000 Butterfly Armor: Poison Limpun (for Generation) 
+50000010 Butterfly Armor: Poison Limpun (for Damage) 
+60405000 Ryutoishi (Directing) 
+60405001 Dragon Head Stone (Transformation) 
+60405010 Dragon Head Stone (Dragon Breath: First Time) 
+60405011 Dragon Head Stone (Dragon Breath: Stamina Consumption) 
+60405020 Dragon Head Stone (Dragon Breath: First Time) 
+60405030 Dragon head stone (dragon breath: for damage) 
+60406000 Ryutaiishi (Directing) 
+60406001 Dragon Body Stone (Transformation) 
+60406010 Dragon stone (dragon roar) 
+60406011 Dragon stone (dragon roar: stamina consumption) 
+60430000 Fire Butterfly (Ignition Stone) 
+60470000 Hello 
+60480000 Thank you. 
+60490000 I'm sorry. 
+60500000 People like 」 
+60530000 Invitation Skeleton 
+60530010 Invitation Skeleton (Decoy) 
+60531000 Lloyd's Amulet 
+60531010 Lloyd's Amulet (Landing) 
+60540000 Tossing knife Small 
+60550000 Magic Bottle Small 
+60550010 Magic Bottle Small - Explosion 
+60550011 Magic Bottle Small - Explosion - Friendfire 
+60560000 Electric bottle Small 
+60560010 Lightning Bottle Small - Explosion 
+60560011 Lightning Bottle Small - Explosion - Friendfire 
+60570000 Flame bottle Small 
+60570010 Flame Bottle Small - Explosion 
+60570011 Flame Bottle Small - Explosion - Friendfire 
+60575000 Black Flame Bottle Small 
+60575010 Black Flame Bottle Small - Explosion 
+60575011 Black Flame Bottle Small - Explosion - Friendfire 
+60580000 Dark Bottle Small 
+60580010 Dark Bottle Small - Explosion 
+60580011 Dark Bottle Small - Explosion - Friendfire 
+60590000 Poison knife Small 
+60595000 Dung dumplings: Bullets 
+60595010 Dung Dumplings: Hit yourself 
+60600000 Bleeding knife Small 
+60610000 Weapon Destruction Bottle Small 
+60610010 Weapon Destruction Bottle Small - Explosion 
+60610011 Weapon Destruction Bottle Small - Friendfire 
+60620000 Holy Water Bottle Small 
+60620010 Holy Water Bottle Small - Explosion 
+60620011 Holy Water Bottle Small - Friendfire 
+60760020 Arrowman - Physics - Weak - Both Hands - Weak 
+60760030 Arrowman - Physics - Weak - Both Hands - Strong 
+60770020 Arrowman - Physics - Strong - Both Hands - Weak 
+60770030 Arrowman - Physics - Strong - Both Hands - Strong 
+60780020 Arrowman - Magic - Both Hands - Weak 
+60780030 Arrowman - Magic - Both Hands - Strong 
+60790020 Arrowman - Lightning - Both Hands - Weak 
+60790030 Arrowman - Lightning - Both Hands - Strong 
+60800020 Arrowhead - Flame - Both Hands - Weak 
+60800030 Arrowman - Flame - Both Hands - Strong 
+60810020 Arrowman - Darkness - Both Hands - Weak 
+60810030 Arrowman - Darkness - Both Hands - Strong 
+60820020 Arrowhead - Poison - Both Hands - Weak 
+60820030 Arrowhead - Poison - Both Hands - Strong 
+60830020 Arrowhead - Bleeding - Both Hands - Weak 
+60830030 Arrowhead - Bleeding - Both Hands - Strong 
+60850020 Large Bullet - Physics - Strong - Both Hands - Weak 
+60850030 Large Bullet - Physics - Strong - Both Hands - Strong 
+60870020 Large Arrow Bullet - Lightning - Both Hands - Weak 
+60870030 Large Arrow Bullet - Lightning - Both Hands - Strong 
+60880020 Large arrow bullet - flame - both hands - weak 
+60880030 Large Arrow Bullet - Flame - Both Hands - Strong 
+60900020 Large Arrow Bullets - Weapons Destruction - Both Hands - Weak 
+60900030 Large Arrow Bullets - Weapon Destruction - Both Hands - Strong 
+60910000 Bolt bullets - Physical - Weak - One Hand - Weak 
+60910010 Bolt bullets - Physical - Weak - One Hand - Strong 
+60910020 Bolt bullets - Physical - Weak - Both Hands - Weak 
+60910030 Bolt bullets - Physical - Weak - Both Hands - Strong 
+60910040 Bolt bullets - Physics - Weak - Two-sword style - Weak 
+60910050 Bolt bullets - Physics - Weak - Two-sword style - Strong 
+60910060 Bolt bullets - Physics - Weak - Two-sword style - Weak 
+60910070 Bolt bullets - Physics - Weak - Two-sword style two-handed - strong 
+60920000 Bolt bullets - Physical - Strong - One Hand - Weak 
+60920010 Bolt bullets - Physical - Strong - One Hand - Strong 
+60920020 Bolt bullets - Physical - Strong - Both Hands - Weak 
+60920030 Bolt bullets - Physical - Strong - Both Hands - Strong 
+60920040 Bolt bullets - Physics - Strength - Two-sword style - Weak 
+60920050 Bolt bullets - Physics - Strong - Two-sword style - Strong 
+60920060 Bolt bullets - Physics - Strong - Two-sword style - Weak 
+60920070 Bolt bullets - Physics - Strong - Two-sword style - Strong 
+60930000 Bolt bullets - magic - one hand - weak 
+60930010 Bolt bullets - magic - one hand - strong 
+60930020 Bolt bullets - magic - both hands - weak 
+60930030 Bolt bullets - magic - both hands - strong 
+60930040 Bolt bullets - magic - two-sword-style - weak 
+60930050 Bolt bullets - Magic - Two-sword style - Strong 
+60930060 Bolt bullets - magic - two-sword-style both hands - weak 
+60930070 Bolt bullets - Magic - Two-sword-style two-handed - strong 
+60940000 Bolt bullets - lightning - one hand - weak 
+60940010 Bolt bullets - lightning - one hand - strong 
+60940020 Bolt bullets - lightning - both hands - weak 
+60940030 Bolt bullets - lightning - both hands - strong 
+60940040 Bolt bullets - Lightning - Two-sword style - Weak 
+60940050 Bolt bullets - Lightning - Two-sword style - Strong 
+60940060 Bolt bullets - lightning - two-sword-style two-handed - weak 
+60940070 Bolt bullets - Lightning - Two-sword-style two-handed - strong 
+60950000 Bolt bullets - flames - one hand - weak 
+60950010 Bolt bullets - flames - one hand - strong 
+60950020 Bolt bullets - flames - hands - weak 
+60950030 Bolt bullets - flames - hands - strong 
+60950040 Bolt bullets - flames - two-sword-style - weak 
+60950050 Bolt bullet - flame - two-sword style - strong 
+60950060 Bolt bullets - flame - two-sword-style both hands - weak 
+60950070 Bolt bullet - flame - two-sword style both hands - strong 
+60960000 Bolt bullets - darkness - one hand - weak 
+60960010 Bolt bullets - darkness - one hand - strong 
+60960020 Bolt bullets - darkness - both hands - weak 
+60960030 Bolt bullets - darkness - hands - strong 
+60960040 Bolt bullets - darkness - two-sword-style - weak 
+60960050 Bolt bullets - Darkness - Two-sword style - Strong 
+60960060 Bolt bullets - darkness - two-sword-style two-handed - weak 
+60960070 Bolt bullet - darkness - two-sword style both hands - strong 
+62100010 Proof of good intentions (host HP recovery) 

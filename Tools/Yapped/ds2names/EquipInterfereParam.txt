@@ -1,0 +1,506 @@
+0 Test 
+9800 Skin model dead for check (man) head 
+9801 Skin Model Dead For Check (Male) Chest 
+9802 Bare skin model dead (man) arm 
+9803 Bare skin model dead for check (man) feet 
+9916 Onion Interference Test Chest 
+9917 Onion Interference Test Arm 
+9918 Four Knights C Interference Test Chest 
+9919 Four Knights C Interference Test Arm 
+9920 Four Knights C Interference Test Foot 
+9921 Sorcerer Interference Test Head 
+9922 Sorcerer Interference Test Chest 
+9923 Sorcerer Interference Test Arm 
+9926 Princess Interference Test Chest 
+9927 Princess Interference Test Feet 
+9930 Chainmail Interference Test Head 
+9932 Iron Golem Interference Test Feet 
+9933 Witch Interference Test Head 
+9934 Witch Interference Test Chest 
+9935 Assassin's Interference Test Chest 
+9936 Assassin's Interference Test Foot 
+9939 Saint Interference Test Chest 
+9940 Saint Interference Test Feet 
+9941 Three-person feather red interference test head 
+9942 King of firewood Interference test head 
+9943 Shadow Sun Crown Interference Test Head 
+9950 9950 [for cross-test] head 
+9951 9950 [for cross-test] chest 
+9952 9950 [for cross-test] and arm 
+9953 9950 [for cross-test] and feet 
+199180 Magic Soldier Destruction Test 
+199181 Magic Soldier Destruction Test 
+199182 Magic Soldier Destruction Test 
+199183 Magic Soldier Destruction Test 
+11001100 Body and head 
+11001101 Body and chest 
+11001102 Body and arm 
+11001103 Body and feet 
+11010100 Lightweight Warrior Head 
+11010101 Lightweight Warrior Chest 
+11010102 Lightweight Warrior, Arm 
+11010103 Lightweight Warrior, Feet 
+11020100 Thieves, Head 
+11020101 Bandit, Chest 
+11020102 Thieves, Arms 
+11020103 Thieves, Feet 
+11030100 The Wanderer, Head 
+11030101 Vagabond, Chest 
+11030102 Wanderer, Arm 
+11030103 Vagabond, Foot 
+11040100 Hunter, Head 
+11040101 Hunter, Chest 
+11040102 Hunter, Arm 
+11040103 Hunter, Foot 
+11041100 Hunter (2) Head 
+11050100 Soldiers and Heads 
+11050101 Soldier, chest 
+11050102 Soldiers and arms 
+11050103 Soldiers and Feet 
+11060100 Sorcerer's Head 
+11060101 Soldiers of Witchcraft, Chest 
+11060102 Soldiers and Arms 
+11060103 Soldiers and Feet 
+11070100 Sorcerer, Head 
+11070101 Sorcerer, Chest 
+11070102 Sorcerer, Arm 
+11070103 Sorcerer, Foot 
+11080100 Bandits, Head 
+11080101 Bandits, Chest 
+11080102 Bandits, Arms 
+11080103 Bandits, Feet 
+11090100 The head of the person who does not have it 
+11090101 The person who does not have it, the chest 
+11090102 The person who does not have it, and the arm 
+11090103 Those who do not have, feet 
+11100100 Traveler's Clothes and Head 
+11100101 Traveler's clothes and chest 
+11100102 Traveler's clothes and arms 
+11100103 Traveler's Clothes and Feet 
+11110100 Viking Head 
+11110101 Viking Chest 
+11110102 Viking Arm 
+11110103 Viking Feet 
+11120100 Magician, Head 
+11120101 Sorcerer, Chest 
+11120102 Magician, Arm 
+11120103 Magician, Foot 
+11130100 Clergy man and head 
+11130101 Priest, Chest 
+11130102 Clergy man, arm 
+11130103 Clergy man and foot 
+11140100 Item master, head 
+11140101 Item master, chest 
+11140102 Item master, arm 
+11140103 Item master, foot 
+11150100 Hunter,Head 
+11150101 Hunter Chest 
+11150102 Hunter, Arm 
+11150103 Hunters, Feet 
+11160100 Heavy Warrior, Head 
+11160101 Heavy Warrior Chest 
+11160102 Heavy Warrior, Arm 
+11160103 Heavy Warrior, Feet 
+11170100 Mad Warrior, Head 
+11170101 Mad Warrior, Chest 
+11170102 Mad Warrior, Arm 
+11170103 Mad Warrior, Feet 
+11180100 Warrior, Head 
+11180101 Warrior, Chest 
+11180102 Warrior, Arm 
+11180103 Warrior, Foot 
+11190100 Fighters and Heads 
+11190101 Fighters, Chest 
+11190102 Fighters, Arms 
+11190103 Fighters and Feet 
+11210100 Clown, Head 
+11210101 Clown, Chest 
+11210102 Clown, arm 
+11210103 Clowns and Feet 
+11220100 Search er, head 
+11220101 Exploring Technician, Chest 
+11220102 Exploring Technician, Arm 
+11220103 Search er, feet 
+11230100 Astrologer,Head 
+11230101 Astrologer, Chest 
+11230102 Astrologer, Arm 
+11230103 Astrologer,Foot 
+11240100 Magician, Head 
+11240101 Sorcerer Chest 
+11240102 Swordsman, Arm 
+11240103 Magician, Foot 
+11250100 Knight, Head 
+11250101 Knight, Chest 
+11250102 Knight, Arm 
+11250103 Knight, Foot 
+11270100 Black Magician Head 
+11270101 Black Magician, Chest 
+11270102 Black Magician, Arm 
+11270103 Black Magician, Feet 
+11280100 Priests and Heads 
+11280101 Priest, Chest 
+11280102 Priest, Arm 
+11280103 Priest, Feet 
+11290100 Sword Sei Head 
+11290101 Kensei Chest 
+11290102 Kensei Arms 
+11290103 Kensei Feet 
+11300100 Prayer master and head 
+11300101 Prayer master, chest 
+11300102 Prayer master and arm 
+11300103 Prayer master, foot 
+11310100 Madoshi, Head 
+11310101 Mage, Chest 
+11310102 Mage, Arm 
+11310103 Mage, Foot 
+11320100 Leader, Head 
+11320101 Leader, Chest 
+11320102 Leader, Arm 
+11320103 Leader, Foot 
+11330100 Old Dragon Armor and Head 
+11330101 Old Dragon Armor and Chest 
+11330102 Old Dragon Armor and Arms 
+11330103 Old Dragon Armor and Feet 
+11340100 Yellow coat, head 
+11340101 Yellow coat, chest 
+11340102 Yellow coat and arm 
+11340103 Yellow clothing and feet 
+11350100 The priest and head of the escape 
+11350101 The priest and torso of the escape 
+11350102 The priest and the arm of the escape 
+11350103 The priest and the foot of the escape 
+11360100 Transparent armor and head 
+11360101 Transparent armor and chest 
+11360102 Transparent armor and arms 
+11360103 Transparent armor and feet 
+11361100 Transparent armor_opaque,head 
+11361101 Transparent armor_opaque/chest 
+11361102 Transparent armor_opaque/arm 
+11361103 Transparent armor_opaque, feet 
+11370100 Painting Defense and Head 
+11370101 Painting defense and chest 
+11370102 Painting defense and arms 
+11370103 Painting defense and feet 
+11380100 Seale head 
+11380101 Sealer, Chest 
+11380102 Sealer, Arm 
+11380103 Sealer, Foot 
+11390100 Dirt and head 
+11390101 Dirt and chest 
+11390102 Dirt and arms 
+11390103 Dirt and feet 
+11430100 Sniper Head 
+11440102 Lucky Gauntlet Arm 
+11450101 Barrels 
+11460103 Cat Boots 
+11470100 Butterfly Armor and Head 
+11470101 Butterfly Armor and Chest 
+11470102 Butterfly Armor and Arms 
+11470103 Butterfly Armor and Feet 
+11480100 Catalina Warrior Head 
+11480101 Catalina Warrior Chest 
+11480102 Catalina Warrior Arm 
+11480103 Catalina Warrior Feet 
+11490100 Wandering Knight Head 
+11490101 Wandering Knight, Chest 
+11490102 Wandering Knight, Arm 
+11490103 Wandering Knight, Foot 
+11500100 Witch, Head 
+11500101 Witch, Chest 
+11500102 Witch, Arm 
+11500103 Witch Feet 
+11501100 Witch head (2) 
+11502100 Witch head (3) 
+12020100 Kingdom Soldier (Dead) Head 
+12020101 Kingdom Soldier (Dead) Chest 
+12020102 Kingdom Soldier (Dead) Arm 
+12020103 Kingdom Soldier (Dead) Feet 
+12021100 Kingdom Soldier (Living) Head 
+12021101 Kingdom Soldier (Living) Chest 
+12021102 Kingdom Soldier (Living) Arm 
+12021103 Kingdom Soldier (Living) And Feet 
+12030100 Lower-level soldiers and heads 
+12030101 Lower-level soldier (dead) chest 
+12030102 Lower-level soldiers and arms 
+12030103 Lower-level soldiers and feet 
+12031100 Lower-level soldiers and heads 
+12031101 Lower-level soldier(raw) chest 
+12031102 Lower-level soldiers and arms 
+12031103 Lower-level soldiers and feet 
+12060100 Dark Priest: Color (1) Head 
+12060101 Dark Priest: Color (1) chest 
+12060102 Dark Priest: Color (1) and Arms 
+12060103 Dark Priest: Color (1) and Feet 
+12062100 Dark Priest: Color (2) head 
+12062101 Dark Priest: Color (2) and Chest 
+12062102 Dark Priest: Color (2) and Arms 
+12062103 Dark Priest: Color (2) and Feet 
+12080100 Rogue (Dead) Head 
+12080101 Rogue (Dead) Chest 
+12080102 Rogue (Dead) Arm 
+12080103 Rogue (Dead) And Feet 
+12110100 Bandit, Head 
+12110101 Bandit, Chest 
+12110102 Bandit, Arm 
+12110103 Bandit, Feet 
+12130100 Sailors and Heads 
+12130101 Sailor chest 
+12130102 Sailor, Arm 
+12130103 Sailor sand feet 
+12180100 Dark Wizard (Deceased): Color (1) Head 
+12180101 Dark Wizard (Deceased): Color (1) Chest 
+12180102 Dark Wizard (Deceased): Color (1) and Arm 
+12180103 Dark Wizard (Deceased): Color (1) and Feet 
+12181100 Dark Wizard (Deceased): Color (2) head 
+12181101 Dark Wizard (Deceased): Color (2) chest 
+12181102 Dark Wizard (Deceased): Color (2) and Arm 
+12181103 Dark Wizard (Deceased): Color (2) and Feet 
+12182100 Dark Wizard (Deceased): Color (3) head 
+12182101 Dark Wizard (Deceased): Color (3), Chest 
+12182102 Dark Wizard (Deceased): Color (3) and Arm 
+12182103 Dark Wizard (Deceased): Color (3) and Feet 
+12190101 Black Lion Mage Chest 
+12190102 Black Lion Mage, Arm 
+12190103 Black Lion Mage Feet 
+12220100 Knight head of Bernice 
+12220101 Bernice's Knight's Chest 
+12220102 Bernice's Knight And Arms 
+12220103 Bernice's Knight's Feet 
+12221100 Knight of Bernice: Head difference, head difference 
+12230100 Deformed shadows and heads 
+12230101 Deformed shadows and chests 
+12230102 Deformed shadows and arms 
+12230103 Deformed shadows and feet 
+12240100 Assassin's Head 
+12240101 Assassin, Chest 
+12240102 Assassin, Arm 
+12240103 Assassin's Foot 
+12270100 Immortal Workers and Heads 
+12270101 Immortal Workers and Chests 
+12270102 Immortal Workers and Arms 
+12270103 Immortal Workers and Feet 
+12271100 Immortal Worker (2) head 
+12271101 Immortal Worker (2) Chest 
+12310100 Cleric Head 
+12310101 Cleric Chest 
+12310102 Cleric Arm 
+12310103 Cleric Feet 
+12340100 Dwarf(Dead) Head 
+12340101 Dwarf(Dead) Chest 
+12340102 Dwarf(Dead) Arms 
+12340103 Dwarf,Feet 
+12350100 Heavy Dwarf (Dead) Head 
+12350101 Heavy Dwarf (Dead) Chest 
+12350102 Heavy Dwarf (Dead) Arm 
+12350103 Heavy Dwarf (Dead) And Feet 
+12351100 Heavy dwarf (deceased): Head B: Helmet) head 
+12360100 Dark Reis head 
+12360101 Dark Reis chest 
+12360102 Dark Reis arms 
+12360103 Dark Reis feet 
+12370100 Necromancer (Immortal) head 
+12460100 Clothes of the wealthy♂ and heads 
+12460101 Clothes of the wealthy♂ and breasts 
+12460102 Clothes of the wealthy♂ and arms 
+12460103 Clothes of the wealthy♂ and feet 
+12480100 Farmer's Clothes ♂ And Head 
+12480101 Farmer's Clothes ♂ And Breasts 
+12480102 Farmer's Clothes ♂ And Arms 
+12480103 Farmer's Clothes ♂ And Feet 
+12510100 Kingdom Heavy Soldier (Color (1)) head 
+12510101 Kingdom Heavy Soldier (Color (1)) chest 
+12510102 Kingdom Heavy Soldier (Color (1)) and Arms 
+12510103 Kingdom Heavy Soldier (Color (1)) and Feet 
+12512100 Kingdom Heavy Soldier (Color (3)) head 
+12512101 Kingdom Heavy Soldier (Color (3)) chest 
+12512102 Kingdom Heavy Soldier (Color (3)) and Arms 
+12512103 Kingdom Heavy Soldier (Color (3)) and Feet 
+12520100 Kingdom Soldier Warrior, Head 
+12520101 Kingdom Soldier Warrior Chest 
+12520102 Kingdom Soldier Warrior, Arm 
+12520103 Kingdom Soldier Warrior, Foot 
+12530100 Kingdom Guards and Heads 
+12530101 Kingdom Guards, Chest 
+12530102 Kingdom Guards and Arms 
+12530103 Kingdom guards, feet 
+12540100 Skeleton aristocracy and head 
+12540101 Skeleton aristocracy, chest 
+12540102 Skeleton aristocracy and arms 
+12540103 Skeleton aristocracy, feet 
+13010100 Wandering Knight's Head (Head A) 
+13010101 Wandering Knight Chest 
+13010102 Wandering Knight arms 
+13010103 Wandering Knight's Feet 
+13011100 Wandering Knight head (head B) 
+13040101 Banshee Color (1) 
+13050100 Damon Knight Head 
+13050101 Damon Knight Chest 
+13050102 Damon Knight Arm 
+13050103 Damon Night Feet 
+13060100 Damon Armor Captain, Head 
+13060101 Demon Armor Captain, Chest 
+13060102 Demon Armor Captain, Arm 
+13060103 Demon Armor Captain, Feet 
+13061100 Damon Armor General Sergeant head 
+13061101 Demon Armor General Soldier Chest 
+13061102 Demon Armor General Soldier, Arm 
+13061103 Demon Armor General Soldier, Feet 
+13070100 Durahan (deceased) head 
+13070101 Durahan (deceased) chest 
+13070102 Durahan (deceased) and arms 
+13070103 Durahan (deceased) and feet 
+13080101 Lion Warrior Chest 
+13080102 Lion Warrior, Arm 
+13080103 Lion Warrior, Foot 
+13081100 Lion Warrior (2) Head 
+13081101 Lion Warrior (2) Chest 
+13081103 Lion Warrior (2) Feet 
+13120100 Immortal Senior Soldier (Immortal) Head 
+13120101 Immortal Advanced Soldier (Immortal) Chest 
+13120102 Immortal Senior Soldier (Immortal) Arm 
+13120103 Immortal Senior Soldier (Immortal) Feet 
+13130100 Falcon Warrior, Head 
+13130101 Falcon Warrior Chest 
+13130102 Falcon Warrior, Arm 
+13130103 Falcon Warrior, Foot 
+13140100 Elephant (dead) head 
+13140101 Elephant (dead) chest 
+13140102 Elephant (dead) and arm 
+13140103 Elephant (dead) and feet 
+13150100 Elephant (born) and head 
+13150101 Elephant (born) and chest 
+13150102 Elephant Man and Arm 
+13150103 Elephant (born) and foot 
+13160100 　Captured Mage head 
+13160101 　Captured Mage Chest 
+13160102 　Captured Mage, Arm 
+13160103 　Captured Mage Feet 
+13170100 Dragon Professor and Head 
+13170101 Dragon Professor Chest 
+13170102 Dragon Professor and Arm 
+13170103 Dragon Professor and Legs 
+13171100 Dragon Researcher and Head 
+13250100 Warrior's Head in the Mirror 
+13250101 Warrior's chest in the mirror 
+13250102 Warrior in the Mirror 
+13250103 Warrior in the Mirror 
+13300100 Ancient Warriors and Heads 
+13300101 Ancient Warrior chest 
+13300102 Ancient Warriors and Arms 
+13300103 Ancient Warriors and Feet 
+13310100 Damon Heavy Soldier head 
+13310101 Damon Heavy Soldier, Chest 
+13310102 Demon Heavy Soldier, Arm 
+13310103 Damon Heavy Soldier, Feet 
+13320100 Queen Knight A, Head 
+13320101 Queen Knight A, Chest 
+13320102 Queen Knight A, Arm 
+13320103 Queen Knight A. Feet 
+13330100 Queen Knight B. Head 
+13330101 Queen Knight B, Chest 
+13330102 Queen Knight B. Arm 
+13330103 Queen Knight B. Foot 
+13340100 Queen Knight C. Head 
+13340101 Queen's Knight C, Chest 
+13340102 Queen's Knight C. Arm 
+13340103 Queen Knight C. Feet 
+15040100 Mirror Night Head 
+15040101 Mirror Night Chest 
+15040102 Mirror Night Arm 
+15040103 Mirror Night Feet 
+15060101 Agaduran Chest 
+15060102 Agaduran Arm 
+15060103 Agaduran Feet 
+15090100 Dark Bishop Head 
+15090101 Dark Bishop Chest 
+15100100 Phantom Priest Head 
+15100101 Phantom Priest Chest 
+15100102 Phantom Priest Arm 
+15100103 Phantom Priest Feet 
+15110100 Phantom Knight, Head 
+15110101 Phantom Knight(Spirit) chest 
+15110102 Phantom Knight(Spirit) and Arms 
+15110103 Phantom Knight,Foot 
+15120100 Phantom Mage(Spirit) head 
+15120101 Phantom Mage (Spirit) chest 
+15120102 Phantom Mage (Spirit) and Arms 
+15120103 Phantom Mage (Spirit) and Feet 
+15130100 King Vangrats, Head 
+15130101 King Vangrats, Chest 
+15130102 King Vangrats, Arm 
+15130103 King Vangrats, Feet 
+16100100 Heavy Cavalry, Head 
+16100101 Heavy Cavalry Chest 
+16100102 Heavy Cavalry, Arm 
+16100103 Heavy Cavalry, Feet 
+16180100 Silver Chariot Head 
+16180101 Silver Chariot Chest 
+16180102 Silver Chariot Arms 
+16180103 Silver Chariot Feet 
+16260100 Forgotten Sinner head 
+16260101 Forgotten Sinners, Breasts 
+16260102 Forgotten Sinner, Arm 
+16260103 Forgotten Sinner son's feet 
+16660102 A knight and an arm 
+17210101 Kingdom Sergeant (past) torso 
+17210102 Kingdom Army Master (Past) And Arms 
+17210103 Kingdom Army Master (Past) and Feet 
+17240100 Head of The Royal SS 
+17240101 Captain of the Kingdom SS, Chest 
+17240102 Captain of the Kingdom SS, Arm 
+17240103 Head of the Kingdom S S, Feet 
+17420100 The Warrior's Head 
+17420101 The warrior chest of the revenge 
+17420102 The warrior and the arm of the revenge 
+17420103 A warrior's foot 
+17430100 The father and head of the avenger 
+17430101 The father of the warrior of avenge 
+17430102 The father and arms of the avenged warrior 
+17430103 The father and foot of the avenged warrior 
+17440100 Patch head 
+17440101 Patch chest 
+17440102 Patch arms 
+17440103 Patch feet 
+17510100 The elder brother and the head which looks for the younger sister 
+17510101 The elder brother and the chest which looks for the younger sister 
+17510103 The elder brother and the foot which looks for the younger sister 
+17520100 Sea Solar Head 
+17520101 Sea Solar Chest 
+17520102 Sea Solar Arm 
+17520103 Sea Solar Feet 
+17521100 Sea Solar Head (2) 
+17530100 Sancho Head 
+17530101 Sancho Chest 
+17530102 Sancho Arm 
+17530103 Sancho Feet 
+17550100 Stalker Warrior, Head 
+17550101 Stalker Warrior, Chest 
+17550102 Stalker Warrior, Arm 
+17550103 Stalker Warrior, Feet 
+17630101 NPC Bookstore 
+17680100 Spell Four Tenno (Magic) Head 
+17680101 Spell Four Tenno (Magic) Chest 
+17680102 Spell Four Tenno (Magic) And Arm 
+17680103 Spell Four Tenno (Magic) And Feet 
+17690100 Spell Four Tenno (Miracle) Head 
+17690101 Spell Four Tenno (Miracle) Chest 
+17690102 Spell Four Tenno (Miracle) And Arm 
+17690103 Spell Four Tenno (Miracle) And Feet 
+17700100 Spell Four Tenno (Magic) head 
+17700101 Spell Four Tenno (Magic) Chest 
+17700102 Spell Four Tenno (Magic) And Arm 
+17700103 Spell Four Tenno (Magic) And Feet 
+17710100 Spell Four Tenno (Dark Art) head 
+17710101 Spell Four Tenno (Dark Art), Chest 
+17710102 Spell Four Tenno (Dark Art) and Arms 
+17710103 Spell Four Tenno (Dark Art) And Feet 
+17830100 Black Phantom Shop Head 
+17830101 Black Phantom Shop Chest 
+17950100 The Head of the Holy Woman 
+17950101 The Person With the Holy Woman, The Chest 
+17950102 The person with the holy woman and the arm 
+17950103 The Person With the Holy Woman and the Foot 
+19000101 9000 [Phantom - Naked] / Chest 
+19010101 9010 [Phantom - Clothes] Chest 
+19020101 9020 [Phantom - Light Clothing] Chest 
+19030101 9030 [Phantom - Heavy Wear] Chest 

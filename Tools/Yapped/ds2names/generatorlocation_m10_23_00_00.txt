@@ -1,0 +1,105 @@
+55 [In the torch with the key] [Wandering Warrior] (Born) 
+56 [In the torch with the key] [Wandering Warrior] (deceased) 
+155 【Connection road exit】 【Dark Art Shop】 (Born) 
+156 【Connection road exit】 【Dark Art Shop】 (deceased) 
+275 [Colosseum 2F_NPC] [Black Phantom Shop] (Raw) Pledge NPC 
+276 [Colosseum 2F_NPC] [Black Phantom Shop] NPC for pledge 
+580 【Black Spirit】NPC for Multi: Reaper (Female) 
+816 Silver Chariots: Coalescence 
+839 [Boss Room_Boss] [Skeleton aristocracy: cane] boss 
+840 [Boss Room_Boss] [Skeleton aristocracy: sickle] boss 
+841 [Boss Room_Boss] [Skeleton aristocracy: axe spear] boss 
+1111 [Mushroom cave front right hand _ waiting until the attack] dead workers 
+1113 [Mushroom cave exit left _ waiting until the attack] dead workers 
+1114 [Mushroom cave entrance_ course block_ battle] great dead: sword 
+1123 [Mushroom cave bottom _ combat] tortureman: torture device 
+1200 [Mushroom cave upper wall _ battle] Great Moss_1 
+1205 [Mushroom Cave Lower Wall _ Battle] Great Moss_2 
+1206 [Mushroom Cave Lower Wall _ Battle] Great Moss_3 
+2000 [Corridor hiding hole _ battle] terrible dead: sword_1 
+2001 [Corridor hiding hole _ battle] terrible dead: sword_2 
+2007 【Corridor_Course Block】Great Dead: Sword 
+2010 [Corridor opposite_ battle] Rogue (dead): Bow 
+2011 [Corridor opposite _ Battle] Rogue (dead): Dagger × 2 
+2014 [Attack when the corridor entrance left hand _PC opens the door] rogue (deceased) dagger × 2 
+2015 [Corridor entrance left hand _ battle] rogue (dead): dagger × 2 
+2020 [Corridor rooftop _ coming up from the bottom one step] rogue (deceased) dagger × 2_1 
+2026 【Corridor Rooftop_Combat】Rogue (Deceased): One Hand Mallet 
+2029 [Corridor rooftop _2 laps _Soul Black] man-made immortal 
+2030 [Immediate attack when the _PC the back of the pier _ surprise is in sight] rogue (dead) one-handed mallet 
+3000 【The place where i got off the pier】The terrible deceased 
+3001 [Where you got off the pier_ wandering] great dead 
+3016 【In front of the bridge of the forest_shade hiding】Rogue (deceased) 
+3025 [Bridge left_ corpse mimicry] terrible dead: sword_1 
+3100 [Around The Bridge Torchka_Wandering], Man-made Immortal_1 
+3101 [Around The Bridge Torchka_Wandering], Man-made Immortal_2 
+3103 [Poison from the tree around the bridge torchka] Great Moss_1 
+3105 [Bridge tip left back _combat] man-made immortal_3 
+3121 [Bridge left_ Waiting to receive attack _Agura] dead workers: bare hands_2 
+3123 [Poison from the bridge left __ tree] Great Moss_1 
+3201 [Lever Torchka front _ battle] Rogue: Dagger × 2 
+3202 [Lever Torchka front _ battle] rogue: one hand mallet 
+3203 [Lever Torchka Front _ Battle] Rogue: Bow 
+3210 [Operation Bridge Right Hand _ Battle] Rogue: Bow 
+3400 [Lever torch ka top _ surprise from the ceiling hole 1] [Rogue (deceased): Dagger x 2】 Crouching 
+4000 [Cave route entrance immediately _ resurrected until the wizard defeats] skeleton: one-handed sword_1 
+4003 [Cave root entrance immediately _ resurrected until the wizard defeats] skeleton: stabbing sword_2 
+4010 [Around the cave route lamp stand _ resurrected until the wizard defeats] helmet skeleton: curved sword × 2_1 
+4012 [Around the cave route lamp stand _ resurrected until the wizard defeats] skeleton: bow_2 
+4013 [Around the cave route lamp stand _ resurrected until the wizard defeats] armor skeleton swords_2 
+4020 [Shadow of cave root pillar _ skeleton revived] Dark Wizard 
+4050 [Cave route back _ resurrected until the wizard defeat] armor skeleton swords & shields_1 
+4053 [Cave route back _ resurrected until the wizard defeat] armor skeleton: curved sword × 2 
+4054 [Cave root back _ resurrected until the wizard defeat] armor skeleton: bow 
+4055 [Cave route back _ resurrected until the wizard defeat] armor skeleton swords & shields_2 
+4060 [Cave route back _ skeleton revived] dark wizard 
+4100 [Cliff route front _ battle] rogue (dead) two-handed bow 
+4102 [Blade dash from the shadow of the cliff route _ rock] rogue (deceased) dagger × 2 
+4105 [Cliff route front _ battle] rogue (dead): dagger × 2 
+4107 [Cliff route front _ battle] rogue (dead): one hand mallet 
+4110 [In the cliff route _ battle] rogue (dead): one hand mallet 
+4111 [In the cliff route _ battle] rogue (dead): bow 
+4112 【In the cliff route】Ishimori 
+4122 [Cliff Route Back _Soul Black] Man-made Immortal 
+4125 [Cliff Route Torchka_ Battle] Rogue (Deceased): Bow 
+4126 [Cliff Route Torchka_ Battle] Rogue (dead): One hand mallet 
+4130 [Cliff Route Back- Battle] Rogue (Dead): Bow 
+4150 [Cliff Route Sakaue _ Battle] Rogue (deceased): Dagger × 2_1 
+4160 [Cliff Route Sakaue_ Battle] Rogue (deceased): One hand mallet 
+4162 [Cliff Route Sakaue_ Battle] Rogue (deceased): Bow 
+4200 [Bridge between routes _ pinching _ Soul Black] man-made immortal 
+5000 [Bridge to the prison _ round trip] torture detainees : torture equipment 
+5005 [Bridge to the prison] left hand _ battle] great dead person: sword 
+5006 [Bridge to the prison] right hand _ battle] great dead: sword 
+5010 [First body of surprise falling from the top of the stick in front of the torture place] tortureman: torture device_1 
+5011 [3body surprise falling from the top of the stick in front of the torture site] tortureman: whip_2 
+5012 [Torture place front _ 2 bodies of surprise falling from the top of the stick] tortureman: whip_1 
+5013 [4th body of surprise falling from the top of the stick in front of the torture site] tortureman: torture device_2 
+5014 [First body of surprise falling from the top of the stick in front of the torture place] tortureman: torture device: Soul Black_1 
+5015 [3body surprise falling from the top of the stick in front of the torture site] tortureman: Whip: Soul Black_2 
+5016 [2nd surprise body falling from the top of the stick in front of the torture site] tortureman: whip: Soul Black_1 
+5017 [4th surprise body falling from the top of the stick in front of the torture site] tortureman: torture device: Soul Black_2 
+5020 [Road to the prison: before the treasure corpse _ battle] terrible dead: sword 
+5200 [Boss room _ generated at the time of aristocratic destruction] wheel skeleton: bare hand_1 
+5201 [Boss room _ generated at the time of aristocratic destruction] wheel skeleton: bare hand_2 
+5202 [Boss room _ generated at the time of aristocratic destruction] wheel skeleton: bare hand_3 
+5203 [Boss room _ generated at the time of aristocratic destruction] wheel skeleton: bare hand_4 
+5210 [Boss room _ generated at the time of aristocratic defeat] armor skeleton: armor: crown: curved sword × 2 
+5211 [Boss room _ generated at the time of aristocratic destruction] armor skeleton: armor yes: helmet: curved sword × 2 
+5212 [Boss room _ generated at the time of aristocratic destruction] armor skeleton: armor yes: helmet: curved sword × 2 
+5213 [Boss room _ generated at the time of aristocratic destruction] armor skeleton: armor yes: helmet: curved sword × 2 
+5220 [Boss room _ generated at the time of aristocratic defeat] skeleton: one-handed stabbing_1 
+5221 [Boss room _ generated at the time of aristocratic defeat] skeleton: one-handed stabbing_2 
+5222 [Boss room _ generated at the time of aristocratic defeat] skeleton: one-handed stabbing_3 
+5223 [Boss room _ generated at the time of aristocratic defeat] skeleton: one-handed stabbing_4 
+6000 [Colosseum in front of _ Proximity _ Dash approach] skeleton: one-handed sword 
+6001 [Colosseum in front of _ Proximity _ Dash approach] Skeleton: 2 swords 
+6002 [Colosseum in front of _ Proximity _ Dash approach] skeleton: one-handed stabbing 
+6003 [Colosseum in front of _ proximity _ dash approach] helmet skeleton: curved sword × 2 
+6004 [Colosseum Infront _ Proximity _ Dash Approach] Helmet Skeleton 
+6005 [Colosseum in front of _ Proximity _ Dash Approach] Helmet skeleton: stabbing sword 
+6006 [Colosseum in front _ long distance] helmet skeleton: two-handed bow 
+6030 [Near colosseum ore bar _long distance_skeleton resurrection chanting】 Dark Wizard 
+6031 [Colosseum in front of _ long distance _ skeleton resurrection chant] dark wizard 
+8000 [Colosseum white door front _ battle _ red phantom] NPC: Swordsman (Man) 
+8500 [Colosseum front _ for poly play] skeleton 

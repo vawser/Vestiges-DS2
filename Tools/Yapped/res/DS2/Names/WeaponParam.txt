@@ -1,103 +1,82 @@
-1 UNKNOWN
-2 UNKNOWN
-3 UNKNOWN
-10 UNKNOWN
-8182 UNKNOWN
-8183 UNKNOWN
-732000 UNKNOWN
-733000 UNKNOWN
-741000 UNKNOWN
-761000 UNKNOWN
-763000 UNKNOWN
-766000 UNKNOWN
-772000 UNKNOWN
-784000 UNKNOWN
-810000 UNKNOWN
-811000 UNKNOWN
-812000 UNKNOWN
-813000 UNKNOWN
-814000 UNKNOWN
-820000 UNKNOWN
-821000 UNKNOWN
-822000 UNKNOWN
-823000 UNKNOWN
-824000 UNKNOWN
-831000 UNKNOWN
-831100 UNKNOWN
-832000 UNKNOWN
-832100 UNKNOWN
-832200 UNKNOWN
-832201 UNKNOWN
-832300 UNKNOWN
-832301 UNKNOWN
-832400 UNKNOWN
-832401 UNKNOWN
-832500 UNKNOWN
-832600 UNKNOWN
-832700 UNKNOWN
-832701 UNKNOWN
-833000 UNKNOWN
-835000 UNKNOWN
-835001 UNKNOWN
-835100 UNKNOWN
-835200 UNKNOWN
-836000 UNKNOWN
-836001 UNKNOWN
-836100 UNKNOWN
-836200 UNKNOWN
-836300 UNKNOWN
-836301 UNKNOWN
-836400 UNKNOWN
-837000 UNKNOWN
-837100 UNKNOWN
-837200 UNKNOWN
-838000 UNKNOWN
-838100 UNKNOWN
-842000 UNKNOWN
-843000 UNKNOWN
-843001 UNKNOWN
-844000 UNKNOWN
-845000 UNKNOWN
-846000 UNKNOWN
-847000 UNKNOWN
-847100 UNKNOWN
-848000 UNKNOWN
-848100 UNKNOWN
-849000 UNKNOWN
-849100 UNKNOWN
-849200 UNKNOWN
-850000 UNKNOWN
-850001 UNKNOWN
-851000 UNKNOWN
-852000 UNKNOWN
-853000 UNKNOWN
-853100 UNKNOWN
-853200 UNKNOWN
-853300 UNKNOWN
-853400 UNKNOWN
-853500 UNKNOWN
-854000 UNKNOWN
-867000 UNKNOWN
-880000 UNKNOWN
-883000 UNKNOWN
-885000 UNKNOWN
-885001 UNKNOWN
-885002 UNKNOWN
-886000 UNKNOWN
-887000 UNKNOWN
-888000 UNKNOWN
-889000 UNKNOWN
-890000 UNKNOWN
-892000 UNKNOWN
-893000 UNKNOWN
-894000 UNKNOWN
-895000 UNKNOWN
-896000 UNKNOWN
-897000 UNKNOWN
-898000 UNKNOWN
-899000 UNKNOWN
-900000 UNKNOWN
-910000 UNKNOWN
+1 Test 
+2 Test 
+3 Test 
+10 10: Unauthorized data (prohibited) 
+8182 8182: Weapon Color Check 
+8183 8183: Landing Check 
+732000 Sorcerer Sinner 1: The Fire of The Sorcerer 
+733000 Sorcerer Sinner 2: The Fire of The Sorcerer 
+741000 Heartbroken Blue Warrior: Busted Sword 
+761000 Armor shop: Falcion 
+763000 Sorcerer: Sorcerer's Wand 
+766000 Sorcerer: Dark Wizard Lizard Wand 
+772000 Curiosity: Size 
+784000 The Teacher of The Sin: The Long Sickle 
+810000 NPC for Multi: Swordsman (Male): Zweiender 
+811000 NPC for Multi: Archer (Man): Convoy Bow 
+812000 NPC for Multi: Sage (Female): Fairy Shrine Maiden's Wand 
+813000 NPC for Multi: Lancer (Female): The Knight's Assault Spear C 
+814000 NPC for Multi: Flesh breaking (female): White Spirit: Great Axe 
+820000 NPC for Multi: Spearman (Man): Winged Spear 
+821000 NPC for Multi: Reaper (Female): Jabazahat's Two-Handed Sickle 
+822000 NPC for Multi: The Magician (Man): Dark Bishop's Wand 
+823000 NPC for Multi: Koryu Swordsman (Male): Old Dragon's Two-Handed Sword 
+824000 NPC for Multi: The Older Brother of a Female Swordsman: The Swordsman's Two-Handed Sword 
+831000 Saint's Tomb: Abandoned Saint: Queen's Bell 
+831100 Saint's Tomb: Knight of the Saint: King Van Grad's Two-Handed Sword 
+832000 Old Dark Hole: Abyss 1: Sniper: Compositing Bow 
+832100 Old Dark Hole: Abyss 2: Axeman: Demon Heavy Soldier's Two Hands Mallet 
+832200 The Hole of Old Darkness: The Abyss 3: Yellow Husband: The Fire of The Magic 
+832201 The Old Dark Hole: The Abyss 3: Yellow Husband: Ibara Whip 
+832300 The Hole of Old Darkness: The Abyss 4: Yellow Wife: The Fire of The Magic 
+832301 The Old Dark Hole: The Abyss 4: Yellow Wife: The Whip 
+832400 The Hole of Old Darkness: The Abyss 5: Traveler: Dagger 
+832401 The Old Dark Hole: The Abyss 5: Traveler: The Dagger of the Nagain 
+832500 Old Dark Hole: Abyss 6: Knight: Ricardo's Sting 
+832600 The Hole of The Old Darkness: The Abyss 7: Heavy Warrior: The Great Dragon Fang 
+832700 Old Dark Hole: Abyss 8: Queen: Shorter 
+832701 Old Dark Hole: Abyss 8: Queen: Two-Sided Swordsman's Song Sword 
+833000 Amana's Shrine: Cannibal Keeper: Meat Cleaver 
+835000 Enshrinement Hall: Dragon Knight: Old Dragon's Two-Handed Axe 
+835001 Enshrinement Hall: Painting Guard (Female): The Song of Painting 
+835100 Enshrinement Hall: Dragon Knight: Old Dragon's One Hand Mallet 
+835200 Enshrinement Hall: Dragon Knight: Old Dragon's One Hand Sword 
+836000 Molten Castle: Samurai Sorcerer: Stalker Warrior's Sword 
+836001 Molten Castle: Samurai Sorcerer: Stalker Warrior's Sword (for two-sword-style both hands) 
+836100 Molten Castle: Bell Guard 1: Great Sword 
+836200 Molten Castle: Bell Guard 2: Fire Bow (Averin) 
+836300 Ming-iron castle: Bell Guard 3: Dark Wizard's Komori Wand 
+836301 Molten Castle: Bell Guard 3: Salamander Spear 
+836400 Molten Castle: Light Heavy Soldier: Daemon Heavy Soldier's Two-Handed Mallet 
+837000 Gap Sinus: Second Lap Hunting: Short Sword 
+837100 Gap Sinus: Tutorial: Broken Straight Sword 
+837200 Gap Sinus: Tutorial: Short Bow 
+838000 Forest of Shadows: Phantom Enemy 1: Dagger 
+838100 Forest of Shadows: Phantom Enemy 2: Long Sword 
+842000 The Forest of Decayed Giants: In Front of the King's Door: The Second Lap Red Spirit 1: The Two-Handed Sword of the Elephant 
+843000 The Forest of Decayed Giants: In front of the king's door: Second Lap Red Spirit 2: The Straight Sword of the Wandering Knight 
+843001 Decayed Giant Forest: In Front of the King's Door: Round 2 Red Spirit 2: Dagger 
+844000 Decayed Giant Forest: Ground Cracking Square: Round 2 Red Spirit 3: Broad Sword 
+845000 Decaying Giant Forest: Second Lap Dark Spirit: Scimiter 
+846000 Kiseki-gai Gerdra: Dark Spirit: Tsurushi 
+847000 Heide Great Fire Tower: Second Lap Dark Spirit 1: Silver Chariot Assault Spear 
+847100 Heide Great Fire Tower: Second Lap Dark Spirit 2: The Old Woman's Two-Handed Axe 
+848000 Tomb of Immortality: Second Lap Dark Spirit 1: Phantom Mage's One Hand Sword 
+848100 Tomb of Immortality: Dark Spirit 2 (Ghost): Dagger 
+849000 King's Castle D'Angheig: Dark Spirit 1 (Ghost): Dagger 
+849100 King's Castle D'Angheig: The Dark Spirit 2 (Clown): The Fire of The Magic 
+849200 King's Castle D'Angheig: Dark Spirit 3 (Transparent Armor): Shorter 
+850000 Anne Deal's House: The Second Lap Dark Spirit (right): A dagger in a deformed shadow 
+850001 Anne Deal's House: The Second Lap Dark Spirit (left): Rogue Dagger 2 
+851000 Valley of The Reservoir: Dark Spirit: The Two-Handed Sickle of the Man-Made Immortal 
+852000 Hunting Forest: Red Spirit Level 3: The Great Sword 
+853000 King Castle D'Angheig: Two-Sword Avalin 
+853100 King's Castle D'Angheig: Leroy: Estock 
+853200 King's Castle D'Angheig: Second Lap Dark Spirit 1: Heavy Equipment: Demon Heavy Soldier Warpick 
+853300 King's Castle D'Angheig: 2 laps Dark Spirit 2: Knight: Long Sword 
+853400 King's Castle D'Angheig: 2 laps: Dark Spirit 3: Long distance: Dragon Hunting Arch 
+853500 King's Castle D'Angheig: Dark Spirit Key number: Drying Rod 
+854000 Hidden Port: Dark Spirit (Darth Mall): Statuenite's Double-Edged Sword
 1000000 Dagger
 1010000 Bandit's Knife
 1040000 Mytha's Bent Blade
@@ -265,14 +244,14 @@
 3350000 Drakekeeper's Warpick
 3370000 Wrathful Axe
 3400000 Fists
-3401000 Fists
-3402000 Fists
-3403000 Fists
-3404000 Fists
-3405000 Fists
-3406000 Fists
-3407000 Fists
-3408000 Fists
+3401000 Fists - Ladder Left
+3402000 Fists - Ladder Right
+3403000 Fists - Ladder Left (NPC)
+3404000 Fists - Ladder Right (NPC)
+3405000 Fists (NPC)
+3406000 Fists - Right-hand - Vanquisher's Seal
+3407000 Fists - Left-hand - Vanquisher's Seal
+3408000 Fists - Power Stance - Vanquisher's Seal
 3410000 Claws
 3420000 Malformed Claws
 3430000 Manikin Claws
@@ -365,35 +344,35 @@
 5640000 Greataxe [Recolor]
 5650000 Great Club [Recolor]
 5660000 Caestus [Recolor]
-6000000 UNKNOWN
+6000000 Torch (Small) 
 6100000 Binoculars
-6300000 UNKNOWN
-6310000 UNKNOWN
-6320000 UNKNOWN
-6330000 UNKNOWN
-6340000 UNKNOWN
-6350000 UNKNOWN
-6360000 UNKNOWN
-6370000 UNKNOWN
-6380000 UNKNOWN
-6390000 UNKNOWN
-6400000 UNKNOWN
-6410000 UNKNOWN
-6420000 UNKNOWN
-6430000 UNKNOWN
-6440000 UNKNOWN
-6450000 UNKNOWN
-6460000 UNKNOWN
-6470000 UNKNOWN
-6480000 UNKNOWN
-6490000 UNKNOWN
-6500000 UNKNOWN
-6510000 UNKNOWN
-6520000 UNKNOWN
-6530000 UNKNOWN
-6540000 UNKNOWN
-6550000 UNKNOWN
-7010000 UNKNOWN
+6300000 Phantom - Dagger  
+6310000 Phantom - Swords  
+6320000 Phantom - Song Sword 
+6330000 Phantom - Sword 
+6340000 Phantom - Direct Sword 
+6350000 Phantom - Two-Handed Sword  
+6360000 Phantom - One-handed battle  
+6370000 Phantom - Two-Handed Battle  
+6380000 Phantom - One Hand Axe 
+6390000 Phantom - Two-Handed Axe 
+6400000 Phantom -Spear 
+6410000 Phantom - Two-Handed Sickle 
+6420000 Phantom - Two-Handed Long Axe  
+6430000 Phantom - Bare Hands 
+6440000 Phantom - Nails 
+6450000 Phantom - Torch 
+6460000 Phantom - Telescope  
+6470000 Phantom - Whip  
+6480000 Phantom - One Hand Wand 
+6490000 Phantom - One Hand Bell 
+6500000 Phantom - Two-Handed Bow 
+6510000 Phantom - Two Hands Large Bow  
+6520000 Phantom - One Hand Bow  
+6530000 Phantom - Two-Handed Sword  
+6540000 Phantom - Two-Handed Oversized Sword 
+6550000 Phantom - Double Blade  
+7010000 Statue of a man for a cut scene 
 11000000 Buckler
 11005000 Benhart's Parma
 11010000 Small Leather Shield
@@ -468,6 +447,6 @@
 11820000 Bound Wooden Shield
 11830000 Homunculus Wooden Shield
 11840000 Transgressor's Leather Shield
-12000000 UNKNOWN
-12010000 UNKNOWN
-12020000 UNKNOWN
+12000000 Phantom - Small Shield 
+12010000 Phantom - Medium Shield 
+12020000 Phantom - Great Shield 

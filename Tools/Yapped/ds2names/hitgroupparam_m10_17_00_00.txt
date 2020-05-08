@@ -1,0 +1,12 @@
+0 Group 0 
+1 Group 1 
+20 Group 2_Venomous Swamp ⇒ Soil _ Under knee 
+21 Group 2_Venomous Swamp ⇒ Soil _ Under knee 
+30 Group 3_VenomOus ⇒ Stone_Ankle 
+40 Group 3_Venomous Swamp ⇒ Stone_ Under Knee 
+50 Group 3_Venomous Swamp ⇒ Stone_Waist 
+60 Group 3_Poison Marsh_Knee Down ⇒ Poison Marsh_Ankle 
+70 On the map for elevator connection reading 
+80 Under the map for elevator connection reading 
+90 【Insect Key】Fountain of Recovery (Poisoned) 
+100 For the destruction judgment of the hunting forest MAP 

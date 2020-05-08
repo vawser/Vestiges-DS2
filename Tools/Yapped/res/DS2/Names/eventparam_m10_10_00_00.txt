@@ -1,0 +1,73 @@
+1000 King's Door 
+2000 Interlocking elevator_initialization 
+2010 Interlocking elevator_operation 
+3000 Navi mesh change of the wall which breaks in the flame barrel 
+4000 ?Insect key?Hidden door (1) for start-up 
+4010 ?Insect Key?Hidden Door 
+4020 ?Insect Key?Hidden Door (1)_Navi mesh change 
+5000 The key door opened with the key of fire 
+5100 The key door opened by the King's Key 
+5200 The key door opened by the King's Key (broken) 
+5210 The Key Door opened by the King's Key 
+5211 The Key door opened by "King's Key" 
+6000 Boss: Bay Grant_ Combat 
+6010 Boss: Bay Grant_ Poly Play 
+6020 Boss: Bay Grant_ Initial Placement Change 
+6050 Barista 1 destroyed in Bay Grant attack 
+6060 Barista 2 destroyed in Bay Grant attack 
+6500 Boss: New Giant Senior Soldier_ Dead_ Battle 
+6510 Boss: New Giant Senior Soldier_ Dead_ Poly Play 
+6520 Boss: New Giant Senior Soldier_ Dead_ Initial Placement Change 
+7000 Bay Grant Hawk Taxi 
+8000 One-way door control that the enemy opens when attacked 
+8010 One-way door_ open the enemy door open control when attacked 
+9000 Giant Nuts 
+9010 The process of drawing giant nuts 
+9020 The real message of the giant tree 
+10000 Navimesh attribute change of the destruction wall outer wall 1 
+10010 Navimesh attribute change of the destruction wall outer wall 2 
+10020 Change navimesh attributes of fracture wall walls 
+11000 Switch door closes 
+12000 Oiwa Rumbling 
+13000 One-way door of the waterway 
+14000 The flame that disappears when the Salamander is annihilated. 
+14010 Invalidation of ground fire damage in Salamander 
+15000 Bay Grant appeared in the hawk _ character 
+15010 Bay Grant appeared in hawks_ map 
+15020 Hide Hawk OBJ 
+15030 Bay Grant appeared in the hawk_ deletion judgment 
+15040 Bay Grant appeared in hawks_ rewards 
+16000 Navi mesh change of hidden door 
+37000 Giant Memory Warp_Boss 
+37010 Giant Memory Warp_Mine 
+37020 Giant Memory Warp_Chandelier 
+38000 Events for Salamander Logic 
+80000 Play Seed Fire 01_ Main Tower 
+81000 Regeneration Seed Fire 02_Ground Cracking Square 
+83000 Riverbank after connection with playing seed fire 04_Maduro 
+90000 Trophy _ Last Giant 
+111240 NPC: Tsukiko Ya (Giant Forest) 
+111241 NPC: Tsukiko Ya (Giant Forest): Ghost 
+111242 OBJ: Tsukiko Ya (Giant Forest): Tomb 
+111243 OBJ: Tsukiko Ya (Giant Forest): Key Guide 
+111244 OBJ: Tsukiko Grandfather (Giant Forest): Death Judgment 
+111245 OBJ: Tsukiko Ya (Giant Forest): Appearance Judgment 
+111250 NPC: Patch (Giant Forest) 
+111251 NPC: Patch (Giant Forest): Ghost 
+111252 OBJ: Patch (Giant Forest): Tomb 
+111253 OBJ: Patch (Giant Forest): Key Guide 
+111254 OBJ: Patch (Giant Forest): Death Judgment 
+111255 OBJ: Patch (Giant Forest): White Phantom Sign Display 
+111256 OBJ: Patch (Giant Forest): White Phantom 
+111260 NPC: Atlas (Giant Forest) 
+111261 NPC: Map (Giant Forest): Ghost 
+111262 OBJ: Map (Giant Forest): Tomb 
+111263 OBJ: Atlas (Giant Forest): Key Guide 
+111264 OBJ: Map (Giant Forest): Death Judgment 
+111290 NPC: Yorozu Babaa (Giant Forest) 
+111291 NPC: Yorozu Babaa (Giant Forest): Ghost 
+111292 OBJ: Yorozu Babaa (Giant Forest): Tomb 
+111293 OBJ: Yorozu Babaa (Giant Forest): Key Guide 
+111294 OBJ: Yorozu Babaa (Giant Forest): Death Judgment 
+111435 OBJ: Enclosed: Black Phantom Sign Display 
+120110 Trophy: The Great Sword of Moonlight (Giant Forest) 

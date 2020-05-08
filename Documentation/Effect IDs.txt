@@ -89,7 +89,7 @@ Rings: SpEffectRing.emevd
 22190101 Lion Mage Robe             - Casting Speed +5%
 22190102 Lion Mage Cuffs            - Casting Speed +5%
 22190103 Lion Mage Skirt            - Casting Speed +5%
-22230102 Shadow Gauntlets           -
+22230102 Shadow Gauntlets           - +50 Bleed + 10% Bleed damage
 22270100 Prisoner's Hood            - Item Discovery
 22270101 Prisoner's Tatters         - Item Discovery
 22271100 Prisoner's Hood            - Item Discovery
@@ -137,8 +137,8 @@ Rings: SpEffectRing.emevd
 26900103 Ivory King Leggings        - Absorb 10 HP on kill (female only)
 27510100 Cale's Helm                - END +1, DEX +2
 27550100 Mad Warrior Mask           - ADP +2
-27680100 Black Hood                 - INT +2, FTH +2, Casting Speed +12%
-27690100 Saint's Hood               - FTH +1, Spell Uses +1
+27680100 Black Hood                 - INT +2, FTH +2, Casting Speed +1%
+27690100 Saint's Hood               - FTH +1, Spell Uses +5%
 27700100 Hexer's Hood               - INT +1, FTH +1, Spell Uses +10%
 27710100 Chaos Hood                 - INT +3, Casting Speed +5%
 27830100 Nahr Alma Hood             - Souls +2.5%

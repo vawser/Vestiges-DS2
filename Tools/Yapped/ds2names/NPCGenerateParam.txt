@@ -1,0 +1,72 @@
+7010 PlayAble Character A 
+7020 PlayAble Character B 
+7030 PlayAble Character C 
+7110 MIN Naked 0% 
+7120 30% lighter 
+7130 Medium 50% 
+7140 Weight 70% 
+7150 Maximum weight 100% 
+7160 Excess weight 150% 
+7170 MAX Weight 200% 
+7210 Traveler 
+7220 Soldiers 
+7230 Light Warrior 
+7240 Item Master 
+7250 Thieves 
+7260 Magician 
+7270 A priest. 
+7280 Hunter 
+9150 For NPC testing 
+9500 Dark Spirit Double Sword Man 
+9700 Phantom - Naked (Man) 
+9701 Phantom - Clothes (Man) 
+9702 Phantom - Light Clothing (Male) 
+9703 Phantom - Heavy Wear (Male) 
+9704 Phantom - Naked (Female) 
+9705 Phantom - Clothes (Woman) 
+9706 Phantom - Light Clothing (Female) 
+9707 Phantom - Heavy Clothing (Female) 
+732000 Sorcerer Sinner 1 
+733000 Sorcerer Sinner 2 
+741000 A broken warrior 
+761000 Armor shop: Madura (hyundai) 
+761010 Armor shop: Fairy's side 
+763000 Bookstore (Madura: Hyundai) 
+763010 Bookstore (Spider Town) 
+765000 a tool shop 
+766000 Spell shop 1 & 4 (Maduro: Hyundai) 
+766010 Spell shop 1&4 (Fort of Resistance: Modern) 
+772000 Middle Arms Dealer 1 
+784000 The Priest of The Sin (City of Spiders) 
+810000 NPC for Multi: Swordsman (Man) 
+811000 NPC for Multi: Archer (Man) 
+812000 NPC for Multi: Sage (Female) 
+813000 NPC for Multi: Lancer (Female) 
+814000 NPC for Multi: Flesh-breaking (Female): White Spirit 
+814009 NPC for Multi: Flesh-breaking (Female): Black Spirit 
+820000 NPC for Multi: Spearman (Man) 
+821000 NPC for Multi: Reaper (Woman) 
+822000 NPC for Multi: The Magician (Man) 
+823000 NPC for Multi: Koryu Swordsman (Man) 
+831000 Saint's Tomb: Abandoned Saint 
+831100 Saint's Tomb: Knight of the Saint 
+832000 Old Dark Hole: Abyss 1: Sniper 
+832100 The Old Dark Hole: The Abyss 2: Axeman 
+832200 The Old Dark Hole: The Abyss 3: Huang Yi 
+832300 The Old Dark Hole: The Abyss 4: Huang Yi Wife 
+832400 The Old Dark Hole: The Abyss 5: Traveler 
+832500 Old Dark Hole: Abyss 6: Knight 
+832600 Old Dark Hole: Abyss 7: Heavy Warrior 
+832700 Old Dark Hole: Abyss 8: Queen 
+833000 Amana's Shrine: Cannibal 
+834000 Prison of Oblivion: Sorcerer 
+834100 Prison of Oblivion: The Dark Knight 
+835000 Enshrinement Hall: Painting Guard (Man) 
+835100 Enshrinement Hall: Painting Guard (Female) 
+835200 Enshrinement Hall: Dragon Knight 
+836000 Molten Castle: Samurai Saucer 
+836100 Ming-iron castle:Bell Guard 1: 
+836200 Ming-iron castle:Bell Guard 2: 
+836300 Ming-iron castle:Bell Guard 3: 
+836400 Molten Iron Castle: Light Heavy Soldiers 
+837000 Gap cave: second lap hunting 

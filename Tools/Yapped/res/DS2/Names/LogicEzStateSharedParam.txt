@@ -1,233 +1,233 @@
-0 UNKNOWN
-1000 UNKNOWN
-1001 UNKNOWN
-1400 UNKNOWN
-1401 UNKNOWN
-1402 UNKNOWN
-1500 UNKNOWN
-1501 UNKNOWN
-1502 UNKNOWN
-1503 UNKNOWN
-1504 UNKNOWN
-1505 UNKNOWN
-1506 UNKNOWN
-1507 UNKNOWN
-1600 UNKNOWN
-1700 UNKNOWN
-1701 UNKNOWN
-1702 UNKNOWN
-2000 UNKNOWN
-2001 UNKNOWN
-2002 UNKNOWN
-2003 UNKNOWN
-2004 UNKNOWN
-2005 UNKNOWN
-2006 UNKNOWN
-2100 UNKNOWN
-2101 UNKNOWN
-2102 UNKNOWN
-2103 UNKNOWN
-2104 UNKNOWN
-2105 UNKNOWN
-2106 UNKNOWN
-2200 UNKNOWN
-2201 UNKNOWN
-2202 UNKNOWN
-2203 UNKNOWN
-2204 UNKNOWN
-2205 UNKNOWN
-2206 UNKNOWN
-2300 UNKNOWN
-2301 UNKNOWN
-2302 UNKNOWN
-2303 UNKNOWN
-2304 UNKNOWN
-2305 UNKNOWN
-2306 UNKNOWN
-2400 UNKNOWN
-2401 UNKNOWN
-2402 UNKNOWN
-2403 UNKNOWN
-2404 UNKNOWN
-2405 UNKNOWN
-2406 UNKNOWN
-3000 UNKNOWN
-3001 UNKNOWN
-3002 UNKNOWN
-3003 UNKNOWN
-3004 UNKNOWN
-3005 UNKNOWN
-4000 UNKNOWN
-4001 UNKNOWN
-4002 UNKNOWN
-4003 UNKNOWN
-4004 UNKNOWN
-4010 UNKNOWN
-4011 UNKNOWN
-4012 UNKNOWN
-4013 UNKNOWN
-4014 UNKNOWN
-4020 UNKNOWN
-4021 UNKNOWN
-4022 UNKNOWN
-4023 UNKNOWN
-4024 UNKNOWN
-4030 UNKNOWN
-4031 UNKNOWN
-4032 UNKNOWN
-4033 UNKNOWN
-4034 UNKNOWN
-4040 UNKNOWN
-4041 UNKNOWN
-4042 UNKNOWN
-4043 UNKNOWN
-4044 UNKNOWN
-4050 UNKNOWN
-4051 UNKNOWN
-4052 UNKNOWN
-4053 UNKNOWN
-4054 UNKNOWN
-4060 UNKNOWN
-4061 UNKNOWN
-4062 UNKNOWN
-4063 UNKNOWN
-4064 UNKNOWN
-4070 UNKNOWN
-4071 UNKNOWN
-4072 UNKNOWN
-4073 UNKNOWN
-4074 UNKNOWN
-5000 UNKNOWN
-5001 UNKNOWN
-5002 UNKNOWN
-5003 UNKNOWN
-5004 UNKNOWN
-5010 UNKNOWN
-5011 UNKNOWN
-5012 UNKNOWN
-5013 UNKNOWN
-5014 UNKNOWN
-5020 UNKNOWN
-5021 UNKNOWN
-5022 UNKNOWN
-5023 UNKNOWN
-5024 UNKNOWN
-5030 UNKNOWN
-5031 UNKNOWN
-5032 UNKNOWN
-5033 UNKNOWN
-5034 UNKNOWN
-5040 UNKNOWN
-5041 UNKNOWN
-5042 UNKNOWN
-5043 UNKNOWN
-5044 UNKNOWN
-5050 UNKNOWN
-5051 UNKNOWN
-5052 UNKNOWN
-5053 UNKNOWN
-5054 UNKNOWN
-5060 UNKNOWN
-5061 UNKNOWN
-5062 UNKNOWN
-5063 UNKNOWN
-5064 UNKNOWN
-5070 UNKNOWN
-5071 UNKNOWN
-5072 UNKNOWN
-5073 UNKNOWN
-5074 UNKNOWN
-6000 UNKNOWN
-6001 UNKNOWN
-6002 UNKNOWN
-6003 UNKNOWN
-6004 UNKNOWN
-6010 UNKNOWN
-6011 UNKNOWN
-6012 UNKNOWN
-6013 UNKNOWN
-6014 UNKNOWN
-6020 UNKNOWN
-6021 UNKNOWN
-6022 UNKNOWN
-6023 UNKNOWN
-6024 UNKNOWN
-6030 UNKNOWN
-6031 UNKNOWN
-6032 UNKNOWN
-6033 UNKNOWN
-6034 UNKNOWN
-6040 UNKNOWN
-6041 UNKNOWN
-6042 UNKNOWN
-6043 UNKNOWN
-6044 UNKNOWN
-6050 UNKNOWN
-6051 UNKNOWN
-6052 UNKNOWN
-6053 UNKNOWN
-6054 UNKNOWN
-6060 UNKNOWN
-6061 UNKNOWN
-6062 UNKNOWN
-6063 UNKNOWN
-6064 UNKNOWN
-6070 UNKNOWN
-6071 UNKNOWN
-6072 UNKNOWN
-6073 UNKNOWN
-6074 UNKNOWN
-7000 UNKNOWN
-7001 UNKNOWN
-7002 UNKNOWN
-7003 UNKNOWN
-7004 UNKNOWN
-7010 UNKNOWN
-7011 UNKNOWN
-7012 UNKNOWN
-7013 UNKNOWN
-7014 UNKNOWN
-7020 UNKNOWN
-7021 UNKNOWN
-7022 UNKNOWN
-7023 UNKNOWN
-7024 UNKNOWN
-7030 UNKNOWN
-7031 UNKNOWN
-7032 UNKNOWN
-7033 UNKNOWN
-7034 UNKNOWN
-7040 UNKNOWN
-7041 UNKNOWN
-7042 UNKNOWN
-7043 UNKNOWN
-7044 UNKNOWN
-7050 UNKNOWN
-7051 UNKNOWN
-7052 UNKNOWN
-7053 UNKNOWN
-7054 UNKNOWN
-7060 UNKNOWN
-7061 UNKNOWN
-7062 UNKNOWN
-7063 UNKNOWN
-7064 UNKNOWN
-7070 UNKNOWN
-7071 UNKNOWN
-7072 UNKNOWN
-7073 UNKNOWN
-7074 UNKNOWN
-10500 UNKNOWN
-10501 UNKNOWN
-10502 UNKNOWN
-10503 UNKNOWN
-20000 UNKNOWN
-20001 UNKNOWN
-20002 UNKNOWN
-20003 UNKNOWN
-20004 UNKNOWN
-20100 UNKNOWN
-20101 UNKNOWN
-20102 UNKNOWN
-20103 UNKNOWN
-20104 UNKNOWN
+0 Input test 
+1000 Platoon Action Update Distance (m) 
+1001 Platoon action update time (seconds) 
+1400 Platoon Action Limit Point Attack Suppression 
+1401 Platoon Action Restriction Points Watching 
+1402 Platoon Action Restriction Point Withdrawal 
+1500 Support ? Suppressed Horse Level Change Guarantee Time (seconds) 
+1501 Active ? Suppressed Nojima Level Variation Guarantee Time (seconds) 
+1502 Control ? Kannojima Level Change Guarantee Time (seconds) 
+1503 Control ? Nojima Level Change Guarantee Time (seconds) 
+1504 Activity ? Nojima Level Change Guarantee Time (seconds) 
+1505 Kan? Removal Nojima Level Change Guarantee Time (seconds) 
+1506 Kan? Removal Nojima Level Change Guarantee Time (seconds) 
+1507 Active ? Removal Nojima Level Change Guarantee Time (seconds) 
+1600 Time (seconds) not to become a field horse after damage 
+1700 Maximum distance calculation value variation due to HP decrease 
+1701 Maximum distance calculation value variation due to being away from Generator 
+1702 Maximum distance calculation value variation due to being out of front of the target 
+2000 LV1 Thought Weight Score: Super Oversized 
+2001 LV1 Thought Weight: Super Oversized 
+2002 LV1 Thought Weight: Oversized 
+2003 LV1 Thought Weight: Large 
+2004 LV1 Thought Weight: Medium 
+2005 LV1 Thought Weight: Small 
+2006 LV1 Thought Weight: Ignore 
+2100 LV2 Thought Weight Score: Super Oversized 
+2101 LV2 Thought Weight: Super Oversized 
+2102 LV2 Thought Weight: Oversized 
+2103 LV2 Thought Weight: Large 
+2104 LV2 Thought Weight: Medium 
+2105 LV2 Thought Weight: Small 
+2106 LV2 Thought Weight: Ignore 
+2200 LV3 Thought Weight Score: Super Oversized 
+2201 LV3 Thought Weight: Super Oversized 
+2202 LV3 Thought Weight: Oversized 
+2203 LV3 Thought Weight: Large 
+2204 LV3 Thought Weight: Medium 
+2205 LV3 Thought Weight: Small 
+2206 LV3 Thought Weight: Ignore 
+2300 LV4 Thought Weight Score: Super Oversized 
+2301 LV4 Thought Weight: Super Oversized 
+2302 LV4 Thought Weight: Oversized 
+2303 LV4 Thought Weight: Large 
+2304 LV4 Thought Weight: Medium 
+2305 LV4 Thought Weight: Small 
+2306 LV4 Thought Weight: Ignore 
+2400 LV5 Thought Weight Score: Super Oversized 
+2401 LV5 Thought Weight: Super Oversized 
+2402 LV5 Thought Weight: Oversized 
+2403 LV5 Thought Weight: Large 
+2404 LV5 Thought Weight: Medium 
+2405 LV5 Thought Weight: Small 
+2406 LV5 Thought Weight: Ignore 
+3000 Bullet speed: Stop (0m/s)  
+3001 Bullet speed: Extra slow (5m/s)  
+3002 Bullet speed: Slow (10m/s)  
+3003 Bullet speed: Medium (25m/s)  
+3004 Bullet speed: Speed (35m/s)  
+3005 Bullet speed: Speed (45m/s)  
+4000 Item Chase Table Extremely Low LV1 
+4001 Item Chase Table Extremely Low LV2 
+4002 Item Chase Table Extremely Low LV3 
+4003 Item Chase Table Extremely Low LV4 
+4004 Item Chase Table Extremely Low LV5 
+4010 Item Chase Table Low LV1 
+4011 Item Chase Table Low LV2 
+4012 Item Chase Table Low LV3 
+4013 Item Chase Table Low LV4 
+4014 Item Chase Table Low LV5 
+4020 Item Chase Table In LV1 
+4021 Item Chase Table In LV2 
+4022 Item Chase Table In LV3 
+4023 Item Chase Table In LV4 
+4024 Item Chase Table Lv5 
+4030 Item Chase Table High LV1 
+4031 Item Chase Table High LV2 
+4032 Item Chase Table High LV3 
+4033 Item Chase Table High LV4 
+4034 Item Chase Table High LV5 
+4040 Item Chase Table Extreme Lylv1 
+4041 Item Chase Table Extreme Lylv2 
+4042 Item Chase Table Extreme Lylv3 
+4043 Item Chase Table Extreme Lylv4 
+4044 Item Chase Table Extreme Lylv5 
+4050 Item Chase Table Other 1 LV1 
+4051 Item Chase Table Other 1 LV2 
+4052 Item Chase Table Other 1 LV3 
+4053 Item Chase Table Other 1 LV4 
+4054 Item Chase Table Other 1 LV5 
+4060 Item Chase Table Other 2 LV1 
+4061 Item Chase Table Other 2 LV2 
+4062 Item Chase Table Other 2 LV3 
+4063 Item Chase Table Other 2 LV4 
+4064 Item Chase Table Other 2 LV5 
+4070 Item Chase Table Other 3 LV1 
+4071 Item Chase Table Other 3 LV2 
+4072 Item Chase Table Other 3 LV3 
+4073 Item Chase Table Other 3 LV4 
+4074 Item Chase Table Other 3 LV5 
+5000 Guard collapse table very low LV1 
+5001 Guard collapse table very low LV2 
+5002 Guard collapse table very low LV3 
+5003 Guard collapse table very low LV4 
+5004 Guard collapse table very low LV5 
+5010 Guard collapse table low LV1 
+5011 Guard collapse table Low LV2 
+5012 Guard collapse table low LV3 
+5013 Guard collapse table Low LV4 
+5014 Guard collapse table Low LV5 
+5020 Guard collapse table in LV1 
+5021 Guard collapse table in LV2 
+5022 Guard collapse table in LV3 
+5023 Guard collapse table in LV4 
+5024 Guard collapse table in LV5 
+5030 Guard collapse table high LV1 
+5031 Guard collapse table High LV2 
+5032 Guard collapse table high LV3 
+5033 Guard collapse table High LV4 
+5034 Guard collapse table High LV5 
+5040 Guard collapse table extremely high LV1 
+5041 Guard collapse table extremely high LV2 
+5042 Guard collapse table extremely high LV3 
+5043 Guard collapse table extremely high LV4 
+5044 Guard collapse table extremely high LV5 
+5050 Guard collapse table Other 1 LV1 
+5051 Guard collapse table Other 1 LV2 
+5052 Guard collapse table Other 1 LV3 
+5053 Guard collapse table Other 1 LV4 
+5054 Guard collapse table Other 1 LV5 
+5060 Guard collapse table Other 2 LV1 
+5061 Guard collapse table Other 2 LV2 
+5062 Guard collapse table Other 2 LV3 
+5063 Guard collapse table Other 2 LV4 
+5064 Guard collapse table Other 2 LV5 
+5070 Guard collapse table Other 3 LV1 
+5071 Guard collapse table Other 3 LV2 
+5072 Guard collapse table Other 3 LV3 
+5073 Guard collapse table Other 3 LV4 
+5074 Guard collapse table Other 3 LV5 
+6000 Behind The Attack Table Extremely Low LV1 
+6001 Behind The Attack Table Extremely Low LV2 
+6002 Behind The Attack Table Extremely Low LV3 
+6003 Behind The Attack Table Extremely Low LV4 
+6004 Behind The Attack Table Extremely Low LV5 
+6010 Behind The Attack Table Low LV1 
+6011 Behind-The-Scenes Attack Table Low LV2 
+6012 Behind-the-scenes attack table Low LV3 
+6013 Behind The Attack Table Low LV4 
+6014 Behind The Attack Table Low LV5 
+6020 Lv1 in the back attack table 
+6021 Lv2 in the back attack table 
+6022 Lv3 in the back attack table 
+6023 Lv4 in the back attack table 
+6024 Lv5 in the back attack table 
+6030 Behind The Attack Table High LV1 
+6031 Behind The Attack Table High LV2 
+6032 Behind The Attack Table High LV3 
+6033 Behind The Attack Table High LV4 
+6034 Behind The Attack Table High LV5 
+6040 Behind The Attack Table Extremely High LV1 
+6041 Behind The Attack Table Extremely High LV2 
+6042 Behind The Attack Table Extremely High LV3 
+6043 Behind The Attack Table Extremely High LV4 
+6044 Behind The Attack Table Extremely High LV5 
+6050 Behind The Attack Table Other 1 LV1 
+6051 Behind-the-scenes attack table Other 1 LV2 
+6052 Behind-the-scenes attack table Other 1 LV3 
+6053 Behind The Attack Table Other 1 LV4 
+6054 Behind The Attack Table Other 1 LV5 
+6060 Behind The Attack Table Other 2 LV1 
+6061 Behind The Attack Table Other 2 LV2 
+6062 Behind The Attack Table Other 2 LV3 
+6063 Behind The Attack Table Other 2 LV4 
+6064 Behind The Attack Table Other 2 LV5 
+6070 Behind-the-scenes attack table Other 3 LV1 
+6071 Behind-the-scenes attack table Other 3 LV2 
+6072 Behind-the-scenes attack table Other 3 LV3 
+6073 Behind-the-scenes attack table Other 3 LV4 
+6074 Behind-the-scenes attack table Other 3 LV5 
+7000 Recovery Table Extremely Low LV1 
+7001 Recovery Table Extremely Low LV2 
+7002 Recovery Table Extremely Low LV3 
+7003 Recovery Table Extremely Low LV4 
+7004 Recovery Table Extremely Low LV5 
+7010 Recovery Table Low LV1 
+7011 Recovery Table Low LV2 
+7012 Recovery Table Low LV3 
+7013 Recovery Table Low LV4 
+7014 Recovery Table Low LV5 
+7020 Recovery table in LV1 
+7021 Recovery table in LV2 
+7022 Recovery table in LV3 
+7023 Recovery table in LV4 
+7024 Recovery table in LV5 
+7030 Recovery Table High LV1 
+7031 Recovery Table High LV2 
+7032 Recovery Table High LV3 
+7033 Recovery Table High LV4 
+7034 Recovery Table High LV5 
+7040 Recovery Table Extremely High LV1 
+7041 Recovery Table ExtremeLy High LV2 
+7042 Recovery Table ExtremeLy High LV3 
+7043 Recovery Table ExtremeLy High LV4 
+7044 Recovery Table ExtremeLy High LV5 
+7050 Recovery Table Other 1 LV1 
+7051 Recovery Table Other 1 LV2 
+7052 Recovery Table Other 1 LV3 
+7053 Recovery Table Other 1 LV4 
+7054 Recovery Table Other 1 LV5 
+7060 Recovery Table Other 2 LV1 
+7061 Recovery Table Other 2 LV2 
+7062 Recovery Table Other 2 LV3 
+7063 Recovery Table Other 2 LV4 
+7064 Recovery Table Other 2 LV5 
+7070 Recovery Table Other 3 LV1 
+7071 Recovery Table Other 3 LV2 
+7072 Recovery Table Other 3 LV3 
+7073 Recovery Table Other 3 LV4 
+7074 Recovery Table Other 3 LV5 
+10500 Is it on the screen: Left magnification 
+10501 Is it present in the screen: Right magnification 
+10502 Is it present in the screen: up magnification 
+10503 Does it exist on the screen: Lower magnification 
+20000 LV1 Action Loop Time Circumferential Magnification 
+20001 LV2 Action Loop Time Circumferential Magnification 
+20002 LV3 Action Loop Time Circumferential Magnification 
+20003 LV4 Action Loop Time Circumferential Magnification 
+20004 LV5 Action Loop Time Circumferential Magnification 
+20100 LV1 Action Loop Time Circumferential Reduction Magnification 
+20101 LV2 Action Loop Time Circumferential Reduction Magnification 
+20102 LV3 Action Loop Time Circumferential Reduction Magnification 
+20103 LV4 Action Loop Time Circumferential Reduction Magnification 
+20104 LV5 Action Loop Time Circumferential Reduction Magnification 

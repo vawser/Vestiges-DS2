@@ -1,0 +1,50 @@
+10600001 Dark Priest (Deceased): Color (1)_No Mask Against Zakobos 
+10600010 Dark Priest (Deceased): Color (1): Soul Black 
+10700000 Parasite Spider (Parasitic) 
+10700001 Parasite Spider (Parasitic): Muse 
+10700100 Parasite Spider (Parasitic): Poison 
+11820000 [Dark Wizard (deceased): Color (3) Head B] Long distance charge 
+12700000 Dead Workers (Dead): Bare hands: Zakobos 
+13700000 Necromancer (Immortal): Shield: Cane: For Boss Warfare 
+14601000 Dead: ♂ the Clothes of the Wealthy: Stabbing Sword 
+14700000 Dead: Sick ♂: Zakobos 
+14800000 【Deceased: Farmer's Clothes ♂】Tsurushi 
+14800001 【Deceased: Farmer's Clothes ♂】Sickle 
+14800050 【Deceased】 Farmer's Clothes ♂ For Tsurushi_ Rock Rolling 
+14800100 [Deceased] farmer's clothes ♂: head part 2] tsurushi 
+14800110 [Deceased] farmer's clothes ♂: head part 2] tsurushi _ digging 
+14800120 [Deceased] farmer's clothes ♂: head part 2] two-handed sickle 
+14800200 [Deceased: Farmer's Clothing ♂: Torch: Head Part 1] 
+14800220 [Deceased: Farmer's Clothing ♂: Torch: Head Part 2] 
+20110000 Slave Beast: Piglet 
+20210000 Slave Beast (Wild) 
+20300000 Parasite Spider 
+20300002 Parasite Spider: Poison 
+20300010 Parasite Spider: The Ceiling _ Falling Surprise 
+20300011 Parasite Spider: Ceiling _ Fall Ingsurprise: Poison 
+20300020 Parasite Spider: Emerges from under the nest 
+20300021 Parasite Spider: Appearance from under the nest: poison 
+20300051 Parasite Spider: Drooping _ Falling Surprise: Poison 
+20300060 Parasite Spider: Ceiling _Fall Inger_Soul Black 
+20300080 Parasite Spider: Boss Battle 
+21000000 Basilisk: Eyeball Crush 
+21300000 【Ishimori】 
+21310000 【Stone Defense: Explosion】 
+21400000 [Fang beast] for the second lap 
+30700000 【Durahan(deceased): Two-sword style】 
+60300000 Spider Queen: Coalescence 
+60301000 Spider Queen: For The First Appearance 
+74200000 [Wandering Warrior One Hand Axe] Npc 
+74200001 [Wandering Warrior] NPC (Ghost) 
+74300000 [Tsukiko Grandfather] White Spirit 
+74400000 【Patch】 Npc 
+74400001 【Patch】 NPC (Ghost) 
+77100000 [Enclosed Man] Black Spirit 
+77600000 [Top Weapons Store] Npc 
+77600001 [Top Weapons Store] NPC (Ghost) 
+78400000 [The Teacher of The Sin] Npc 
+78400001 [The Teacher of The Sin] NPC (Ghost) 
+84600000 【Invasion Spirit】Soul Black 
+84800000 【Dark Spirit】Soul Black 
+85310000 【Leroy】NPC for multi 
+85500000 【Dummy】For patch conversation 

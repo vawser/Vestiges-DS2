@@ -1,0 +1,229 @@
+11 Intrusion Point 1-11 
+12 Intrusion Point 1-12 
+13 Intrusion Point 1-13 
+14 Intrusion Point 1-14 
+15 Intrusion Point 1-15 
+1001 Intrusion Point 1-1 
+1002 Intrusion Point 1-2 
+1003 Intrusion Point 1-3 
+1004 Intrusion Point 1-4 
+1005 Intrusion Point 1-5 
+1006 Intrusion Point 1-6 
+1007 Intrusion Point 1-7 
+1008 Intrusion Point 1-8 
+1009 Intrusion Point 1-9 
+1010 Intrusion Point 1-10 
+2001 Intrusion Point 2-1 
+2002 Intrusion Point 2-2 
+2003 Intrusion Point 2-3 
+2004 Intrusion Point 2-4 
+2005 Intrusion Point 2-5 
+2006 Intrusion Point 2-6 
+2007 Intrusion Point 2-7 
+2008 Intrusion Point 2-8 
+2009 Intrusion Point 2-9 
+2010 Intrusion Point 2-10 
+3001 Intrusion Point 3-1 
+3002 Intrusion Point 3-2 
+3003 Intrusion Point 3-3 
+3004 Intrusion Point 3-4 
+3005 Intrusion Point 3-5 
+3006 Intrusion Point 3-6 
+3007 Intrusion Point 3-7 
+4001 Intrusion Point 4-1 
+4002 Intrusion Point 4-2 
+4003 Intrusion Point 4-3 
+4004 Intrusion Point 4-4 
+4005 Intrusion Point 4-5 
+4006 Intrusion Point 4-6 
+5001 Intrusion Point 5-1 
+5002 Intrusion Point 5-2 
+5003 Intrusion Point 5-3 
+5004 Intrusion Point 5-4 
+5005 Intrusion Point 5-5 
+5006 Intrusion Point 5-6 
+5007 Intrusion Point 5-7 
+5008 Intrusion Point 5-8 
+5009 Intrusion Point 5-9 
+5010 Intrusion Point 5-10 
+5011 Intrusion Point 5-11 
+5012 Intrusion Point 5-12 
+6001 Intrusion Point 6-1 
+6002 Intrusion Point 6-2 
+6003 Intrusion Point 6-3 
+6004 Intrusion Point 6-4 
+6005 Intrusion Point 6-5 
+6006 Intrusion Point 6-6 
+6007 Intrusion Point 6-7 
+6008 Intrusion Point 6-8 
+6009 Intrusion Point 6-9 
+7001 Intrusion Point 7-1 
+7002 Intrusion Point 7-2 
+7003 Intrusion Point 7-3 
+7004 Intrusion Point 7-4 
+7005 Intrusion Point 7-5 
+40000 ?Advice Blood Character?Hidden Door 1_01 
+40010 ?Advice Blood Character?Hidden Door 1_02 
+40020 ?Advice Blood Character?Hidden Door 2_01 
+40030 ?Advice Blood Character?Hidden Door 2_02 
+40040 ?Advice Blood Character?Hidden Door 2_03 
+40050 ?Advice Blood Character?Hidden Door 2_04 
+40060 ?Advice Blood Character?Hidden Door 2_05 
+40070 ?Advice Blood Character?Hidden Door 2_06 
+40080 ?Advice Blood Character?Hidden Door 2_07 
+40090 ?Advice Blood Character?Hidden Door 2_08 
+40100 ?Advice Blood Character?Hidden Door 2_09 
+40110 ?Advice Blood Character?Hidden Door 3_01 
+40120 ?Advice Blood Character?Hidden Door 3_02 
+40130 ?Advice Blood Character?Hidden Door 3_03 
+45000 [Blood character prohibited] hidden door 1_01 
+45010 [Blood character prohibited] hidden door 1_02 
+45020 [Blood character prohibited] hidden door 2_01 
+45030 [Blood character prohibited] hidden door 2_02 
+45040 [Blood character prohibited] hidden door 2_03 
+45050 [Blood character prohibited] hidden door 2_04 
+45060 [Blood character prohibited] hidden door 2_05 
+45070 [Blood character prohibited] hidden door 2_06 
+45080 [Blood character prohibited] hidden door 2_07 
+45090 [Blood character prohibited] hidden door 2_08 
+45100 [Blood character prohibited] hidden door 2_09 
+45110 [Blood character prohibited] hidden door 3_01 
+45120 [Blood character prohibited] hidden door 3_02 
+45130 [Blood character prohibited] hidden door 3_03 
+50000 Petrified image appearance point 01 
+50001 Petrified image appearance point 02 
+50002 Petrified image appearance point 03 
+50003 Petrified image appearance point 04 
+50004 Petrified image appearance point 05 
+50005 Petrified image appearance point 06 
+50006 Petrified image appearance point 07 
+50007 Petrified image appearance point 08 
+50008 Petrified image appearance point 09 
+50009 Petrified image appearance point 10 
+50010 Petrified image appearance point 11 
+50011 Petrified image invasion point 11 
+50012 Petrified image invasion point 12 
+50013 Petrified image invasion point 13 
+50014 Petrified image invasion point 14 
+50100 Petrified image invasion point 100 
+50101 Petrified Image Invasion Point 101 
+50102 Petrified Image Invasion Point 102 
+50103 Petrified image invasion point 103 
+50104 Petrified image invasion point 104 
+50105 Petrified image invasion point 105 
+50106 Petrified image invasion point 106 
+50107 Petrified image invasion point 107 
+100000 Bay Grant Hawk Taxi Arrival Point 
+100010 Warp point from the hiding port 
+101600 Backlead Safety Points 
+200000 Iron bar_early_navi mesh change to rise with wall hole lever 
+201000 Iron bar_away_navi mesh change to rise with wall hole lever 
+202000 Iron bar_underground_navi mesh change to rise with wall hole lever 
+203000 Iron bar_passage_navi mesh change 1 to rise with wall hole lever 
+203001 Iron bar_passage_navi mesh change 2 to rise with wall hole lever 
+204000 Bar bar lever to rise in front of the boss_navi mesh change 
+300000 Elevator (under boss room) 
+300001 Elevator (dungeon) 
+400000 Navigation change of the iron bar opened with the bell lever 
+500000 Navi mesh change of hidden door 1 
+501000 Hidden Door Navi Mesh Change 2 
+502000 Navi mesh change of hidden door 3 
+503000 Navi mesh change of hidden door 4 
+603000 ?Insect Key?1_Navi mesh change of hidden door (1) 
+604000 ?Insect Key?2_Navi mesh change of hidden door (1) 
+612000 ?Insect Key?Hidden Door (2)_Navi mesh change 
+802000 Lock-on Parameter_Change Point 
+900000 Navi mesh change of wall 1 to be destroyed by flame barrel 
+901000 Navi mesh change of wall 2 to be destroyed by flame barrel 
+1100000 Navi mesh change by yagura destruction 1_ top 
+1100001 Navi mesh change by yagura destruction 1_ bottom 
+1101000 Navi mesh change 2_ top by yagura destruction 
+1101001 Navi mesh change 2_ bottom by yagura destruction 
+1102000 Navi mesh change 3_ top by yagura destruction 
+1102001 Navi mesh change 3_ bottom by yagura destruction 
+1200000 [Warrior in the mirror] navigation point for jump_00 
+1200001 [Warrior in the mirror] navigation point for jump_01 
+1200002 [Warrior in the mirror] navigation point for jump_02 
+1200003 [Warrior in the mirror] navigation point for jump_03 
+1200004 [Warrior in the mirror] navigation point for jump_04 
+1200005 [Warrior in the mirror] navigation point for jump_05 
+1200010 [Warrior in the Mirror] 2F Battle Area 
+1200020 [Warrior in the mirror] jumpable area 
+1400000 Boss: Fighter's battle in the mirror is determined to start 
+1410000 Navi mesh change of the hidden door of the boss room 1 
+1411000 Navi mesh change of the hidden door of the boss room 2 
+1412000 Navi mesh change 3 of the hidden door of the boss room 
+1413000 Navi mesh change of the hidden door of the boss room 4 
+1414000 Navi mesh change of the hidden door of the boss room 5 
+1500000 Boss: Forgotten sinner's battle start judgment 
+1501000 Boss: Warp Poite after the poly play of the forgotten sinner 
+1600000 Boss: Gergoyle (Zakoboss) battle start judgment 
+1605000 Gargoil generation point to fly 
+1605010 Gargoil_ removed point 1 to fly 
+1605020 Gargoil_ Removal Point 2 to Fly 
+1700000 One-way door of the circle tower 
+1900000 Navi mesh change after the petrification of spell mania is released 
+2200000 Test_Flame Barrel Anime Branch Play 
+2200010 Areas that do not roll in flames 
+2600000 Torture Lift _ Mirror Lift Under 
+2600001 Torture Lift _ On Mirror Lift 
+2600002 Torture Lift _ Under Main Lift 
+2600003 torture lift_ on the main lift 
+2700000 Elevator switch under 
+2700010 On elevator switch_ 
+10001000 ?Bell Guard?Black Spirit Appearance Area 
+10002000 [NPC for multi- spearsoldier (male)]? Black spirit appearance conditions 
+10752000 ?NPC?Female Knight Appearance Point 
+20000000 Underground boss left room intruding enemy target 
+20001000 Underground boss right room intruding enemy target 
+20002000 Hidden Door Back Balcony_ Do Knight Wandering Route 1 
+20003000 West Outer Wall_Prison-Wandering Route 
+20003100 West Outer Wall_Prison Escape Point 
+20004000 Knight wandering route on the roof 
+20005000 Boss front_prison man waiting point (right) 
+20006000 Boss front_prison man waiting point (left) 
+20007000 Boss room left_ sinner approach point of the sorcerer 
+20008000 New 
+20009000 Yagra 
+50000600 The undead start area of the dungeon _1F the back of the prison 
+50000601 Dungeon _1F Back_ Prison Undead Launch Area 2 
+50000602 Dungeon _1F Back_ Prison Undead Launch Area 3 
+50000603 Dungeon _1F Back_Prison Undead Launch Area_Lever 
+50000610 Undead start area _2F_ dungeon sit down the aisle 
+50000620 Dungeon _2F_ Right Undead Launch Area 
+50001000 Wild Dog Soul Black Launch Area 
+50002000 Falcon warrior_woodboard destruction area 
+50003000 The prison man's start range of the dark room 
+50004000 The boss's former prison man return area (right) 
+50005000 The boss's former prison man return area (left) 
+50007000 For starting the bridge chasing soldiers 
+50008000 For the start of the tower perimeter prison to the dungeon 
+50009000 For switch defense character start 
+50010000 1 for the royal army launch on the terrace 
+50010010 2 for the royal army launch on the terrace 
+50010100 For the change of the royal guard logic on the terrace 
+50010200 Kingdom soldier jumping off on the terrace 
+50010201 Kingdom Soldiers Jump on The Terrace 2 
+50010210 Royal Landing on the Terrace 
+50011000 No prison sin in wooden yagura square 
+50012000 Spiral stair tower prison man invasion prohibition 
+50013000 Block 3?5 Connection Point Prison Man Invasion Prohibition 
+50014000 Well undead citizen invasion ban 
+50015000 Start ing point character invasion prohibition 
+50015010 Start ing point character entry prohibition 2 
+50016000 Water jail strengthening immortal sin entry prohibition 1 
+50016010 Water jail strengthening immortal sin ingening ban 2 
+50016020 Water jail strengthening immortal sin entry prohibition 3 
+50017000 For returning to the bell guard area 
+50018000 Spell Mania For Return 
+50019000 For the return of the female knight 
+50020000 Double Iron Grid Undead Citizen Return 
+50021000 For jumping undead citizens launch 
+50022000 King's Tower 2F Sitting For Undead Citizen Launch 
+50022010 King's Tower 2F Sitting Undead For Civil Launch 2 
+50023000 King's Tower 2F Standing Undead For Civil Launch 
+50024000 for the sinner's outer stairs for the royal army launch 
+50025000 King's Tower 3F Undead For Civil Launch 
+50026000 Dark Spirit Ladder Area 
+50026010 Dark Spirit Ladder Evacuation Point 
+50027000 No entry into the middle boss room 

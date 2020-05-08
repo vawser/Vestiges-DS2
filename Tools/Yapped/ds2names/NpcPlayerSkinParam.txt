@@ -1,0 +1,58 @@
+0 Reservation data 
+7320 Sorcerer Sinner 1 
+7330 Sorcerer Sinner 2 
+7410 A broken-hearted blue warrior 
+7610 armor shop 
+7630 Sorcerer 
+7660 A magician 
+7720 a curiosity shop 
+7840 The Teacher of The Sin 
+8000 Ordinary 
+8001 White 
+8002 Yellow 
+8003 Wheat 
+8004 Tea 
+8005 Black 
+8006 Unhealthy Pale 
+8007 Unhealthy Neutral Color 
+8008 One step ahead color of the deceased 
+8009 Pink 
+8010 Pink Wheat 
+8100 NPC for Multi: Swordsman (Man) 
+8110 NPC for Multi: Archer (Man) 
+8120 NPC for Multi: Sage (Female) 
+8130 NPC for Multi: Lancer (Female) 
+8140 NPC for Multi: Flesh-breaking (Female): White Spirit 
+8200 NPC for Multi: Spearman (Man) 
+8210 NPC for Multi: Reaper (Woman) 
+8220 NPC for Multi: The Magician (Man) 
+8230 NPC for Multi: Koryu Swordsman (Man) 
+8240 NPC for Multi: The Older Brother of a Female Swordsman 
+8310 Saint's Tomb: Abandoned Saint 
+8311 Saint's Tomb: Knight of the Saint 
+8320 Old Dark Hole: Abyss 1: Sniper 
+8321 The Old Dark Hole: The Abyss 2: Axeman 
+8322 The Old Dark Hole: The Abyss 3: Huang Yi 
+8323 The Old Dark Hole: The Abyss 4: Huang Yi Wife 
+8324 The Old Dark Hole: The Abyss 5: Traveler 
+8325 Old Dark Hole: Abyss 6: Knight 
+8326 Old Dark Hole: Abyss 7: Heavy Warrior 
+8327 Old Dark Hole: Abyss 8: Queen 
+8330 Amana's Shrine: Cannibal 
+8340 Prison of Oblivion: Sorcerer 
+8341 Prison of Oblivion: The Dark Knight 
+8350 Enshrinement Hall: Painting Guard (Man) 
+8351 Enshrinement Hall: Painting Guard (Female) 
+8352 Enshrinement Hall: Dragon Knight 
+8360 Molten Castle: Samurai Saucer 
+8361 Ming-iron castle:Bell Guard 1: 
+8362 Ming-iron castle:Bell Guard 2: 
+8363 Ming-iron castle:Bell Guard 3: 
+8364 Molten Iron Castle: Light Heavy Soldiers 
+8370 Gap cave: second lap hunting 
+8371 Creus sinus: proximity 
+8372 Gap Sinus: Shooting 
+8373 Gap sinus: Undecided 
+8380 Forest of Shadows: Phantom Enemy 1 
+8381 Forest of Shadows: Phantom Enemy 2 
+8900 For player control testing 

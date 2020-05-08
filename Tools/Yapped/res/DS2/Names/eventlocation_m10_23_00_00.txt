@@ -1,0 +1,333 @@
+110 Death Bridge_01 
+111 Death Bridge_02 
+120 Death_Three-dimensional Room_01 
+121 Death_Three-dimensional Room_02 
+130 Death_Chuobashi_01 
+131 Death_Chuobashi_02 
+1001 Intrusion Point 1-1 
+1002 Intrusion Point 1-2 
+1003 Intrusion Point 1-3 
+1004 Intrusion Point 1-4 
+1005 Intrusion Point 1-5 
+1006 Intrusion Point 1-6 
+1007 Intrusion Point 1-7 
+1008 Intrusion Point 1-8 
+1009 Intrusion Point 1-9 
+1010 Intrusion Point 1-10 
+1011 Intrusion Point 1-11 
+1012 Intrusion Point 1-12 
+1013 Intrusion Point 1-13 
+1014 Intrusion Point 1-14 
+2001 Intrusion Point 2-1 
+2002 Intrusion Point 2-2 
+2003 Intrusion Point 2-3 
+2004 Intrusion Point 2-4 
+2005 Intrusion Point 2-5 
+2006 Intrusion Point 2-6 
+2007 Intrusion Point 2-7 
+2008 Intrusion Point 2-8 
+3001 Intrusion Point 3-1 
+3002 Intrusion Point 3-2 
+3003 Intrusion Point 3-3 
+3004 Intrusion Point 3-4 
+3005 Intrusion Point 3-5 
+3006 Intrusion Point 3-6 
+3007 Intrusion Point 3-7 
+3008 Intrusion Point 3-8 
+4001 Intrusion Point 4-1 
+4002 Intrusion Point 4-2 
+4003 Intrusion Point 4-3 
+4004 Intrusion Point 4-4 
+4005 Intrusion Point 4-5 
+4006 Intrusion Point 4-6 
+40000 Blood character display in special effects_01 
+40010 Blood character display in special effects_02 
+45000 [Blood character prohibited] under the hidden door 
+45010 [Blood character prohibited] on the hidden door 
+45020 ?Blood character prohibition?Entrance to the prison hall 
+45030 [Blood character prohibition] skeleton aristocratic battlefield entrance 
+100010 Silver Chariots Destruction Execution Area 
+100020 Opening and closing determination area of the iron bar 
+102300 Backlead Safety Points [Maduro] 
+102301 Backlead Safety Points [Accumulated] 
+120000 Skeleton launch in colosseum_1 
+120010 Inverted Tree_Navi mesh change 
+130000 Skeleton launch in colosseum_2 
+140000 Skeleton launch in colosseum_3 
+150000 Skeleton launch in colosseum_4 
+160000 Corridor Rooftop _ Hidden Rogue Launch 
+161000 corridor rooftop_rogue launch 
+162000 times corridor_dead start_right 
+162020 _ Dagger rogue launch across the corridor 
+163000 Corridor Entrance_ Board Rogue Launch 
+163010 Corridor entrance_area for plate rogue 
+164000 Corridor_DoorBack Rogue Launch Area 
+164005 Corridor_Area for the Door-back rogue 
+170000 Pile in front of the torture site: the first leg _ tortureman launch 
+170010 _1 for from the back of the tortureman on the pile 
+171000 Pile in front of the torture site: the second _ tortureman launch 
+171010 _2 for from the back of the tortureman on the pile 
+172000 Pile in front of the torture site: the third _ tortureman launch 
+172010 _3 for from the back of the tortureman on the pile 
+173000 Pile in front of the torture site: the fourth _ tortureman launch 
+173010 _4for from the back of the tortureman on the pile 
+210000 Soul Black Appearance 
+212000 Man-made Black B start area 
+220000 Torchica Area_Man-made Immortal 1 Navi 1 
+220010 Torchica Area_Man-made Immortal 1 Navi 2 
+220100 Torchica Area_ Navi 1 for The Android Immortal 2 
+220110 Torchica Area_Navi 2 for The Immortal 2 
+220200 Torchica Area_1 Navi 1 for the Great Dead 
+220210 Torchica Area_Navi 2 for The Great Dead 1 
+220300 Torchica Area_Navi 1 for The Great Dead 2 
+220310 Torchica Area_Navi 2 for The Great Dead 2 
+230000 torchka 1_worker launch area_1 
+230100 torchka 2_worker launch area_1 
+250000 Launch the enemy to surprise from the top of the lever torch 
+300000 Cave Root_Skeleton Launch_1 
+300010 Cave Root_Skeleton Launch_2 
+300020 Cave Root_Skeleton Launch_3 
+300030 Cave Root_Skeleton Launch_4 
+300040 Cave Root_Skeleton Launch_5 
+302000 Chariots Barret_Navi Change 
+310000 Pier Rogue Surprise 
+310010 Silver Chariots Immortality Lifting Area 
+325000 Pile Zone Front_ Great Dead Start 
+326000 Bridge to the prison_ start the dead 
+327000 Way to the penal room_ criminal navigation point 
+330000 Cliff Route: Torchka_Rogue Shooting 
+331000 Cliff Route Sakaue_ Collective Launch 
+331010 cliff route sakagami_rogue individual start one 
+331020 Cliff Route Sakaue_ Rogue Individual Launch 2 
+331030 Cliff Route Sakaue_ Rogue Individual Launch 3 
+332000 Cliff Route Slope _ Rogue Launch 
+332010 Cliff Route Slope_Rogue Launch_2 
+332200 Cliff Route Front _ Dagger Rogue Launch 
+335000 Bridge between routes_ Rogue bow-poised area 
+335010 Point 1 for cross-route bow ing 
+335020 Point 2 for cross-route bow ing 
+335030 Route-to-route bow ing point 3 
+335100 Cross-route bow ing target point 
+340000 Cliff Route_Bow Rogue Descent Area 
+350000 Lever Torchka_Point_1 for The Forh 
+350001 Lever Torch ka_Point_2 for the heons rogue 
+350002 Lever Torchka_Point_3 for The Fortion Rogue 
+350003 Lever Torchka_Point_4 for The Fortion Rogue 
+351000 Area for lever torch ka_foreman rogue 
+352000 Before the operation bridge_ rogue launch 
+352010 Before the operation bridge_ rogue launch 
+353000 Lever torch ka front_ collective start 
+360000 Bridge Front_Rogue Launch 
+360020 Bridge Front_Rogue Launch_3 
+361000 Valley Bridge Front_ Man-made Immortal start 
+362000 Start wandering the bridge across the valley 
+500000 Operation bridge_navi mesh change 
+600000 Cave Root Iron Bar_Navimesh Change 
+700000 warpA01
+700001 warpA02
+700002 warpA03
+700003 warpA04
+700004 warpA05
+700005 warpA06
+700006 warpA07
+700007 warpA08
+700008 warpA09
+700009 warpA10
+700010 warpA11
+700011 warpA12
+700012 warpA13
+700013 warpA14
+700014 warpA15
+700015 warpA16
+700016 warpA17
+700017 warpA18
+700018 warpA19
+700019 warpA20
+700020 warpA21
+700021 warpA22
+700022 warpA23
+700023 warpA24
+700024 warpA25
+700025 warpA26
+700026 warpA27
+700027 warpA28
+700028 warpA29
+700029 warpA30
+700030 warpA31
+700031 warpA32
+700032 warpA33
+700033 warpA34
+700034 warpA35
+700035 warpA36
+700036 warpA37
+700037 warpA38
+700038 warpA39
+700039 warpA40
+700040 warpA41
+700041 warpA42
+700042 warpA43
+700043 warpA44
+700044 warpA45
+700045 warpA46
+700046 warpA47
+700047 warpA48
+700048 warpA49
+700049 warpA50
+701000 warpB01
+701001 warpB02
+701002 warpB03
+701003 warpB04
+701004 warpB05
+701005 warpB06
+701006 warpB07
+701007 warpB08
+701008 warpB09
+701009 warpB10
+701010 warpB11
+701011 warpB12
+701012 warpB13
+701013 warpB14
+701014 warpB15
+701015 warpB16
+701016 warpB17
+701017 warpB18
+701018 warpB19
+701019 warpB20
+701020 warpB21
+701021 warpB22
+701022 warpB23
+701023 warpB24
+701024 warpB25
+701025 warpB26
+701026 warpB27
+701027 warpB28
+701028 warpB29
+701029 warpB30
+701030 warpB31
+701031 warpB32
+701032 warpB33
+701033 warpB34
+701034 warpB35
+701035 warpB36
+701036 warpB37
+701037 warpB38
+701038 warpB39
+701039 warpB40
+701040 warpB41
+701041 warpB42
+701042 warpB43
+701043 warpB44
+701044 warpB45
+701045 warpB46
+701046 warpB47
+701047 warpB48
+701048 warpB49
+701049 warpB50
+702000 warpC01
+702001 warpC02
+702002 warpC03
+702003 warpC04
+702004 warpC05
+702005 warpC06
+702006 warpC07
+702007 warpC08
+702008 warpC09
+702009 warpC10
+702010 warpC11
+702011 warpC12
+702012 warpC13
+702013 warpC14
+702014 warpC15
+702015 warpC16
+702016 warpC17
+702017 warpC18
+702018 warpC19
+702019 warpC20
+702020 warpC21
+702021 warpc22
+702022 warpC23
+702023 warpC24
+702024 warpC25
+702025 warpC26
+702026 warpC27
+702027 warpC28
+702028 warpC29
+702029 warpC30
+702030 warpC31
+702031 warpC32
+702032 warpC33
+702033 warpC34
+702034 warpC35
+702035 warpC36
+702036 warpC37
+702037 warpC38
+702038 warpC39
+702039 warpC40
+702040 warpC41
+702041 warpC42
+702042 warpC43
+702043 warpC44
+702044 warpC45
+702045 warpC46
+702046 warpC47
+702047 warpC48
+702048 warpC49
+702049 warpC50
+710000 ?No entry?On elevator 
+711000 ?No entry?Under elevator 
+720000 ?No entry?Narrow road to the prison 
+740000 ?No entry?Under the pier 
+760000 ?No entry?Slope in front of lever torch 
+780000 ?No entry?Stooping Fire Torch 
+790000 ?No entry?Entrance to the prison hall 
+791000 ?No entry?Aristocratic Battlefield Entrance 
+792000 ?No entry?Cave entrance_cliff route entrance 
+793000 ?No entry?Just before the entrance of the penal hall 
+794000 ?No entry?Stone bridge to the prison 
+800000 Skeleton aristocracy_ boss battle start judgment 
+801000 Chair 1_Navi mesh change where skeleton nobles sit 
+802000 Chair 2_Navi mesh change where skeleton nobles sit 
+803000 3_Navi mesh change chair where skeleton aristocracy sits 
+900000 Chariots_ Guest User Boss Start Judgment 
+900010 Warp point for adjustment _PC the penal hall 
+1501000 torture lift left_ under 
+1501005 torture lift left_on 
+1501010 torture lift right under 
+1501015 torture lift right on 
+1800000 Hidden door (2) On lift _Navi mesh change 
+1900000 Hidden door (2) Lift under_Navi mesh change 
+2000000 Hunting Forest - Reservoir Of The Valley Working Bridge _ Navi mesh change 1 
+2000001 Hunting Forest - Reservoir Of The Valley Operation Bridge _ Bridge Initialization Judgment 1 
+2000002 Hunting Forest - Reservoir Of The Valley Operation Bridge _ Bridge Initialization Judgment 2 
+12000000 ?NPC for Multi: God of Death (Female)]? Black Spirit Appearance Area 
+50000000 Chariots_Emergency Turning Area_1 
+50000001 Chariots_Emergency Turning Area_2 
+50000002 Chariots Behavior Change Area_1 
+50000003 Chariots Behavior Change Area_2 
+50000010 Navigation for chariots adjustment_01 
+50000011 Navi_02 for Chariots adjustment 
+50000012 Navigation_03 for chariots adjustment 
+50000013 Navi_04 for chariots adjustment 
+50000014 Navigation_05 for chariots adjustment 
+50000015 Navi_06 for chariots adjustment 
+50000016 Navigation_07 for chariots adjustment 
+50000017 Navi_08 for Chariots adjustment 
+50000018 Navi_09 for chariots adjustment 
+50000019 Navigation_10 for chariots adjustment 
+50000020 Navigation_11 for chariots adjustment 
+50000021 Navi_12 for Chariots adjustment 
+50000022 Navigation_13 for chariots adjustment 
+50000023 Navi_14 for chariots adjustment 
+50000024 Navi_15 for chariots adjustment 
+50001000 ?Moving area?Tortureman Navigation movement start 
+50001001 ?Moving area?Tortureman Navigation movement start 02 
+50001010 ?Navi Point?Tortureman Fall Ing Point 
+50001011 ?Navi Point?Tortureman Falling Point 02 
+50002000 ?Moving area?Black Phantom Ya Navi movement start 
+50002010 ?Navi Point?Black Phantom Ya Moving Point 
+51000000 Bottom of mushroom cave_ WoW dead launch area 
+51100000 Mushroom Cave Entrance_ Amazing Dead Launch Area 
+52000000 suspension bridge to the penal hall _ black fan launch 
+52000010 Navi point for NPC before the prison 
+53000000 slope to the penal room _ tortureman launch 
+54000100 ?Return area?Map start point redemption 

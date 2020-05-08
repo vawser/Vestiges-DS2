@@ -1,0 +1,148 @@
+1 Intrusion Point 1-1 
+2 Intrusion Point 1-2 
+3 Intrusion Point 1-3 
+4 Intrusion Point 1-4 
+5 Intrusion Point 1-5 
+6 Intrusion Point 1-6 
+7 Intrusion Point 1-7 
+8 Intrusion Point 1-8 
+9 Intrusion Point 1-9 
+1010 Intrusion Point 1-10 
+1011 Intrusion Point 1-11 
+1012 Intrusion Point 1-12 
+1013 Intrusion Point 1-13 
+1014 Intrusion Point 1-14 
+1015 Intrusion Point 1-15 
+1016 Intrusion Point 1-16 
+1017 Intrusion Point 1-17 
+1018 Intrusion Point 1-18 
+1019 Intrusion Point 1-19 
+1020 Intrusion Point 1-20 
+1021 Intrusion Point 1-21 
+1022 Intrusion Point 1-22 
+1023 Intrusion Point 1-23 
+1024 Intrusion Point 1-24 
+1025 Intrusion Point 1-25 
+1026 Intrusion Point 1-26 
+1027 Intrusion Point 1-27 
+1028 Intrusion Point 1-28 
+1029 Intrusion Point 1-29 
+1030 Intrusion Point 1-30 
+1031 Intrusion Point 1-31 
+1032 Intrusion Point 1-32 
+1033 Intrusion Point 1-33 
+1034 Intrusion Point 1-34 
+1035 Intrusion Point 1-35 
+1036 Intrusion Point 1-36 
+1037 Intrusion Point 1-37 
+1038 Intrusion Point 1-38 
+1039 Intrusion Point 1-39 
+1040 Intrusion Point 1-40 
+1041 Intrusion Point 1-41 
+1042 Intrusion Point 1-42 
+1043 Intrusion Point 1-43 
+1044 Intrusion Point 1-44 
+1045 Intrusion Point 1-45 
+1046 Intrusion Point 1-46 
+1047 Intrusion Point 1-47 
+1048 Intrusion Point 1-48 
+1049 Intrusion Point 1-49 
+1050 Intrusion Point 1-50 
+1051 Intrusion Point 1-51 
+1052 Intrusion Point 1-52 
+1053 Intrusion Point 1-53 
+1054 Intrusion Point 1-54 
+1055 Intrusion Point 1-55 
+1056 Intrusion Point 1-56 
+1057 Intrusion Point 1-57 
+1058 Intrusion Point 1-58 
+50000 Petrified image appearance point 01 
+50001 Petrified image appearance point 02 
+50002 Petrified image appearance point 03 
+50003 Petrified image appearance point 04 
+50004 Petrified image appearance point 05 
+50005 Petrified image appearance point 06 
+50006 Petrified image appearance point 07 
+50007 Petrified image appearance point 08 
+50008 Petrified image appearance point 09 
+50009 Petrified image appearance point 10 
+50010 Petrified image appearance point 11 
+50011 Petrified image appearance point 12 
+50012 Petrified image appearance point 13 
+50013 Petrified image appearance point 14 
+50014 Petrified image appearance point 15 
+50015 Petrified image appearance point 16 
+50016 Petrified image appearance point 17 
+50100 Petrified image invasion point 100 
+50101 Petrified Image Invasion Point 101 
+50102 Petrified Image Invasion Point 102 
+50103 Petrified image invasion point 103 
+50104 Petrified image invasion point 104 
+50105 Petrified image invasion point 105 
+50106 Petrified image invasion point 106 
+50200 Petrified image invasion point 200 
+50201 Petrified Image Invasion Point 201 
+50202 Petrified image invasion point 202 
+50203 Petrified image invasion point 203 
+50204 Petrified image invasion point 204 
+50205 Petrified image invasion point 205 
+50206 Petrified image invasion point 206 
+103200 For backlead safety [Maduro] 
+103201 For backlead safety [Faros] 
+103202 Backlead Safety [Undir] 
+103203 For backlead safety [King's Castle] 
+400000 Warp point from the old dark hole 
+500000 Pitfalls_Large_Navimesh Replacement 
+501000 Pitfalls_Small_Navimesh Replacement 
+600000 Boss: Manskopin ♀ battle start judgment 
+601000 NAVI MESH CHANGE 1 OF OBJ TO BE DESTROYED DURING MANSCOPIN WAR 
+602000 NAVI MESH CHANGE 2 OF OBJ TO BE DESTROYED DURING MANSCOPIN WAR 
+603000 NAVI MESH CHANGE 3 OF OBJ TO BE DESTROYED DURING MANSCOPIN WAR 
+604000 NAVI MESH CHANGE 4 OF OBJ TO BE DESTROYED DURING MANSCOPIN WAR 
+605000 NAVI MESH CHANGE 5 OF OBJ TO BE DESTROYED DURING MANSCOPIN WAR 
+606000 NAVI MESH CHANGE 6 OF OBJ TO BE DESTROYED DURING MANSCOPIN WAR 
+607000 NAVI MESH CHANGE 7 OF OBJ TO BE DESTROYED DURING MANSCOPIN WAR 
+608000 NAVI MESH CHANGE 8 OF OBJ TO BE DESTROYED DURING MANSCOPIN WAR 
+800000 King's Door_Navimesh Change 
+900000 Special door to King's Castle 1_Navimesh change 
+900010 Special door 2_Navimesh change to King's Castle 
+1002000 Lion Warrior_Petrified Stop_1_Navimesh Change 
+1102000 Lion Warrior_Petrified Stop_2_Navimesh Change 
+1202000 Lion Warrior_Petrified Stop_3_Navimesh Change 
+10000000 [Top weapon shop] crying range 
+10725000 【NPC】Pilgrim appearance point in the abyss 
+50000000 Head of face stone statue_ Sword Goblin launch 
+50000010 Path to branch tower_goblin launch 
+50000100 King's Castle Route_ Hidden Goblin Launch 
+50000110 King's Castle Route_ Fang and Stone Goblin Launch 
+50000120 Double-sided warrior combat area 
+50000121 Double-sided warrior return area 1 
+50000122 Double-sided warrior return area 2 
+50000210 Three lion body start area 
+50000300 Gate front house of ruins: enemy launch area 
+50001000 The point of the ruins_ lion warrior escape point 
+50001200 【Return area】Goblin Stray Forest Front 
+50001201 【Return area】Return to the starting point 
+50001202 【Return area】Dlanglake side end 
+50001203 【Return area】Before Manskopine 
+50001204 【Return area】Bridge return area 
+50001205 【Return area】Mansco movement limit 1 
+50001207 【Return area】Mansco White Spirit Return 1 
+50001208 【Return area】Mansco White Spirit Return 
+50001300 Stray Forest_ Phantom Enemy Return Area 1 
+50001301 Stray Forest_ Phantom Enemy Period Region 2 
+50002000 Manscorpion ♀_Rock Ground Target 00 
+50002001 Manscorpion ♀_Rock Ground Target 01 
+50002002 Manscorpion ♀_Rock Ground Target 02 
+50002003 Manscorpion ♀_Rock Ground Target 03 
+50002004 Manscorpion ♀_Rock Ground Target 04 
+50002005 Manscorpion ♀_Rock Ground Target 05 
+50002006 Manscorpion ♀_Rock Ground Target 06 
+50002007 Manscorpion ♀_Rock Ground Goal 07 
+50002008 Manscorpion ♀_Rock Ground Target 08 
+50002100 Manscorpion ♀_Route Point_00 
+50002101 Manscorpion ♀_Route Point_01 
+50002102 Manscorpion ♀_Route Point_02 
+50002103 Manscorpion ♀_Route Point_03 
+50002104 Manscorpion ♀_Route Point_04 
+53000500 Boss Mae Gate Ruins_Lion Warrior Fall Ing Attack Area 

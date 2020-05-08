@@ -1,0 +1,37 @@
+90 [Female Knight] Npc 
+91 [Female Knight] NPC (Ghost) 
+160 Sealed Man 
+161 Sealed Man (Ghost) 
+205 Dragon Shrine Maiden (for reading) 
+530 [Black Spirit] Enclosed Man 
+531 ?Black Spirit?NPC for Multi: The Elder Brother of a Female Swordsman 
+532 ?Black Spirit?Painting Defense (Male) 
+800 BOSS: Wyvern 
+1010 ?Outside of the Museum_?Cobold_3 
+1011 ?Outside of the Museum_?Cobold_4 
+1012 ?Outside of the Museum_?Cobold_5 
+1013 ?Outside of the Museum_?Cobold_1 
+1014 ?Outside of the Museum_?Cobold_2 
+1400 ?In cart?Basilisk 
+1700 Left_Trap during Mirror Night? Stone Defense: Explosion 
+1850 [Hole 2F Petrified Stop Back _ Battle] [] [Mimick] 
+2500 ?Auga?Petrified Stop 
+3000 [Cage of the auger passage _ battle] strengthened immortals 
+3100 [Cage of the auger passage _ battle] Auga 
+3200 [Convoy of auger aisle _ Battle] Basilisk 
+3220 [Convoy of auger aisle _ Battle] Basilisk 
+3801 [Back of the painting of the auger passage _ battle] dragon professor_2 
+3802 [Back of the painting of the auger passage _ battle] dragon professor_3 
+4030 ?Cage in cage room_combat?Giant poisonous horn: Acid 
+4060 ?Cage room_dissecting?Professor of the dragon 
+4061 ?Cage room_dissecting?Professor of the dragon 
+4200 [Room on the prison _ dissecting] Professor of the dragon 
+5000 Bone Dragon 
+6000 [Wall destruction _ first] Auga 
+6010 [Wall destruction _ second] Auga 
+9000 ?Event Test?Mirror Night Under Me_1 
+9001 ?Event Test?Mirror Night Under Me_2 
+9004 ?Event Test?Mirror Night Under Me_5 
+9010 ?Event Test_Huge Cage?Giant Basilrisk 
+9100 [Hunting dog] wandering in jail 1 
+9101 [Hunting dog] wandering in jail 2 

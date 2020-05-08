@@ -1,0 +1,532 @@
+0 Dummy (no use) _ Item lottery (character) 
+10 No Drop - Ghosts 
+20 No Drop - Cut Scene 
+30 No Drop - Boss 
+40 Drop - None 
+1020000 Granny - Old Woman's House 
+1020100 Player NPC - Tutorial Stage 
+1020200 Auga - Sandy Beach 
+1040000 Skeleton-A's house basement 
+1040100 Piglet-A's House 
+1040200 Miracle Man - Black Spirit: No Drop 
+1100000 Salamander - Boss After-Treasure Room 
+1100100 Kingdom Soldier (Dead) - Spear: Knock ing and Mosimoshi 
+1100200 Wandering Knight (Dead) - One Hand Sword: The Forest of Decaying Giants 
+1100201 Wandering Knight (Dead) - One Hand Sword: The Forest of Decaying Giants: The Second Lap 
+1100500 Bay Grant - Zako: The Forest of Giants 
+1101000 Ishimori-gen5000 
+1105000 Lower-class soldier (deceased): Shizuku stone and throwing knife - bare hands 
+1105100 Lower-class soldier (deceased): Shizuku stone and throwing knife - dagger 
+1105200 Lower-class soldier (deceased): Shizuku stone and throwing knife - one-handed sword: Small shield 
+1105300 Lower-class soldier (deceased): Shizuku stone and throwing knife - one-handed axe 
+1105400 Lower-class soldier (deceased): Shizuku stone and throwing knife - two-handed bow 
+1140000 Zako of the boss fight - no drop 
+1140100 Parent Pig - Tent Square 
+1140200 Piglet - Tent Square 
+1140300 ♂ the clothes of the wealthy - keys and incense drops 
+1140400 Farmer's Clothing ♂-Torch: Head Part 1 
+1140500 Farmer's Clothing ♂- Torch: Head Part 2 
+1141000 Ishimori-gen1240 
+1141100 Ishimori-gen1360 
+1141200 Stone Defense (Explosion)-gen1361 
+1150000 Petrified Auger-gen2500 
+1151000 Stone Defense (Explosion) -gen1700 
+1153000 η-mic-gen1850 
+1160000 Undead citizen of cage pulling up from well - wandering series drop 
+1164000 【Oblivion】Usually: Zako Bell Guard - Prison of Oblivion 
+1164100 【Oblivion】Normal】 Dark Spirit Bell Defense - Prison of Oblivion 
+1171000 Ishimori-gen2403 
+1173000 η-mic-gen3304 
+1181000 Ishimori-gen4850 
+1190000 Damon Armor (Dead) Captain - Fountain of Recovery 
+1190001 Damon Armor (Dead) _ Captain - Round 2: Bow Drop 
+1190500 Bay Grant - Zako: Molten Iron Castle 
+1191000 Ishimori-gen4039 
+1193000 η-mic-gen4035 
+1194100 Zako Bell Mori - Molten Iron Castle 
+1230000 Wandering Knight (Dead) - Spear C: Forest of Hunting 
+1230001 Wandering Knight (Dead) - Spear C: Hunting Forest: Second lap 
+1231000 Ishimori-gen4112 
+1250000 Poisonless Poison Hornworm - Poison-Extinguishing Drop 
+1270000 Wyburn - Dragon's Nest 
+1271000 Ishimori-gen1200 
+1271100 Ishimori-gen1300 
+1271200 Ishimori-gen1400 
+1271300 Ishimori-gen1401 
+1271400 Ishimori-gen1402 
+1271500 Ishimori-gen1403 
+1271600 Ishimori-gen1404 
+1271700 Ishimori-gen1500 
+1271800 Ishimori-gen1501 
+1271900 Ishimori-gen1600 
+1272000 Ishimori-gen1601 
+1273000 η-mic-gen5000 
+1273001 []-mic-gen5000:2 laps 
+1310000 Ancient Warrior - Two-Handed Sword & Shield_Heide 
+1310100 Ancient Warriors - Oversized Sword_Heide 
+1310200 Ancient Warriors - Axe Spears & Great Shields_Heide 
+1310300 Ancient Warrior - Two-Handed Ax_Heide 
+1310400 Ancient Warriors - Both Hands Mallet_Heide 
+1310500 Ancient Warrior (Blue Spirit) - Bone Powder Drop 
+1320000 Petrified Lion Warrior-gen2041 
+1320500 Double-Sided Warrior - Zako 
+1321000 Stone Defense - The Forest of Shadows 
+1331000 Ishimori-gen1400: Faros 
+1333000 η-mic-gen1100 
+1341000 Ishimori-gen1910 
+2110000 Necromancer (Immortal) - Cane 
+2210501 [King's Castle: Normal] Bay Grant - Zako: Ring Drop 
+2210601 【King's Castle】Bagrant-Zako: Wedge Stone Drop 
+2210602 【King's Castle】Usually: Bay Grant- Zako: Wedge Stone Drop: After Week 3 
+2210700 [King's Castle: Normal] Warrior in the Mirror - Zako 
+2211000 【King's Castle】Ishimori-gen1098 
+2240000 NPC Black Witch - Hats and Veils 
+2240001 NPC Black Witch - Hat and Veil: Lap 2 
+4030000 NPC- Entire map 
+4030001 NPC-2 Lap_Entire Map 
+4030002 NPC-3 Lap_Entire Map 
+4030003 NPC-4 Lap_Entire Map 
+4030004 NPC-5 Lap_Entire Map 
+4030005 NPC-6 Laps_Entire Map 
+4030006 NPC-7 Lap_Entire Map 
+4030007 NPC-8 lap_entire map 
+5000000 Drop-1 for Guest Players 
+5001000 Drop-2 for Guest Players 
+5002000 Drop-3 for Guest Players 
+5003000 Drop-4 for Guest Players 
+5004000 Drop-5 for Guest Players 
+5005000 Drop-6 for Guest Players 
+5006000 Drop-7 for Guest Players 
+5007000 Drop-8 for Guest Players 
+5008000 Drop-9 for Guest Players 
+5009000 Drop-10 for Guest Players 
+6000000 Strong er drop - the entire map 
+10000000 Goblins - Bare Hands: The Forest of Shadows of The Shadows 
+10000100 Goblins - Bare Hands: A Gap's Cave 
+10001000 Goblins - Sword 
+10002000 Goblins - Sling 
+10100000 Cobold - Gap Sinus 
+10100100 Kobold-Anne Deal's House 
+10200000 Kingdom Soldier (Dead) - Spear: Medium Shield 
+10201000 Kingdom Soldier (Dead) - Two-Handed Sword 
+10202000 Kingdom Soldier (Dead) - Two-Handed Long Axe 
+10203000 Kingdom Soldier (Dead) - Stabbing Sword: Medium Shield 
+10204000 Kingdom Soldier (Dead) - Bow 
+10205000 Kingdom Soldier (Dead) - Bare Hands 
+10210000 Kingdom Soldier (Living) - Spear: Medium Shield 
+10211000 Kingdom Soldier (Living) - Two-Handed Sword 
+10213000 Kingdom Soldier (Living) - Dying 
+10214000 Kingdom Soldier (Raw) - Bow 
+10300000 Lower Soldier (Dead) - Bare Hands: The Forest of Decayed Giants 
+10300100 Lower-class soldiers (dead) - bare hands: Valley of the reservoir 
+10301000 Lower Soldier (Dead) - Dagger: The Forest of Decaying Giants 
+10301100 Lower Soldier (Dead) - Dagger: Valley of The Reservoir 
+10302000 Lower Soldier (Deceased) - One Hand Sword: Small Shield: The Forest of Decaying Giants 
+10302100 Lower-class soldier (deceased) - One-handed sword: Small shield: Valley of the reservoir 
+10302200 Lower-class soldier (dead) - one-handed sword: small shield: hidden port 
+10303000 Lower Soldier (Dead) - One-Handed Axe: The Decaying Giant Forest 
+10303100 Lower Soldier (Dead) - One-Handed Axe: Valley of The Reservoir 
+10303200 Lower Soldier (Dead) - One-Handed Axe: Hidden Port 
+10304000 Lower Soldier (Dead) - Two-Handed Bow: The Forest of Decaying Giants 
+10304100 Lower Soldier (Dead) - Two-Handed Bow: Valley of The Reservoir 
+10305000 Lower Soldier (Deceased) - Two-Handed Bow (Fire arrow): Valley of the Reservoir 
+10305100 Lower-class soldiers (dead) - two-handed bow (fire and arrow): Hidden port 
+10310000 Lower Soldier (Raw) - Dagger: Hidden Port 
+10310100 Lower Soldier (Raw) - Dagger: Memories of giants 
+10311000 Lower Soldier (Raw) - One Hand Sword: Hidden Port 
+10311100 Lower Soldier (Raw) - One Hand Sword: The Memory of the Giant 
+10312000 Lower Soldier (Raw) - One-Handed Axe: Hidden Port 
+10312100 Lower Soldier (Raw) - One Hand Axe: The Memory of the Giant 
+10313000 Lower Soldier (Raw) - Bow: Hidden Port 
+10313100 Lower Soldier (Raw) - Bow: Memories of giants 
+10500000 Fairy Shrine Maiden - Bare Hands 
+10501000 Fairy Shrine Maiden - Cane 
+10600000 Dark Priest (Dead) - Color (1)_No Mask 
+10620000 Dark Priest (Deceased) - Color (3) _ Head c 
+10700000 Parasite Spider (Parasitic) - 
+10800000 Rogue (Dead) - Dagger x 2 
+10801000 Rogue (dead) - one hand mallet × 2 
+10802000 Rogue (Dead) - Two Bows x 2 
+11300000 Sailor (dead) - One-handed sword: Small shield 
+11301000 Sailor (dead) - Song sword × 2 
+11302000 Sailor (Dead) - Two-Handed Bow 
+11500000 Traveler's Clothing ♂- Bare Hands: Madura 
+11500100 Traveler's Clothing ♂- Bare Hands: Gap ing Sinus 
+11501000 Traveler's Clothes ♂ - Dagger 
+11700000 Statue_Pawn-Spear: Shield 
+11800000 Dark Wizard (Deceased) - Color (1): Head A 
+11800100 Dark Wizard (Deceased) - Color (1): Head A: Death penalty 
+11820000 Dark Wizard (Deceased) - Color (3): Head B 
+11900000 Lion Black Mage (Born) - 
+12100000 Giant Lower Soldier (Giant) - Bare Hands 
+12101000 Giant Lower Soldier (Giant) - Two-Handed Club 
+12102000 Giant Lower Soldier Poison (Giant) - Bare Hands 
+12103000 Giant Lower Soldier Fire (Giant) - Bare Hands 
+12300000 Deformed Shadow (Born) - Mask A:2 Swordnails 
+12300001 Deformed Shadow (Born) - Mask A:2 Sword Claw: 2nd Lap 
+12301000 Deformed Shadow (Born) - Mask A: Dagger: Stabbing Sword 
+12302000 Deformed Shadow (Born) - Mask B:2 Swordnails 
+12303000 Deformed Shadow (Born) - Mask B: Dagger: Stabbing Sword 
+12400000 Assassin (Born) - Mask A: 2 Swords 
+12401000 Assassin (Born) - Mask A: Dagger 
+12402000 Assassin (Born) - Mask A: Curved Sword 
+12403000 Assassin (Born) - Mask A: Bow 
+12500000 Undead Citizen - Explosion: The Tomb of the Saints 
+12500100 Undead Citizen - Explosion: Prison of Oblivion 
+12500200 Undead Citizen - Explosion: Scum Bottom 
+12501000 Undead Citizens - Poison 
+12502000 Undead Citizens - Acid 
+12503000 Undead Citizens - Petrified 
+12504000 Undead Citizen - Normal: Prison of Oblivion 
+12504100 Undead Citizen - Normal: Kuzbottom 
+12505000 Trapping After Undead Citizen-Boss 
+12700000 Dead Workers (Dead) - Bare Hands: Hunting Forest 
+12700100 The Workerof the Dead - Bare Hands: The Tomb of Immortality 
+12700200 Dead Workers (Dead) - Bare Hands: Gerdra 
+12700300 Dead Workers (Dead) - Bare Hands: Valley of The Reservoir 
+12700400 The Workers of the Dead - Bare Hands: The Tomb of the Saints 
+12700500 The Workerof the Dead - Bare Hands: The Old Dark Hole 
+12701000 Dead Workers (Dead) - Torch: Hunting Forest 
+12701100 The Workers of the Dead - Torch: The Tomb of Immortality 
+12702000 Workers of the Dead - Broken Straight Sword 
+12900000 The Keeper of the Forest - Cane 
+12901000 The Keeper of the Forest - Bell 
+13100000 Cleric - War 
+13101000 Cleric-Bell 
+13102000 Cleric- Cane 
+13200000 Skeleton-2 Sword Style: Valley of The Reservoir 
+13200100 Skeleton-2 Sword Style: Hunting Forest 
+13201000 Skeleton - One Hand Bent Sword 
+13202000 Skeleton - One-handed sting 
+13203000 Skeleton - Bow 
+13300000 Wheel Skeleton - Bare Hands 
+13301000 Wheel Skeleton - Song Sword 
+13302000 Wheel Skeleton - The Great Sword 
+13400000 Dwarf- 
+13500000 Heavy Dwarf - Two-Handed Axe x 2: Head A 
+13501000 Heavy Dwarf - Mallet: Head A 
+13502000 Heavy Dwarf- Bow: Head A 
+13503000 Heavy Dwarf - Two-Handed Axe x 2: Head B 
+13504000 Heavy Dwarf - Mallet: Head B 
+13505000 Heavy Dwarf-Bow: Head B 
+13701000 Necromancer (Immortal) - Shield: Wand 
+13800000 TortureMen - Torture Instruments 
+13801000 TortureMan - Whip 
+13900000 Man-made Immortal - Sickle: Hunting Forest 
+13900100 Man-made Immortal - Sickle: Valley of the Reservoir 
+13901000 Man-made Immortal - Bare Hands 
+14100000 Strengthened Immortals - Anne Deal's House 
+14100100 Strengthening The Immortals - Prisons of Oblivion 
+14600000 The Clothes of the Wealthy♂ - Dagger 
+14601000 The Clothes of the Wealthy ♂ - Stabbing Sword 
+14602000 ♂ the clothes of the wealthy - Dagger & Torch 
+14700000 Sick people's clothes ♂- 
+14800000 Farmer's Clothes ♂- Mallet: Head Part 1 
+14801000 Farmer's Clothes ♂- Mallet: Head Part 2 
+14802000 Farmer's Clothing ♂- Two-Handed Sickle: Head Part 1 
+14803000 Farmer's Clothing ♂ - Two-Handed Sickle: Head Part 2 
+14900000 Steelworkers without aprons- 
+15000000 Statue_Night- 
+15100000 Kingdom Soldier Heavy Warrior - Color (1): Two-Handed Hammer 
+15120000 Kingdom Soldier Heavy Warrior - Color (3): Two-Handed Battle Hammer: The Decaying Giant Forest 
+15120100 Kingdom Soldier Heavy Warrior - Color (3): Two-Handed Mallet: Gerdra 
+15121000 Kingdom Soldier Heavy Warrior - Color (3): One Hand Club 
+15200000 Kingdom Soldier Warrior - Two-Handed Sword: Drang Greig 
+15200100 Kingdom Soldier Warrior - Two-Handed Sword: Prison of Oblivion 
+15200101 Kingdom Soldier Warrior - Two-Handed Sword: Prison of Oblivion: Lap 2 
+15201000 Kingdom Soldier Warrior - Crossbow: Drang Greig 
+15201100 Kingdom Soldier Warrior - Crossbow: Prison of Oblivion 
+15201101 Kingdom Soldier Warrior - Crossbow: Prison of Oblivion: Lap 2 
+15300000 Royal Guard Escort - Axe Spear: Drang Greig 
+15300100 Guardian of the Kingdom - Axe Spear: The Nest of the Guard Dragon 
+15300200 Royal Guard Escort - Axe Spear: Amana 
+15300300 Royal Guard Guards - Axe Spear: Tomb of Immortality 
+15301000 Royal Guard Escort - Oversized Sword: Drang Greig 
+15301100 Royal Guard Escorts - Oversized Sword: The Nest of The Guard dragon 
+15301200 Royal Guard Escort - Extra Large Sword: Amana 
+15301300 Royal Guard Escort - Extra Large Sword: Tomb of Immortality 
+15400000 Skeleton aristocracy - 
+15500000 Lizard man - 
+15700000 Armor Skeleton-2 Sword Style: Death penalty 
+15701000 Armor Skeleton - One Hand Bent Sword: Death penalty 
+15702000 Armor Skeleton - One Hand Stabbing: Death Penalty 
+15703000 Armor Skeleton - Bow: Death penalty 
+20300000 Parasite Spider - 
+20300001 Parasite Spider -Lap 2 
+20400000 Great Moss - 
+20500000 Poison Hornworm - Poison: Valley of The Reservoir 
+20500100 Poison Hornworm - Poison: Scum Bottom 
+20510000 Poison Hornworm- Acid: Gerdra 
+20510100 Poison Hornworm - Acid: Anne Deal's House 
+20510200 Poison Hornworm- Acid: Amana 
+20600000 Needle maggots - 
+20900000 Hunting Dog - Color (1): Anne Deal's House 
+20900100 Hunting Dog - Color (1): Forest of Shadows 
+20900200 Hunting Dog - Color (1): Scum Bottom 
+21000000 Basilisk - Color (1): Forest of Shadows 
+21000100 Basilisk - Color (1): Scum Bottom 
+21000200 Basilisk - Color (1): Anne Deal's House 
+21000300 Basilisk-Color (1): The Tomb of the Saints 
+21000400 Basilisk - Color (1): Eyeball Crush 
+21200000 Wyburn- 
+21300000 Stone Mori- 
+21400000 Fang Beast - 
+21600000 Door possessed - 
+21700000 The Hermit in the Darkness- 
+22000000 Giant VenomOus Worm- Acid: Valley of The Reservoir 
+22000100 Giant Venomous Horned Worm - Acid: The House of Anne Deal 
+22000200 Giant VenomOus Worm- Acid: Amana 
+22200000 Giant Basilisk - Color (2): Anne Deal's House 
+22200100 Giant Basilisk - Color (2): Forest of Shadows 
+22300000 Corpse Asse Rat - Color (1) 
+22400000 Coal Tar - 
+22600000 Dog Rat - 
+22610000 Dog Mouse - Color (2) 
+22620000 The King of Rats- 
+22700000 Wild Dogs - Prisons of Oblivion 
+22700100 Wild Dogs - Hidden Harbor 
+30000000 Auger -Color (1): Gap Sinus 
+30000100 Auger (Raw) - Color (1): Amana 
+30000200 Auger (Born) - Color (1): Anne Deal's House 
+30100000 Wandering Knight (Dead) - One-handed Sword 
+30100001 Wandering Knight (Dead) - One-handed sword: Second lap 
+30101000 Wandering Knight (Dead) - Spear A 
+30101001 Wandering Knight (Dead) - Spear A: Lap 2 
+30102000 Wandering Knight (Dead) - Spear B 
+30102001 Wandering Knight (Dead) - Spear B: Lap 2 
+30103000 Wandering Knight (Dead) - Spear C 
+30103001 Wandering Knight (Dead) - Spear C: Lap 2 
+30200000 Prison man (dead) - 
+30330000 Double-Sided Warrior - Snake Head 
+30400000 Banshee_Monster- 
+30401000 Banshee (Deceased) _Beauty- 
+30500000 Damon Knight (Dead) - 
+30600000 Damon Armor (Dead) _ Captain - Sword 
+30601000 Damon Armor (Dead) _ Captain - Bow: Molten Castle 
+30601100 Damon Armor (Dead) _ Captain - Bow: Dran Greig 
+30700000 Durahan (deceased) - 
+30710000 Durahan (born) - 
+30711000 Durahan (raw) - only head 
+30800000 Lion Warrior - 
+30810000 Lion Warrior (2) - 
+30900000 Giant Senior Soldier (Giant) - Memories of Giants 
+30900100 Giant Senior Soldier (Giant) - Kuzbottom 
+30960000 New Giant Senior Soldier (Dead) - 
+30970000 New Giant Senior Soldier (Live) - 
+31100000 Cavalry - Cavalry Soldiers 
+31200000 Immortal Senior Soldier (Immortal) - Sickle: Robe 
+31201000 Immortal Senior Soldier (Immortal) - Spear: Robe: The Nest of the Guarddragon 
+31201100 Immortal Senior Soldier (Immortal) - Spear: Robe: Valley of The Reservoir 
+31202000 Immortal Senior Soldier (Immortal) - Sickle: Armor: The Nest of the Guard Dragon 
+31202100 Immortal Senior Soldier (Immortal) - Sickle: Armor: The Tomb of Immortality 
+31203000 Immortal Advanced Soldier (Immortal) - Spear: Armor: Defending Dragon's Nest 
+31203100 Immortal Senior Soldier (Immortal) - Spear: Armor: Valley of The Reservoir 
+31203200 Immortal Senior Soldier (Immortal) - Spear: Armor: Immortal Mausoleum 
+31204000 Immortal Senior Soldier (Immortal) - Sickle: Naked 
+31205000 Immortal Senior Soldier (Immortal) - Spear: Naked 
+31300000 Falcon Warrior - Direct Sword - Shield - No Hawk 
+31301000 Falcon Warrior - Sashimi Sword - Shield : No Hawk 
+31302000 Falcon Warrior - Sashimi & Hawk 
+31303000 Falcon Warrior - Bow: No Hawk 
+31400000 Elephant (dead) - 
+31500000 Elephant Man (Born) - 
+31600000 Captured Magician (Born) - 
+31700000 Dragon Professor - 
+31800000 Bay Grant - No Luggage 
+31801000 Bay Grant - Luggage Available 
+31900000 Damon Armor (Dead) _Mass-Produced-Sword 
+31901000 Damon Armor (Dead) _Mass Production Type-Bow 
+32100000 [] Mimic_Wooden- 
+32101000 []-mimic_iron- 
+32400000 Gargoil - 
+32500000 Warrior in the Mirror - 
+32600000 Butcher- 
+32700000 Bone Dragon - 
+33000000 Ancient Warriors - Two-Handed Sword & Medium Shield 
+33001000 Ancient Warriors - Oversized Sword 
+33002000 Ancient Warriors - Axe Spears & Great Shields 
+33003000 Ancient Warrior - Two-Handed Axe 
+33004000 Ancient Warrior - Two Hands Mallet 
+33100000 Demon Heavy Soldier - Two-Handed Sword & Medium Shield 
+33101000 Demon Heavy Soldier - Oversized Sword 
+33102000 Damon Heavy Soldier - Two-Handed Long Axe 
+33103000 Damon Heavy Soldier - Both Hands Mallet 
+33104000 Damon Heavy Soldier - One Hand Mallet 
+33200000 Queen Knight A- 
+33300000 Queen Knight B- 
+33400000 Queen Knight C- 
+33700000 Amazing Dead - Bare Hands: Hunting Forest 
+33700100 Amazing Dead - Bare Hands: Valley of The Reservoir 
+33700200 Amazing Dead - Bare Hands: Scum Bottom 
+33700300 Great Dead - Bare Hands: The Tomb of the Saints 
+33700400 The Great Dead - Bare Hands: The Prison of Oblivion 
+33700500 Amazing Dead - Bare Hands: Heide Great Fire Tower 
+33700600 Amazing Dead - Bare Hands: Amana 
+33701000 Amazing Dead - Torch: Hunting Forest 
+33701100 Amazing Dead - Torch: Scum Bottom 
+33702000 Amazing Dead - Sword: Hunting Forest 
+33702100 Amazing Dead - Sword: Scum Bottom 
+33702200 Great Dead - Sword: The Tomb of the Saints 
+33702300 Amazing Dead - Sword: Amana 
+50000000 Javaza Hat - 
+50100000 Naga- 
+50200000 Manscorpion ♂- 
+50300000 Manscorpion ♀- 
+50400000 Mirror Night - 
+50610000 Agaduran Stand - 
+50620000 Wormhole - 
+50650000 Tomb Guard - 
+50700000 Rich- 
+50800000 Reis- 
+50900000 Dark Bishop - 
+51100000 Phantom Knight (Spirit) - 
+51200000 Phantom Mage (Spirit) - 
+51460000 Old King- 
+60000000 Old Dragon - 
+60100000 Salamander - 
+60200000 Beautiful Voice Frog - 
+60300000 Spider Queen - 
+60310000 Spider Queen (Cliff) - 
+60700000 Molten Iron Daemon - 
+60800000 Corrosive insects - outer shells 
+61100000 Heavy Cavalry - 
+61911000 Silver Chariot- 
+62500000 Ornstein - 
+62600000 Forgotten Sinners - 
+62700000 Queen's Armor Form - 
+62800000 Giant rat- 
+70050000 Dragon's Shrine Maiden for In-Game - 
+70150000 Dragon Shrine Maiden (Child) For In-Game - 
+70360000 New Queen- 
+70450000 Ladder shop_in for games - 
+70550000 Retired Fire Protection Woman 1_In For Game - 
+70560000 Retired Fire Protection Woman 2_In For Game- 
+70580000 Retired Fire Protection Woman 3_In For Game - 
+72110000 The Spirit of the Prime Minister - 
+72300000 Housekeeper- 
+72400000 Captain of the Kingdom - 
+72500000 Pilgrims in the abyss - 
+72600000 Dwarf Gabalance - 
+73000000 Mirror Night Under Me 1_Oversized Sword- 
+73101000 Mirror Night Under Me 2_Two-Handed Ax- 
+73200000 Sorcerer Sinner 1- 
+73300000 Sorcerer Sinner 2- 
+74100000 Heartbroken Blue Warrior - 
+74200000 Wandering Warrior - One Hand Axe 
+74201000 Wandering Warrior - The Great Sword 
+74300000 Tsukiko Ya- 
+74400000 Patch - 
+75100000 Atlas - 
+75200000 Female Knight Akertilla - 
+75300000 Bell Guard - 
+75400000 Yorozu Babaa - 
+75500000 Stalker Warrior - 
+76000000 Girl 1 of the Bard - 
+76010000 Bard Girl 2- 
+76020000 Captive Girl - 
+76100000 Armor shop - 
+76200000 Material shop - 
+76300000 Sorcerer- 
+76400000 Blacksmith - Tonkachi & Fire Scissors 
+76401000 Blacksmith - Otsuchi 
+76430000 EX Blacksmith - 
+76600000 Sorcerer- 
+76800000 Spell Mania - 
+76900000 Miracle Man Leash - 
+77000000 Dark Man - Cane 
+77001000 Dark Man - Sting Sword 
+77100000 The Enclosed Man - 
+77200000 A curiosity shop- 
+77600000 Top Weapon: Bird Goal - 
+77700000 Cat - 
+78300000 Black Phantom Shop - 
+78400000 The Teacher of The Sin - 
+78500000 Guardian Knight - Two-Handed Ax & Medium Shield 
+78501000 Guardian Knight - Two-Handed Axe & Bell 
+78600000 Glitter Girl - 
+81000000 NPC for Multi: Swordsman (Man) - Red Spirit: Hunting Forest 
+81000100 NPC for Multi: Swordsman (Male) - White Spirit: Valley of The Reservoir 
+81000200 NPC for Multi: Swordsman (Male) - Bell Guard Area 
+81000300 NPC for Multi: Swordsman (Male) - White Spirit: Heide Great Fire Tower 
+81000400 NPC for Multi: Swordsman (Man) - White Spirit: Altar of Amana 
+81100000 NPC for Multi: Archer (Man) - White Spirit: Scum Bottom 
+81200000 NPC for Multi: Sages (Female) - White Spirit: Prison of Oblivion 
+81200100 NPC for Multi: Sages (Female) - White Spirit: Kiseki-gai Gerdra 
+81300000 NPC for Multi: Lancer (Female) - Altar of Amana 
+81400000 NPC for Multi: Flesh Cutting (Female) - White Spirit: The Nest of The Guarded Dragon 
+81400800 NPC for Multi: Flesh breaking (female) - Black Spirit: King's Castle Drangreig 
+81400900 NPC for Multi: Meat Cutting (Female) - Black Spirit: Scum Bottom 
+82000000 NPC for Multi: Spearsoldier (Man) - Dark Spirit: Prison of Oblivion 
+82000100 NPC for Multi: Spearsoldier (Male) - Dark Spirit: Kiseki Street Gerdra 
+82000200 NPC for Multi: Spearsoldier (Man) - Dark Spirit: Forest of Shadows of The Shadows 
+82100000 NPC for Multi: Reaper (Female) - Hunting Forest 
+82100100 NPC for Multi: The God of Death (Woman) - Dark Spirit: Anne Deal's House 
+82200000 NPC for Multi: The Magician (Male) - Dark Spirit: The Door way of Faros 
+82200100 NPC for Multi: Magician (Male) - Ashes: Saint's Tomb 
+82200200 NPC for Multi: Magician (Man) - Dark Spirit: The Tomb of Immortality 
+82200300 NPC for Multi: Magician (Male) - Dark Spirit: Altar of Amana 
+82300000 NPC for Multi: Koryu Swordsman (Male) - The Nest of The Guard Dragon 
+82400000 NPC for Multi: The Older Brother of a Female Swordsman - 
+82400001 NPC for Multi: Female Swordsman's Brother -Round 2 
+83100000 Saint's Tomb: Abandoned Saint- 
+83110000 Saint's Tomb: Knight of the Saint - 
+83200000 Old Dark Hole: Abyss 1: Sniper - 
+83210000 Old Dark Hole: Abyss 2: Axeman - 
+83220000 The Old Dark Hole: The Abyss 3: Huang Yi-o- 
+83230000 The Old Dark Hole: The Abyss 4: Huang Yi Wife - 
+83240000 Old Dark Hole: Abyss 5: Traveler - 
+83250000 Old Dark Hole: Abyss 6: Knight - 
+83260000 Old Dark Hole: Abyss 7: Heavy Warrior - 
+83270000 Old Dark Hole: Abyss 8: Queen - 
+83300000 Amana's Shrine: Cannibal Sit-In- 
+83400000 Prison of Oblivion: Sorcerer - 
+83410000 Prison of Oblivion: Dark Knight - 
+83500000 Enshrinement Hall: Dragon Knight - Two-Sword Style 
+83505000 Enshrinement Hall: Painting Guard (Man) - 
+83510000 Ritual Hall: Dragon Knight - One Hand Mallet 
+83520000 Ritual Hall: Dragon Knight - One Hand Sword 
+83600000 Molten Castle: Samurai Saucer- 
+83600001 Molten Castle: Samurai Saucer -Round 2 
+83610000 Ming-iron castle: Bell Guard 1:- 
+83620000 Ming-iron castle: Bell Guard 2:- 
+83630000 Ming-iron castle: Bell Guard 3:- 
+83640000 Molten Iron Castle: Light Heavy Soldiers - 
+83700000 Gap cave: second lap hunting - 
+83700001 Gap sinus: Second lap hunting - second lap 
+83710000 Creus sinus: proximity - 
+83720000 Gap Sinus: Shooting - 
+83730000 Gap sinus: Undecided - 
+83800000 Forest of Shadows: Phantom Enemy 1- 
+83810000 Forest of Shadows: Phantom Enemy 2- 
+84000000 Dummy NPC for the pledge of the champion- 
+84100000 Dummy NPC for Sun Pledge- 
+84200000 Decaying Giant Forest: In front of the king's door - 2 laps red spirit 1 
+84300000 Decaying Giant Forest: In front of the king's door - 2 laps red spirit 2 
+84400000 Decayed Giant Forest: Ground Cracking Square - Round 2 Red Spirit 3 
+84400001 Decayed Giant Forest: Ground Cracking Square - Round 2 Red Spirit 3:2 
+84500000 Decaying Giant Forest - The Dark Spirit 
+84600000 Kiseki-gai Gerdra - The Dark Spirit 
+84700000 Heide Great Fire Tower - Round 2 Dark Spirit 1 
+84710000 Heide Great Fire Tower - 2 Laps Dark Spirit 2 
+84800000 Tomb of Immortality- Round 2 Dark Spirit 1 
+84810000 Tomb of Immortality - Dark Spirit 2 (Ghost) 
+84900000 King's Castle D'Angheig - Dark Spirit 1 (Ghost) 
+84900001 King's Castle D'Angheig - Dark Spirit 1 (Ghost): Lap 2 
+84910000 King's Castle D'Angheig - Dark Spirit 2 
+84920000 King's Castle D'Angheig - Dark Spirit 3 
+85000000 Anne Deal's House - The Second Lap Dark Spirit 
+85000001 Anne Deal's House - Second Lap Dark Spirit: Lap 2 
+85100000 Valley of The Reservoir - The Dark Spirit 
+85200000 Hunting Forest - Red Spirit Level 3 
+85300000 King's Castle D'Angheig - Two-Sword Avelin 
+85310000 King's Castle D'Angheig-Leroy 
+85320000 King's Castle D'Angheig-2 Lap 1 Dark Spirit 1 
+85330000 King's Castle D'Angheig-2 Lap 2 Dark Spirit 2 
+85340000 King's Castle D'Angheig-Round 2 Dark Spirit 3 
+85340001 King's Castle Doran Greig-2 Lap 2 Dark Spirit 3:2 Laps 
+85350000 King's Castle D'Angheig - Dark Spirit Key number 
+85400000 Hidden Harbor - Dark Spirit (Darth Mall) 
+85400001 Hidden Harbor - Dark Spirit (Darth Mall): Second lap 
+99900000 Test-based 
+99990000 Ito Test 1 
+99990001 Ito Test 2 

@@ -1,0 +1,957 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Veldrid.SDL2</name>
+    </assembly>
+    <members>
+        <member name="M:Veldrid.Sdl2.Sdl2Native.LoadFunction``1(System.String)">
+            <summary>
+            Loads an SDL2 function by the given name.
+            </summary>
+            <typeparam name="T">The delegate type of the function to load.</typeparam>
+            <param name="name">The name of the exported native function.</param>
+            <returns>A delegate which can be used to invoke the native function.</returns>
+            <exception cref="T:System.InvalidOperationException">Thrown when no function with the given name is exported by SDL2.
+            </exception>
+        </member>
+        <member name="M:Veldrid.Sdl2.Sdl2Native.SDL_GameControllerOpen(System.Int32)">
+            <summary>
+            Open a game controller for use.
+            The index passed as an argument refers to the N'th game controller on the system. This index is not the value which
+            will identify this controller in future controller events. The joystick's instance id will be used there instead.
+            </summary>
+            <returns>A controller identifier, or NULL if an error occurred.</returns>
+        </member>
+        <member name="M:Veldrid.Sdl2.Sdl2Native.SDL_GameControllerClose(Veldrid.Sdl2.SDL_GameController)">
+            <summary>
+            Close a controller previously opened with SDL_GameControllerOpen().
+            </summary>
+        </member>
+        <member name="M:Veldrid.Sdl2.Sdl2Native.SDL_IsGameController(System.Int32)">
+            <summary>
+            Is the joystick on this index supported by the game controller interface?
+            </summary>
+        </member>
+        <member name="M:Veldrid.Sdl2.Sdl2Native.SDL_GameControllerNameForIndex(System.Int32)">
+            <summary>
+            Get the implementation dependent name of a game controller.
+            This can be called before any controllers are opened.
+            If no name can be found, this function returns null.
+            </summary>
+        </member>
+        <member name="M:Veldrid.Sdl2.Sdl2Native.SDL_GameControllerFromInstanceID(System.Int32)">
+            <summary>
+            Return the SDL_GameController associated with an instance id.
+            </summary>
+        </member>
+        <member name="M:Veldrid.Sdl2.Sdl2Native.SDL_GameControllerName(Veldrid.Sdl2.SDL_GameController)">
+            <summary>
+            Return the name for this currently opened controller.
+            </summary>
+        </member>
+        <member name="M:Veldrid.Sdl2.Sdl2Native.SDL_GameControllerGetVendor(Veldrid.Sdl2.SDL_GameController)">
+            <summary>
+            Get the USB vendor ID of an opened controller, if available.
+            If the vendor ID isn't available this function returns 0.
+            </summary>
+        </member>
+        <member name="M:Veldrid.Sdl2.Sdl2Native.SDL_GameControllerGetProduct(Veldrid.Sdl2.SDL_GameController)">
+            <summary>
+            Get the USB product ID of an opened controller, if available.
+            If the product ID isn't available this function returns 0.
+            </summary>
+        </member>
+        <member name="M:Veldrid.Sdl2.Sdl2Native.SDL_GameControllerGetProductVersion(Veldrid.Sdl2.SDL_GameController)">
+            <summary>
+            Get the product version of an opened controller, if available.
+            If the product version isn't available this function returns 0.
+            </summary>
+        </member>
+        <member name="M:Veldrid.Sdl2.Sdl2Native.SDL_GameControllerGetAttached(Veldrid.Sdl2.SDL_GameController)">
+            <summary>
+            Returns 1 if the controller has been opened and currently connected, or 0 if it has not.
+            </summary>
+        </member>
+        <member name="M:Veldrid.Sdl2.Sdl2Native.SDL_GameControllerGetJoystick(Veldrid.Sdl2.SDL_GameController)">
+            <summary>
+            Get the underlying joystick object used by a controller.
+            </summary>
+        </member>
+        <member name="M:Veldrid.Sdl2.Sdl2Native.SDL_GameControllerEventState(System.Int32)">
+            <summary>
+            Enable/disable controller event polling.
+            If controller events are disabled, you must call SDL_GameControllerUpdate()
+            yourself and check the state of the controller when you want controller
+            information.
+            The state can be one of SDL_QUERY, SDL_ENABLE or SDL_IGNORE.
+            </summary>
+        </member>
+        <member name="M:Veldrid.Sdl2.Sdl2Native.SDL_GameControllerUpdate">
+            <summary>
+            Update the current state of the open game controllers.
+            This is called automatically by the event loop if any game controller
+            events are enabled.
+            </summary>
+        </member>
+        <member name="M:Veldrid.Sdl2.Sdl2Native.SDL_GameControllerGetAxis(Veldrid.Sdl2.SDL_GameController,Veldrid.Sdl2.SDL_GameControllerAxis)">
+            <summary>
+            Get the current state of an axis control on a game controller.
+            The state is a value ranging from -32768 to 32767 (except for the triggers,
+            which range from 0 to 32767).
+            The axis indices start at index 0.
+            </summary>
+        </member>
+        <member name="M:Veldrid.Sdl2.Sdl2Native.SDL_GameControllerGetButton(Veldrid.Sdl2.SDL_GameController,Veldrid.Sdl2.SDL_GameControllerButton)">
+            <summary>
+            Get the current state of a button on a game controller.
+            The button indices start at index 0.
+            </summary>
+        </member>
+        <member name="M:Veldrid.Sdl2.Sdl2Native.SDL_NumJoysticks">
+            <summary>
+            Count the number of joysticks attached to the system right now.
+            </summary>
+        </member>
+        <member name="M:Veldrid.Sdl2.Sdl2Native.SDL_JoystickInstanceID(Veldrid.Sdl2.SDL_Joystick)">
+            <summary>
+            Returns the instance ID of the specified joystick on success or a negative error code on failure; call SDL_GetError() for more information.
+            </summary>
+        </member>
+        <member name="M:Veldrid.Sdl2.Sdl2Native.SDL_ShowCursor(System.Int32)">
+            <summary>
+            Toggle whether or not the cursor should be shown.
+            </summary>
+        </member>
+        <member name="M:Veldrid.Sdl2.Sdl2Native.SDL_WarpMouseInWindow(Veldrid.Sdl2.SDL_Window,System.Int32,System.Int32)">
+            <summary>
+            Move mouse position to the given position in the window.
+            </summary>
+        </member>
+        <member name="M:Veldrid.Sdl2.Sdl2Native.SDL_SetRelativeMouseMode(System.Boolean)">
+            <summary>
+            Enable/disable relative mouse mode.
+            If enabled mouse cursor will be hidden and only relative
+            mouse motion events will be delivered, mouse position will not change.
+            </summary>
+            <returns>
+            Returns 0 on success or a negative error code on failure; call SDL_GetError() for more information.
+            If relative mode is not supported this returns -1.
+            </returns>
+        </member>
+        <member name="M:Veldrid.Sdl2.Sdl2Native.SDL_CaptureMouse(System.Boolean)">
+            <summary>
+            Enable/disable capture mouse.
+            If enabled mouse will also be tracked outside the window.
+            </summary>
+            <returns>
+            Returns 0 on success or -1 if not supported; call SDL_GetError() for more information.
+            </returns>
+        </member>
+        <member name="M:Veldrid.Sdl2.Sdl2Native.SDL_SetWindowGrab(Veldrid.Sdl2.SDL_Window,System.Boolean)">
+            <summary>
+            Enable/disable window grab mouse.
+            If enabled mouse will be contained inside of window.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.Sdl2Native.SDL_WINDOWPOS_CENTERED">
+            <summary>
+            A special sentinel value indicating that a newly-created window should be centered in the screen.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowEvent.type">
+            <summary>
+            SDL_WINDOWEVENT
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowEvent.windowID">
+            <summary>
+            The associated Sdl2Window
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowEvent.event">
+            <summary>
+            SDL_WindowEventID
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowEvent.data1">
+            <summary>
+            event dependent data
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowEvent.data2">
+            <summary>
+            event dependent data
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowEventID.None">
+            <summary>
+            Never used.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowEventID.Shown">
+            <summary>
+            Sdl2Window has been shown.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowEventID.Hidden">
+            <summary>
+            Sdl2Window has been hidden.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowEventID.Exposed">
+            <summary>
+            Sdl2Window has been exposed and should be redrawn.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowEventID.Moved">
+            <summary>
+            Sdl2Window has been moved to data1, data2.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowEventID.Resized">
+            <summary>
+            Sdl2Window has been resized to data1xdata2.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowEventID.SizeChanged">
+            <summary>
+            The Sdl2Window size has changed, either as a result of an API call or through the system or user changing the Sdl2Window size.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowEventID.Minimized">
+            <summary>
+            Sdl2Window has been minimized.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowEventID.Maximized">
+            <summary>
+            Sdl2Window has been maximized.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowEventID.Restored">
+            <summary>
+            Sdl2Window has been restored to normal size and position.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowEventID.Enter">
+            <summary>
+            Sdl2Window has gained mouse focus.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowEventID.Leave">
+            <summary>
+            Sdl2Window has lost mouse focus.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowEventID.FocusGained">
+            <summary>
+            Sdl2Window has gained keyboard focus.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowEventID.FocusLost">
+            <summary>
+            Sdl2Window has lost keyboard focus
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowEventID.Close">
+            <summary>
+            The Sdl2Window manager requests that the Sdl2Window be closed.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowEventID.TakeFocus">
+            <summary>
+            Sdl2Window is being offered a focus (should SetWindowInputFocus() on itself or a subwindow, or ignore).
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowEventID.HitTest">
+            <summary>
+            Sdl2Window had a hit test that wasn't SDL_HITTEST_NORMAL.
+            </summary>
+        </member>
+        <member name="T:Veldrid.Sdl2.SDL_EventType">
+            <summary>
+            The types of events that can be delivered.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.Quit">
+            <summary>
+            User-requested quit.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.Terminating">
+            <summary>
+            The application is being terminated by the OS.
+            Called on iOS in applicationWillTerminate()
+            Called on Android in onDestroy()
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.LowMemory">
+            <summary>
+            The application is low on memory, free memory if possible.
+            Called on iOS in applicationDidReceiveMemoryWarning()
+            Called on Android in onLowMemory()
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.WillEnterBackground">
+            <summary>
+            The application is about to enter the background.
+            Called on iOS in applicationWillResignActive().
+            Called on Android in onPause()
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.DidEnterBackground">
+            <summary>
+            The application did enter the background and may not get CPU for some time.
+            Called on iOS in applicationDidEnterBackground().
+            Called on Android in onPause()
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.WillEnterForeground">
+            <summary>
+            The application is about to enter the foreground
+            Called on iOS in applicationWillEnterForeground()
+            Called on Android in onResume()
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.DidEnterForeground">
+            <summary>
+            The application is now interactive
+            Called on iOS in applicationDidBecomeActive()
+            Called on Android in onResume()
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.WindowEvent">
+            <summary>
+            Sdl2Window state change
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.SysWMEvent">
+            <summary>
+            System specific event
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.KeyDown">
+            <summary>
+            Key pressed
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.KeyUp">
+            <summary>
+            Key released
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.TextEditing">
+            <summary>
+            Keyboard text editing (composition)
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.TextInput">
+            <summary>
+            Keyboard text input
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.KeyMapChanged">
+            <summary>
+            Keymap changed due to a system event such as an input language or keyboard layout change.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.MouseMotion">
+            <summary>
+            Mouse moved
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.MouseButtonUp">
+            <summary>
+            Mouse button released
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.MouseWheel">
+            <summary>
+            Mouse wheel motion
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.JoyAxisMotion">
+            <summary>
+            Joystick axis motion
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.JoyBallMotion">
+            <summary>
+            Joystick trackball motion
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.JoyHatMotion">
+            <summary>
+            Joystick hat position change
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.JoyButtonDown">
+            <summary>
+            Joystick button pressed
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.JoyButtonUp">
+            <summary>
+            Joystick button released
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.JoyDeviceAdded">
+            <summary>
+            A new joystick has been inserted into the system
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.JoyDeviceRemoved">
+            <summary>
+            An opened joystick has been removed
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.ControllerAxisMotion">
+            <summary>
+            Game controller axis motion
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.ControllerButtonDown">
+            <summary>
+            Game controller button pressed
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.ControllerButtonUp">
+            <summary>
+            Game controller button released
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.ControllerDeviceAdded">
+            <summary>
+            A new Game controller has been inserted into the system
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.ControllerDeviceRemoved">
+            <summary>
+            An opened Game controller has been removed
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.ControllerDeviceRemapped">
+            <summary>
+            The controller mapping was updated
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.ClipboardUpdate">
+            <summary>
+            The clipboard changed
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.DropFile">
+            <summary>
+            The system requests a file open
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.DropTest">
+            <summary>
+            text/plain drag-and-drop event
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.DropText">
+            <summary>
+            text/plain drag-and-drop event
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.DropBegin">
+            <summary>
+            A new set of drops is beginning (NULL filename) 
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.DropComplete">
+            <summary>
+            Current set of drops is now complete (NULL filename)
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.AudioDeviceAdded">
+            <summary>
+            A new audio device is available
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.AudioDeviceRemoved">
+            <summary>
+            An audio device has been removed.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.RenderTargetsReset">
+            <summary>
+            The render targets have been reset and their contents need to be updated
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.RenderDeviceReset">
+            <summary>
+            The device has been reset and all textures need to be recreated
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_EventType.UserEvent">
+            <summary>
+            Events ::SDL_USEREVENT through ::SDL_LASTEVENT are for your use,
+            *  and should be allocated with SDL_RegisterEvents()
+            </summary>
+        </member>
+        <member name="T:Veldrid.Sdl2.SDL_MouseMotionEvent">
+            <summary>
+            Mouse motion event structure (event.motion.*)
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_MouseMotionEvent.windowID">
+            <summary>
+            The Sdl2Window with mouse focus, if any.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_MouseMotionEvent.which">
+            <summary>
+            The mouse instance id, or SDL_TOUCH_MOUSEID.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_MouseMotionEvent.state">
+            <summary>
+            The current button state.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_MouseMotionEvent.x">
+            <summary>
+            X coordinate, relative to Sdl2Window.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_MouseMotionEvent.y">
+            <summary>
+            Y coordinate, relative to Sdl2Window.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_MouseMotionEvent.xrel">
+            <summary>
+            The relative motion in the X direction.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_MouseMotionEvent.yrel">
+            <summary>
+            The relative motion in the Y direction.
+            </summary>
+        </member>
+        <member name="T:Veldrid.Sdl2.SDL_MouseButtonEvent">
+            <summary>
+            Mouse button event structure (event.button.*)
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_MouseButtonEvent.type">
+            <summary>
+            SDL_MOUSEBUTTONDOWN or ::SDL_MOUSEBUTTONUP.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_MouseButtonEvent.windowID">
+            <summary>
+            The Sdl2Window with mouse focus, if any.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_MouseButtonEvent.which">
+            <summary>
+            The mouse instance id, or SDL_TOUCH_MOUSEID.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_MouseButtonEvent.button">
+            <summary>
+            The mouse button index.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_MouseButtonEvent.state">
+            <summary>
+            Pressed (1) or Released (0).
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_MouseButtonEvent.clicks">
+            <summary>
+            1 for single-click, 2 for double-click, etc.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_MouseButtonEvent.x">
+            <summary>
+            X coordinate, relative to Sdl2Window.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_MouseButtonEvent.y">
+            <summary>
+            Y coordinate, relative to Sdl2Window
+            </summary>
+        </member>
+        <member name="T:Veldrid.Sdl2.SDL_MouseWheelEvent">
+            <summary>
+            Mouse wheel event structure (event.wheel.*).
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_MouseWheelEvent.type">
+            <summary>
+            SDL_MOUSEWHEEL.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_MouseWheelEvent.windowID">
+            <summary>
+            The Sdl2Window with mouse focus, if any.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_MouseWheelEvent.which">
+            <summary>
+            The mouse instance id, or SDL_TOUCH_MOUSEID.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_MouseWheelEvent.x">
+            <summary>
+            The amount scrolled horizontally, positive to the right and negative to the left.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_MouseWheelEvent.y">
+            <summary>
+            The amount scrolled vertically, positive away from the user and negative toward the user.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_MouseWheelEvent.direction">
+            <summary>
+            Set to one of the SDL_MOUSEWHEEL_* defines. When FLIPPED the values in X and Y will be opposite. Multiply by -1 to change them back.
+            </summary>
+        </member>
+        <member name="T:Veldrid.Sdl2.SDL_KeyboardEvent">
+            <summary>
+            Keyboard button event structure (event.key.*).
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_KeyboardEvent.type">
+            <summary>
+            SDL_KEYDOWN or SDL_KEYUP
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_KeyboardEvent.windowID">
+            <summary>
+            The Sdl2Window with keyboard focus, if any
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_KeyboardEvent.state">
+            <summary>
+            Pressed (1) or Released (0).
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_KeyboardEvent.repeat">
+            <summary>
+            Non-zero if this is a key repeat
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_KeyboardEvent.keysym">
+            <summary>
+            The key that was pressed or released
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_Keysym.scancode">
+            <summary>
+            SDL physical key code.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_Keysym.sym">
+            <summary>
+            SDL virtual key code.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_Keysym.mod">
+            <summary>
+            current key modifiers.
+            </summary>
+        </member>
+        <member name="T:Veldrid.Sdl2.SDL_TextInputEvent">
+            <summary>
+            Keyboard text input event structure (event.text.*)
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_TextInputEvent.type">
+            <summary>
+            SDL_TEXTINPUT.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_TextInputEvent.windowID">
+            <summary>
+            The Sdl2Window with keyboard focus, if any.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_TextInputEvent.text">
+            <summary>
+            The input text.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_DropEvent.type">
+            <summary>
+            SDL_DROPFILE, SDL_DROPTEXT, SDL_DROPBEGIN, or SDL_DROPCOMPLETE.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_DropEvent.timestamp">
+            <summary>timestamp of the event.</summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_DropEvent.file">
+            <summary>the file name, which should be freed with SDL_free(), is NULL on BEGIN/COMPLETE</summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_DropEvent.windowID">
+            <summary>the window that was dropped on, if any</summary>
+        </member>
+        <member name="T:Veldrid.Sdl2.SDL_GameController">
+            <summary>
+            A transparent wrapper over a pointer to a native SDL_GameController.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_GameController.NativePointer">
+            <summary>
+            The native SDL_GameController pointer.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_ControllerAxisEvent.type">
+            <summary>
+            SDL_CONTROLLERAXISMOTION.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_ControllerAxisEvent.timestamp">
+            <summary>
+            In milliseconds, populated using SDL_GetTicks().
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_ControllerAxisEvent.which">
+            <summary>
+            The joystick instance id.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_ControllerAxisEvent.axis">
+            <summary>
+            The controller axis.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_ControllerAxisEvent.value">
+            <summary>
+            The axis value (range: -32768 to 32767)
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_ControllerButtonEvent.type">
+            <summary>
+            SDL_CONTROLLERBUTTONDOWN or SDL_CONTROLLERBUTTONUP.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_ControllerButtonEvent.timestamp">
+            <summary>
+            In milliseconds, populated using SDL_GetTicks().
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_ControllerButtonEvent.which">
+            <summary>
+            The joystick instance id.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_ControllerButtonEvent.button">
+            <summary>
+            The controller button
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_ControllerButtonEvent.state">
+            <summary>
+            SDL_PRESSED or SDL_RELEASED
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_ControllerDeviceEvent.type">
+            <summary>
+            SDL_CONTROLLERDEVICEADDED, SDL_CONTROLLERDEVICEREMOVED, or SDL_CONTROLLERDEVICEREMAPPED.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_ControllerDeviceEvent.timestamp">
+            <summary>
+            In milliseconds, populated using SDL_GetTicks().
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_ControllerDeviceEvent.which">
+            <summary>
+            The joystick device index for the ADDED event, instance id for the REMOVED or REMAPPED event.
+            </summary>
+        </member>
+        <member name="T:Veldrid.Sdl2.SDL_GameControllerAxis">
+            <summary>
+            The list of axes available from a controller.
+            Thumbstick axis values range from SDL_Joystick_AXIS_MIN to SDL_Joystick_AXIS_MAX,
+            and are centered within ~8000 of zero, though advanced UI will allow users to set
+            or autodetect the dead zone, which varies between controllers.
+            Trigger axis values range from 0 to SDL_Joystick_AXIS_MAX.
+            </summary>
+        </member>
+        <member name="T:Veldrid.Sdl2.SDL_GameControllerButton">
+            <summary>
+            The list of buttons available from a controller.
+            </summary>
+        </member>
+        <member name="T:Veldrid.Sdl2.SDL_Joystick">
+            <summary>
+            A transparent wrapper over a pointer to a native SDL_Joystick.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_Joystick.NativePointer">
+            <summary>
+            The native SDL_Joystick pointer.
+            </summary>
+        </member>
+        <member name="T:Veldrid.Sdl2.SDL_Keymod">
+            <summary>
+            Enumeration of valid key mods (possibly OR'd together).
+            </summary>
+        </member>
+        <member name="T:Veldrid.Sdl2.SDL_Scancode">
+            <summary>
+            The SDL keyboard scancode representation.
+            Values of this type are used to represent keyboard keys, among other places
+            in the SDL_Keysym::scancode key.keysym.scancode field of the
+            SDL_Event structure.
+            The values in this enumeration are based on the USB usage page standard:
+            http://www.usb.org/developers/devclass_docs/Hut1_12v2.pdf
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_Scancode.SDL_SCANCODE_BACKSLASH">
+            <summary>
+            Located at the lower left of the return key on ISO keyboards and at the right end of the QWERTY row on
+            ANSI keyboards. Produces REVERSE SOLIDUS (backslash) and VERTICAL LINE in a US layout, REVERSE
+            SOLIDUS and VERTICAL LINE in a UK Mac layout, NUMBER SIGN and TILDE in a UK Windows layout, DOLLAR SIGN
+            and POUND SIGN in a Swiss German layout, NUMBER SIGN and APOSTROPHE in a German layout, GRAVE ACCENT and
+            POUND SIGN in a French Mac layout, and ASTERISK and MICRO SIGN in a French Windows layout.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.Win32WindowInfo.Sdl2Window">
+            <summary>
+            The Sdl2Window handle.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.Win32WindowInfo.hdc">
+            <summary>
+            The Sdl2Window device context.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.Win32WindowInfo.hinstance">
+            <summary>
+            The instance handle.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.CocoaWindowInfo.Window">
+            <summary>
+            The NSWindow* Cocoa window.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowFlags.Fullscreen">
+            <summary>
+            fullscreen Sdl2Window.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowFlags.OpenGL">
+            <summary>
+            Sdl2Window usable with OpenGL context.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowFlags.Shown">
+            <summary>
+            Sdl2Window is visible.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowFlags.Hidden">
+            <summary>
+            Sdl2Window is not visible.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowFlags.Borderless">
+            <summary>
+            no Sdl2Window decoration.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowFlags.Resizable">
+            <summary>
+            Sdl2Window can be resized.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowFlags.Minimized">
+            <summary>
+            Sdl2Window is minimized.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowFlags.Maximized">
+            <summary>
+            Sdl2Window is maximized.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowFlags.InputGrabbed">
+            <summary>
+            Sdl2Window has grabbed input focus.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowFlags.InputFocus">
+            <summary>
+            Sdl2Window has input focus.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowFlags.MouseFocus">
+            <summary>
+            Sdl2Window has mouse focus.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowFlags.Foreign">
+            <summary>
+            Sdl2Window not created by SDL.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowFlags.AllowHighDpi">
+            <summary>
+            Sdl2Window should be created in high-DPI mode if supported.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowFlags.MouseCapture">
+            <summary>
+            Sdl2Window has mouse captured (unrelated to InputGrabbed).
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowFlags.AlwaysOnTop">
+            <summary>
+            Sdl2Window should always be above others.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowFlags.SkipTaskbar">
+            <summary>
+            Sdl2Window should not be added to the taskbar.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowFlags.Utility">
+            <summary>
+            Sdl2Window should be treated as a utility Sdl2Window.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowFlags.Tooltip">
+            <summary>
+            Sdl2Window should be treated as a tooltip.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_WindowFlags.PopupMenu">
+            <summary>
+            Sdl2Window should be treated as a popup menu.
+            </summary>
+        </member>
+        <member name="M:Veldrid.Sdl2.Sdl2Events.ProcessEvents">
+            <summary>
+            Pumps the SDL2 event loop, and calls all registered event processors for each event.
+            </summary>
+        </member>
+        <member name="T:Veldrid.Sdl2.SDL_Renderer">
+            <summary>
+            A transparent wrapper over a pointer representing an SDL Renderer object.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_Renderer.NativePointer">
+            <summary>
+            The native SDL_Renderer pointer.
+            </summary>
+        </member>
+        <member name="T:Veldrid.Sdl2.SDL_Window">
+            <summary>
+            A transparent wrapper over a pointer representing an SDL Sdl2Window object.
+            </summary>
+        </member>
+        <member name="F:Veldrid.Sdl2.SDL_Window.NativePointer">
+            <summary>
+            The native SDL_Window pointer.
+            </summary>
+        </member>
+    </members>
+</doc>

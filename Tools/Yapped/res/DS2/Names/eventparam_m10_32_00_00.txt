@@ -1,0 +1,67 @@
+1000 Switching the gimmick door-related flags of the connection path 
+2000 Phantom Enemy Generation Management 1 
+2010 Phantom Enemy Generation Management 2 
+2020 Phantom Enemy Generation Management 3 
+2030 Phantom Enemy Generation Management 4 
+2040 Phantom Enemy Generation Management 5 
+2050 Phantom Enemy Generation Management 6 
+2060 Phantom Enemy Generation Management 7 
+4000 OBJ: Pilgrims in the Abyss: Magical Opening 
+4001 OBJ: Pilgrims in the Abyss: Magic Warp 
+4002 OBJ: Pilgrims in the Abyss: The Opening of the Magic 
+5000 Pitfalls_Large_Navimesh Switching 
+5010 Pitfalls_Small_Navimesh Switching 
+6000 Boss: Manscorpion ?_Combat 
+6010 NAVI MESH CHANGE 1 OF OBJ TO BE DESTROYED DURING MANSCORPION WAR 
+6020 NAVI MESH CHANGE 2 OF OBJ DESTROYED DURING MANSCORPION WAR 
+6030 NAVI MESH CHANGE 3 OF OBJ DESTROYED DURING MANSCORPION WAR 
+6040 NAVI MESH CHANGE 4 OF OBJ DESTROYED DURING MANSCORPION WAR 
+6050 NAVI MESH CHANGE 5 OF OBJ DESTROYED DURING MANSCORPION WAR 
+6060 NAVI MESH CHANGE 6 OF OBJ DESTROYED DURING MANSCORPION WAR 
+6070 NAVI MESH CHANGE 7 OF OBJ DESTROYED DURING MANSCORPION WAR 
+6080 NAVI MESH CHANGE 8 OF OBJ DESTROYED DURING MANSCORPION WAR 
+7000 Stone Pillars of Treasure Corpses_01 
+8000 King's Door 
+9000 White Door to The Castle 
+10000 Lion Warrior_Petrified Stop 1_Key Guide 
+10010 Lion Warrior_Petrified Stop 1_Appearance Setting 
+10020 Lion Warrior_Petrified Stop 1_Navi Switching 
+11000 Lion Warrior_Petrified Stop 2_Key Guide 
+11010 Lion Warrior_Petrified Stop 2_Appearance Setting 
+11020 Lion Warrior_Petrified Stop 2_Navi Switching 
+12000 Lion Warrior_Petrified Stop 3_Key Guide 
+12010 Lion Warrior_Petrified Stop 3_ Appearance Setting 
+12020 Lion Warrior_Petrified Stop 3_Navi Switching 
+12050 Earn items by destroying petrified characters 
+13000 Disable damage 
+14000 The key door opened by the "Key of the Beast" 
+80000 Play ing seed fire 01_minute crossroads building 
+81000 Play Ing Seed Fire 02_ Inside the Huge Bridge 
+111010 NPC: Durahan 
+111011 NPC: Durahan: Ghosts 
+111012 OBJ: Durahan: Tomb 
+111013 OBJ: Durahan: Key Guide 
+111180 NPC: Pilgrims in the Abyss (Shadow Forest) 
+111181 NPC: Pilgrims in the Abyss (Shadow Forest): Ghosts 
+111182 OBJ: Pilgrims in the Abyss (Shadow Forest): Tomb 
+111183 OBJ: Pilgrims in the Abyss (Shadow Forest): Key Guide 
+111184 OBJ: Pilgrims in the Abyss (Shadow Forest): Death Judgment 
+111185 OBJ: Pilgrims in the Abyss (Shadow Forest): Appearance Judgment 
+111230 NPC: Wandering Warrior (Shadow Forest) 
+111231 NPC: Wandering Warrior (Shadow Forest): Ghost 
+111232 OBJ: Wandering Warrior (Shadow Forest): Tomb 
+111233 OBJ: Wandering Warrior (Shadow Forest): Key Guide 
+111234 OBJ: Wandering Warrior (Shadow Forest): Death Judgment 
+111235 OBJ: Wandering Warrior (Shadow Forest): Appearance Judgment 
+111450 NPC: Top Weapons Store (Shadow Forest) 
+111451 NPC: Top Weapons Store (Shadow Forest): Ghost 
+111452 OBJ: Top Weapons Store (Shadow Forest): Tomb 
+111453 OBJ: Top Weapons Store (Shadow Forest): Key Guide 
+111454 OBJ: Top Weapons Store (Shadow Forest): Death Judgment 
+111520 NPC: Manscorpion ? 
+111521 NPC: Manscorpion ?: Specter 
+111522 OBJ: Manscorpion ?: Tomb 
+111523 OBJ: Manscorpion ?: Key Guide 
+111524 OBJ: Manscorpion ?: White Phantom Sign Display 
+120080 Trophy: The Pledge of Deep Darkness 
+120160 Trophy: The Neck To Think 

@@ -1,0 +1,32 @@
+100200 Backlead Safety Points 
+200000 Falling Tree 1_Navi mesh change 
+201000 Falling Tree 2_Navi mesh change 
+500000 Coffin _appearance point to change gender 
+700000 A drop of water falls from the waterfall and the torch disappears. 
+1600000 Warp position after the end of the poly play 
+50000000 Second lap hunting start area 
+50001000 【Logic】Tutorial Launch Area_00 
+50001010 【Logic】Tutorial Launch Area_01 
+50001020 【Logic】Tutorial Launch Area_02 
+50001030 【Logic】Tutorial Launch Area_03 
+50001040 【Logic】Tutorial Launch Area_04 
+50001050 【Logic】Tutorial Launch Area_05 
+52000000 Kusa gasagasa area_Kobold wandering navi 1 
+52000001 Navigation 2 for Kusaga sagasa area_Kobold 
+52000002 Navigation 3 for Kusaga sagasa area_Kobold 
+52000003 Navigation 4 for Kusagasa Gasa Area_Kobold 
+52000004 Navigation 5 for Kusaga sagasa area_Kobold 
+52000005 Navigation 6 for Kusaga sagasa area_Kobold 
+55000000 Grass Gasagassa Area_2 Laps Goblin Appearance Area 
+56000000 Cobold_Feedback Area 
+56000010 Kobold Feedback Area 02 
+56001000 【Feedback Area】Tutorial 1 Entrance 
+56001010 【Feedback Area】Tutorial 1 Exit 
+56002000 【Feedback Area】Tutorial 2 Entrance 
+56002010 【Feedback Area】Tutorial 2 Exit 
+56003000 【Feedback Area】Tutorial 3 Entrance 
+56003010 【Feedback Area】Tutorial 3 Exit 
+56004000 【Return area】Entrance to the house-front auger 
+56004010 【Return area】Eizen Auger Exit 
+56005000 【Return area】Before the connection road 
+56006000 【Return area】Fire guard woman house exit 

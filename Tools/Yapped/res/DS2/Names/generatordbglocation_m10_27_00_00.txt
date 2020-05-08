@@ -1,0 +1,39 @@
+205 NPC: Sinalot 
+600 Enclosed Man: Black Spirit 
+601 NPC for Multi: Koryu Swordsman (Male): Black Spirit 
+602 Dragon Knight: Black Spirit 
+603 Painting Guard (Man): Black Spirit 
+604 Painting Guard (Woman): Black Spirit 
+606 Durahan (White Spirit) 
+607 NPC for Multi: Flesh-breaking (Female): White Spirit 
+800 Koryu 
+1100 ?Egg Area?Wyvern 01 
+1101 ?Egg Area?Wyvern 02 
+1102 [Nest 2 sleeping] Wyvern 
+1200 ?Near nest 1 egg?Ishimori_1 
+1210 ?Nest 1?Andet Citizen_1 
+1211 ?Nest 1?Andet Citizen_2 
+1212 ?Nest 1st Entrance?Andet Citizen_3 
+1300 ?Nest 2?Ishimori_1 
+1310 ?Nest?Andet Citizen_1 
+1400 ?Nest 1 Cave?Ishimori_1 
+1401 ?Nest 1 Hill?Ishimori_2 
+1402 ?Nest 1 Near Wyburn?Ishimori_3 
+1403 ?Nest 1 Near Wyburn?Ishimori_4 
+1404 ?Nest 1 Near Wyburn?Ishimori_5 
+1500 ?Nest Wyburn Side?Ishimori_1 
+1501 ?Nest Wyburn Side?Ishimori_2 
+1600 ?Nest Cliff?Stone Mori_1 
+1601 ?Nest Cliff?Stone Mori_2 
+2005 [Stair landing next to the second bonfire _ battle] Demon heavy soldiers - two-handed sword 
+2010 [Second bonfire next to the stairs _ battle] Demon heavy soldiers: two-handed mallet 
+2030 [Before the tunnel stairs _ Course blocked] Demon heavy soldier: two hands mallet 
+2031 [Before the tunnel stairs _ Course block] Demon heavy soldiers - both hands sword 
+2033 [Hidden Route] Demon Heavy Soldier: One Hand Mallet 
+2035 [Battle before the grand staircase] Demon heavy soldiers: oversized sword_1 
+2036 [Battle before the grand staircase] Demon heavy soldiers: oversized sword_2 
+2040 [White door front _ combat] Demon heavy soldiers: one hand mallet _1 
+2041 [White door front _ combat] Demon heavy soldiers: one hand mallet_2 
+3001 [Treasure chest in front of the castle area_ bridge] Demon heavy soldiers 
+3005 ?Castle Area_Hill?Dark Priest: Color (3) 
+5000 [Hidden Route_ Random Appearance] [] [Mimic] 

@@ -6,18 +6,18 @@
     <default>0</default>
   </entry>
   <entry>
-    <name>Damage ID</name>
+    <name>Damage ID - Follow-up</name>
     <type>s32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Base Damage ID</name>
+    <name>Damage ID - Origin </name>
     <type>s32</type>
     <default>0</default>
   </entry>
   
   <entry>
-    <name>Unk0C</name>
+    <name>Damage Inflicted</name>
     <type>s32</type>
     <default>0</default>
   </entry>
@@ -138,12 +138,12 @@
   </entry>
   
   <entry>
-    <name>Hitbox Size</name>
+    <name>Hitbox - Minimum Size</name>
     <type>f32</type>
     <default>0</default>
   </entry>
   <entry>
-    <name>Hitbox Size</name>
+    <name>Hitbox - Maximum Size</name>
     <type>f32</type>
     <default>0</default>
   </entry>
@@ -196,7 +196,7 @@
   </entry>
   
   <entry>
-    <name>Self Effect</name>
+    <name>Effect to Apply</name>
     <type>s32</type>
     <default>0</default>
   </entry>

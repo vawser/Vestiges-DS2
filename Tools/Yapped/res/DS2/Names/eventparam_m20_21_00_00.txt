@@ -1,0 +1,89 @@
+1000 Navi mesh change of hidden door 
+2000 The key door opened by the "key of the corridor" 
+3000 Lever door between soldiers 
+4000 OBJ: Pilgrims in the Abyss: Magical Opening 
+4001 OBJ: Pilgrims in the Abyss: Magic Warp 
+4002 OBJ: Pilgrims in the Abyss: The Opening of the Magic 
+5000 Lift s-Amana altar 
+5010 Elevator lever message display_on 
+5020 Elevator lever message display_bottom 
+5030 Elevator_Initialization 
+5040 Elevator_Connection replacement 
+5050 Forced death _PC connection 
+5060 Connection _Connection flag OFF 
+6000 Golem Door 01 
+6010 Golem Door 02 
+6020 Golem Door 03 
+6030 Golem Door 04 
+6040 Golem Door 05 
+6050 Golem Door 06 
+6100 Golem right at the main gate 
+6105 Golem at the main gate_ left 
+6110 The main gate of the golem 
+7000 Boss: Heavy Cavalry: Soldiers Only 2 Fights_ Combat 
+7010 Boss: Heavy Cavalry: Soldiers Only 2 Body War _ Light Switching 
+8000 Boss: Mirror Night_ Combat 
+9000 King's Door 
+10000 Statue of a dragon spitting acid 
+10010 Statue of an acid-spitting dragon_2 
+10020 Statue of an acid-spitting dragon_3 
+10030 Statue of an acid-spitting dragon_4 
+11000 Boss: Queen Knight A&C? Queen_ Battle 
+11010 Boss: Queen's Knight A&C_ Defeat 
+12010 Boss: Queen's Armor Form_ Poly Play 
+13000 In front of the elevator 
+13010 on the elevator_corridor front_lever message_ 
+13020 elevator_corridor front_lever message_bottom 
+13030 Golem start for elevator 
+15000 White door management during the fire succession 
+16000 End Roll 
+17000 Retry point setting after the queen is destroyed 
+19000 Golem (turn on the light) that sucks soul and moves_1 
+19010 Golem (turn on the light) 2 that sucks soul and moves 
+20000 Statue Night's Neck Fall_1 
+20010 Statue Night's Neck Fall_2 
+20020 Statue Night's Neck Fall_3 
+20030 Statue Night's Neck Fall_4 
+21000 The Key Man 
+22000 Bay Grant Deletion Judgment_Left 
+22010 Bay Grant Deletion Judgment_Right 
+80000 In front of the king's door to the species fire 01_Rasbos of the play 
+81000 After the breeding fire 02_ boss heavy cavalry 
+82000 Play Ing Spark 03_Inside the Hidden Door 
+90000 Trophy_ Mirror Knight 
+111015 OBJ: Durahan: White Phantom Sign Display 
+111050 NPC: The Shrine Maiden of the Dragon (In King's Castle) 
+111051 NPC: Dragon Shrine Maiden (Before Clearing) 
+111052 OBJ: The Shrine Maiden of the Dragon (Inside The King's Castle): Permission to Appear 
+111053 OBJ: Dragon Shrine Maiden (Before Clearing): Permission to Appear 
+111054 OBJ: The Shrine Maiden of the Dragon (Inside The King's Castle): Elimination Judgment 
+111055 OBJ: Dragon Shrine Maiden (Before Clearing): Erase Judgment 
+111080 NPC: Queen 
+111082 OBJ: Queen: Elimination Judgment 
+111140 NPC: The Spirit of the Prime Minister 
+111180 NPC: Pilgrims in the Abyss (Shadow Forest) 
+111181 NPC: Pilgrims in the Abyss (Shadow Forest): Ghosts 
+111182 OBJ: Pilgrims in the Abyss (Shadow Forest): Tomb 
+111183 OBJ: Pilgrims in the Abyss (Shadow Forest): Key Guide 
+111184 OBJ: Pilgrims in the Abyss (Shadow Forest): Death Judgment 
+111185 OBJ: Pilgrims in the Abyss (Shadow Forest): Appearance Judgment 
+111240 NPC: Tsukiko Ya (Drangreig) 
+111241 NPC: Moonlight Old Man (Drungray) 
+111242 OBJ: Moonlight Old (Drangreig): Tomb 
+111243 OBJ: Moonlight Man (Drangreig): Key Guide 
+111244 OBJ: Tsukiko Grandfather (Drangreig): Death Judgment 
+111245 OBJ: Tsukiko Grandfather (Drangreig): Appearance Judgment 
+111246 OBJ: Moonlight Man (Drangreig): Before Russ: White Phantom Sign Display 
+111247 OBJ: Moonlight Man (Drangreig): Before Russ: White Phantom 
+111248 OBJ: Moonlight Old Man (Drangreig): Before the Queen: White Phantom Sign Display 
+111249 OBJ: Moonlight Old Man (Drangreig): Before the Queen: White Phantom 
+111320 NPC: The Girl In Captivity 
+111321 NPC: The Girl in Captivity: The Ghost 
+111322 OBJ: The Girl in Captivity: The Tomb 
+111323 OBJ: The Girl in Captivity: The Key Guide 
+111325 NPC: The Girl in Captivity: The Last Song 
+111326 NPC: The Girl in Captivity: The Last Song: Stop Judgment 
+111435 OBJ: The Enclosed Man: The Appearance of the Black Phantom 
+118140 NPC for Multi: Flesh-breaking (Female): Black Phantom Appearance 
+120080 Trophy: The Pledge of Deep Darkness 
+120110 Trophy: The Great Sword of Moonlight 

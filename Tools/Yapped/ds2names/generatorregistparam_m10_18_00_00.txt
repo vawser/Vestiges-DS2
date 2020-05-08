@@ -1,0 +1,28 @@
+10300000 [Lower soldier (deceased)]one-handed sword 
+10300010 [Lower soldier (deceased)]two-handed bow 
+10300034 [Lower class soldier (deceased)]One-handed sword: Aomue 
+10300041 [Lower soldier (deceased)]one-handed axe 
+11300000 【Sailor(Dead)]Song Sword 
+11300003 [Sailor ( dead] is lying down on the desk 
+11300005 【Sailor(Deceased)]Song Sword: Water Secret 
+11300010 【Sailor(Dead)]Bow 
+11300020 [Sailor ( deceased] one-handed sword : small shield 
+11300022 [Sailor sei-sei- dead] one-handed sword - small shield - lying face down on the desk 
+11300023 [Sailor (deceased)]One-handed sword: Small shield: Erdo 
+11300024 【Sailor(deceased)]One-handed sword: Small shield: Cabin 
+11300025 【Sailor(deceased)]Song sword: Cabin 
+11300051 [Sailor (deceased)]Song ken: Pier blockade 107 stairs fall surprise 104 
+12300200 [Shadow of the deformed person] Mask A:2 sword claw: hidden port] 
+12302200 [Shadow of the deformed person] Mask B:2 Sword claw: Hidden Port] 
+21300000 【Ishimori】 
+21700000 [Hide in the Darkness] 
+22700000 【Wild Dog】 
+30330000 [Two-sided warrior: snake head] boss 
+72600000 NPC: Dwarf 
+72600001 NPC: Dwarf 
+75200000 NPC: Female Knight 
+75200001 NPC: Female Knight (Ghost) 
+75200002 NPC: Female Knight: White Spirit 
+76600000 NPC: Sorcerer 
+76600001 NPC: Sorcerer (Ghost) 
+82000000 NPC Red Spirit 

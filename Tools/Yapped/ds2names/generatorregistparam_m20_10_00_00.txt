@@ -1,0 +1,21 @@
+0 Player 
+10210000 Kingdom Soldier (Alive): Spear: Medium Shield 
+10211000 Kingdom Soldier (Living): Two-Handed Sword: Bow 
+10212000 Kingdom Soldier (Live): Bow 
+10310000 [Lower-level soldier sei-no-sei-no-sei-no-sei-no-swords- 
+10310010 [Lower soldier (live man): one-handed axe] 
+10310020 [Lower soldier (raw): Bow] 
+12100000 Giant Lower Soldier (Giant): Bare Hands 
+12100005 Giant Lower Soldier (Giant): Bare hands for first contact 
+12100010 Giant lower soldier (giant): bare hands for falling 
+12101000 Giant Lower Soldier (Giant): Two-Handed Club 
+12102000 Giant Lower Soldier Poison (Giant): Bare Hands 
+12103000 Giant Lower Soldier Fire (Giant): Bare Hands 
+30900000 Giant Senior Soldier (Giant): 2 Swords 
+30970000 【BOSS】New Giant Senior Soldier 
+72400000 [Captain of the Kingdom] Npc 
+72400001 [Captain of the Kingdom] NPC (Ghost) 
+72400003 [Captain of the Kingdom] NPC (White Spirit) 
+74300000 【Tsukiko Grandfather】 Npc 
+74300001 【Tsukiko Grandfather】 NPC (Ghost) 
+74300002 【Tsukiko Grandfather】 NPC (White Spirit) 

@@ -1,0 +1,51 @@
+1000 Ring the bell and the enemy running_01 
+1010 Ring the bell and the enemy running_02 
+1020 Ring the bell and enemy running_03 
+2000 Shortcut Drawbridge 
+3000 A huge candlestick is lit by fire. 
+4000 Boss: Queen Knight B Battle 
+4010 Boss: Queen's Knight B_ Poly Play 
+4100 Navimesh change of pillars destroyed in queen's knight B battle 1 
+4110 Navimesh change of pillars destroyed in queen's knight B battle 2 
+4120 Navimesh change 3 of the pillars destroyed in the Queen's Knight B battle 
+4130 Navimesh change of pillars destroyed in queen's knight B battle 4 
+4140 Navimesh change of pillars destroyed in queen's knight B battle 5 
+4150 Navimesh change 6 of the pillars destroyed in the Queen's Knight B battle 
+4160 Navimesh change of pillars destroyed in queen's knight B battle 7 
+4170 Navimesh change 8 of the pillars destroyed in the Queen's Knight B battle 
+7000 ?Insect key?Hidden door (1) for start-up 
+7010 ?Insect Key?Hidden Door 
+7020 ?Insect Key?Hidden Door (1)_Navi mesh change 
+8000 King whose defenses fluctuate depending on the number of items he owns 
+8010 Bgm playback of the king's room 
+8020 Boss battle with the king 
+8030 Get the King's Ring 
+8040 The King's White Door Management 
+8050 The King's Hostile Judgment 
+9000 Oil Jar 1 
+9010 Oil Jar 2 
+9020 Oil Jar 3 
+9030 Oil Jar 4 
+12000 Tombstone destruction stops the generation of enemies 1 
+12010 Tombstone destruction stops the generation of enemies 2 
+12020 Tombstone destruction stops the generation of enemies 3 
+12030 Tombstone destruction stops the generation of enemies 4 
+12040 Tombstone destruction stops the generation of enemies 5 
+12050 Tombstone destruction stops the generation of enemies 6 
+12060 Tombstone destruction stops enemy generation 7 
+12070 Tombstone destruction stops the generation of enemies 8 
+12080 Tombstone destruction stops the generation of enemies 9 
+12090 Tombstone destruction stops the generation of enemies 10 
+13000 Navi mesh change of hidden door 1 
+13010 Hidden Door Navi Mesh Change 2 
+80000 Play ing seed fire 01_before the atrium passage 
+81000 Regeneration seed fire 02_gap under the inlet stairs 
+90000 Trophy_Van Clad 
+111020 NPC: Tomb Guard 
+111021 NPC: Tomb Guard: Ghosts 
+111022 OBJ: Tomb Guard: Tomb 
+111023 OBJ: Tomb Guard: Key Guide 
+111024 OBJ: Tomb Guard: State Change 
+111025 OBJ: Tomb Guard: White Phantom Sign Display 
+111050 NPC: The Shrine Maiden of the Dragon (In King's Castle) 
+118220 NPC for Multi: The Magician (Male): Black Phantom Appearance 

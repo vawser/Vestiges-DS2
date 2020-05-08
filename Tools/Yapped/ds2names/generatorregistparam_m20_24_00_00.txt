@@ -1,0 +1,21 @@
+12700100 Dead Workers Standing 
+12700107 Dead workers ( dead): Tomb area coming out of the ground 
+12700108 Dead workers( dead): Bell area coming out of the ground 
+12700109 Dead Workers ( Dead): Bell Aim The Room in Front of the Boss 
+12701100 Dead Workers (Dead): Tracking with Torches 
+15300300 [Kingdom Soldier Escort: Axe Spear] 
+15301300 [Kingdom soldier escort: extra large sword] 
+21600000 Door possessed 
+31200100 [Immortal Senior Soldier (Immortal): Sickle: Robe] 
+31202100 [Immortal Senior Soldier (Immortal): Sickle: Armor] 
+31203200 [Immortal Senior Soldier (Immortal): Spear: Armor] 
+33300000 [Queen Knight B] Boss 
+50650000 【Tomb Amulet】 Npc 
+50650100 【Tomb Amulet】 NPC (Ghost) 
+50650900 【Tomb Amulet】 NPC_ White Phantom 
+50900000 Dark Bishop 
+51100001 [Phantom Knight (Spirit)] (Guard) 
+51200003 Phantom Mage: Launch State 0 
+51460000 Old King Npc 
+70050300 【Dragon Shrine Maiden】 Npc 
+84900100 Tomb of Immortality: Dark Spirit 1 (Ghost) 

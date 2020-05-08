@@ -1,0 +1,46 @@
+0 Dummy
+50920000 50920000: Giants' Soul 
+51000000 51000000: Collapsed Pupil Orb (Miracle Human Item) 
+60350000 Return bone fragments 
+60355000 60355000: Estentia's Wings (Estintia's Feathers) 
+60360000 Dark Ring 
+62000000 62000000: Dried fingers 
+62020000 62020000: The Bone of Science 
+62050000 62050000: Cracked blue pupil orb (cracked blue pupil orb) 
+62060000 Orb with cracked red eyes 
+62160000 Another Black Crystal 
+62170000 62170000: Giant tree fruit seed (giant tree seed) 
+64000000 6.4 million: The Curser's Soul (Bay Grant's Soul) 
+64010000 64010000: The Last Giant's Soul (The Soul of the Giant King) 
+64020000 64020000: Dragon Cavalry Soul (Heavy Cavalry Soul) 
+64030000 64030000: Old Dragon Hunting Soul (Seoul of Ornstein) 
+64040000 64040000: Soul of the Four Guard (Double-sided Warrior: Snake-headed Soul) 
+64050000 64050000: Soul of the Guard of The Imaginary (Soul of the Warrior in the Mirror) 
+64060000 64060000: The Soul of the Forgotten Sinner (Forgotten Sinner's Soul) 
+64070000 64070000: Chariot's Soul of the Penitentiary (Silver Chariot's Soul) 
+64080000 64080000: Skeleton King's Soul (Skeleton Noble Soul) 
+64090000 64090000: The Greedy Demon's Soul (JavazaHat's Soul) 
+64100000 64100000: The Soul of The Poisonqueen Mida (Seoul of The Nagain) 
+64110000 64110000: Molten Iron Daemon Soul (Daemon Night's Soul) 
+64120000 64120000: Soul of the molten soil (Molten Iron Daemon Soul) 
+64130000 64130000: The Soul of the Rat King's Spires (Dog Mouse: Color (2) 
+64140000 64140000: "The Rotten" Ringrus Soul (Butcher's Soul) 
+64150000 64150000: Scorpio Nazika Soul (Manscorpion ♀ Seoul) 
+64160000 64160000: The Trial of the Rat King 
+64170000 64170000: The Keeper's Soul (The Soul of the Spider Queen) 
+64180000 64180000: Mirror Knight's Soul (Mirror Knight's Soul) 
+64190000 64190000: Sing Ing Demon's Soul (Soul of the Beautiful Voice Frog) 
+64200000 64200000: Verstad's Soul (Queen Knight B Soul) 
+64210000 64210000: King's Soul (Old King's Soul) 
+64220000 64220000: Soul of The Guard Dragon (Seoul of Wyvern) 
+64230000 64230000: Old Dragon Soul (Old Dragon Soul) 
+64240000 64240000: The King of Giants' Soul (The Soul of the Giant King) 
+64250000 64250000: DuraChandra's Soul (Soul in Queen's Armor) 
+64260000 64260000: Soul of the Guardian of the Throne (Queen Knight A Soul) 
+64270000 64270000: The Watcher of the Throne Seoul (Queen Knight C. Soul) 
+64280000 64280000: Soul of Darkness (Seoul in the Stand of Agaduran) 
+64290000 64290000: ★ unnamed (Seoul of Gargoil) 
+64300000 64300000: Old Witch's Soul (Isaris Soul) 
+64310000 64310000: Old King's Soul (Gwynne's Soul) 
+64320000 64320000: Seoul of the Old Dead (Nito's Soul) 
+64330000 64330000: Old White Dragon Soul (Sheath Soul) 

@@ -1,0 +1,207 @@
+1 Test 
+2 Function Test 1 
+3 Function Test 2 
+100 Npc 
+1000 Fall escape 
+11000 Enemy: Tiny 
+12000 Enemy: Small 
+13000 Enemy: Medium 
+14000 Enemy: Big 
+15000 Enemy: Oversized 
+16000 Enemy: Extra Large 
+17000 Enemy: Special Oversized 
+18000 Enemy: Boss 
+19000 Enemy: Infinite Generation 
+20000 Enemy: Annihilation Type 
+21000 Enemy: Small size annihilation type 
+22000 Enemy: Medium Boss Treatment Annihilation Type 
+30000 Enemy: Soul Black 
+30010 Enemy: Soul Black: Non-Human 
+40000 Enemy: Suicide 
+100010 Player: Usually killed 
+100015 White Phantom: Usually Dead 
+100020 Blue Phantom: Normal death 
+100025 Gold Phantom: Normal Death 
+100030 Red Phantom: Normal Death 
+100035 Black Phantom: Usually Dead 
+100040 Dragon Spirit Phantom: Normal death 
+100045 Abyss Phantom: Normal Death 
+100110 Player: Overkill 
+100115 White Phantom: Overkill 
+100120 Blue Phantom: Overkill 
+100125 Gold Phantom: Overkill 
+100130 Red Phantom: Overkill 
+100135 Black Phantom: Overkill 
+100140 Dragon Spirit Phantom: Overkill 
+100145 Abyss Phantom: Overkill 
+100210 Player: Breath Dead 
+100215 White Phantom: Breath Dead 
+100220 Blue Phantom: Breath Dead 
+100225 Gold Phantom: Breath Dead 
+100230 Red Phantom: Breath Dead 
+100235 Black Phantom: Breath Dead 
+100240 Dragon Spirit Phantom: Breath Death 
+100245 Abyss Phantom: Breath Death 
+100310 Player: Turn Undead Death 
+100315 White Phantom: Turn Undead Death 
+100320 Blue Phantom: Turn Undead Death 
+100325 Gold Phantom: Turn Undead Death 
+100330 Red Phantom: Turn Undead Death 
+100335 Black Phantom: Turn Undead Death 
+100340 Dragon Spirit Phantom: Turn Undead Death 
+100345 Abyss Phantom: Turn Undead Death 
+100410 Player: Poison death 
+100415 White Phantom: Poison Death 
+100420 Blue Phantom: Poison Death 
+100425 Gold Phantom: Poison Death 
+100430 Red Phantom: Poison Death 
+100435 Black Phantom: Poison Death 
+100440 Dragon Spirit Phantom: Poison Death 
+100445 Abyss Phantom: Poison Death 
+100510 Player: Landing death 
+100515 White Phantom: Landing Death 
+100520 Blue Phantom: Landing Death 
+100525 Gold Phantom: Landing Death 
+100530 Red Phantom: Landing Death 
+100535 Black Phantom: Landing Death 
+100540 Dragon Spirit Phantom: Landing Death 
+100545 Abyss Phantom: Landing Death 
+100610 Player: Headshot killed 
+100615 White Phantom: Headshot Dead 
+100620 Blue Phantom: Headshot Dead 
+100625 Gold Phantom: Headshot Dead 
+100630 Red Phantom: Headshot Dead 
+100635 Black Phantom: Headshot Dead 
+100640 Dragon Spirit Phantom: Headshot Killed 
+100645 Abyss Phantom: Headshot Dead 
+100710 Player: Ladder Death 
+100715 White Phantom: Ladder Death 
+100720 Blue Phantom: Ladder Death 
+100725 Gold Phantom: Ladder Death 
+100730 Red Phantom: Ladder Death 
+100735 Black Phantom: Ladder Death 
+100740 Dragon Spirit Phantom: Ladder Death 
+100745 Abyss Phantom: Ladder Death 
+100810 Player: Died in fall 
+100815 White Phantom: Died during the Fall 
+100820 Blue Phantom: Died during the Fall 
+100825 Gold Phantom: Died in Fall 
+100830 Red Phantom: Died during the Fall 
+100835 Black Phantom: Died during the Fall 
+100840 Dragon Spirit Phantom: Died in Fall 
+100845 Abyss Phantom: Died in Fall 
+100910 Player: Died while down 
+100915 White Phantom: Death in The Down 
+100920 Blue Phantom: Death in The Down 
+100925 Gold Phantom: Dead In The Down 
+100930 Red Phantom: Death in The Down 
+100935 Black Phantom: Dead In The Down 
+100940 Dragon Spirit Phantom: Death In The Down 
+100945 Abyss Phantom: Death in The Down 
+101010 Player: Curse death 
+101015 White Phantom: Curse Death 
+101020 Blue Phantom: Curse Death 
+101025 Gold Phantom: Curse Death 
+101030 Red Phantom: Curse Death 
+101035 Black Phantom: Curse Death 
+101040 Dragon Spirit Phantom: Curse Death 
+101045 Abyss Phantom: Curse Death 
+101110 Player: Ragdoll Death 
+101115 White Phantom: Ragdoll Death 
+101120 Blue Phantom: Ragdoll Death 
+101125 Gold Phantom: Ragdoll Death 
+101130 Red Phantom: Ragdoll Death 
+101135 Black Phantom: Ragdoll Death 
+101140 Dragon Spirit Phantom: Ragdoll Death 
+101145 Abyss Phantom: Ragdoll Death 
+101210 Player: Throwing death 
+101215 White Phantom: Throwing Death 
+101220 Blue Phantom: Throwing Death 
+101225 Gold Phantom: Throwing Death 
+101230 Red Phantom: Throwing Death 
+101235 Black Phantom: Throwing Death 
+101240 Dragon Spirit Phantom: Throwing Death 
+101245 Abyss Phantom: Throwing Death 
+101310 Player: Death area death area death 
+101315 White Phantom: Death Area Death 
+101320 Blue Phantom: Death Area Death 
+101325 Gold Phantom: Death Area Death 
+101330 Red Phantom: Death Area Death 
+101335 Black Phantom: Death Area Death 
+101340 Dragon Spirit Phantom: Death Area Death 
+101345 Abyss Phantom: Death Area Death 
+101410 Player: Dying Dying 
+101415 White Phantom: Dying 
+101420 Blue Phantom: Dying 
+101425 Gold Phantom: Dying 
+101430 Red Phantom: Dying 
+101435 Black Phantom: Dying 
+101440 Dragon Spirit Phantom: Dying 
+101445 Abyss Phantom: Dying 
+101510 Player: Low-sky fall landing death 
+101515 White Phantom: Low-sky fall landing death 
+101520 Blue Phantom: Low-sky fall landing death 
+101525 Gold Phantom: Low-sky fall landing death 
+101530 Red Phantom: Low-sky fall landing death 
+101535 Black Phantom: Low-sky fall landing death 
+101540 Dragon Spirit Phantom: Low Sky Fall Landing Death 
+101545 Abyss Phantom: Low-Sky Fall Landing Death 
+101610 Player: Headshot Killed (Whack) 
+101615 White Phantom: Headshot Killed (Whack) 
+101620 Blue Phantom: Headshot Killed (Whack) 
+101625 Gold Phantom: Headshot Killed (Whack) 
+101630 Red Phantom: Headshot Killed (Whack) 
+101635 Black Phantom: Headshot Killed (Bang) 
+101640 Dragon Spirit Phantom: Headshot Killed (Bang) 
+101645 Abyss Phantom: Headshot Killed (Whack) 
+101710 Player: Beating death 
+101715 White Phantom: Beating Death 
+101720 Blue Phantom: Beating Death 
+101725 Gold Phantom: Beating Death 
+101730 Red Phantom: Beating Death 
+101735 Black Phantom: Beating Death 
+101740 Dragon Spirit Phantom: Beating death 
+101745 Abyss Phantom: Beating Death 
+113000 Sailor 
+115000 A traveler's dead person 
+132000 Skeleton 
+149000 Deceased: Steelworker 
+150000 Statuenight Neck Cleavage 
+150010 Statuenite annihilation death 
+154000 Boss: Skeleton aristocracy 
+204000 Great Moss 
+212000 Boss: Wyvern 
+212010 Boss: For Wyburn Field 
+216000 Enemy: Door possessed 
+223500 Boss: Giant rat 
+300000 Ogre 
+303300 Boss: Double-sided warrior snake head 
+303310 Boss: Double-sided warrior snake head for field 
+305000 Boss: Damon Knight 
+309600 Boss: New Giant Senior Soldier (Dead) 
+309700 Boss: New Giant Senior Soldier (Live) 
+318000 Boss: Bay Grant 
+318010 Boss: For Bay Grant Field 
+324000 Boss: Gargoil 
+325000 Boss: Warrior in the Mirror 
+325010 Boss: Warrior in the Mirror for the Field 
+326000 Boss: Butcher 
+332000 Boss: Queen Knight A 
+333000 Boss: Queen Knight B 
+334000 Boss: Queen Knight C 
+500000 Boss: Jabazahat 
+501000 Boss: Naga 
+503000 Boss: Manscorpion ♀ 
+504000 Boss: Miller Knight 
+506100 Boss: Agaduran Stand 
+514600 Boss: The Old King 
+600000 Boss: Old Dragon 
+602000 Boss: Beautiful Voice Frog 
+603000 Boss: Spider Queen 
+607000 Boss: Molten Iron Daemon 
+611000 Boss: Heavy cavalry (soldiers only) 
+619100 Boss: Silver Chariot Horse 
+625000 Boss: Ornstein 
+626000 Boss: Forgotten Sinner 
+627000 Boss: Queen's armor form 
+730000 Enemy: Mirror Night Under Me 

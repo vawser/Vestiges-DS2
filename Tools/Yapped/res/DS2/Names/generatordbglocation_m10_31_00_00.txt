@@ -1,0 +1,24 @@
+150 Miracle Man Npc 
+151 Miracle Man NPC (Ghost) 
+315 [Knight of protection] Npc 
+316 [Knight of protection] NPC (Ghost) 
+616 [Boss room front_ White Spirit] swordsman (man) 
+842 ?Boss?Heavy Cavalry Soldiers: Soldiers Only 
+843 ?Boss?Ornstein 
+1000 ?Strong Enemy? ?On The Bonfire?Ancient Warriors- Two-Handed Sword 
+1010 ?Strong Enemy? ?Branch Front?Ancient Warrior: Mallet: Blue Spirit 
+1020 ?Strong Enemy? [Lever front for bosses] ancient warrior swords 
+1030 ?Strong Enemy? [Branch of the Division: Attack] Ancient Warriors: Oversized Sword 
+1040 ?Strong Enemy? [Branch of the Division: Heavy Cavalry Route Protection] Ancient Warrior Swords 
+1041 ?Strong Enemy? [Minute Crossroads: Ornstein Route Defense] Ancient Warriors: Two-Handed Sword & Medium Shield 
+1042 ?Strong Enemy? ?Branch End?Ancient Warriors: Oversized Sword: Blue Spirit: Week 2 
+1050 ?Strong Enemy? ?Branch of the Division?Ancient Warriors: Two Hands Mallet: Soul Blue: Blue Spirit: Week 2 
+1060 ?Strong Enemy? ?Boss Room?Ancient Warrior: Oversized Sword 
+1070 ?Strong Enemy? [Ornstein Route 1: Attack] Ancient Warrior: Oversized Sword 
+1071 ?Strong Enemy? [Ornstein Route 1: Defense] Ancient Warriors: Two-Handed Sword & Medium Shield 
+1080 ?Strong Enemy? ?Before the Drawbridge?Ancient WarriorS: Two-Handed Sword 
+1090 [Ancient Warrior] [Before the drawbridge] Both hands mallet: Soul Blue: Blue Spirit: Week 2 
+2000 ?Behind the Bridge?Temporary Black Spirit: Week 2 
+9110 ?Building on lever square?Swordsman (male): Black Spirit: Week 2 1 
+9111 ?Building on lever square?Swordsman (male): Black Spirit: Week 2 
+9112 ?Building front on lever square?Swordsman (man): Black Spirit: 2nd week 

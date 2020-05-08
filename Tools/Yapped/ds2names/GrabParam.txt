@@ -1,0 +1,126 @@
+0 Backstab Test 
+100 Goblin Throwing Test 
+10100 Baxta - Mini - General Purpose (1.0m) 
+10300 Baxta-Medium-General Purpose (1.0m) 
+10500 Baxta - Extra Large - General Purpose (1.0m) 
+20100 Guard Break - Mini - General Purpose (1.0m) 
+20300 Guard Break - Medium - General Purpose (1.0m) 
+20500 Guard Break - Extra Large - General Purpose (1.0m) 
+30100 Pari-Blake - Minimal - General Purpose 
+30300 Pari-Blake - Medium - Generic 
+30500 Pari-Blake - Oversized - General 
+12100000 Giant Lower Soldier (Giant) 
+30900000 Giant Senior Soldier (Giant) 
+30970000 New Giant Senior Soldier (Live) 
+31400000 Elephant (deceased) 
+31500000 Elephant (Born) 
+60100000 Salamander 
+110000110 Goblin (Raw Man): Bare hand Action 11_Bite Toss 
+110203410 Kingdom Soldier (Deceased): Stabbing Sword: Medium Shield Action 18_Parie 
+110300110 Lower Soldier (Dead): Bare hands Action 11_Bite 
+110700410 Parasite Spider (Parasitic) Action 14_Throwing Attack_Right 
+110800510 Rogue: Dagger x 2 Action 15_ Backstab 
+111500110 Dead: Traveler's Clothing ♂: Bare hands Action 11_Bite: Gripping 
+111800310 Dark Wizard Action 13_Proximity Attack: Dash Megante 
+112100210 Giant Lower Soldier (Giant): Bare hand Action 12_Throw: Grab right hand 
+112101100 Giant Lower Soldier (Giant): Club Action 12_Throw: Grab right hand 
+112102100 Giant Lower Soldier (Giant): Poison Action 12_ Throw: Grab right hand 
+112103100 Giant Lower Soldier (Giant): Club Action 12_Throw: Grab right hand 
+112300610 Deformed Shadow: 2 Swordsnails Action 16_Guard Break Stub 
+112300710 Deformed Shadow: 2 Swordsnails Action 17_Backstab 
+112301310 Deformed Shadow: Dagger: Stabbing Sword Action 14_Tackle_Sliding Throw 
+112400610 Assassin: 2 swordsto action 16_ jumping toss 
+112400810 Assassin: 2 Swordsto Action 18_Backstab 
+112401510 Assassin: Dagger Action 16_Pari 
+112401610 Assassin: Dagger Action 18_Backstab 
+112402610 Assassin: Song Sword Action 16_Pari 
+112402710 Assassin: Song Sword Action 18_Backstab 
+112500110 undead citizen action eleven_clinging tossing 
+113200610 Skeleton: 2 Swords To Action 16_Pari 
+113201510 Skeleton: One-handed sword Action 15_Guard Break 
+113201610 Skeleton: One-handed sword Action 16_Pari 
+113202410 Skeleton: One-handed stabbing sword Action 14_Pariy 
+113300210 Wheel Skeleton: Bare hands Action 12_Wheel Throwing 
+113600010 Dark Reis Action 10_Soul Drain: Throw (for weapons destruction) 
+113700210 Necromancer Action 12_Absorption Throw 
+113700310 Necromancer Action 13_Pariei Break Stub 
+113800510 Tortureman: Torture Apparatus Action 15_ Butting 
+113900410 Man-made immortal action 14_sickle throwing: gripping 
+113901110 Man-made Immortal: Bare-handed Action 11_Body Press 
+114000110 Belka's Crow Action 11_Jump Throwing: Attach 
+114100510 Deceased: Sick man's clothes♂ action 12_foot grab stos 
+114700210 Strengthening Immortalaction 15_Throw: Gripping 
+115000610 Statue: Night Action 16_Backstab 
+115000710 Statue: Night Action 17_Guard Break Stub 
+115100610 Kingdom Soldier Warrior: Color (1): Action 17_Backstab: Grab 
+115110510 Royal Warrior: One Hand Club Action 17_Backstab: Grab 
+120300410 Parasite Spider Action 13_Jump Throw: Attach Grab 
+120300510 Parasite Spider Action 14_Fall Throw: Attach grab 
+120900310 Hunting dog action 13_ pulled down: throw 
+120900410 Hunting dog action 14_foot bite: throw 
+120900510 Hunting dog action 15_ fall: throw 
+120900610 Hunting dog action 16_ down: throw 
+121400010 Fang Beast Action 10_ Throwing: Lunge 
+121700510 Hide in the darkness action 15_grab_toss_right hand 
+121700610 hideout in the darkness action sixteen_throwing down_right hand 
+122000110 Giant VenomOus Worm: Acid Action 11_Bite Toss 
+122400010 Coal Tar Action 10_Catch (Close Range) 
+122400110 Coal Tar Action 11_Catch (Long Distance) 
+130000210 Auger Action 12_ Throwing: Goblin Predator 
+130000310 Auger Action 13_ Throwing: Player Predator 
+130102310 Wandering Knight: Head C Action 13_Skewered 
+130200210 Prison Man: Two-Handed Sickle Action 13_Neck Hanking Tree 
+130330310 Two-sided warrior: Snake head Action 8 Throw: Chidate Kannon 
+130330810 Double-sided warrior: Snake head Action 17 Throw: Chidate Kannon + 
+130400010 Banshee Action 10_Mount Throw 
+130400110 Banshee jumped from a crouching state in action 11 
+130700010 Durahan (deceased): One-handed sword: Medium Shield Action 10_ Throw: For weapons destruction 
+130700510 Durahan (deceased): One-handed sword: Medium Shield Action 15_Parieblake Stub 
+130710010 Durahan (deceased): One-handed sword: Medium Shield Action 10_ Throw: For weapons destruction 
+130710510 Durahan (deceased): One-handed sword: Medium Shield Action 15_Parieblake Stub 
+131200710 Immortal Senior Soldier: Sickle Action 17_Sickle: Throw 
+131300610 Takataku Warrior: Naoken Action 16_Backstab 
+131300710 Falcon Warrior: Nabute Action 18_Parii Break Stub 
+131301610 Falcon Warrior: Swords Action 16_Backstab 
+131301710 Falcon Warrior: Swords Action 18_Pariebreak Stub 
+131500310 Elephant (live) action 13_ throwing: hit with the nose 
+131600410 Captured Magician Action 14_KissOfDeath: Throw 
+131600510 Captured Magician Action 15_Ass Beating: Backstab 
+131800310 Bay Grant Action 13_Grab 
+132100010 []-Mic Action 10_Jump Front Throw 
+132100110 [mimic action 11_jump back throwing 
+132100510 [] Micic Action 14_Mimetic Throw 
+132600510 Butcher Action 15_Instant Death Throw 
+133201510 Queen Knight A Action 15 Throwing Gripping 
+133400710 Queen Knight C Parii Break Stub 
+133400810 Queen Knight C Backstab 
+150000110 Javazahat Action 11_Throw: Bite 
+150100310 Naga Action 13_ Throwing: Jumping 
+150200610 Manscorpion ♂ Action 16_Throw: Capture (both hands) 
+150300510 Manscorpion ♀ Action 13_Tail Throw 
+150650310 Tomb Guard Agaduran Action 13_Parii Break Stub 
+150700410 Rich Action 14_ Throwing: Body Absorption 
+150900110 Dark Bishop Action 11_ Throwing: Drain 
+151100710 Phantom Knight Action 17_ Throwing: Shield Scissors 
+160200410 Beautiful Voice Frog Action 14 Arm Grab Throw 
+162500710 Ornstein Action 17_Throwing 
+162600710 Forgotten Sinner Action 17_Paribreak Stub 
+172400410 Kingdom Captain Dime Hug Action 14_Backstab 
+174200610 Wandering Warrior Clayton: One Hand Axe_Action 16_ Backstab 
+174200710 Wandering Warrior Clayton: One Hand Axe_Action 17_Guard Break Stub 
+174201610 Wandering Warrior Clayton: Two-Handed Sword_Action 16_ Backstab 
+174201710 Wandering Warrior Clayton: Two-Handed Sword_Action 17_Guard Break Stub 
+174300610 Moonlight Man Banholt: Two-Handed Sword_Action 16_ Backstab 
+174300710 Moonlight Man Banholt: Two-Handed Sword_Action 17_Guard Break Stub 
+174401510 Pait__ Backstab_Grab 
+175100510 Atlas Culturevik Action_15_Backstab 
+175100610 Atlas CultureVik Action_16_Guard Break Stub 
+175200410 Female Knight Akertilla Action 14_Backstab_Gripping 
+175200610 Female Knight Akertilla Action 16_Guard Break Stub_Gripping 
+175500310 Stalker Warrior: Two-Handed Sword Action 13_Backstab_1St Stage 
+175500410 Stalker Warrior: Two-Handed Sword Action 14_Guard Break Stub_1St Stage 
+177000310 Sealed Man Action 13_Swords: Backstab 
+177000410 Sealed Man Action 14_Stabbing: Guard Break Stub 
+178500310 Knight of The Guardian Action 13_Backstab 
+178500410 Knight of The Guardian Action 14_Guard Breaking Attack 
+199999999 For enemy throwing test 

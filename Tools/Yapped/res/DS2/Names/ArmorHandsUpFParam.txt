@@ -1,14 +1,14 @@
-0 UNKNOWN
-204310 UNKNOWN
-214310 UNKNOWN
-244310 UNKNOWN
-254310 UNKNOWN
-294310 UNKNOWN
-364310 UNKNOWN
-364311 UNKNOWN
-404310 UNKNOWN
-414310 UNKNOWN
-424310 UNKNOWN
-444310 UNKNOWN
-454310 UNKNOWN
-464310 UNKNOWN
+0 Test
+204310 Fist - 2H - Stance
+214310 Dagger - 2H - Stance
+244310 Double-edged sword - 2H - Stance
+254310 Spear - 2H - Stance
+294310 Straight sword - 2H - Stance
+364310 Two-handed axe - 2H - Stance
+364311 Two-handed axe - 2H - Stance
+404310 Two-handed bow - 2H - Stance
+414310 Two hands large bow - 2H - Stance
+424310 One-handed bow - 2H - Stance
+444310 Small shield - 2H - Stance
+454310 Medium Shield - 2H - Stance
+464310 Large shield - 2H - Stance

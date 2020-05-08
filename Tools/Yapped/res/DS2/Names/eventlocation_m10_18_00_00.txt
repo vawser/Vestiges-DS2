@@ -1,0 +1,113 @@
+1001 Intrusion Point 1-1 
+1002 Intrusion Point 1-2 
+1003 Intrusion Point 1-3 
+1004 Intrusion Point 1-4 
+1005 Intrusion Point 1-5 
+1006 Intrusion Point 1-6 
+1007 Intrusion Point 1-7 
+1008 Intrusion Point 1-8 
+1009 Intrusion Point 1-9 
+1010 Intrusion Point 1-10 
+1011 Intrusion Point 1-11 
+1012 Intrusion Point 1-12 
+1013 Intrusion Point 1-13 
+1014 Intrusion Point 1-14 
+1015 Intrusion Point 1-15 
+1016 Intrusion Point 1-16 
+1017 Intrusion Point 1-17 
+1018 Intrusion Point 1-18 
+1019 Intrusion Point 1-19 
+1020 Intrusion Point 1-20 
+1021 Intrusion Point 1-21 
+1022 Intrusion Point 1-22 
+1023 Intrusion Point 1-23 
+40000 ?Advice blood character?Hidden door 1 
+40010 ?Advice blood character?Hidden door 2 
+45000 [Blood character prohibited] hidden door 1 
+45010 [Blood character prohibited] hidden door 2 
+45020 ?Blood character prohibited?Boss ship 
+45030 [Blood character prohibition] wall to destroy the dark secret 
+45040 [Blood character prohibition] wall that the dark secret destroys 2 
+100000 Ship movement by bell_Navimesh change 
+101800 Backlead Safety Points [Heide] 
+101801 Backlead Safety Points [Oblivion] 
+300000 Bright area_1 from the start of the map 
+300001 Bright area_2 from the start of the map 
+300002 Bright area_3 from the start of the map 
+300003 Bright area from the start of the map_4 
+300004 Bright area_5 from the start of the map 
+300005 Bright area from the start of the map_6 
+300006 Bright area from the start of the map_7 
+300007 Bright area from the start of the map_8 
+300008 Bright area from the start of the map_9 
+300009 Bright area from the start of the map_10 
+300010 Bright area from the start of the map_11 
+300011 Bright area from the start of the map_12 
+300013 Bright area from the start of the map_14 
+300014 Bright area from the start of the map_15 
+400005 Area where the insect key shines_6 
+600000 Boss warfare_water level rise start area 
+700000 Boss: Two-sided warrior: Snake head battle start judgment 
+800000 1_ Brightness change area that becomes brighter when you break a wooden board 
+801000 2_ Brightness change area that becomes brighter when you break a wooden board 
+802000 3_ Brightness change area that becomes brighter when you break a wooden board 
+900000 Navi mesh change of the iron fence opened with the lever 
+1100000 Three-story house_ enemy launch event area 
+1200000 Dark secret destroyed the wall 1_Navi mesh change 
+1201000 Dark secret wall destruction 2_Navi mesh change 
+1500000 Navi mesh change of hidden door 
+1800000 Navi mesh changes for destructable walls 
+1900000 Moonlight_Switching Point_1 on the ship 
+1900001 Moonlight_Switching Point_2 on the ship 
+1900002 Moonlight_Switching Point_3 on the ship 
+1900003 Moonlight_Switching Point_4 on the ship 
+2000000 Navi mesh change due to scaffold destruction 
+50000000 enemy of the house rising area one 
+50000001 Enemy of the House Rising Area 2 
+50000002 Area 3 where the enemy of the house rises 
+50000005 Flame vase vase throwing start 
+50000010 Wild dog wandering travel ing route 
+50000011 Stray Dog Moving Route 2 
+50000100 Start area_1 in front of the lamp stand 
+50000110 Enemy launch area in front of the lamp stand_2 
+50000200 _ Bow sailor start around the well 
+50000210 Enemy surprise area of bar 2F 
+50000220 Bar 2F_ Archer Saein Launch Area_2 
+50000300 Long-distance bow lower soldiers start shooting 
+50000400 Jumping from the _2F the nest of the hideout in the darkness 
+50000410 Pier in front of boss ship_ Erdo sailors and submerged soldiers launch 
+50000500 Early enemy withdrawal area 
+50000505 Enemy return area under the long stairs 1 
+50000506 Enemy return area under the long stairs 2 
+50000510 Enemy return area on the long stairs 
+50000515 Entrance below enemy feedback area in stairs house 
+50000516 entrance on the enemy feedback area _ in the stairs house 
+50000520 Enemy return area of the top cliff 
+50000525 Enemy return area of the bell house 
+50000530 Enemy return area of The Light Stand Square 
+50000535 Enemy retreat area of the boss ship long distance 
+50000536 Enemy retreat of boss ship proximity 
+50004000 Sailor launch area on the roof 
+52000100 The one which lurks in the dark escape point 3 
+52000400 What lurks in the darkness escapepoint 2 
+52000410 What lurks in the darkness escapes point 4 
+52000420 What lurks in the darkness escapes point 5 
+52000500 The one which lurks in the dark escape point 1 
+52000600 Boss Ship_Sailor Moving Point 01 
+52000601 Boss Ship_Sailor Moving Point 02 
+52000602 Boss Ship_Red Spirit Moving Point 
+52000603 Boss Ship_Sailor Moving Point 03 
+52000610 Boss Ship_Archer Saeed Moving Point 01 
+52000611 Boss Ship_Archer Saeed Moving Point 02 
+53000100 Light stand 1_Darkness_Battle area after fleeing 
+53000200 Wall destruction room_darkness_fighting area after fleeing 
+53000300 Battle area after the ship lever destination house_dark secret_ fled 
+53000350 Drink small outdoor_dark secret_combat area after fleeing 
+53000400 Battle area after the boss ship front_darkness secret_escaped 
+53000500 Ship lever destination house _ falling attack area 
+53000600 Navigation point for round-trip stairs on the second floor of the bar 
+54000100 ?Logic Feedback Area?Erdo Water Ming-go Feedback Area 
+54000101 ?Logic Feedback Area?Start point limit point 
+54000200 ?Logic Area?Female Swordsman Induction Start 
+54000300 ?Navi Point?Female Swordsman Induction Destination 
+90000000 Test_Bright Area_1 

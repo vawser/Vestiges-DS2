@@ -1,0 +1,54 @@
+0 Lock-on 
+1010 Base - Very Short 
+1020 Base - Short 
+1030 Base - Medium 
+1040 Base-Length 
+1050 Base - Extreme Length 
+9900 Base value 
+9905 Previous version 
+9910 Light and dark Lv. 0 
+9920 Light and dark Lv. 1 
+9930 Light and dark Lv. 2 
+9940 Light and dark Lv. 3 
+9950 Light and dark Lv. 4 
+9960 For bosses 
+9961 For bosses - forgotten sinners - 0 lights 
+9962 For bosses - forgotten sinners - one light 
+9963 For Bosses - Old Dragon 
+9964 For Bosses - Wyvern 
+9965 For bosses - super oversized 
+9966 For the Boss - Warrior in the Mirror 
+9967 For Bosses - Agaduran Stand 
+106000 m10_14 Gerdra Zakos 1 
+154000 m10_23 Skeleton Aristocracy 
+212000 m10_15 Wyburn 
+223500 m10_33 Giant Rat 
+226100 m10_34 Dog Mouse: Color (2) 
+303300 m10_18 Double-sided warrior: Snake head 
+305000 m10_19 Daemon Knight 
+309600 m10_10 New Giant Senior Soldier (Deceased) 
+309610 m20_21 Heavy Cavalry: Soldiers Only 2 Bodies 
+309700 m20_10 New Giant Senior Soldier (Live) 
+318000 m10_10 Bay grant 
+324000 m10_16 Against Gargoil 
+325000 m10_16 Warrior in the Mirror 
+326000 m10_25 Butcher 
+332000 m20_21 Queen Knight A 
+333000 m20_24 Queen Knight B 
+500000 m10_17 Javazahat 
+501000 m10_17, N. Sa. 
+503000 m10_32 Manscorpion ♀ 
+504000 m20_21 Mirror Night 
+506100 m40_03 Agaduran Stand 
+514600 m20_24 The Old King 
+600000 m10_27 The Old Dragon 
+602000 m20_11 Beautiful Frog 
+603000 m10_14 The Spider Queen, the same for the first half. 
+607000 m10_19 Iron Daemon 
+611000 m10_31 Heavy Cavalry: Soldiers Only 
+619100 m10_23 Silver Chariot 
+625000 m10_31 Ornstein 
+626000 m10_16 Forgotten Sinners - 0 Lights 
+626001 m10_16 Forgotten Sinners - One Light 
+626002 m10_16 Forgotten Sinners - Two Lights 
+627000 m20_21 Queen's Armor 

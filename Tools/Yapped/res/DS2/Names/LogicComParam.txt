@@ -1,347 +1,343 @@
-9500 UNKNOWN
-9501 UNKNOWN
-9502 UNKNOWN
-9503 UNKNOWN
-9504 UNKNOWN
-9505 UNKNOWN
-9506 UNKNOWN
-9507 UNKNOWN
-9508 UNKNOWN
-9509 UNKNOWN
-9510 UNKNOWN
-9511 UNKNOWN
-9512 UNKNOWN
-9513 UNKNOWN
-9514 UNKNOWN
-9515 UNKNOWN
-9516 UNKNOWN
-9517 UNKNOWN
-9518 UNKNOWN
-9519 UNKNOWN
-9520 UNKNOWN
-9521 UNKNOWN
-9522 UNKNOWN
-9523 UNKNOWN
-9524 UNKNOWN
-9525 UNKNOWN
-9526 UNKNOWN
-9527 UNKNOWN
-9528 UNKNOWN
-9550 UNKNOWN
-9551 UNKNOWN
-9552 UNKNOWN
-9553 UNKNOWN
-9554 UNKNOWN
-9555 UNKNOWN
-9556 UNKNOWN
-100010 UNKNOWN
-101010 UNKNOWN
-102010 UNKNOWN
-102030 UNKNOWN
-102040 UNKNOWN
-102052 UNKNOWN
-102053 UNKNOWN
-102054 UNKNOWN
-102055 UNKNOWN
-102090 UNKNOWN
-102092 UNKNOWN
-102110 UNKNOWN
-103010 UNKNOWN
-103025 UNKNOWN
-103030 UNKNOWN
-103040 UNKNOWN
-103041 UNKNOWN
-103050 UNKNOWN
-103051 UNKNOWN
-103090 UNKNOWN
-103110 UNKNOWN
-105010 UNKNOWN
-105030 UNKNOWN
-106010 UNKNOWN
-106030 UNKNOWN
-106090 UNKNOWN
-107010 UNKNOWN
-107030 UNKNOWN
-108010 UNKNOWN
-108040 UNKNOWN
-108050 UNKNOWN
-108060 UNKNOWN
-113010 UNKNOWN
-113020 UNKNOWN
-113030 UNKNOWN
-113040 UNKNOWN
-115010 UNKNOWN
-115020 UNKNOWN
-117010 UNKNOWN
-118010 UNKNOWN
-118090 UNKNOWN
-119010 UNKNOWN
-121010 UNKNOWN
-121020 UNKNOWN
-123010 UNKNOWN
-123020 UNKNOWN
-124010 UNKNOWN
-125010 UNKNOWN
-125020 UNKNOWN
-125030 UNKNOWN
-125040 UNKNOWN
-127010 UNKNOWN
-127020 UNKNOWN
-127030 UNKNOWN
-127040 UNKNOWN
-127050 UNKNOWN
-127060 UNKNOWN
-127061 UNKNOWN
-127070 UNKNOWN
-127090 UNKNOWN
-127091 UNKNOWN
-129010 UNKNOWN
-131010 UNKNOWN
-132010 UNKNOWN
-132030 UNKNOWN
-132040 UNKNOWN
-132100 UNKNOWN
-133010 UNKNOWN
-133100 UNKNOWN
-134010 UNKNOWN
-135010 UNKNOWN
-137010 UNKNOWN
-137090 UNKNOWN
-138010 UNKNOWN
-139010 UNKNOWN
-139030 UNKNOWN
-140010 UNKNOWN
-141010 UNKNOWN
-146010 UNKNOWN
-147010 UNKNOWN
-147090 UNKNOWN
-148010 UNKNOWN
-149010 UNKNOWN
-150010 UNKNOWN
-150011 UNKNOWN
-150012 UNKNOWN
-150013 UNKNOWN
-150014 UNKNOWN
-151010 UNKNOWN
-151040 UNKNOWN
-152010 UNKNOWN
-153010 UNKNOWN
-154010 UNKNOWN
-154020 UNKNOWN
-155010 UNKNOWN
-201110 UNKNOWN
-202010 UNKNOWN
-203010 UNKNOWN
-203012 UNKNOWN
-203020 UNKNOWN
-203030 UNKNOWN
-203040 UNKNOWN
-203050 UNKNOWN
-204010 UNKNOWN
-204020 UNKNOWN
-205010 UNKNOWN
-206010 UNKNOWN
-209010 UNKNOWN
-210010 UNKNOWN
-210020 UNKNOWN
-212010 UNKNOWN
-212020 UNKNOWN
-212030 UNKNOWN
-213010 UNKNOWN
-213110 UNKNOWN
-214010 UNKNOWN
-216010 UNKNOWN
-217010 UNKNOWN
-217020 UNKNOWN
-220010 UNKNOWN
-222010 UNKNOWN
-223010 UNKNOWN
-224010 UNKNOWN
-224030 UNKNOWN
-226010 UNKNOWN
-226020 UNKNOWN
-226030 UNKNOWN
-227010 UNKNOWN
-300010 UNKNOWN
-300020 UNKNOWN
-300030 UNKNOWN
-300040 UNKNOWN
-300080 UNKNOWN
-301010 UNKNOWN
-302010 UNKNOWN
-302011 UNKNOWN
-302020 UNKNOWN
-303310 UNKNOWN
-303320 UNKNOWN
-304010 UNKNOWN
-305010 UNKNOWN
-305011 UNKNOWN
-306010 UNKNOWN
-306011 UNKNOWN
-306020 UNKNOWN
-307010 UNKNOWN
-307110 UNKNOWN
-308010 UNKNOWN
-308030 UNKNOWN
-309010 UNKNOWN
-309610 UNKNOWN
-309710 UNKNOWN
-311010 UNKNOWN
-312010 UNKNOWN
-313010 UNKNOWN
-314010 UNKNOWN
-315010 UNKNOWN
-316010 UNKNOWN
-317010 UNKNOWN
-318010 UNKNOWN
-319010 UNKNOWN
-319011 UNKNOWN
-321010 UNKNOWN
-324010 UNKNOWN
-324020 UNKNOWN
-325010 UNKNOWN
-325020 UNKNOWN
-326010 UNKNOWN
-327010 UNKNOWN
-330010 UNKNOWN
-332010 UNKNOWN
-333010 UNKNOWN
-334010 UNKNOWN
-500010 UNKNOWN
-500011 UNKNOWN
-501010 UNKNOWN
-502010 UNKNOWN
-503010 UNKNOWN
-504010 UNKNOWN
-506010 UNKNOWN
-506110 UNKNOWN
-506210 UNKNOWN
-509010 UNKNOWN
-511010 UNKNOWN
-511030 UNKNOWN
-512010 UNKNOWN
-512030 UNKNOWN
-512040 UNKNOWN
-514610 UNKNOWN
-600010 UNKNOWN
-601010 UNKNOWN
-601011 UNKNOWN
-601030 UNKNOWN
-602010 UNKNOWN
-603010 UNKNOWN
-603020 UNKNOWN
-607010 UNKNOWN
-611010 UNKNOWN
-611020 UNKNOWN
-619110 UNKNOWN
-619120 UNKNOWN
-625010 UNKNOWN
-626010 UNKNOWN
-627010 UNKNOWN
-628010 UNKNOWN
-650010 UNKNOWN
-651010 UNKNOWN
-653010 UNKNOWN
-653011 UNKNOWN
-653030 UNKNOWN
-654010 UNKNOWN
-656010 UNKNOWN
-657010 UNKNOWN
-659010 UNKNOWN
-660010 UNKNOWN
-661010 UNKNOWN
-662010 UNKNOWN
-663010 UNKNOWN
-665010 UNKNOWN
-665030 UNKNOWN
-666010 UNKNOWN
-666020 UNKNOWN
-666030 UNKNOWN
-666040 UNKNOWN
-670010 UNKNOWN
-671010 UNKNOWN
-671110 UNKNOWN
-672010 UNKNOWN
-674010 UNKNOWN
-675010 UNKNOWN
-677010 UNKNOWN
-678010 UNKNOWN
-679010 UNKNOWN
-680010 UNKNOWN
-681010 UNKNOWN
-681020 UNKNOWN
-682010 UNKNOWN
-683010 UNKNOWN
-685010 UNKNOWN
-686010 UNKNOWN
-687010 UNKNOWN
-688010 UNKNOWN
-689010 UNKNOWN
-690000 UNKNOWN
-690010 UNKNOWN
-692010 UNKNOWN
-700010 UNKNOWN
-701010 UNKNOWN
-702010 UNKNOWN
-703010 UNKNOWN
-704010 UNKNOWN
-705010 UNKNOWN
-705110 UNKNOWN
-705310 UNKNOWN
-721110 UNKNOWN
-723010 UNKNOWN
-724010 UNKNOWN
-724020 UNKNOWN
-725010 UNKNOWN
-726010 UNKNOWN
-729010 UNKNOWN
-730010 UNKNOWN
-730020 UNKNOWN
-730030 UNKNOWN
-741010 UNKNOWN
-742010 UNKNOWN
-743010 UNKNOWN
-744010 UNKNOWN
-751010 UNKNOWN
-752010 UNKNOWN
-753010 UNKNOWN
-754010 UNKNOWN
-756010 UNKNOWN
-760010 UNKNOWN
-760110 UNKNOWN
-760210 UNKNOWN
-761010 UNKNOWN
-762010 UNKNOWN
-763010 UNKNOWN
-764010 UNKNOWN
-764310 UNKNOWN
-766010 UNKNOWN
-768010 UNKNOWN
-769010 UNKNOWN
-770010 UNKNOWN
-771010 UNKNOWN
-772010 UNKNOWN
-776010 UNKNOWN
-777010 UNKNOWN
-783010 UNKNOWN
-784010 UNKNOWN
-785010 UNKNOWN
-786010 UNKNOWN
-810010 UNKNOWN
-810011 UNKNOWN
-810012 UNKNOWN
-810013 UNKNOWN
-810024 UNKNOWN
-820010 UNKNOWN
-820011 UNKNOWN
-820012 UNKNOWN
-820013 UNKNOWN
-820014 UNKNOWN
-820015 UNKNOWN
-820024 UNKNOWN
-820025 UNKNOWN
-820030 UNKNOWN
-837110 UNKNOWN
-837120 UNKNOWN
-838010 UNKNOWN
-900010 UNKNOWN
+9500 009500 For evasion test 
+9501 009501 Lock movement confirmation 
+9502 009502 For mobile area testing 
+9503 009503 For barista test 
+9504 009504 I'm in ?? or for testing 
+9505 009505 Thrown for test 
+9506 009506 For state acquisition test 
+9507 009507 For startup state termination test 
+9508 009508 Dummy Object Use Test 
+9509 009509 For sound reaction test 
+9510 009510 for bullet reaction test 
+9511 009511 For click movement test 
+9512 009512 For group testing 
+9513 009513 For translation test 
+9514 009514 For last siting test 
+9515 009515 For general purpose object testing 
+9516 009516 For item testing 
+9517 009517 For multiple boot tests 
+9518 009518 For speed test 
+9519 009519 For Pariy Test 
+9520 009520 For attack turn test 
+9521 009521 Combo cancellation test 
+9522 009522 Network verification 
+9523 009523 For confirmation of moving parameters 
+9524 009524 Brake test 
+9525 009525 Navimesh Test 
+9526 009526 Target Test 
+9527 009527 Site Damage Test 
+9528 009528 White Spirit NPC Test 
+9550 009550 Planning for: Lock move (normal) 
+9551 009551 Planning for: Lock Movement (Large) 
+9552 009552 Planning: Attack canceled 
+9553 009553 Planning for: Avoidance Cancel 
+9554 009554 Planning for: Transfer canceled 
+9555 009555 For planning: Damage stiffness adjustment 
+9556 009556 Planning: Step Cancel 
+9900 009900 Top: Giant lower-level soldier_reluctant 
+9901 009901 Top: Giants Lower Soldier: Rocket Man_ Reluctant 
+9902 009902 Top: Giant Lower Soldier: Wall Destroyer_ Reluctant 
+9903 009903 Top: Big Characters Sit 
+9909 009909 Constant Damage Test 
+9911 009911 Uchikawa Test 
+9912 009912 Long distance (magic, etc.) test 
+9913 009913 Fukuda Test 
+9914 009914 Top: Top Test_Kurita 
+9916 009916 Top: Boss Test 
+9918 009918 Hashimoto Test 
+9919 009919 Wakasa Test 
+9920 009920 Top: Slave Beast Test (Torch escape) 
+9922 009922 Kurita Test 
+9924 009924 Top: Dami Polytest 
+9925 009925 Fujita Test 
+9926 009926 Itagaki Test 
+9931 009931 Top: Navimesh Move (OBJ Operation) 
+9935 009935 Enemy Jump Attack Test 
+9936 009936 Top: Generic Tests 
+9938 009938 Possession Item Judgment Test 
+9940 009940 Person recognition test: enemy side 
+9941 009941 Person recognition test: ally 
+9942 009942 Player Camp Individual Specific Test 
+9945 009945 Top: Temporary Enemy Test 
+9947 009947 Top: Multiplayer Test 
+9949 009951 Top: Enemy Group Settings 
+9951 009951 Lock-on Non-Test 
+9952 009952 Top: FOR NPC TEST 
+9954 009954 Damage Test 
+9955 009955 Navigate to clicked point 
+9956 009956 Navimesh movement of navigraph test route 
+9957 009957 Group Feedback Test 
+9958 009958 Bottom: Sound Reaction Navimesh: Test 
+9959 009959 Top: Navi_Goal Angle Acquisition Test 
+9961 009961 Top: Move Confirmation Logic 
+9963 009963 Top: Fairy's Side 
+9965 009965 Top: For Enemy Gallery 
+9967 009967 Kataoka Test 
+9968 009968 Fujishima Test 
+9969 009969 Yamazaki Test 
+9972 009972 Top Improvement Logic 
+9973 009973 Top: For The Toyoda Test 
+9975 009975 Top: For eight-volume test 
+9977 009977 Top: For The Toyoda Test 
+9979 009979 Top: Yoshida Test: For Debugging 
+9982 009982 Top: Yoshida test 
+9984 009984 For Yabuki 
+9985 009985 Logic Operation Confirmation_Reluctant 
+9986 009986 Navimesh Test_Reluctant 
+9987 009987 Giants lower-level soldier test_reluctant 
+9988 009988 Giant SS Captain Test_Reluctant 
+9989 009989 BOSS Test_Reluctant 
+9990 009990 Shibuya-san test 
+9991 009991 For attack testing 
+9992 009992 for 50M range tracking test 
+9993 009993 For path route testing 
+9994 009994 For dead soldier test 
+9995 009995 Route search test 1 
+9996 009996 Route search test 2 
+9997 009997 Route search test 3 
+9998 009998 Large wood test 1 
+9999 009999 For large wood test 2 
+100010 100010 Top: Goblin (Live): Generic 
+101010 100010 Top: Cobold (Raw): Generic 
+102010 102010 Top: Kingdom Soldier (deceased): General 
+102030 102030 Top: Kingdom Soldier (deceased): Area & Visual Response 
+102040 102040 Top: Kingdom Soldier (deceased): Bow transfer shot 
+102052 102052 Top: Kingdom Soldier (deceased): Corpse mimetic (no group) 
+102053 102053 Top: Kingdom Soldier (dead): Corpse mimetic: close range 
+102054 102054 Top: Kingdom Soldier (deceased): Corpse mimetic: Treasure corpse 
+102055 102055 Top: Kingdom Soldier (deceased): Wait until attacked (for verification) 
+102090 102090 Top: Kingdom Soldier (Dead): Treasure Chest Trap (Logic Flag Launch) 
+102092 102092 Top: Kingdom Soldier (Dead): Treasure Corpse Trap (Logic Flag Launch) 
+102110 102110 Top: Kingdom Soldier (Live): General 
+103010 103010 Top: Lower soldier (deceased): General 
+103025 103025 Top: Lower-level soldier (deceased): General purpose (group none: for FC) 
+103030 103030 Top: Lower soldier (deceased): Area & visual response 
+103040 103040 Top: Lower-level soldiers (deceased) wandering routes 
+103041 103041_Top: Lower-level soldier (dead): Dash Tracking 
+103050 103050 Top: Lower soldier (dead): Corpse mimetic 
+103051 103051 Top: Lower soldier (deceased): Corpse mimetic (no group) 
+103090 103090 Top: Lower soldier (deceased): BS wait 
+103110 103110 Top: Lower-class soldier (raw): General 
+105010 105010 Top: Fairy Shrine Maiden (Deceased): General 
+105030 105030 Top: Fairy Shrine Maiden (Deceased): Ambush 
+106010 106010 Top: Dark Priest (Deceased): Generic 
+106030 106030 Top: Dark Priest (Deceased): Wait for the Line of Sight 
+106090 106090_Top: Dark Priest (Deceased): For Gerdra_Zacobos 
+107010 107010 Top: Parasite Spider (Parasitic): Generic 
+107030 107030 Top: Parasite Spider (Parasitic): Immediately Launched 
+108010 108010 Top: Rogue (deceased): Generic 
+108040 108040 Top: Rogue: Busher 
+108050 108050 Top: Rogue: Attack from Launch State (for FC) 
+113010 113010 Top: Sailor (deceased): Generic 
+113020 113020 Top: Sailor (deceased): Sleeping in a chair 
+113030 113030 Top: Sailor (deceased): Boss Front Ship Room 
+115010 115010 Top: Dead_Traveler's Clothing:Generic 
+115020 115020 Top: Dead_Traveler's Clothing: General Purpose (for FC) 
+117010 117010 Top: Statue: Pawn: Generic 
+118010 118010 Top: Dark Wizard: Generic 
+118090 118090 Top: Dark Wizard: For Boss 
+119010 119010 Top: Lion Black Madoshi (Born): General 
+121010 121010 Top: Giants lower-level soldiers: general 
+121020 121020 Top: Giants lower-class soldier: General purpose (for FC) 
+123010 123010 Top: Deformed Shadow (Raw): Generic 
+124010 124010 Top: Assassin (live man): Generic 
+125010 125010 Top: Undead Citizen: Generic 
+125030 125030 Top: Undead Citizen: Sound Reaction 
+125040 125040 Top: Undead Citizen: Kuzbottom 
+127010 127010 Top: Dead Workers (Deceased): Generic 
+127020 127020 Top: Dead Workers (Deceased): General Purpose (for FC) 
+127030 127030 Top: Dead workers (dead): Wait until attack 
+127040 127040 Top: Dead Workers (Deceased): Sound Reaction 
+127050 127050 Top: Dead Workers (Dead): Tracking with Torches 
+127060 127060 Top: Dead Workers (Dead): Warp (Tomb) 
+127061 127061 Top: Dead Workers (Dead): Warp (Bell) 
+127070 127070 Top: Dead Workers (Deceased): Torch Reaction (Scumbottom) 
+127090 127090_Top: Dead Workers (Deceased): For The Javazahat War 
+127091 127091_Top: Dead Workers (Deceased): For Gerdra_Zakovos 
+129010 129010 Top: Forest Keeper: General 
+131010 131010 Top: Cleric: Generic 
+132010 132010 Top: Skeleton: Generic 
+132030 132030 Top: Skeleton: Corpse Mimetic 
+132040 132040 Top: Skeleton: Warp 
+132100 132100 Top: Skeleton: For Boss 
+133010 133010_Top:Wheel Skeleton: Generic 
+133100 133100_Top: Wheel Skeleton: For Boss 
+134010 134010_Top:Dwarf: Generic 
+135010 135010_Top:Heavy Dwarf: Generic 
+137010 137010_Top: Necromancer (Immortal): General Purpose 
+137090 137090_Top: Necromancer (Immortal): For Gerdra_Zacobos 
+138010 138010 Top: Tortureman: Generic 
+139010 139010_Top:Man-made Immortals (Immortals): General 
+139030 139030_Top: Man-made Immortals (Immortals): Only for Narrow Road 
+140010 140010_Top:Belka Crow: Generic 
+141010 141010 Top: Strengthened Immortals: General 
+146010 146010 Top: Clothes for the wealthy: Generic 
+147010 147010 Top: Dead_ Sick Clothes: Generic 
+147090 147090_Top: Dead_Sick Clothes: For Gerdra_Zacobos 
+148010 148010_Top:The Dead: Peasant Clothing: Generic 
+149010 149010_Top:Deceased:Steel mill staff:General 
+150010 150010_Top:Statue:Night:Generic 
+150011 150011_Top:Statue:Night:Region Launch 
+150012 150012_Top:Statue: Night: Region Launch 1 
+150013 150013_Top:Statue:Night:Region Launch 2 
+150014 150014_Top:Statue: Night: Region Launch 3 
+151010 151010 Top: Kingdom Heavy Soldier (deceased): General 
+151040 151040 Top: Kingdom Heavy Soldier (deceased): For narrow road warfare 
+152010 152010 Top: Kingdom Warrior: General 
+153010 153010 Top: Kingdom Guards: General 
+154010 154010 Top: Skeleton aristocracy 
+155010 155010 Top: Lizard Man: Generic 
+201110 201110 Top: Slave Beasts: Piglets: Generic 
+202010 202010 Top: Slave Beast (without iron pot): General purpose 
+203010 203010 Top: Parasite Spider: Generic 
+203012 203012 Top: Parasite Spider: Area Surprise 
+203020 203020 Top: Parasite Spider: General Purpose (for FC) 
+203030 203030 Top: Parasite Spider: Sound Reaction 
+203040 203040 Top: Parasite Spider: Launch 
+203050 203050 Top: Parasite Spider: For Bosses 
+204010 204010 Top: Great Moss: Generic 
+204020 204020 Top: Great Moss: General Purpose (for FC) 
+205010 205010 Top: Poisonous horn: generic 
+206010 206010 Top: Needle maggots: Generic 
+209010 209010_Top:Hunting Dogs:Generic 
+210010 210010_Top:Basilrisk: Generic 
+210020 210020_Top:Basilisk: Eyeball Pear 
+212010 212010_Top:Wyvern:Generic 
+212020 212020_Top: Wyburn: Normal Warfare 
+213010 213010 Top: Stone Defense: General Purpose 
+213110 213110 Top: Stone Defense: Explosion: General 
+214010 214010_Top:Fang: General 
+216010 216010_Top:Door-possessed:General 
+217010 217010_Top: The Hermit in The Dark: General 
+217020 217020_Top: Hideaway in The Dark: General Purpose (for FC) 
+220010 220010_Top:Giant VenomOus: Generic 
+222010 222010_Top:Giant Basilrisk: Generic 
+223010 223010 Top: Dead rat:Generic 
+224010 224010 Top: Coal Tar: Generic 
+224030 224030 Top: Coal Tar: Surprise 
+226010 226010 Top: Dog rat: Generic 
+226020 226020 Top: Dog Rat: For Boss 
+226030 226030 Top: Dog Rat: Boss 
+227010 227010 Top: Wild Dogs: General 
+300010 300010 Top: Auger: General Purpose 
+300020 300020 Top: Auger: Circumferential Enemy 
+300030 300030 Top: Auger: Auditory Reaction 
+300040 300040 Top: Auger: Petrified Stop 
+300080 300080 Top: Auga: Dragon Institute Event 
+301010 301010 Top: Wandering Knight: General Purpose 
+302010 302010 Top: Prison man: General 
+302011 302011 Top: Prison Man: Soul Black 
+302020 302020 Top: Prison man: General purpose (for FC) 
+303310 303310 Top: Double-sided warrior: snake head 
+303320 303320_Top: Two-sided warrior: snake head: normal warfare 
+304010 304010 Top: Banshee (deceased): Generic 
+305010 305010_Top: Daemon Knight 
+306010 306010 Top: Daemon Armor: Generic 
+306020 306020 Top: Daemon Armor: General Purpose (for FC) 
+307010 307010_Top: Durahan (deceased): Generic 
+307110 307110 Top: Durahan (Raw) 
+308010 308010_Top:Lion Warrior:General 
+308030 308030_Top:Lion Warrior: Petrified Stop 
+309010 309010_Top: Giant Senior Soldiers: Generic 
+309610 309610 Top: New Giant Senior Soldier (Deceased) 
+309710 309710 Top: New Giant Senior Soldier (Live) 
+311010 311010_Top: Cavalry: Cavalry Soldiers (Live Man): General 
+312010 312010_Top: Immortal Advanced Soldier (Immortal): General Purpose 
+313010 313010_Top:Falcon Warrior:General 
+314010 314010_Top: Elephant (deceased): Generic 
+315010 315010_Top: Elephant (live): Generic 
+316010 316010_Top: Captured Mage (Live): General 
+317010 317010_Top:Professor of Dragon: General 
+318010 318010_Top: Bay Ground 
+319010 319010 Top: Daemon Armor (Mass Production): General Purpose 
+321010 321010_Top:? Micic: General 
+324010 324010_Top:Gargoyle:Generic 
+325010 325010_Top: Warrior in the Mirror: Generic 
+325020 325020_Top: Warriorin the Mirror: For Normal Warfare 
+326010 326010_Top: Butcher 
+327010 327010 Top: Bone Dragon: For events 
+330010 330010_Top: Ancient Warriors: Generic 
+332010 332010_Top: Queen Knight A 
+333010 333010_Top: Queen Knight B 
+334010 334010_Top: Queen Knight C 
+500010 500010_Top: Javaza Hat 
+501010 501010_Top: Naga 
+502010 502010 Top: Manscorpion (Man) 
+503010 503010 Top: Manscorpion ? 
+504010 504010 Top: Mirror Night 
+506010 506010 Top: Tomb Guard 
+506110 506110_Top: Agaduran Stand 
+506210 506210 Top: Wormhole 
+509010 509010 Top: Dark Bishop: Generic 
+511010 511010 Top: Phantom Night: Generic 
+511030 511030 Top: Phantom Night: Narrow Road Only 
+512010 512010 Top: Phantom Mage: Generic 
+512030 512030 Top: Phantom Mage: Sound Reaction 
+512040 512040 Top: Phantom Mage: Warp (Tomb of Immortality) 
+514610 514610 Top: Old King 
+600010 600010 Top: Old Dragon 
+601010 601010 Top: Salamander 
+601030 601030 Top: Salamander: Fixed turret 
+602010 602010 Top: Beautiful Voice Frog 
+603010 603010 Top: Spider Queen: Boss Room 
+603020 603020 Top: Spider Queen: First Encounter Event 
+607010 607010 Top: Iron Daemon 
+611010 611010 Top: Heavy Cavalry: Walking 
+619110 619110 Top: Silver Chariot 
+625010 625010 Top: Ornstein 
+626010 626010 Top: Forgotten Sinners 
+627010 627010 Top: Queen's armor form 
+628010 628010 Top: Giant rat 
+690000 690000 Top: NPC General 
+700010 700010 Top: Shrine Maiden 
+701010 701010 Top: Shrine Maiden (Child) 
+702010 702010 Top: Queen (corpse) 
+703010 703010 Top: Queen 
+704010 704010 Top: Ladder Shop 
+705010 705010 Top: Retired Fire Protection Woman 1 
+705110 705110 Top: Retired Fire Protection Woman 2 
+705310 705310 Top: Retired Fire Protection Woman 3 
+721110 721110 Top: Spirit of the Army Master 
+723010 723010 Top: Fire Protection Woman's Housekeeper 
+724010 724010 Top: Captain of the Kingdom 
+724020 724020 Top: Captain of the Kingdom: White Spirit 
+725010 725010 Top: Pilgrims in the Abyss 
+726010 726010 Top: Dwarf 
+729010 729010 Top: Loyal Dogs 
+730010 730010 Top: Mirror Night Under Me 
+730020 730020 Top: Mirror Knight Under Me (Hunting Forest) 
+730030 730030 Top: Mirror Knight Under Me (Andy) 
+741010 741010 Top: Heartbroken Blue Warrior 
+742010 742010 Top: Avenger Warrior 
+743010 743010 Top: Tsukiko Grandfather 
+744010 744010 Top: Patch 
+751010 751010 Top: Map 
+752010 752010 Top: Female Knight 
+753010 753010 Top: Bell Guard 
+754010 754010 Top: Yorozu Babaa 
+756010 756010 Top: King of mice 
+760010 760010 Top: Bard Girl 1 
+760110 760110 Top: Bard Poet Girl 2 
+760210 760210 Top: Captive Girl 
+761010 761010 Top: Armorshop 
+762010 762010 Top: Material shop 
+763010 763010 Top: Sorcerer 
+764010 764010 Top: Blacksmith 
+764310 764310 Top: EX Blacksmith 
+766010 766010 Top: Sorcerer 
+768010 768010 Top: Spell Mania 
+769010 769010 Top: Miracle Man 
+770010 770010 Top: Dark Man 
+771010 771010 Top: Spell Master 
+772010 772010 Top: Rinsis 
+776010 776010 Top: Top Weapons Store 
+777010 777010 Top: Cat 
+783010 783010 Top: Black Phantom Shop 
+784010 784010 Top: The Teacher of The Sin 
+785010 785010 Top: Guardian Knight 
+786010 786010 Top: Glitter Girl 
+810010 810010 Top: White Spirit Generic 
+820010 821010 Top: Dark Spirit 
+837110 837110 Top: Tutorial (short view) 
+837120 837120 Top: Tutorial (long field of view) 
+900010 900010 Top: Sniper Generic 

@@ -1,0 +1,878 @@
+1 Without 
+1000 Goblin (Test) 
+1001 Goblin (Test 2) 
+1002 Goblin (Official Test) 
+1010 Cobold (Test) 
+2910 Auger (Test) 
+3000 Auger (test for actual use) 
+3060 Demon Soldier (Captain) (Test for actual aircraft) 
+3061 Demon soldier (test for actual use) 
+6010 Salamander (tentative) 
+6060 Yadokari Castle (tentative) 
+8100 White Phantom Test 
+9000 Player character for proto version 
+9010 Proto version enemy character 
+9020 New player character for proto version 
+9030 New enemy character for proto version 
+9061 Flamto 
+9062 Flamto (no environmental map) 
+9100 Giant Boss Test (Morinaga) 
+9101 Giant Lower Soldier (Test) 
+9111 Ueda Test (Goblin) Yoshida Param Adjustment Version 
+9112 Ueda Test (Goblin) 
+9113 Ueda Test (Goblin: Floating) 
+9120 Captain of the Giant SS (Morinaga Test) 
+9140 Okawachi Test 
+9150 For NPC testing 
+9160 Imazu Test 
+9170 For barrett bullet test 
+9200 Character for new bone structure 
+9300 GgD - Dead: Traveler's Clothing ♂ 
+9333 Ohki NPC Test 1 
+9334 Ohki NPC Test 2 
+9400 Oil Wet Test - Kingdom Soldier (Dead): Bow 
+9500 Dark Spirit Double Sword Man 
+9501 Red Spirit Level 0 
+9502 Red Spirit Level 1 
+9503 Red Spirit Level 2 
+9504 Red Spirit Level 3 
+9601 Blue Spirit Level 0 
+9602 Blue Spirit Level 1 
+9603 Blue Spirit Level 2 
+9604 Blue Spirit Level 3 
+9605 Small White Phantom 
+9606 White Phantom 
+9607 Small Gold Phantom 
+9608 Gold Phantom 
+9609 Dragon Spirit Phantom 
+9610 Abyss Phantom 
+9611 Usually Phantom Phantom 
+9612 Bonfire Phantom Phantom 
+9613 Tomb Phantom 
+9700 Phantom - Naked (Man) 
+9701 Phantom - Clothes (Man) 
+9702 Phantom - Light Clothing (Male) 
+9703 Phantom - Heavy Wear (Male) 
+9704 Phantom - Naked (Female) 
+9705 Phantom - Clothes (Woman) 
+9706 Phantom - Light Clothing (Female) 
+9707 Phantom - Heavy Clothing (Female) 
+9900 For test characters 
+100000 Goblin :Bare hands: Gaping Cave 
+100008 Goblin :Bare hands: Forest of Shadows: Soul Black 
+100009 Goblin (Live): Bare Hands: Gap's Cave: Soul Black 
+100010 Goblin :Sword: Cave of Gaps 
+100020 Goblin (Live): Sling: Gap ing sinus 
+101000 Cobold: Gap Cave 
+101001 Kobold: Anne Deal's House 
+102000 Kingdom Soldier (Dead): Spear: Medium Shield 
+102010 Kingdom Soldier (Dead): Two-Handed Sword 
+102011 Kingdom Soldier (Deceased): Two-Handed Sword: Soul Black 
+102020 Kingdom Soldier (Dead): Two-Handed Axe 
+102030 Kingdom Soldier (Deceased): Stabbing Sword: Medium Shield 
+102040 Kingdom Soldier (Dead): Bow 
+102050 Kingdom Soldier (Deceased): Bare Hands: Two-Handed Sword 
+102100 Kingdom Soldier (Alive): Spear: Medium Shield 
+102110 Kingdom Soldier (Living): Two-Handed Sword: Bow 
+102130 Kingdom Soldier (Born): Dying 
+102140 Kingdom Soldier (Live): Bow 
+102150 Kingdom Soldier (Live): Torch 
+103000 Lower Soldier (Deceased): Bare hands: The Bastion of Resistance (modern) 
+103001 Lower-class soldier (deceased): Bare hands: Underground port 
+103002 Lower-class soldier (deceased): Bare hands: Fairy's side 
+103010 Lower Soldier (Deceased): Dagger: Fort of Resistance (Modern) 
+103011 Lower Soldier (deceased): Dagger: Underground port 
+103012 Lower Soldier (Deceased): Dagger: Fairy's Side 
+103019 Lower Soldier (Deceased): Dagger: Soul Black 
+103020 Lower Soldier (Deceased): One-handed sword: Small shield: Fort of resistance (modern) 
+103021 Lower Soldier (Deceased): One Hand Sword: Small Shield: Underground Port 
+103022 Lower Soldier (Deceased): One-handed sword: Small shield: Hidden Port 
+103030 Lower Soldier (Deceased): One-handed axe: Fort of resistance (modern) 
+103031 Lower Soldier (Deceased): One-handed axe: Underground port 
+103032 Lower Soldier (Deceased): One-handed axe: Fairy's side 
+103040 Lower Soldier (Deceased): Two-Handed Bow: Fort of Resistance (Modern) 
+103041 Lower Soldier (Deceased): Two-Handed Bow: Underground Port 
+103050 Lower Soldier (Deceased): Bow: Fire and Arrow 
+103051 Lower Soldier (Deceased): Bow: Fire and Arrow: Hidden Port 
+103100 Lower Soldier (Raw): Dagger 
+103110 Lower Soldier (Raw): One-handed sword 
+103111 Lower Soldier (Raw Man): One Hand Sword: The Memory of the Giant 
+103120 Lower Soldier (Live): One-handed axe 
+103121 Lower Soldier (Raw): One Hand Axe: The Memory of the Giant 
+103130 Lower soldier (raw): Bow 
+103131 Lower Soldier (Raw): Bow: Memories of giants 
+105000 Fairy Shrine Maiden: Bare Hands 
+105010 Fairy Shrine Maiden: Cane 
+106000 Dark Priest (Deceased): Color (1)_No Mask 
+106001 Dark Priest (Dead): Color (1)_Maskless Against GerdrazaCobos 
+106009 Dark Priest (Deceased): Color (1)_No Mask:Soul Black: Kiseki Street Gerdra 
+106010 Dark Priest (Deceased): Color (1)_No Mask: Shield 
+106020 Dark Priest (Deceased): Color (1)_Mask 
+106021 Dark Priest (Deceased): Color (1)_Masked: Tomb of Immortality 
+106030 Dark Priest (Deceased): Color (1)_Masked: Shield 
+106200 Dark Priest (Deceased): Color (3) _ Head C 
+106210 Dark Priest (Deceased): Color (3) _ Head C: Shield 
+107000 Parasite Spider (Parasitic) 
+107001 Parasite Spider (Parasitic): Poison: Kiseki Town Gerdra 
+108000 Rogue :Dagger x 2: Hunting Forest 
+108001 Rogue: Dagger x 2: Castle in Ruins 
+108010 Rogue (deceased): One hand mallet × 2: Hunting Forest 
+108011 Rogue (deceased): One hand mallet × 2: Castle in ruins 
+108020 Rogue (Deceased): Two Bows x 2: Hunting Forest 
+108021 Rogue :Two Bows x 2: Castle in Ruins 
+113000 Sailor (deceased): One-handed sword; small shield: underground port 
+113001 Sailor (deceased): One-handed sword; small shield: Dsuke village 
+113010 Sailor (deceased): Song sword x 2: Underground port 
+113011 Sailor (deceased): Song sword × 2:D Suke mura 
+113020 Sailor (deceased): Two-handed bow: underground port 
+113021 Sailor (deceased): Two-handed bow: D-Suke-mura 
+115000 Deceased: Traveler's Clothing ♂: Bare hands: Maduro (modern) 
+115001 Dead: Traveler's Clothes ♂: Bare Hands: The Edge of the Fairy 
+115002 Dead: Traveler's Clothes ♂: Bare Hands: The Castle of Ruins 
+115003 Dead: Traveler's Clothing ♂: Bare Hands: Torture 
+115004 Deceased: Traveler's Clothing ♂: Bare Hands: The Home of the Dragon 
+115005 Dead: Traveler's Clothing ♂: Bare Hands: The City of Spiders 
+115006 Deceased: Traveler's Clothing ♂: Bare Hands: Gap's Cave 
+115010 Deceased: Traveler's Clothing ♂: Dagger: Maduro (Modern) 
+115011 The Dead: The Traveler's Clothing ♂: Dagger: The Castle of Ruins 
+115012 Dead: Traveller's Clothing ♂: Dagger: Torture 
+115013 Deceased: Traveler's Clothing ♂: Dagger: The Home of the Dragon 
+115014 The Dead: Traveler's Clothes ♂: Dagger: The City of Spiders 
+115015 Deceased: Traveler's Clothing ♂: Dagger: Cave 
+115019 Deceased: Traveler's Clothing ♂: Dagger: The Dragon's Home: Soul Black 
+117000 Statue: Pawn: Spear: Shield 
+117010 Statue: Pawn: Spear 
+118000 Dark Wizard (Deceased): Color (1): Head A: Hunting Forest 
+118001 Dark Wizard (Deceased): Color (1): Head A: Death penalty 
+118100 Dark Wizard (Deceased): Color (2): Head A 
+118110 Dark Wizard (Deceased): Color (2): Head B: Castle Town of Fog (Modern) 
+118111 Dark Wizard (Deceased): Color (2): Head B: Dragon's Shrine 
+118112 Dark Wizard (Deceased): Color (2): Head B: Institute of Dragons 
+118200 Dark Wizard (Deceased): Color (3): Head B 
+118201 Dark Wizard (Deceased): Color (3): Head B: Kiseki Street Gerdra 
+119000 Lion Black Mage (Born) 
+121000 Giant Lower Soldier (Giant): Bare Hands 
+121001 Giant Lower Soldier (Giant): Bare hands: Flying and appearing 
+121010 Giant Lower Soldier (Giant): Two-Handed Club 
+121020 Giant Lower Soldier Poison (Giant): Bare Hands 
+121030 Giant Lower Soldier Fire (Giant): Bare Hands 
+122000 Bernice Knight: Two-Handed Sword 
+122010 Bernice Knight: Assault Spear 
+122020 Bernice Knight: One Hand Mallet 
+122030 Bernice Knight: Crossbow 
+122100 Knight of Bernice: Color (2): Two-Handed Sword 
+122110 Knight of Bernice: Color (2): Assault Spear 
+122120 Knight of Bernice: Color (2): One Hand Mallet 
+122130 Bernice Knight: Color (2): Crossbow 
+123000 Deformed Shadow (Born): Mask A:2 Swordnails 
+123002 The Shadow of the Metamorphosis (Born): Mask A:2 Swordclaw: Hidden Port 
+123010 Deformed Shadow (Born): Mask A: Dagger: Stabbing Sword 
+123020 Deformed Shadow (Born): Mask B:2 Swordnails 
+123022 The Shadow of the Metamorphosis (Born): Mask B:2 Swordclaw: Hidden Port 
+123030 Deformed Shadow (Born): Mask B: Dagger: Stabbing Sword 
+124000 Assassin (Born): Mask A:2 Swordnails 
+124010 Assassin (Born): Mask A: Dagger 
+124020 Assassin (Born): Mask A: Song Sword 
+124030 Assassin (Born): Mask A: Bow 
+124040 Assassin (Born): Mask B:2 Swordnails 
+124050 Assassin (Born): Mask B: Dagger 
+124060 Assassin (Born): Mask B: Song Sword 
+124070 Assassin (Born): Mask B: Bow 
+124100 Assassin (Born): Color (2): Mask A:2 Swords: Castle of Ruins 
+124101 Assassin (Born): Color (2): Mask A:2 Swords: Torture Pit 
+124110 Assassin (Born): Color (2): Mask A: Dagger: Castle of Ruins 
+124111 Assassin (Born): Color (2): Mask A: Dagger: Torture Site 
+124120 Assassin (Born): Color (2): Mask A: Song Sword: Castle of Ruins 
+124121 Assassin (Born): Color (2): Mask A: Song Sword: Torture Site 
+124130 Assassin (Born): Color (2): Mask A: Bow: Castle of Ruins 
+124131 Assassin (Born): Color (2): Mask A: Bow: Torture Place 
+124140 Assassin (Born): Color (2): Mask B:2 Swords: Castle of Ruins 
+124141 Assassin (Born): Color (2): Mask B:2 Swords: Torture Ground 
+124150 Assassin (Born): Color (2): Mask B: Dagger: Castle of Ruins 
+124151 Assassin (Born): Color (2): Mask B: Dagger: Torture Site 
+124160 Assassin (Born): Color (2): Mask B: Song Sword: Castle of Ruins 
+124161 Assassin (Born): Color (2): Mask B: Song Sword: Torture Site 
+124170 Assassin (Born): Color (2): Mask B: Bow: Castle of Ruins 
+124171 Assassin (Born): Color (2): Mask B: Bow: Torture Place 
+125001 Undead Citizen: Poison: Scum Bottom 
+125004 Undead Citizen: Explosion: Saint's Tomb 
+125009 Undead Citizens: Explosion: Soul Black: Prison of Oblivion 
+125010 Undead Citizen: Explosion: Trap After Boss 
+125011 Undead Citizens: Normal: Prison of Oblivion 
+125012 Undead Citizen: Normal: Prison of Oblivion (Tower of Sinners) 
+125013 Undead Citizen: Normal: Kuzbottom 
+125014 Undead Citizen: Acid: The Nest of The Guarded Dragon 
+125015 Undead Citizens: Petrified: Prisons of Oblivion 
+125016 Undead Citizen: Explosion: Soul Black: Kuz Bottom 
+125017 Undead Citizens: Petrified: Prison of Oblivion (Tower of Sinners) 
+127000 Dead Workers (Dead): Bare Hands: Hunting Forest 
+127001 Dead Workers (Dead): Bare Hands: The Tomb of Immortality 
+127002 Dead Workers (Dead): Bare hands: Gerdraza Kobos 
+127003 Dead Workers (Dead): Bare Hands: Valley of The Reservoir 
+127004 Dead Workers (Dead): Bare hands: The Tomb of the Saints 
+127005 The Worker of the Dead :Bare hands: The Old Dark Hole 
+127010 Dead Workers (Dead): Torch: Hunting Forest 
+127011 Dead Workers (Dead): Torch: The Tomb of Immortality 
+127020 Dead Workers (Dead): Broken Sword: Hunting Forest 
+127030 Dead Workers (Dead): Bare Hands (Equipment 4): Valley of The Reservoir 
+129000 The Keeper of the Forest: Color (1): Cane: Old Dark Hole 
+129010 The Keeper of the Forest: Color (1): Bell: The Old Dark Hole 
+129020 The Keeper of the Forest: Color (1): Bell: Wand 
+129030 The Keeper of the Forest: Color (1): Bare Hands: Bell 
+129040 The Keeper of the Forest: Color (1): Cane: Bell 
+129050 The Keeper of the Forest: Color (1): Bell: Bell 
+129100 The Keeper of the Forest: Color (2): Bare Hands: Wand 
+129110 The Keeper of the Forest: Color (2): Cane: Wand 
+129120 The Keeper of the Forest: Color (2): Bell: Wand 
+129130 The Keeper of the Forest: Color (2): Bare Hands: Bell 
+129140 The Keeper of the Forest: Color (2): Cane: Bell 
+129150 The Keeper of the Forest: Color (2): Bell: Bell 
+131000 Cleric: War 
+131010 Cleric: Bell 
+131020 Cleric: Cane 
+132000 Skeleton: 2 Swords: Hunting Forest *Immortality 
+132001 Skeleton: 2 Swords: Hunting Forest *Death 
+132002 Skeleton: 2 Swords: Immortal Temple *Immortal 
+132003 Skeleton: 2 Swords: Reservoir Valley *Death 
+132010 Skeleton: One-handed sword: Hunting Forest ※Immortality 
+132011 Skeleton: One-handed bent sword: Hunting Forest * Death 
+132012 Skeleton: One-handed sword: Immortal Temple of Immortality *Immortal 
+132013 Skeleton: One-handed sword: Maduro * Dead 
+132020 Skeleton: One-handed stabbing: Hunting Forest *Immortality 
+132021 Skeleton: One-handed stabbing: Hunting Forest * Dead 
+132022 Skeleton: One-handed stabbing: Hunting forest ※ dead, skeleton aristocratic war version 
+132023 Skeleton: One-handed stabbing: Immortal Temple of Immortality 
+132030 Skeleton: Bow: Hunting Forest *Immortality 
+132031 Skeleton: Bow: Hunting Forest * Death 
+132032 Skeleton: Bow: Mausoleum of Immortality *Immortal 
+132090 Skeleton: For cut scenes 
+133000 Wheel Skeleton: Bare Hands: Hunting Forest 
+133001 Wheel skeleton: bare hands: hunting forest, skeleton aristocratic war version 
+133010 Wheel Skeleton: Song Sword: Hunting Forest 
+133020 Wheel Skeleton: The Great Sword: Hunting Forest 
+134000 Dwarf 
+135000 Heavy Dwarf: Two-Handed Axe x 2: Head A 
+135010 Heavy Dwarf: Two-handed mallet: Head A 
+135020 Heavy Dwarf: Bow: Head A 
+135030 Heavy Dwarf: Two-Handed Axe x 2: Head B 
+135040 Heavy Dwarf: Two Hands Mallet: Head B 
+135050 Heavy Dwarf: Bow: Head B 
+136000 Dark Reith (deceased): The Great Sword of Both Hands: The Castle Town of Fog (past) 
+136001 Dark Reis (Deceased): Two-Handed Sword: Submerged Castle (Full) 
+136020 Dark Reith (Dead) 
+137000 Necromancer (Immortal): Bare Hands 
+137010 Necromancer (Immortal): Shield: Wand 
+137020 Necromancer (Immortal): Cane 
+137021 Necromancer (Immortal): Shield: Cane: Boss: Kiseki Street Gerdra 
+137022 Necromancer (Immortal): Shield: Cane: Altar of Amana 
+138000 Tortureman: Torture Instruments 
+138001 Tortureman: Torture Instruments: Soul Black 
+138010 Tortureman: Whip 
+138011 Tortureman: Whip: Soul Black 
+139000 Man-made Immortal: Sickle: Hunting Forest 
+139001 Man-made Immortal: Sickle: Valley of The Reservoir 
+139008 Man-made Immortals: Sickle: Soul Black: Hunting Forest 
+139009 Man-made Immortal: Sickle: Soul Black 
+139010 Man-made Immortal: Bare Hands: Hunting Forest 
+140000 Belka's Crow 
+141000 Reinforced Immortals: Anne Deal's House 
+141002 Strengthening Immortals: Prison of Oblivion 
+146000 The Dead: The Clothes of the Wealthy ♂: Dagger: The City of Spiders 
+146001 The Dead: The Clothes of the Wealthy ♂: Dagger: Underground Harbor 
+146010 The Dead: The Clothes of the Wealthy♂: Stabbing Sword: The City of Spiders 
+146011 Deceased: ♂ the Clothes of the Wealthy: Stabbing: Underground Harbor 
+146020 Deceased: Clothes of the Wealthy ♂: Daggers & Torches: The City of Spiders 
+147000 Deceased: Sick ♂: The Living House of the Dragon (Modern) 
+147001 Deceased: Sick ♂: Altar of Amana 
+147002 Dead: Sick ♂: The Fairy's Edge 
+147003 Dead: ♂ sick man's clothes: a castle in ruins 
+147004 Dead: Sick ♂: Gerdraza Kobos 
+148000 Deceased: Farmer's Clothes ♂: Two Hands Mallet: Head Part 1: Volcanic Steel Mill 
+148001 Deceased: Farmer's Clothes ♂: Two Hands Mallet: Head Part 1: Coal Mine Village 
+148010 Deceased: Farmer's Clothes ♂: Two Hands Mallet: Head Part 2: Volcanic Steel Mill 
+148011 Deceased: Farmer's Clothes ♂: Two Hands Mallet: Head Part 2: Coal Mine Village 
+148020 Deceased: Farmer's Clothes ♂: Two-Handed Sickle: Head Part 1: Volcano Steel Mill 
+148021 Deceased: Farmer's Clothes ♂: Two-Handed Sickle: Head Part 1: Coal Mine Village 
+148030 Deceased: Farmer's Clothing ♂: Two-Handed Sickle: Head Part 2: Volcano Steel Mill 
+148031 Deceased: Farmer's Clothing ♂: Two-Handed Sickle: Head Part 2: Coal Mine Village 
+148040 Deceased: Farmer's Clothes ♂: Torch: Head Part 1: Kiseki Street Gerdra 
+148041 Deceased: Farmer's Clothing ♂: Torch: Head Part 2: Kiseki Street Gerdra 
+149000 Deceased: Steel mill staff_Apron: Mingiron Castle 
+149010 Deceased: Steelmill man _ No apron: Molten Castle 
+150000 Statue: Night 
+151000 Kingdom Soldier Heavy Warrior: Color (1): Two-Handed Mallet: Molten Castle 
+151009 Kingdom Soldier Heavy Warrior: Color (1): Two-Handed Mallet: Molten Castle: Soul Black 
+151200 Kingdom Soldier Warrior: Color (3): Two-Handed Battle Hammer: The Forest of Decayed Giants 
+151208 Kingdom Soldier Warrior: Color (3): Two-Handed Mallet: Soul Black: Kiseki-gai Gerdra 
+151209 Kingdom Soldier Warrior: Color (3): Two-Handed Mallet: Soul Black: The Forest of Decaying Giants 
+151210 Royal Warrior: Color (3): One-handed club 
+152000 Kingdom Soldier Warrior: Two-Handed Sword 
+152001 Kingdom Soldier Warrior: Two-Handed Sword: Infinite Springing Spirit 
+152002 Kingdom Soldier Warrior: Two-Handed Sword: Prison of Oblivion 
+152010 Kingdom Warrior: Crossbow 
+152011 Kingdom Soldier Warrior: Crossbow: Prison of Oblivion 
+153000 Royal Guard: Axe Spear 
+153002 Royal Guard: Axe Spear: Altar of Amana 
+153003 Royal Guard: Axe Spear: Immortal Mausoleum 
+153010 Royal Guard: Oversized Sword 
+153012 Royal Guard: Oversized Sword: Altar of Amana 
+153013 Royal Guard: Extra Large Sword: Tomb of Immortality 
+154000 Skeleton Aristocracy: Axe Spear: Hunting Forest 
+154010 Skeleton Aristocracy: Sickle: Hunting Forest 
+154020 Skeleton Aristocracy: Wand: Hunting Forest 
+155000 Lizard Man 
+156000 Helmet Skeleton: No Armor: Helmet: Swords x 2: Hunting Forest *Immortality 
+156001 Helmet Skeleton: No Armor: Helmet: Curved Sword x 2: Hunting Forest * Death 
+156010 Helmet Skeleton: No Armor: Helmet: Swords & Shields Hunting Forest *Immortality 
+156011 Helmet Skeleton Without Armor : Helmet : Swords & Shields - Hunting Forest * Death 
+156020 Helmet Skeleton: No Armor: Helmet: Stabbing Sword: Hunting Forest *Immortality 
+156021 Helmet Skeleton: No Armor: Helmet: Stabbing Sword: Hunting Forest * Death 
+156030 Helmet Skeleton: No Armor: Helmet: Two-Handed Bow: Hunting Forest *Immortality 
+156031 Helmet Skeleton: No Armor: Helmet: Two-Handed Bow: Hunting Forest * Death 
+157000 Armor Skeleton: No Armor: Head Equipment: Curved Sword x 2: Hunting Forest ※ Immortality 
+157001 Armor Skeleton: No Armor: Bandana: Song Sword x 2: Hunting Forest *Immortality 
+157002 Armor Skeleton: No Armor: Helmet: Song Sword x 2: Hunting Forest *Immortality 
+157003 Armor Skeleton: No Armor: Crown: Song Sword x 2: Hunting Forest * Immortality 
+157004 Armor Skeleton: Armor: Head Less Equipped: Curved Sword x 2: Hunting Forest ※Immortality 
+157005 Armor Skeleton: Armor: Bandana: Song Sword x 2: Hunting Forest *Immortality 
+157006 Armor Skeleton: Armor: Helmet: Swords x 2: Hunting Forest *Immortality 
+157007 Armor Skeleton: Armor: Crown: Song Sword x 2: Hunting Forest *Immortality 
+157010 Armor Skeleton: No Armor: Head Equipment: Song Sword & Shield: Hunting Forest * Immortality 
+157011 Armor Skeleton: No Armor: Bandana: Song Sword & Shield: Hunting Forest *Immortality 
+157012 Armor Skeleton: No Armor: Helmet: Song Sword & Shield : Hunting Forest *Immortality 
+157013 Armor Skeleton: No Armor: Crown: Song Sword & Shield: Hunting Forest * Immortality 
+157014 Armor Skeleton se armor: Head less equipped: Song sword & shield: Hunting forest ※ Immortality 
+157015 Armor Skeleton: Armor: Bandana: Song Sword & Shield: Hunting Forest *Immortality 
+157016 Armor Skeleton S.A.M.E.D.A.Â-No-Swords-Swords-Shield-Hunting Forest *Immortality 
+157017 Armor Skeleton: Armor: Crown: Song Sword & Shield: Hunting Forest * Immortality 
+157020 Armor Skeleton: No Armor: Head Equipment: Stabbing Sword: Hunting Forest * Immortality 
+157021 Armor Skeleton: No Armor: Bandana: Stabbing Sword: Hunting Forest * Immortality 
+157022 Armor Skeleton: No Armor: Helmet: Stabbing Sword: Hunting Forest *Immortality 
+157023 Armor Skeleton: No Armor: Crown: Stabbing Sword: Hunting Forest * Immortality 
+157024 Armor Skeleton: Armor: Head Less Equipped: Stabbing Sword: Hunting Forest * Immortality 
+157025 Armor Skeleton: Armor: Bandana: Stabbing Sword: Hunting Forest * Immortality 
+157026 Armor Skeleton: Armor: Helmet: Stabbing Sword: Hunting Forest *Immortality 
+157027 Armor Skeleton: Armor: With Armor: Crown: Stabbing Sword: Hunting Forest * Immortality 
+157030 Armor Skeleton: No Armor: Head Equipment: Two-Handed Bow: Hunting Forest * Immortality 
+157031 Armor Skeleton: No Armor: Bandana: Two-Handed Bow: Hunting Forest * Immortality 
+157032 Armor Skeleton: No Armor: Helmet: Two-Handed Bow: Hunting Forest * Immortality 
+157033 Armor Skeleton: No Armor: Crown: Two-Handed Bow: Hunting Forest * Immortality 
+157034 Armor Skeleton: Armor: Head less equipped: two-handed bow: hunting forest ※ immortality 
+157035 Armor Skeleton: Armor: Bandana: Two-Handed Bow: Hunting Forest * Immortality 
+157036 Armor Skeleton: Armor: Helmet: Two-Handed Bow: Hunting Forest * Immortality 
+157037 Armor Skeleton: Armor With: Crown: Two-Handed Bow: Hunting Forest * Immortality 
+157050 Armor Skeleton: No Armor: Head Equipment: Song Sword x 2: Hunting Forest * Death 
+157051 Armor Skeleton: No Armor: Bandana: Song Sword x 2: Hunting Forest * Death 
+157052 Armor Skeleton: No Armor: Helmet: Curved Sword x 2: Hunting Forest * Death 
+157053 Armor Skeleton: No Armor: Crown: Song Sword x 2: Hunting Forest * Death 
+157054 Armor Skeleton: Armor: Head Equipped: Song Sword x 2: Hunting Forest * Death 
+157055 Armor Skeleton: Armor: Bandana: Song Sword x 2: Hunting Forest * Death 
+157056 Armor Skeleton: Armor: Helmet: Swords x 2: Hunting Forest * Death 
+157057 Armor Skeleton: Armor: Crown: Curved Sword x 2: Hunting Forest * Death 
+157058 Armor Skeleton: Armor: With Armor: Crown: Curved Sword × 2: Hunting Forest ※ Dead Skeleton Aristocratic War Edition 
+157060 Armor Skeleton : No Armor : Head Equipped : Song Sword & Shield : Hunting Forest * Death 
+157061 Armor Skeleton: No Armor: Bandana: Song Sword & Shield: Hunting Forest * Death 
+157062 Armor Skeleton : No Armor : Helmet : Song Sword & Shield : Hunting Forest * Death 
+157063 Armor Skeleton: No Armor: Crown: Song Sword & Shield: Hunting Forest * Death 
+157064 Armor Skeleton S.A.M.A.Â Head Equipped : Song Sword & Shield : Hunting Forest * Death 
+157065 Armor Skeleton: Armor: Bandana: Song Sword & Shield: Hunting Forest * Death 
+157066 Armor Skeleton With Armor : Helmet : Swords & Shields - Hunting Forest * Death 
+157067 Armor Skeleton: Armor: Crown: Song Sword & Shield: Hunting Forest * Death 
+157068 Armor Skeleton S.A.M.A.N.Â-Swords-Swords-Shield-Hunting Forest *Dead Skeleton Aristocratic War Edition 
+157070 Armor Skeleton: No Armor: Head Equipment: Stabbing Sword: Hunting Forest * Death 
+157071 Armor Skeleton: No Armor: Bandana: Stabbing Sword: Hunting Forest * Death 
+157072 Armor Skeleton: No Armor: Helmet: Stabbing Sword: Hunting Forest * Death 
+157073 Armor Skeleton: No Armor: Crown: Stabbing Sword: Hunting Forest * Death 
+157074 Armor Skeleton: Armor: Head Less Equipped: Stabbing Sword: Hunting Forest * Death 
+157075 Armor Skeleton: Armor: Bandana: Stabbing Sword: Hunting Forest * Death 
+157076 Armor Skeleton: Armor: Helmet: Stabbing Sword: Hunting Forest * Death 
+157077 Armor Skeleton: Armor: With Armor: Crown: Stabbing Sword: Hunting Forest * Death 
+157080 Armor Skeleton: No Armor: Head Equipment: Two-Handed Bow: Hunting Forest * Death 
+157081 Armor Skeleton: No Armor: Bandana: Two-Handed Bow: Hunting Forest * Death 
+157082 Armor Skeleton: No Armor: Helmet: Two-Handed Bow: Hunting Forest * Death 
+157083 Armor Skeleton: No Armor: Crown: Bow: Hunting Forest * Death 
+157084 Armor Skeleton: Armor: Head equipped: Two-handed bow: Hunting forest * Death 
+157085 Armor Skeleton: Armor: Bandana: Two-Handed Bow: Hunting Forest * Death 
+157086 Armor Skeleton: Armor: Helmet: Two-Handed Bow: Hunting Forest * Death 
+157087 Armor Skeleton: Armor With: Crown: Bow: Hunting Forest * Death 
+201000 Slave Beasts: Volcanic Steel Works: With Melted Iron Vases 
+201010 Slave Beasts: Volcanic Steel Works: No Melted Iron Vase 
+201100 Slave Beast: Piglet Madura (also used in The Kiseki Town Gerdra) 
+202000 Slave Beast (Wild) 
+202100 Slave Beast (Wild): For The Gerdra, A Ieishi Street 
+203000 Parasite Spider: Kiseki Street Gerdra 
+203001 Parasite Spider: Poison: Kiseki Street Gerdra 
+203002 Parasite Spider: Boss For War: Kiseki Street Gerdra 
+203009 Parasite Spider: Soul Black: Kiseki Street Gerdra 
+204000 Great Moss 
+205000 Poison Horn: Poison: Fairy's Side 
+205001 Poison Horn: Poison: The City of Spiders 
+205009 Poison Horn: Poison: The City of Spiders: Soul Black 
+205100 Poison Hornworm: Acid: Kiseki Town Gerdra 
+205102 Poison Hornworm: Acid: Altar of Amana 
+206000 Needle maggots 
+206100 Needle maggots: different colors 
+209000 Hunting Dogs: Color (1) 
+209002 Hunting Dog: Color (1): Scum Bottom 
+209100 Hunting Dogs: Color (2) 
+209200 Hunting Dogs: Color (3) 
+210000 Basilisk: Color (1): Forest of Shadows 
+210001 Basilisk: Color (1): Scum Bottom 
+210002 Basilisk: Color (1): Anne Deal's House 
+210003 Basilisk: Color (1): The Tomb of the Saints 
+210010 Basilisk: Eyeball Crush: Kiseki Street Gerdra 
+210100 Basilrisk: Color (2) 
+210200 Basilrisk: Color (3) 
+212000 Wyvern 
+212001 Wyburn: The Nest of The Guard Dragon (1) 
+212002 Wyburn: The Nest of The Guard Dragon (2) 
+212003 Wyburn: The Nest of The Guard Dragon (3) 
+213000 Stone Defense: A Bastion of Resistance (Modern) 
+213001 Stone Defense: The Edge of the Fairy 
+213002 Ishimori: The City of Spiders 
+213003 Stone Defense: A Coal Mine Village 
+213004 Ishimori: Iwamine Castle 
+213005 Ishimori: Living Forest (past) 
+213006 Ishimori: Submerged Castle: Half -Body (Past) 
+213007 Stone Mori: Dragon's Shrine 
+213008 Ishimori: DSuke village 
+213009 Stone Defense: Submerged Castle: Full Water 
+213010 Ishimori: Dragon Research Institute 
+213100 Stone Defense: Explosion 
+213101 Stone Defense: Explosion: The Old Dark Hole 
+214000 Fang Beast 
+214100 Fang Beast (2) 
+216000 Door possessed: Iwamine Castle 
+216001 Door possession: Submerged Castle: Half-body (past) 
+216002 Door Possessed: Dragon's Shrine 
+216003 Door possessed: Submerged Castle: Full 
+216004 Door Possessed: Submerged Castle: Dragon's Institute 
+217000 A hermit in the dark 
+218000 Humanity (enemy): Large 
+218100 Humanity (enemy): Medium 
+218200 Humanity (enemy): Small: Submerged: Half-body (past) 
+218201 Humanity (enemy): Small: Submerged: Full 
+219000 Bay Grant Hawk 
+220000 Giant VenomOus Worm: Acid: Valley of Reservoirs 
+220002 Giant VenomOus Worm: Acid: Altar of Amana 
+222000 Giant Basilisk: Color (2): Anne Deal's House 
+222001 Giant Basilisk: Color (2): Living Forest (Second Half) 
+223000 Corpse Asse Rat: Color (1) 
+223100 Corpse Asse Rat: Color (2) 
+223200 Corpse Asse Rat: Color (3) 
+223300 Corpse Asse Rat: Color (4) 
+224000 Coal tar 
+225000 Light Worm 
+226000 Dog Rat 
+226001 Dog Rat: Boss War: Saint's Tomb 
+226100 Dog Mouse: Color (2) 
+226200 The King of Rats 
+226201 Rat King: Ghosts: Generic 
+226202 King of Rats: The Tomb of the Saints 
+227000 Stray dog 
+227001 Stray Dog: Hidden Port 
+227009 Wild Dog: Soul Black: Prison of Oblivion 
+300000 Auger :Color (1): Fossil Forest 
+300001 Auger: Color (1): Fairy's Side 
+300002 Auger : Color (1): Anne Deal's House 
+300100 Auger: Color (2) 
+301000 Wandering Knight (Dead): Head A 
+301001 Wandering Knight (Dead): One Hand Sword: The Forest of Decaying Giants 
+301003 Wandering Knight (Dead): One Hand Sword: The Shadow of the Imaginary Forest 
+301010 Wandering Knight (Dead): Spear A: Prison of Oblivion 
+301011 Wandering Knight (Dead): Spear A: Forest of Hunting 
+301020 Wandering Knight (Dead): Spear B: The Nest of the Guarded Dragon 
+301030 Wandering Knight (Dead): Spear C: Altar of Amana 
+301031 Wandering Knight (Dead): Head D: The Last Dungeon 
+302000 Prison man (deceased): Color (1): Two-handed sickle: Castle in ruins 
+302001 Prison man (deceased): Color (1): Two-handed sickle: Iwamine Castle 
+302009 Prison Man (Deceased): Two-Handed Sickle: Prison of Oblivion: Soul Black 
+302010 Prison man (deceased): Color (1): Two-handed long axe: Castle in ruins 
+302011 Prison man (deceased): Color (1) Two-handed long axe: Iwamine Castle 
+302020 Prison man (deceased): Color (1): Two-handed hammer: castle in ruins 
+302021 Prison man (deceased): Color (1) Two-handed hammer: Iwamine Castle 
+302100 Prison man (deceased): Color (2): Two-handed sickle 
+302110 Prison man (deceased): Color (2): Two-handed long axe 
+302120 Prison man (deceased): Color (2): Two hands war mallet 
+303300 Double-sided warrior: snake head 
+303301 Two-sided warrior: Snake head: Forest of shadows in the shadows of the emptiness 
+304000 Banshee (Dead): Scary Face 
+304010 Banshee (Deceased): Beautiful Face 
+305000 Damon Knight (Dead) 
+305010 Damon Knight (Dead): Ignition 
+306000 Damon Armor (Dead): Sword: Molten Castle 
+306001 Damon Armor (Dead): Sword: Molten Castle: Full-body flame 
+306008 Damon Armor (Deceased): Sword: Molten Castle: Full-Body Flame Soul Black 
+306009 Damon Armor (Dead): Sword: Molten Castle: Soul Black 
+306010 Damon Armor (Dead): Bow: Molten Castle 
+306011 Damon Armor (Dead): Bow: King's Castle Drangreig 
+307000 Durahan (deceased) 
+307001 Durahan (deceased): Two-swords style: Kiseki-cho Gerdra 
+307100 Durahan (Raw) 
+307101 Durahan (Born): Ghost: The Forest of Shadows 
+307108 Durahan (Born): White Spirit: The Nest of the Guarded Dragon 
+307109 Durahan (born): White Spirit: King's Castle Drangreig 
+307110 Durahan (born): Head only: Forest of shadows of emptiness 
+308000 Lion Warrior 
+308100 Lion Warrior (2) 
+309000 Giant Senior Soldier (Giant): 2 Swords 
+309001 Giant Senior Soldier (Giant): 2 Swords: Kuzbottom 
+309600 New Giant Senior Soldier (Deceased) 
+309601 New Giant Senior Soldier (for Debugging) 
+309700 New Giant Senior Soldier (Live) 
+311000 Cavalry: Cavalry Soldiers 
+312000 Immortal Senior Soldier (Immortal): Sickle: Robe: The Nest of the Guarded Dragon 
+312001 Immortal Senior Soldier (Immortal): Sickle: Robe: Immortal Mausoleum 
+312010 Immortal Senior Soldier (Immortal): Spear: Robe 
+312011 Immortal Senior Soldier (Immortal): Spear: Robe: Valley of The Reservoir 
+312020 Immortal Senior Soldier (Immortal): Sickle: Armor 
+312021 Immortal Senior Soldier (Immortal): Sickle: Armor: The Immortal Mausoleum 
+312030 Immortal Senior Soldier (Immortal): Spear: Armor 
+312031 Immortal Senior Soldier (Immortal): Spear: Armor: Valley of The Reservoir 
+312032 Immortal Senior Soldier (Immortal): Spear: Armor: Immortal Mausoleum 
+312040 Immortal Senior Soldier (Immortal): Sickle: Naked 
+312050 Immortal Senior Soldier (Immortal): Spear: Naked 
+313000 Falcon Warrior Swords - Shield : No Hawk 
+313010 Falcon Warrior Sashimi Sword Shield: No Hawk 
+313020 Takataku Warrior: Sashimi Sword 
+313021 Takataku Warrior Sashimi & Hawk: Gap's Cave (Lap 2) 
+313030 Falcon Warrior: Bow: No Hawk 
+313031 Falcon Warrior: Bow: No Hawk: Gap Cave (Lap 2) 
+314000 Elephant Man (Dead): Spear Axe 
+315000 Elephant (Born) 
+316000 Captured Magician (Raw) 
+316001 Captured Magician (Live Man): Valley of The Reservoir 
+317000 Dragon Professor 
+318000 Bay Grant: No luggage 
+318010 Bay Grant: Luggage available 
+318020 Bay Grant: Luggage available 
+318030 Bay Grant (for debugging: Enhanced LV1) 
+318040 Bay Grant (for debugging: Enhanced LV2) 
+319000 Damon Armor (Deceased): Mass Production: Sword: Molten Castle 
+319009 Damon Armor (Deceased): Mass Production: Sword: Molten Castle: Soul Black 
+319010 Damon Armor (Deceased): Mass Production Type: Bow: Molten Iron Castle 
+321000 []-Mimic: Wood 
+321001 [] Mimick: Wood: Scum Bottom 
+321002 η-mimic: Tree: Altar of Amana 
+321003 [] Mimic: Tree: Valley of The Reservoir 
+321004 η-mimic: Wood: The door way of Faros 
+321010 []-Mimic: Iron 
+321011 []-Mimic:Iron:Molten Iron Castle 
+321012 []-Mimic: Iron: The Tomb of Immortality 
+324000 Gargoyle 
+325000 Warrior in the Mirror 
+325010 Warrior in the Mirror: King's Castle D'Angreig 
+326000 Butcher 
+326010 Butcher (for debugging) 
+327000 Bone Dragon 
+330000 Ancient Warriors: Two-Handed Sword & Medium Shield: Heide Great Fire Tower 
+330010 Ancient Warriors: Oversized Sword: Heide Great Fire Tower 
+330019 Ancient Warriors: Oversized Sword: Strong: Heide Great Fire Tower 
+330020 Ancient Warriors: Axe Spears & Great Shields: Heide Great Fire Tower 
+330030 Ancient Warrior: Two-Handed Long Axe: Heide Great Fire Tower 
+330040 Ancient Warriors: Two-Handed Mallet: Heide Great Fire Tower 
+330049 Ancient Warriors: Two-Handed Mallet: Strong: Heide Great Fire Tower 
+331000 Demon Heavy Soldier: Two-Handed Sword & Medium Shield 
+331002 Demon Heavy Soldier: Two-Handed Sword & Medium Shield: The Nest of The Guard Dragon 
+331010 Damon Heavy Soldier: Oversized Sword 
+331011 Demon Heavy Soldier: Oversized Sword: The Nest of the Guarddragon 
+331020 Damon Heavy Soldier: Two-Handed Ax 
+331021 Demon Heavy Soldier: Two-Handed Long Axe: The Nest of the Guard Dragon 
+331030 Damon Heavy Soldier: Mallet 
+331031 Demon Heavy Soldier: Two-Handed Mallet: The Nest of the Guard Dragon 
+331040 Damon Heavy Soldier: One Hand Mallet 
+331041 Demon Heavy Soldier: One Hand Mallet: The Nest of the Guard Dragon 
+332000 Queen Knight A 
+332010 Queen Knight A (for debugging) 
+333000 Queen Knight B 
+334000 Queen Knight C 
+337000 Amazing Dead: Bare Hands 
+337001 Amazing Dead: Bare Hands: Valley of The Reservoir 
+337002 Amazing Dead: Bare Hands: Scum Bottom 
+337003 Amazing Dead: Bare hands: The Tomb of the Saints 
+337010 Amazing Dead: Torchi 
+337011 Amazing Dead: Torch: Scum Bottom 
+337020 Amazing Dead: Sword 
+337022 Amazing Dead: Sword: Scum Bottom 
+337023 Great Dead: Sword: The Tomb of the Saints 
+500000 Javazahat 
+501000 Naga 
+502000 Manscorpion ♂ 
+502001 Manscorpion ♂: Ghosts: The Shadow of the Hollow 
+502009 Manscorpion ♂: The White Spirit: The Forest of Shadows of The Shadows 
+503000 Manscorpion ♀ 
+503010 Manscorpion ♀ (for debugging) 
+504000 Mirror Night 
+506100 Agaduran Stand 
+506101 Agaduran Stand (Alter): The Old Dark Hole 
+506200 Wormhole 
+506500 Grave guard 
+506501 Tomb Guard: Ghosts: General 
+506509 Tomb Guard: White Spirit 
+507000 Rich 
+508000 Wraith 
+509000 Dark Bishop: Masked: The Tomb of Immortality 
+509009 Dark Bishop: Masked: Tomb of Immortality: Soul Black 
+511000 Phantom Knight 
+512000 Phantom Mage (Spirit) 
+513000 King Van Clad (past) 
+514000 King Van Clad (Hyundai) 
+514500 Van Clad King (modern) for in-game 
+514600 Old King 
+600000 Old Dragon: 2nd 
+601000 Salamander 
+601020 Salamander (after petrification) 
+602000 Beautiful Voice Frog 
+602020 Beautiful Voice Frog 
+603000 Spider Queen 
+603100 Spider Queen (Cliff) 
+607000 Molten iron daemon 
+608000 Corrosive insects (outer shell) 
+609000 Leader of the Giants SS 
+609010 Leader of the Giants SS (after petrification) 
+609100 Leader of the Giant SS (Phantom) 
+611000 Heavy Cavalry: Soldiers Only 
+611010 Heavy Cavalry: Soldiers Only (Black): Bow: King's Castle DranGreig 
+611500 Heavy Cavalry: Soldiers Only (Red): King's Castle D'Angreig 
+611510 Heavy Cavalry: Soldiers Only (Red): Heide Great Fire Tower 
+619100 Silver Chariot: Horse Only (for Deback) 
+619110 Silver Chariots: Coalescence 
+621000 Bodhidharma 
+622000 Corrosive insects (main body) 
+623000 Corrosive insects (children) 
+624000 Giant King *Death 
+624500 Giant King 
+625000 Ornstein 
+626000 Forgotten Sinner 
+627000 Queen's armor 
+628000 Giant Rat 
+700000 Dragon's Shrine Maiden for Cut Scene 
+700500 Dragon's Shrine Maiden for In-Game 
+700501 Dragon's Shrine Maiden for In Game: Ghosts: Generic 
+700502 Dragon's Shrine Maiden for In Game: King's Castle D'Angreig 
+700503 Dragon's Shrine Maiden for In-Game: The Immortal Mausoleum 
+701000 Dragon Shrine Maiden (Child) _ For Cut Scene 
+701500 Dragon Shrine Maiden (Child) For In-Game 
+702000 Queen (Modern) 
+703000 Queen (past) for cut scenes 
+703500 Queen (past)_for in-game 
+703600 New Queen 
+704000 Ladder shop_for cut scene 
+704500 Ladder shop_in for games 
+704501 Ladder Shop for In Game: Ghosts: Generic 
+704510 Ladder shop_for the cut scene: The Valley of the Reservoir 
+705000 For retired fire-proof woman 1_ cut scene 
+705100 Retired Fire Protection Woman 2 
+705300 Retired Fire Protection Woman 3 
+705500 Retired Fire Protection Woman 1_For In-Game 
+705501 Retired Fire Protection Woman 1_In For Game: Ghosts: Generic 
+705600 Retired Fire Protection Woman 2_In For Game 
+705601 Retired Fire Protection Woman 2_In For Game: Ghosts: Generic 
+705800 Retired Fire Protection Woman 3_In For Game 
+705801 Retired Fire Protection Woman 3_In For Game: Ghosts: Generic 
+721000 Kingdom Army Master (Modern) 
+721100 Kingdom Army Master (Past) 
+722000 tick researchers 
+723000 Housekeeper 
+723001 Housekeeper: Ghost: Generic 
+723010 For the housekeeper_cut scene: gap cave 
+724000 Captain of the SS 
+724001 SS Captain: Ghosts: General 
+724002 SS Leader: White Spirit 
+725000 Dragon's Shrine Festival Grandal 
+726000 Dwarf Gabalance: Gaping Cave 
+726001 Dwarf Gabalance: Ghosts: Generic 
+726002 Dwarf Gabalance: Valley of The Reservoir 
+726003 Dwarf Gabalance: Hidden Port 
+726004 Dwarf Gabalance: The Door way of Faros 
+726005 Dwarf Gabalance: The Bottom of The Scum 
+726006 Dwarf Gabalance: Altar of Amana 
+730000 I 1_ Oversized Sword Under Mirror Night 
+730001 Under Mirror Night 1_Oversized Sword: Anne Deal's House 
+730010 I under the mirror night 1_two-handed long axe 
+730020 I 1_One Hand Sword Under Mirror Night 
+731000 I 2_ Oversized Sword Under Mirror Night 
+731010 I 2_Two-Handed Axe Under Mirror Night 
+731011 Mirror Night Under Me 2_Two-Handed Ax: Anne Deal's House 
+731020 I 2_One Hand Sword Under Mirror Night 
+732000 Sorcerer Sinner 1 
+733000 Sorcerer Sinner 2 
+740000 The person who is the person who is stamped 
+741000 A broken-hearted blue warrior 
+741001 Heartbroken Blue Warrior: Ghosts: General 
+742000 Wandering Warrior One Hand Axe 
+742001 Wandering Warrior: Ghosts: Generic 
+742002 Wandering Warrior One Hand Axe: The Forest of Shadows of The Shadows 
+742003 Wandering Warrior One Hand Axe: Hunting Forest 
+742010 Wandering Warrior: The Great Sword 
+743000 Tsukiko Ya: The Decaying Giant Forest 
+743001 Moonlight: Ghosts: General Purpose 
+743002 Tsukiko:The Forest of The Shadow of The Void 
+743003 Tsukiko Grandfather: King's Castle Drangreig 
+743004 Tsukiko Grandfather: The Memory of the Giant 
+743007 Tsukiko Ya: White Spirit: For Rasbos 
+743008 Tsukiko Grandfather: The White Spirit: The Memory of the Giant 
+743009 Tsukiko Ya: White Spirit: Kiseki-gai Gerdra 
+744000 Patch: The Decaying Giant Forest 
+744001 Patch: Ghosts: Generic 
+744002 Patch: Kiseki Street Gerdra 
+744003 Patch: Valley of The Reservoir 
+744009 Patch: White Spirit 
+746000 Chasing Warriors: The Castle of Ruins 
+751000 Map: The Decaying Giant Forest (also for Maduro) 
+751001 Atlas: Ghosts: General 
+752000 The Lady Knight Akertilla: The House of Anne Deal 
+752001 Female Knight Akertilla: Ghosts: Generic 
+752002 Female Knight Akertilla: Prison of Oblivion 
+752003 Female Knight Akertilla: Valley of The Reservoir 
+752004 Female Knight Akertilla: Hidden Port 
+752005 Female Knight Akertilla: Kuzbottom 
+752006 Female Knight Akertilla: White Spirit: Kuzbottom 
+752007 Female Knight Akertilla: White Spirit: Molten Iron Castle 
+752008 Female Knight Akertilla: White Spirit: Hidden Port 
+752009 Female Knight Akertilla: The White Spirit: The Prison of Oblivion 
+753000 Bell Guard: Prison of Oblivion 
+753001 Bell Guard: Ghosts: General Purpose 
+753002 Bell Guard: Molten Iron Castle 
+753003 Bell Guard: Zako: Prison of Oblivion 
+753004 Bell Guard: Zako: Molten Iron Castle 
+753008 Bell Guard: Dark Spirit: Molten Castle 
+753009 Bell Guard: Dark Spirit: Prison of Oblivion 
+754000 Yorozu Babaa 
+754001 Yorozu Babaa: Ghosts 
+755000 Stalker Warrior 
+755010 Stalker Warrior_ With Both Hands 
+755020 Stalker Warrior_2 Sword 
+760000 Girl 1 of the Bard  
+760001 Bard Girl 1: Ghosts: General 
+760100 Girl 2 of the Bard 
+760101 The Girl of the Bard 2: Ghosts: General 
+760200 Captive Girl: King's Castle D'Angreig 
+760201 Captive Girl: Ghosts: General 
+760300 Banshee Bluff 2 
+760400 Banshee Bluff 3 
+761000 Armor shop: Madura (hyundai) 
+761001 Armor Shop: Ghosts: Generic 
+761010 Armor shop: Fairy's side 
+762000 Material shop: Reservoir Valley (also for Maduro) 
+762001 Material Shop: Ghosts: Generic 
+763000 Sorcerer: The Shadow of the Imaginary Forest (also for Maduro) 
+763001 Sorcerer: Ghosts: Generic 
+763010 Bookstore (Spider Town) 
+764000 Weapon Blacksmith 1: Tonkachi & Fire Scissors 
+764001 Weapon Blacksmith 1: Ghosts: Generic 
+764010 Weapon Blacksmith 1: Otsuchi 
+764300 Armor Blacksmith 1: Prison of Oblivion 
+764309 Armor Blacksmith 1: Ghosts: General Purpose 
+764310 Armor Blacksmith 1: Castle in ruins 
+765000 a tool shop 
+766000 Sorcerer: Hidden Port (maduro) 
+766001 Magician: Ghost: Generic 
+766010 Spell shop 1&4 (Fort of Resistance: Modern) 
+767000 Spell Shop 2 & 3 (Hyundai) 
+768000 Spell Mania: Prison of Oblivion 
+768001 Spell Mania: Ghosts: Generic 
+769000 The Miracle Man Leash: The Heide Great Fire Tower (also for Maduro) 
+769001 Miracle Man Leash: Ghosts: Generic 
+770000 Dark Man: Cane: Hunting Forest 
+770001 Dark Man: Ghosts: General 
+770010 Dark Man: Swords 
+771000 Enclosed who: 
+771001 Enclosed: Ghosts 
+771004 Enclosed Man: Dark Spirit: Castle of the King D'Angreig 
+771005 Enclosed Man: Dark Spirit: Scum Bottom 
+771006 Enclosed Man: Dark Spirit: The Forest of Shadows of The Shadows 
+771007 The Enclosed Man: The Dark Spirit: The House of Anne Deal 
+771009 Enclosed Man: Dark Spirit: Jedra, Kiseki Street 
+772000 Risa: Ming-iron castle 
+772001 Curiosity: Ghosts: General 
+776000 Top Weapon: Bird Goal: Kiseki Street Gerdra 
+776001 Top Weapon: Bird Goal: Ghosts: Generic 
+776002 Top Weapons Store: Bird Goal: Forest of Shadows 
+777000 Cat: Madura (Hyundai) 
+778000 Yorozuya (Modern) 
+780000 Material shop (modern) 
+783000 Black Phantom Shop 
+783001 Black Phantom Shop: Ghost 
+783100 Blue Phantom Shop 
+784000 The Teacher of The Sin: Gerdra, Kiishi Street 
+784001 The Sin-Sin Teacher: Ghosts: General 
+785000 Guardian Knight: Two-Handed Ax & Medium Shield 
+785001 Guardian Knight: Ghosts: Generic 
+785010 Guardian Knight: Two-Handed Axe & Bell 
+786000 Glitter Girl 
+787000 The Fairy of the Dungeon of The Moment 
+800000 Current player (for poly play) 
+800100 Future Player (for Poly Play) 
+800300 Player (Phantom) 
+810000 NPC for Multi: Swordsman (Man): Red Phantom: Hunting Forest 
+810001 NPC for Multi: Swordsman (Man): White Spirit: Valley of The Reservoir 
+810002 NPC for Multi: Swordsman (Male): Bell Guard Area 
+810003 NPC for Multi: Swordsman (Male): White Spirit: Heide Great Fire Tower 
+811000 NPC for Multi: Archer (Man) 
+812000 NPC for Multi: Sage (Female) 
+812001 NPC for Multi: Sage (Female): White Spirit: Kiseki Street Gerdra 
+813000 NPC for Multi: Lancer (Female) 
+814000 NPC for Multi: Flesh-breaking (Female): White Spirit 
+814008 NPC for Multi: Breaking Flesh (Female): Dark Spirit: Castle of The King D'Angreig 
+814009 NPC for Multi: Breaking Meat (Female): Dark Spirit: Scum Bottom 
+820000 NPC for Multi: Spearman (Man) 
+821000 NPC for Multi: Reaper (Woman): Dark Spirit: Hunting Forest 
+821001 NPC for Multi: The God of Death (Woman): Dark Spirit: Anne Deal's House 
+822000 NPC for Multi: The Magician (Man): Dark Spirit: The Door way of Faros 
+822001 NPC for Multi: Magician (Male): Ashes: Saint's Tomb 
+822002 NPC for Multi: Magician (Male): Dark Spirit: Tomb of Immortality 
+822003 NPC for Multi: The Magician (Man): Dark Spirit: Altar of Amana 
+823000 NPC for Multi: Koryu Swordsman (Man) 
+824000 NPC for Multi: The Older Brother of a Female Swordsman 
+831000 Saint's Tomb: Abandoned Saint 
+831100 Saint's Tomb: Knight of the Saint 
+832000 Old Dark Hole: Abyss 1: Sniper 
+832100 The Old Dark Hole: The Abyss 2: Axeman 
+832200 The Old Dark Hole: The Abyss 3: Huang Yi 
+832300 The Old Dark Hole: The Abyss 4: Huang Yi Wife 
+832400 The Old Dark Hole: The Abyss 5: Traveler 
+832500 Old Dark Hole: Abyss 6: Knight 
+832600 Old Dark Hole: Abyss 7: Heavy Warrior 
+832700 Old Dark Hole: Abyss 8: Queen 
+833000 Amana's Shrine: Cannibal 
+834000 Prison of Oblivion: Sorcerer 
+834100 Prison of Oblivion: The Dark Knight 
+835000 Ritual: Dragon Knight: Two-Sword Style 
+835001 Anne Deal's House: The Charm of Painting (Woman) 
+835100 Ritual: Dragon Knight: One-handed sword 
+835200 Ritual: Dragon Knight: One Hand Mallet 
+836000 Molten Castle: Samurai Saucer 
+836100 Ming-iron castle:Bell Guard 1: 
+836200 Ming-iron castle:Bell Guard 2: 
+836300 Ming-iron castle:Bell Guard 3: 
+836400 Molten Iron Castle: Light Heavy Soldiers 
+837000 Gap cave: second lap hunting 
+837100 Creus sinus: proximity 
+837200 Gap Sinus: Shooting 
+838000 Forest of Shadows: Phantom Enemy 1 
+838100 Forest of Shadows: Phantom Enemy 2 
+840000 Dummy NPC for the winner's contract 
+841000 Dummy NPC for solar contract 
+842000 Decaying Giant Forest: In Front of the King's Door: Week 2 Red Spirit 1 
+843000 Decaying Giant Forest: In Front of the King's Door: Week 2 Red Spirit 2 
+844000 Decayed Giant Forest: Ground Cracking Square: Week 2 Red Spirit 3 
+845000 Decaying Giant Forest: The Second Week Dark Spirit 
+846000 Kiseki-gai Gerdra: The Dark Spirit 
+847000 Heide Great Fire Tower: Week 2 Dark Spirit 1 
+847100 Heide Great Fire Tower: Week 2 Dark Spirit 2 
+848000 Tomb of Immortality: Week 2 Dark Spirit 1 
+848100 Tomb of Immortality: Dark Spirit 2 (Ghost) 
+849000 King's Castle D'Angheig: Dark Spirit 1 (Ghost) 
+849100 King's Castle D'Angheig: The Dark Spirit 2 
+849200 King's Castle D'Angheig: The Dark Spirit 3 
+850000 Anne Deal's House: The Second Week Of Dark Spirits 
+851000 Valley of The Reservoir: The Dark Spirit 
+852000 Hunting Forest: Red Spirit Level 3 
+853000 King's Castle D'Angheig: Two-Sword Avelin 
+853100 King's Castle Drunegreig: Leroy 
+853200 King's Castle D'Angheig: Week 2: Dark Spirit 1 
+853300 King's Castle D'Angheig: Week 2: Dark Spirits 2 
+853400 King's Castle D'Angheig: Week 2: Dark Spirit 3 
+853500 King's Castle D'Angheig: The Dark Spirit Key 
+854000 Hidden Port: Dark Spirit (Darth Mall) 

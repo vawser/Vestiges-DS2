@@ -1,0 +1,9 @@
+10000000 [Goblin: Bare Hands] 
+10000010 【Goblin: Sword】 
+10000020 【Goblin: Sling】 
+21000000 【Basilisk】 
+74300000 【Tsukiko Grandfather】NPC 
+74300001 【Tsukiko Grandfather】NPC 
+76300000 【Sorcerer's Shop】NPC 
+76300001 【Sorcerer's Shop】NPC 
+76300002 【Sorcerer's Shop】NPC (after moving) 

@@ -1,0 +1,3 @@
+0 Template parameters 
+1 Body for equipment test 
+9200 Body for new bone test 

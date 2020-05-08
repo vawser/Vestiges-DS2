@@ -1,4 +1,4 @@
-0 UNKNOWN
+0 None
 1 Heirs of the Sun
 2 Blue Sentinels
 3 Brotherhood of Blood

@@ -1,0 +1,73 @@
+30700000 Durahan 
+30700001 Durahan: No gesture 
+50200000 Manscorpion Man 
+50200001 Manscorpion Man: No Gesture 
+50600000 Grave guard 
+50600001 Tomb guard: no gesture 
+70000000 Dragon Shrine Maiden 
+70400000 Ladder Shop: Valley of The Reservoir 
+70400001 Ladder Shop: Valley of The Reservoir: No Gesture 
+70401000 Ladder Shop: Madura 
+70401001 Ladder Shop: Maduro: No Gesture 
+70401002 Ladder Shop [Death]: Maduro 
+70401003 Ladder Shop [Death]: Maduro: No Gesture 
+70500000 Retired Fire Protection Woman 1 
+72110000 The Spirit of the Prime Minister 
+72110001 Prime Minister's Spirit: No Gesture 
+72400000 Captain of the Kingdom 
+72400001 Captain of the Kingdom: No gesture 
+72500000 Pilgrims in the Abyss 
+72500001 Pilgrims in the Abyss: No Passing 
+72600000 Dwarf 
+73000000 I Under The Mirror Night 
+73100000 I Under Mirror Night 2 
+74100000 A broken-hearted blue warrior 
+74100001 Heartbroken Blue Warrior: No Gesture 
+74200000 Wandering Warrior 
+74200001 Wandering Warrior: No Gesture 
+74300000 Tsukiko Grandfather 
+74300001 Tsukiko Old Man: No Gesture 
+75400000 Yorozu Babaa 
+75600000 King of Mice 
+75700000 Three Sisters A 
+75800000 Three Sisters B 
+75900000 Three Sisters C 
+76100000 Armor shop: Bearish (initial state) 
+76100001 Armor shop: Normal 
+76100002 Armor shop: Bullish (final state) 
+76200000 Material shop 
+76300000 Sorcerer 
+76300001 Sorcerer [Death] 
+76400000 blacksmith 
+76430000 EX Blacksmith 
+76600000 A magician 
+76800000 Spell Mania 
+76800001 Spell Mania: No Gestures 
+76900000 Miracle Man: Maduro 
+76900001 Miracle Man: Heide Great Fire Tower 
+77000000 Dark Art Shop 
+77100000 A Sealed Man 
+77101000 Sealed Man: Unsealed: The Living 
+77200000 a curiosity shop 
+77200001 Curiosity: There is a pledge 
+77600000 Top Weapons Store 
+77600001 Top Weapon Shop: Free 
+77700000 Cat 
+78300000 Black Phantom Shop 
+78400000 The Teacher of The Sin 
+78500000 Guardian Knight 
+78500001 Knight of Protection: No Gesture 
+78600000 Glitter Girl 
+78601000 OBJ: Stone Monument of the Strong 
+78602000 OBJ: The Altar of the Sun 
+78602001 OBJ: Altar of the Sun: No Gesture 
+81000000 NPC for Multi: Swordsman (Man) 
+81100000 NPC for Multi: Archer (Man) 
+81200000 NPC for Multi: Sage (Female) 
+81300000 NPC for Multi: Lancer (Female) 
+81400000 NPC for multi: meat cutting (female) 
+82000000 NPC for Multi: Spearman (Man) 
+82100000 NPC for Multi: Reaper (Woman) 
+82200000 NPC for Multi: The Magician (Man) 
+82300000 NPC for Multi: Koryu Swordsman (Man) 
+99999999 Test 

@@ -1,0 +1,343 @@
+3500 【Hostility】Durahan 
+3510 【Hostile】Tomb Guard 
+3520 【Hostile】Dragon Shrine Maiden 
+3521 【Hostile Map】Dragon Shrine Maiden: Madura 
+3522 【Hostile Map】Dragon Shrine Maiden: King's Castle D'Angerig First Half 
+3523 【Hostile Map】Dragon Shrine Maiden: Immortal Mausoleum 
+3524 【Hostile Map】Dragon Shrine Maiden: King's Castle D'Angeheig Late 
+3525 【Hostile Map】The Shrine Maiden of the Dragon (Child): An Deal's House 
+3540 [Hostility] Queen 
+3550 【Hostile】Ladder Shop 
+3551 【Hostile Map】Ladder Shop: Valley of The Reservoir 
+3552 【Hostile Map】Ladder Shop: Maduro 
+3560 [Hostile] fire protection woman of the retirement 1 
+3570 [Hostile] fire protection woman 2 of the retirement 
+3580 [Hostile] fire protection woman 3 of the retirement 
+3590 The Spirit of the Prime Minister 
+3600 【Hostile】Fire Prevention Woman's Housekeeper 
+3610 [Hostile] Captain of the Kingdom 
+3620 【Hostile】Pilgrims in the Abyss 
+3621 【Hostile Map】Pilgrims of the Abyss: Kuzbottom 
+3622 【Hostile Map】Pilgrims of the Abyss: The Shadow forest of emptiness 
+3623 【Hostile Map】Pilgrims of the Abyss: King's Castle D'Angreig 
+3630 Dwarves 
+3631 [Hostile map] Dwarf: Hidden Port 
+3632 【Hostile Map】Dwarf: Valley of The Reservoir 
+3634 【Hostile Map】Dwarf: The Door way of Faros 
+3640 [Hostility] heartbroken blue warrior 
+3650 Warrior of wandering 
+3651 【Hostile Map】Wandering Warriors: Hunting Forest 
+3652 Hostile Map: Wandering Warrior: Forest of Shadows of The Void 
+3653 【Hostile Map】Wandering Warrior: Jedra, Kiishi Street 
+3660 【Hostile】Tsukiko Grandfather 
+3661 【Hostile Map】Tsukiko Ya: Maduro's Shadow Forest Connection 
+3662 【Hostile Map】Tsukiko Grandfather: King's Castle D'Angreig 
+3663 【Hostile Map】Tsukiko Ya: The Forest of Decaying Giants 
+3664 【Hostile Map】Memories of The Giant 
+3670 【Hostility】Patch 
+3671 【Hostile Map】Patch: Decaying Giant Forest 
+3672 【Hostile Map】Patch: Valley of The Reservoir 
+3673 【Hostile Map】Patch: Kiseki-gai Gerdra 
+3680 【Hostility】Map 
+3681 【Hostile Map】Map: The Forest of Decayed Giants 
+3682 【Hostile Map】Map: Maduro 
+3690 [Hostility] Female Knight 
+3691 【Hostile Map】Female Knight: Hidden Port 
+3692 【Hostile Map】Female Knight: Prison of Oblivion 
+3693 【Hostile Map】Female Knight: Valley of The Reservoir 
+3694 【Hostile Map】Female Knight: Kuzbottom 
+3695 【Hostile Map】Female Knight: The House of Anne Deal 
+3700 【Hostility】Bell Guard 
+3710 【Hostile】Yorozu Babaa 
+3711 【Hostile Map】Yorozu Babaa: The Forest of Decaying Giants 
+3712 【Hostile Map】Yorozu Babaa: Maduro 
+3713 【Hostile NT】Yorozu Babaa: Hunting Forest 
+3720 【Hostile】Girl 1 of the Bard 
+3730 【Hostile】Girl 2 of the Bard 
+3740 [Hostile] girl in captivity 
+3750 【Hostile】Armor shop 
+3760 【Hostile】Material shop 
+3761 【Hostile Map】Material Shop: Valley of The Reservoir 
+3762 【Hostile Map】Material Shop: Madura 
+3770 【Hostile】Sorcerer's Shop 
+3771 【Hostile Map】Sorcerer's Shop: Maduro's Shadow Forest Connection 
+3772 【Hostile Map】Sorcerer: Maduro 
+3780 【Hostile】Blacksmith 
+3790 【Hostile】EX Blacksmith 
+3800 【Hostile】Sorcerer 
+3801 【Hostile Map】Sorcerer's Harbor 
+3802 【Hostile Map】Sorcerer: Madura 
+3810 【Hostile】Spell Mania 
+3820 A man of miracles 
+3821 【Hostile Map】Miracle Man: Heide Great Fire Tower 
+3822 【Hostile Map】Miracle Man: Maduro 
+3830 【Hostile】Dark Art Shop 
+3840 The Person Who Was Sealed 
+3850 【Hostile】A rare goods shop 
+3860 【Hostile】Top Weapons Store 
+3861 【Hostile Map】Top Weapons Store: Forest of Shadows of The Void 
+3862 【Hostile Map】Top Weapons Store: Kiseki-gai Gerdra 
+3870 【Hostile】Cat 
+3880 【Hostile】Black Phantom Shop 
+3890 【Hostility】The Teacher of The Sin 
+3900 [Hostility] Guardian Knight 
+3910 [Hostile] Glitter Daughter 
+3920 The King of Mice 
+3930 Manscorpion Man 
+3940 【Hostility】Three Sisters 1 
+3950 【Hostility】Three Sisters 2 
+3960 【Hostility】Three Sisters 3 
+3970 【Hostility】Old Dragon 
+3999 【Hostility】For total hostility management 
+1002000 【Regeneration Spark】Bonfire 01_Fire Guard Woman's House 
+1002099 【Regeneration Spark】Bonfire 01_Fire Guard Woman's House 
+1004000 【Regeneration Spark】Bonfire 01_The Middle Main Bonfire in the Village 
+1004001 【Regeneration Spark】Bonfire 01_The Middle Main Bonfire in the Village 
+1004002 【Regeneration Spark】Bonfire 01_The Middle Main Bonfire in the Village 
+1004003 【Regeneration Spark】Bonfire 01_The Middle Main Bonfire in the Village 
+1004004 【Regeneration Spark】Bonfire 01_The Middle Main Bonfire in the Village 
+1004005 【Regeneration Spark】Bonfire 01_The Middle Main Bonfire in the Village 
+1004006 【Regeneration Spark】Bonfire 01_The Middle Main Bonfire in the Village 
+1004007 【Regeneration Spark】Bonfire 01_The Middle Main Bonfire in the Village 
+1004008 【Regeneration Spark】Bonfire 01_The Middle Main Bonfire in the Village 
+1004009 【Regeneration Spark】Bonfire 02_The Middle Main Bonfire in the Village 
+1004099 【Regeneration Spark】Bonfire 01_The Middle Main Bonfire in the Village 
+1010000 【Regeneration Spark】Bonfire 01_Main Tower 
+1010001 【Regeneration Spark】Bonfire 01_Main Tower 
+1010002 【Regeneration Spark】Bonfire 01_Main Tower 
+1010003 【Regeneration Spark】Bonfire 01_Main Tower 
+1010004 【Regeneration Spark】Bonfire 01_Main Tower 
+1010005 【Regeneration Spark】Bonfire 01_Main Tower 
+1010099 【Regeneration Spark】Bonfire 01_Main Tower 
+1010100 【Regeneration Spark】Bonfire 02_Ground Cracking Square 
+1010199 【Regeneration Spark】Bonfire 02_Ground Cracking Square 
+1010300 【Regeneration Spark】Fire 04_Riverbank after connection with Maduro 
+1010399 【Regeneration Spark】Fire 04_Riverbank after connection with Maduro 
+1014000 【Regeneration Spark】Bonfire 01_Ant Hell Next Building 
+1014001 【Regeneration Spark】Bonfire 01_Ant Hell Next Building 
+1014002 【Regeneration Spark】Bonfire 01_Ant Hell Next Building 
+1014003 【Regeneration Spark】Bonfire 01_Ant Hell Next Building 
+1014004 【Regeneration Spark】Bonfire 01_Ant Hell Next Building 
+1014005 【Regeneration Spark】Bonfire 01_Ant Hell Next Building 
+1014006 【Regeneration Spark】Bonfire 01_Ant Hell Next Building 
+1014007 【Regeneration Spark】Bonfire 01_Ant Hell Next Building 
+1014008 【Regeneration Spark】Bonfire 01_Ant Hell Next Building 
+1014009 【Regeneration Spark】Bonfire 01_Ant Hell Next Building 
+1014010 【Regeneration Spark】Bonfire 01_Ant Hell Next Building 
+1014011 【Regeneration Spark】Bonfire 01_Ant Hell Next Building 
+1014012 【Regeneration Spark】Bonfire 01_Ant Hell Next Building 
+1014099 【Regeneration Spark】Bonfire 01_Ant Hell Next Building 
+1014100 【Regeneration Spark】Bonfire 02_Map Entrance Tent 
+1014101 【Regeneration Spark】Bonfire 02_Map Entrance Tent 
+1014199 【Regeneration Spark】Bonfire 02_Map Entrance Tent 
+1014200 【Regeneration Spark】Bonfire 03_Cave after Church 
+1014299 【Regeneration Spark】Bonfire 03_Cave after Church 
+1015000 【Regeneration Spark】Bonfire 01_Entrance Building 
+1015001 【Regeneration Spark】Bonfire 01_Entrance Building 
+1015099 【Regeneration Spark】Bonfire 01_Entrance Building 
+1015100 【Regeneration Spark】Bonfire 02_Stairs Hidden Door Room to Basement 
+1015101 【Regeneration Spark】Bonfire 02_Stairs Hidden Door Room to Basement 
+1015102 【Regeneration Spark】Bonfire 02_Stairs Hidden Door Room to Basement 
+1015199 【Regeneration Spark】Bonfire 02_Stairs Hidden Door Room to Basement 
+1016000 【Regeneration Spark】Bonfire 01_Petrified Stop Destination Prison 
+1016099 【Regeneration Spark】Bonfire 01_Petrified Stop Destination Prison 
+1016100 【Regeneration Spark】Bonfire 02_Start point left-hand room 
+1016101 【Regeneration Spark】Bonfire 02_Start point left-hand room 
+1016199 【Regeneration Spark】Bonfire 02_Start point left-hand room 
+1016200 [Regeneration of the spark] bonfire 03_ outer wall advanced to the previous collapsed tower (hawk warp point) 
+1016299 [Regeneration of the spark] bonfire 03_ outer wall advanced to the previous collapsed tower (hawk warp point) 
+1016300 【Regeneration Spark】On the outer wall of the stoion area 
+1016399 【Regeneration Spark】On the outer wall of the stoion area 
+1016400 【Regeneration Spark】Bonfire 05_After The Flame Barrel Destruction Wall 
+1016499 【Regeneration Spark】Bonfire 05_After The Flame Barrel Destruction Wall 
+1016500 【Regeneration Spark】Bonfire 06_Boss In The Mirror After Warrior Steen 
+1016599 【Regeneration Spark】Bonfire 06_Boss In The Mirror After Warrior Steen 
+1016700 【Regeneration Spark】Bonfire 08_ Outside the Tower Away 
+1016701 【Regeneration Spark】Bonfire 08_ Outside the Tower Away 
+1016799 【Regeneration Spark】Bonfire 08_ Outside the Tower Away 
+1017000 【Regeneration Spark】A cave in front of the mining square in the village of Bonfire 01_ 
+1017001 【Regeneration Spark】A cave in front of the mining square in the village of Bonfire 01_ 
+1017002 【Regeneration Spark】A cave in front of the mining square in the village of Bonfire 01_ 
+1017003 【Regeneration Spark】A cave in front of the mining square in the village of Bonfire 01_ 
+1017004 【Regeneration Spark】A cave in front of the mining square in the village of Bonfire 01_ 
+1017099 【Regeneration Spark】A cave in front of the mining square in the village of Bonfire 01_ 
+1017100 [Regeneration of the spark] after the bonfire 02_Bosjabazahat, the lower layer of the tower 
+1017199 [Regeneration of the spark] after the bonfire 02_Bosjabazahat, the lower layer of the tower 
+1017200 【Regeneration Spark】Bonfire 03_Cave at The Entrance Poison Reservoir 
+1017299 【Regeneration Spark】Bonfire 03_Cave at The Entrance Poison Reservoir 
+1017300 [Regeneration of the spark] bonfire 04_ after a huge windmill, the middle belly of the tower 
+1017399 [Regeneration of the spark] bonfire 04_ after a huge windmill, the middle belly of the tower 
+1017400 [Regeneration of the spark] bonfire 05_ boss front of the hidden door, upper tower 
+1017499 [Regeneration of the spark] bonfire 05_ boss front of the hidden door, upper tower 
+1018000 【Regeneration Spark】Bonfire 01_Inlet Cave 
+1018099 【Regeneration Spark】Bonfire 01_Inlet Cave 
+1019000 [Regeneration spark] bonfire 01_ boss demon night after, one-way door room 
+1019099 [Regeneration spark] bonfire 01_ boss demon night after, one-way door room 
+1019100 【Regeneration Spark】Stairs toward sfire 02_entrance bridge 
+1019101 【Regeneration Spark】Stairs toward sfire 02_entrance bridge 
+1019102 【Regeneration Spark】Stairs toward sfire 02_entrance bridge 
+1019199 【Regeneration Spark】Stairs toward sfire 02_entrance bridge 
+1019200 【Regeneration Spark】Bonfire 03_Giant Cow Statue Head 
+1019201 【Regeneration Spark】Bonfire 03_Giant Cow Statue Head 
+1019202 【Regeneration Spark】Bonfire 03_Giant Cow Statue Head 
+1019299 【Regeneration Spark】Bonfire 03_Giant Cow Statue Head 
+1019300 【Regeneration Spark】A depression in front of the bell guard area 
+1019399 【Regeneration Spark】A depression in front of the bell guard area 
+1023000 【Regeneration Spark】Bonfire 01_Starting Point 
+1023099 【Regeneration Spark】Bonfire 01_Starting Point 
+1023100 【Regeneration Spark】Bonfire 02_Under the Pillar of the Suspension Bridge 
+1023199 【Regeneration Spark】Bonfire 02_Under the Pillar of the Suspension Bridge 
+1023200 【Regeneration Spark】Bonfire 03_Inside The Locked Door Torch 
+1023299 【Regeneration Spark】Bonfire 03_Inside The Locked Door Torch 
+1023300 【Regeneration Spark】Bonfire 04_Death Penalty Post Boss 
+1023301 【Regeneration Spark】Bonfire 04_Death Penalty Post Boss 
+1023399 【Regeneration Spark】Bonfire 04_Death Penalty Post Boss 
+1025000 【Regeneration Spark】Bonfire 01_Black Valley Hole along Cliff 
+1025099 【Regeneration Spark】Bonfire 01_Black Valley Hole along Cliff 
+1025100 【Regeneration Spark】Bonfire 02_Next to the building of a continuous staircase in the back of the village 
+1025199 【Regeneration Spark】Bonfire 02_Next to the building of a continuous staircase in the back of the village 
+1025200 【Regeneration Spark】Bonfire 03_Black Valley Boss Front Hole 
+1025201 【Regeneration Spark】Bonfire 03_Black Valley Boss Front Hole 
+1025299 【Regeneration Spark】Bonfire 03_Black Valley Boss Front Hole 
+1025300 【Regeneration Spark】Building under The Bonfire 04_Starting Point 
+1025399 【Regeneration Spark】Building under The Bonfire 04_Starting Point 
+1027000 【Regeneration Spark】Bonfire 01_In the rock at the starting point 
+1027001 【Regeneration Spark】Bonfire 01_In the rock at the starting point 
+1027002 【Regeneration Spark】Bonfire 01_In the rock at the starting point 
+1027099 【Regeneration Spark】Bonfire 01_In the rock at the starting point 
+1027100 【Regeneration Spark】Bonfire 02_Wyburn breaks the bridge 
+1027101 【Regeneration Spark】Bonfire 02_Wyburn breaks the bridge 
+1027199 【Regeneration Spark】Bonfire 02_Wyburn breaks the bridge 
+1029000 【Regeneration Spark】Bonfire 01_Maduro- Imaginary Shadow Forest Connection Road 
+1029099 【Regeneration Spark】Bonfire 01_Maduro- Imaginary Shadow Forest Connection Road 
+1030000 【Regeneration Spark】Bonfire 01_Heide Large Fire Tower_Boss Heavy Equestrian After Lighthouse 
+1030099 【Regeneration Spark】Bonfire 01_Heide Large Fire Tower_Boss Heavy Equestrian After Lighthouse 
+1031000 【Regeneration Spark】Bonfire 01_Boss Heavy Equestrian Lighthouse After 
+1031099 【Regeneration Spark】Bonfire 01_Boss Heavy Equestrian Lighthouse After 
+1031100 【Regeneration Spark】Bonfire 02_Rock next to the starting point 
+1031199 【Regeneration Spark】Bonfire 02_Rock next to the starting point 
+1031200 [Regeneration spark] after bonfire 03_Bosonstein 
+1031299 [Regeneration spark] after bonfire 03_Bosonstein 
+1032000 【Regeneration Spark】Bonfire 01_Branch Of The Building 
+1032099 【Regeneration Spark】Bonfire 01_Branch Of The Building 
+1032100 【Regeneration Spark】Bonfire 02_Inside a Huge Bridge 
+1032199 【Regeneration Spark】Bonfire 02_Inside a Huge Bridge 
+1033000 【Regeneration Spark】Bonfire 01_In front of the pledge area of the start destination 
+1033099 【Regeneration Spark】Bonfire 01_In front of the pledge area of the start destination 
+1033100 [Regeneration spark] after the bonfire 02_ pledge area, in front of the boss room 
+1033199 [Regeneration spark] after the bonfire 02_ pledge area, in front of the boss room 
+1034000 [Regeneration spark] after the bonfire 01_ pledge area, in front of the boss room 
+1034099 [Regeneration spark] after the bonfire 01_ pledge area, in front of the boss room 
+1034100 【Regeneration Spark】Bonfire 02_In front of the pledge area of the start destination 
+1034199 【Regeneration Spark】Bonfire 02_In front of the pledge area of the start destination 
+2010000 [Regeneration spark] bonfire 01_ after the door of the king of the forest of the decaying giant 
+2010001 [Regeneration spark] bonfire 01_ after the door of the king of the forest of the decaying giant 
+2010002 [Regeneration spark] bonfire 01_ after the door of the king of the forest of the decaying giant 
+2010003 [Regeneration spark] bonfire 01_ after the door of the king of the forest of the decaying giant 
+2010099 [Regeneration spark] bonfire 01_ after the door of the king of the forest of the decaying giant 
+2011000 【Regeneration Spark】The upper layer of the tower of the entrance of the bonfire 01_ 
+2011099 【Regeneration Spark】The upper layer of the tower of the entrance of the bonfire 01_ 
+2011100 【Regeneration Spark】Bonfire 02_Collapsed Building next to Water Grass 
+2011199 【Regeneration Spark】Bonfire 02_Collapsed Building next to Water Grass 
+2011200 【Regeneration Spark】Bonfire 03_Cave to Parent Tree 
+2011201 【Regeneration Spark】Bonfire 03_Cave to Parent Tree 
+2011299 【Regeneration Spark】Bonfire 03_Cave to Parent Tree 
+2011300 【Regeneration Spark】Bonfire 04_The lower layer of the tower in front of the altar of the living 
+2011399 【Regeneration Spark】Bonfire 04_The lower layer of the tower in front of the altar of the living 
+2021000 【Regeneration Spark】Bonfire 01_In front of the king's door to Rasbos 
+2021001 【Regeneration Spark】Bonfire 01_In front of the king's door to Rasbos 
+2021002 【Regeneration Spark】Bonfire 01_In front of the king's door to Rasbos 
+2021003 【Regeneration Spark】Bonfire 01_In front of the king's door to Rasbos 
+2021004 【Regeneration Spark】Bonfire 01_In front of the king's door to Rasbos 
+2021005 【Regeneration Spark】Bonfire 01_In front of the king's door to Rasbos 
+2021006 【Regeneration Spark】Bonfire 01_In front of the king's door to Rasbos 
+2021007 【Regeneration Spark】Bonfire 01_In front of the king's door to Rasbos 
+2021008 【Regeneration Spark】Bonfire 01_In front of the king's door to Rasbos 
+2021009 【Regeneration Spark】Bonfire 01_In front of the king's door to Rasbos 
+2021010 【Regeneration Spark】Bonfire 01_In front of the king's door to Rasbos 
+2021011 【Regeneration Spark】Bonfire 01_In front of the king's door to Rasbos 
+2021012 【Regeneration Spark】Bonfire 01_In front of the king's door to Rasbos 
+2021013 【Regeneration Spark】Bonfire 01_In front of the king's door to Rasbos 
+2021014 【Regeneration Spark】Bonfire 01_In front of the king's door to Rasbos 
+2021015 【Regeneration Spark】Bonfire 01_In front of the king's door to Rasbos 
+2021016 【Regeneration Spark】Bonfire 01_In front of the king's door to Rasbos 
+2021017 【Regeneration Spark】Bonfire 01_In front of the king's door to Rasbos 
+2021099 【Regeneration Spark】Bonfire 01_In front of the king's door to Rasbos 
+2021100 [Regeneration of the fire] bonfire 02_ boss after heavy cavalry 
+2021101 [Regeneration of the fire] bonfire 02_ boss after heavy cavalry 
+2021102 [Regeneration of the fire] bonfire 02_ boss after heavy cavalry 
+2021199 [Regeneration of the fire] bonfire 02_ boss after heavy cavalry 
+2021200 【Regeneration Spark】Bonfire 03_Inside the Hidden Door 
+2021299 【Regeneration Spark】Bonfire 03_Inside the Hidden Door 
+2024000 【Regeneration Spark】Bonfire 01_Before The Stairwell Passage 
+2024001 【Regeneration Spark】Bonfire 01_Before The Stairwell Passage 
+2024002 【Regeneration Spark】Bonfire 01_Before The Stairwell Passage 
+2024003 【Regeneration Spark】Bonfire 01_Before The Stairwell Passage 
+2024004 【Regeneration Spark】Bonfire 01_Before The Stairwell Passage 
+2024005 【Regeneration Spark】Bonfire 01_Before The Stairwell Passage 
+2024006 【Regeneration Spark】Bonfire 01_Before The Stairwell Passage 
+2024007 【Regeneration Spark】Bonfire 01_Before The Stairwell Passage 
+2024008 【Regeneration Spark】Bonfire 01_Before The Stairwell Passage 
+2024009 【Regeneration Spark】Bonfire 01_Before The Stairwell Passage 
+2024010 【Regeneration Spark】Bonfire 01_Before The Stairwell Passage 
+2024011 【Regeneration Spark】Bonfire 01_Before The Stairwell Passage 
+2024012 【Regeneration Spark】Bonfire 01_Before The Stairwell Passage 
+2024013 【Regeneration Spark】Bonfire 01_Before The Stairwell Passage 
+2024014 【Regeneration Spark】Bonfire 01_Before The Stairwell Passage 
+2024099 【Regeneration Spark】Bonfire 01_Before The Stairwell Passage 
+2024100 【Regeneration Spark】The gap under the inlet stairs 
+2024199 【Regeneration Spark】The gap under the inlet stairs 
+4003000 【Regeneration Spark】Bonfire 01_King's Castle D'Angerig_Underground Abyss Before Pilgrims 
+4003099 【Regeneration Spark】Bonfire 01_King's Castle D'Angerig_Underground Abyss Before Pilgrims 
+10000000 Reward: Clear without death 
+10000001 Reward: Clear without resting bonfire 
+10000002 Reward: 1000 repulsed by the Dark Spirit 
+10000003 Reward: Host 1000 defeats 
+10000004 DLC: DLC Available Flags 
+10001000 Dragon Shrine Maiden: Est Bottle 
+10001001 Patch: White Sign Wax Stone 
+10001002 Have you ever leveled up? 
+10001010 Pledge Ring Transfer: Pilgrims in the Abyss 
+10001011 Reward 1 
+10001012 Reward 2 
+10001013 Reward 3 
+10001014 Pledge Ring Transfer: The Blue Religion 
+10001015 Reward 1 
+10001016 Reward 2 
+10001017 Reward 3 
+10001018 Pledge Ring Transfer: Bell Guard 
+10001019 Reward 1 
+10001020 Reward 2 
+10001021 Reward 3 
+10001022 Pledge Ring Transfer: A Glimpse of the Old Dragon 
+10001023 Reward 1 
+10001024 Reward 2 
+10001025 Reward 3 
+10001026 Pledge Ring Transfer: The Dark Spirit of Blood 
+10001027 Reward 1 
+10001028 Reward 2 
+10001029 Reward 3 
+10001030 Pledge Ring Transfer: Guardian Knight 
+10001031 Reward 1 
+10001032 Reward 2 
+10001033 Reward 3 
+10001034 Pledge Ring Transfer: King of mice 
+10001035 Reward 1 
+10001036 Reward 2 
+10001037 Reward 3 
+10001038 Pledge First Stone Transfer: Strong man 
+10001039 Reward 1 
+10001040 Reward 2 
+10001041 Reward 3 
+10001042 Pledge Ring Transfer: The Warrior of the Sun 
+10001043 Reward 1 
+10001044 Reward 2 
+10001045 Reward 3 
+10001100 Captain of the Kingdom: Gesture Transfer 
+10001101 Wandering Warrior: Gesture Transfer 
+10001102 Tsukiko Old Man: Gesture Transfer 
+10001103 Manscorpion ♂: Gesture Transfer 
+10001150 2nd: Defeat ing the Spider Queen 
+10001151 2nd: Defeat of the Molten Iron Daemon 
+10001152 The Second: Destroying the Forgotten Sinners 
+10001153 2nd: Butcher Defeat 

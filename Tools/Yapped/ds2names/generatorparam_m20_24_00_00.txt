@@ -1,0 +1,68 @@
+205 【Dragon Shrine Maiden】 Npc 
+230 Old King Npc 
+240 【Tomb Amulet】 Npc 
+241 【Tomb Amulet】 NPC (Tomb Guard) 
+680 [NPC Black Phantom] King's Castle DrangGreig: Dark Spirit 1 (Ghost) 
+686 【NPC White Phantom】Tomb Guard 
+800 BOSS: Queen Knight B 
+1000 【Wandering with lights】The workers of the dead 
+1011 Dark Bishop 
+1012 Dark Bishop 
+1013 Dark Bishop 
+1020 【The opening of the saloon_ on the way】 dead workers 
+1021 【The opening of the saloon_ on the way】 dead workers 
+1022 【The opening of the saloon_ on the way】 dead workers 
+1023 【The opening of the saloon_ on the way】 dead workers 
+1030 [Opening of the entrance immediately in the saloon _way_2 lap stop] phantom night 
+1031 [Opening of the entrance immediately in the saloon _way_2 lap stop] phantom night 
+1101 【Tomb Guard Room】 Immortal Senior Soldier: Armor: Spear 
+1102 【Tomb Guard Room】 Immortal Senior Soldier: Armor: Spear 
+1103 【Tomb Guard Room】 Immortal Senior Soldier: Armor: Sickle 
+1110 [On the bridge] kingdom escort se 
+1111 [On the bridge] kingdom escort guard 
+1200 Under the bridge: Dead workers falling side 
+1210 Under the Bridge: Dead Workers 
+1211 [High ground of the course blocked 1 _ long distance] dead workers 
+1230 [Under the bridge _2 week generation] door possessed 
+1231 [Under the bridge _2 week generation] door possessed 
+1400 【For Chara Events】 Dead Workers (Deceased) For Character Events_1 
+1410 【For Chara Event】 Dead Workers (Deceased) For Character Events_2 
+1420 【For Chara Events】 Dead Workers (Deceased) For Character Events_3 
+1430 【For Chara Events】 Dead Workers (Deceased) For Character Events_4 
+1440 [For character events] Phantom Mage (spirit body) for character event_1 
+1450 [For character events] Phantom Mage (spirit body) for character event_2 
+1460 [For character events] Phantom Mage (spirit body): For character events_3 
+1500 【For Chara Events】 Dead Workers (Deceased) For Character Events_5 
+1510 [For character events] Phantom Mage (spirit body) for character event_4 
+1520 [For character events] Phantom Mage (spirit body): For character events_5 
+1600 [Long distance from high ground] Dark Bishop 
+1700 [If you are looking for a hidden door is beaten] door possessed 
+1701 [If you are looking for a hidden door is beaten] door possessed 
+1800 【Hidden Room】Door Possession 
+1801 【Hidden Room】Door Possession 
+2000 【Long passage】Door possession 1 
+2010 【Long Passage】Door Haunting 2 
+2020 【Long Passage】Door Possession 3 
+2050 [Long passage _ back] Phantom Night 
+2051 [Long passage _ back] Phantom Night 
+2200 【For Character Events】 Phantom Mage (Spirit Body): For Bell Events_1 
+2210 【For Character Events】 Phantom Mage (Spirit) _ 2 for Bell Events 
+2220 【For Character Events】 Phantom Mage (Spirit) For Bell Event_3 
+2230 【For Character Events】 Phantom Mage (Spirit Body): For Bell Events_4 
+2300 【For chara events】 Dead Workers (Deceased): For Bell Events_1 
+2310 【For chara events】 Dead workers (deceased): For bell events_2 aisles 
+2320 【For chara events】 Dead Workers (Deceased): For Bell Events_3 
+2330 【For chara events】 Dead Workers (Deceased): For Bell Events_4 
+2400 [Bell area cul-de-sac] Phantom Mage 
+3500 [Pillar hiding right] Phantom Mage 1 
+3510 [Pillar hiding right] Phantom Mage 2 
+3520 [Pillar hiding left] Phantom Mage 1 
+3530 [Pillar hiding left] Phantom Mage 2 
+3600 [Boss front area _ King's attendant] kingdom escort soldiers extra large sword 
+3610 [Boss front area _ close the white door front] kingdom escort axe spear (defense type) 
+3620 [Boss front area _ close the white door front] kingdom escort axe spear (defense type) 
+3630 [Boss front area _ King's attendant] kingdom escort soldiers extra large sword 
+3640 [Boss front area _ King's attendant] kingdom escort soldiers extra large sword 
+3650 [Boss front area _ King's attendant: avant-garde platoon] kingdom escort soldier axe spear 
+3660 [Boss front area _ King's attendant: avant-garde platoon] kingdom escort soldier axe spear 
+3700 [Boss front area_bell ringing] 

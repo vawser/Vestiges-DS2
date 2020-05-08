@@ -1,0 +1,58 @@
+40 ?NPC?Pilgrims in the Abyss 
+41 ?NPC?Pilgrims in the Abyss 
+55 ?NPC?Wandering Warrior 
+56 ?NPC?Wandering Warrior (Ghost) 
+255 ?NPC?Durahan (neck) 
+257 ?NPC?Durahan (neck) (ghost) 
+265 ?NPC?Top Weapons Store 
+266 ?NPC?Top Weapons Store (Ghost) 
+325 ?NPC?Manscorpion ? 
+326 ?NPC?Manscorpion ? 
+626 [White Spirit] Manscorpion ? 
+824 ?BOSS?Manscorpion ? 
+1025 ?Road to the Forest?Goblin: Sword 
+1026 ?Road to the Forest?Goblin: Sword 
+1100 [Stone statue front: on the wall] goblin: sling 
+1101 [Stone image face front : front _ do not come until you approach] goblin swords 
+1102 [Stone image face front : front _ do not come until you approach] goblin swords 
+1103 [Stone statue front: on the wall] goblin: sling 
+1110 ?Stone Statue Front:Right?Goblin: Sling 
+1111 [Stone statue front: front _ battle] goblin: sword 
+1112 [Stone statue front: back of the gate _ battle] goblins : bare hands 
+1113 [Stone statue front: front _ battle] goblin: sword 
+1200 [Tower to The King's Castle: The Shadow of the Left Hand] Goblin: Bare Hands 
+1201 Tower to The King's Castle: Front: Goblin: Sword 
+1202 Tower to The King's Castle: Front: Goblin: Sword 
+1203 [Tower to The King's Castle: Jumping off the top of the side road] Goblin: Sword 
+1204 [Tower to The King's Castle: Before the entrance_ through and chasing] Goblin: Sling 
+1205 [Tower to The King's Castle: Cliff-edge _ Battle] Goblin: Sword 
+1252 [Tower to The King's Castle: Side Road] Double-sided Warrior 
+1260 [Tower to The King's Castle: Side Road _ Preventing Running] Goblin: Sword 
+1261 [Tower to Wang Cheng: Wakido _2 nd week or later] Goblin: Soul Black 
+1300 [Road to The King's Castle: Door Back _ Rare Drop] Wandering Knight 
+2000 [Reaction to the voice of the forest of the stray_ human face tree] phantom enemy_1 
+2001 [Reaction to the voice of the forest of the stray_ human face tree] phantom enemy_2 
+2002 [Reaction to the voice of the forest of the stray_ human face tree] phantom enemy_3 
+2003 [Reaction to the voice of the forest of the stray_ human face tree] phantom enemy_4 
+2006 [Reaction to the voice of the forest of the stray_ human face tree] phantom enemy_7 
+2007 [Reaction to the voice of the forest of the stray_ human face tree] phantom enemy_8 
+2009 [Reaction to the voice of the forest of the stray_ human face tree] phantom enemy_10 
+2040 [Forest of hesitation_Petrified] Lion Warrior_1 
+2041 [Forest of hesitation_Petrified] Lion Warrior_2 
+2101 [Wide ruins at the end of the bridge ] under the madoshi _ Battle] lion warrior 
+2102 [Large ruins at the end of the bridge: back room _ battle] lion warrior 
+2103 [Wide ruins at the end of the bridge: corner of the room _ battle] lion warrior 
+2110 ?In front of the wide ruins at the end of the bridge?Huge Basilisk 
+2205 [House ahead of the ruins of the bridge _ battle] lion warrior 
+2220 ?Bridge Ruins: Scorpion Ruins Entrance? Golden Lion Warrior 
+2230 [Ruins of the bridge: pitfalls _ battle] Basilisk_1 
+2231 [Bridge ruins destination: pitfalls _ battle] Basilisk_2 
+2234 [Bridge ruins destination: pitfalls _ battle] Basilisk_5 
+2235 [Bridge ruins destination: pitfalls _ battle] Basilisk_6 
+2260 ?Gate Ruins?Lion Warrior 
+2271 [In front of the gate of the ruins] lion warrior 
+2300 [House of the ruins subroute destination of the bridge] Basilisk 
+2310 ?Ruins_Petrified?Lion Warrior 
+2320 ?Ruins?Ishimori 
+9000 [Road to The House of Andy' ] Kobold 
+9002 [Road to The House of Andy' ] Mimick 

@@ -1,0 +1,67 @@
+10 Prohibited use 
+7320 Sorcerer Sinner 1 
+7330 Sorcerer Sinner 2 
+7410 A broken-hearted blue warrior 
+7610 armor shop 
+7630 Sorcerer 
+7660 A magician 
+7720 a curiosity shop 
+7840 The Teacher of The Sin 
+8100 NPC for Multi: Swordsman (Man) 
+8110 NPC for Multi: Archer (Man) 
+8120 NPC for Multi: Sage (Female) 
+8130 NPC for Multi: Lancer (Female) 
+8140 NPC for Multi: Flesh-breaking (Female): White Spirit 
+8200 NPC for Multi: Spearman (Man) 
+8210 NPC for Multi: Reaper (Woman) 
+8220 NPC for Multi: The Magician (Man) 
+8230 NPC for Multi: Koryu Swordsman (Man) 
+8240 NPC for Multi: The Older Brother of a Female Swordsman 
+8310 Saint's Tomb: Abandoned Saint: Lap 2 
+8311 Saint's Tomb: Knight of the Saint: Lap 2 
+8320 Old Dark Hole: Abyss 1: Sniper 
+8321 The Old Dark Hole: The Abyss 2: Axeman 
+8322 The Old Dark Hole: The Abyss 3: Huang Yi 
+8323 The Old Dark Hole: The Abyss 4: Huang Yi Wife 
+8324 The Old Dark Hole: The Abyss 5: Traveler 
+8325 Old Dark Hole: Abyss 6: Knight 
+8326 Old Dark Hole: Abyss 7: Heavy Warrior 
+8327 Old Dark Hole: Abyss 8: Queen 
+8330 Amana's Shrine: Cannibal 
+8350 Enshrinement Hall: Dragon Knight: Two-Sword Style 
+8351 Enshrinement Hall: Painting Guard (Female) 
+8352 Enshrinement Hall: Dragon Knight: One-handed sword 
+8353 Ritual Hall: Dragon Knight: One Hand Mallet 
+8360 Molten Iron Castle: Samurai Saucer: Lap 2 
+8361 Ming-iron castle: Bell Guard 1: Oversized Sword & Great Shield 
+8362 Molten Castle: Bell Guard 2: Crossbow & Crossbow 
+8363 Molten Castle: Bell Guard 3: Cane & Spear 
+8364 Molten Iron Castle: Light Heavy Soldiers 
+8370 Gap cave: second lap hunting 
+8371 Creus sinus: proximity 
+8372 Gap Sinus: Shooting 
+8380 Forest of Shadows: Phantom Enemy 1 
+8381 Forest of Shadows: Phantom Enemy 2 
+8420 Decaying Giant Forest: In front of the king's door: Lap 2 Red Spirit 1 
+8430 Decaying Giant Forest: In front of the King's Door: 2 laps Red Spirit 2 
+8440 Decaying Giant Forest: Ground Cracking Square: Round 2 Red Spirit 3 
+8450 Decaying Giant Forest: The Second Lap Dark Spirit 
+8460 Kiseki-gai Gerdra: The Dark Spirit 
+8470 Heide Great Fire Tower: 2 laps Dark Spirit 1 
+8471 Heide Great Fire Tower: 2 laps Dark Spirit 2 
+8480 Tomb of Immortality: Second Lap Dark Spirit 1 
+8481 Tomb of Immortality: Dark Spirit 2 (Ghost) 
+8490 King's Castle D'Angheig: Dark Spirit 1 (Ghost) 
+8491 King's Castle D'Angheig: Dark Spirit 2 (Clown) 
+8492 King's Castle D'Angheig: Dark Spirit 3 (Transparent Armor) 
+8500 Anne Deal's House: The Second Lap Dark Spirit 
+8510 Valley of The Reservoir: The Dark Spirit 
+8520 Hunting Forest: Red Spirit Level 3 
+8530 King's Castle D'Angheig: Two-Sword Avelin 
+8531 King's Castle Drunegreig: Leroy 
+8532 King's Castle D'Angheig: Second Lap Dark Spirit 1: Heavy Equipment 
+8533 King's Castle D'Angheig: 2 laps Dark Spirit 2: Knight 
+8534 King's Castle D'Angheig: 2 laps 3: Long distance 
+8535 King's Castle D'Angheig: The Dark Spirit Key 
+8540 Hidden Port: Dark Spirit (Darth Mall) 
+8900 For player control testing 

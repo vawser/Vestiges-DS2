@@ -1,0 +1,6 @@
+0 Without 
+1000 Cheap 
+2000 Normal 
+3000 High 
+4000 Rare 
+5000 S Rare 

@@ -1,0 +1,6 @@
+1000 Step avoidance (right front) left foot ⇒ right foot 
+1001 Step avoidance (left front) left foot ⇒ right foot 
+1002 Step avoidance (left after) left foot ⇒ right foot 
+1003 Step avoidance (right front) right foot ⇒ left foot 
+1004 Step avoidance (right after) right foot ⇒ left foot 
+1005 Step avoidance (left after) right foot ⇒ left foot 

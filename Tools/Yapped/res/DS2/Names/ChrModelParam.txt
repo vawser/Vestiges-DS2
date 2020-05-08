@@ -1,21 +1,15 @@
-1170 UNKNOWN
-1500 UNKNOWN
-1520 UNKNOWN
-1530 UNKNOWN
-2120 UNKNOWN
-3096 UNKNOWN
-3150 UNKNOWN
-3180 UNKNOWN
-3210 UNKNOWN
-3250 UNKNOWN
-3260 UNKNOWN
-3270 UNKNOWN
-5010 UNKNOWN
-5030 UNKNOWN
-6020 UNKNOWN
-6030 UNKNOWN
-6191 UNKNOWN
-6560 UNKNOWN
-6650 UNKNOWN
-6810 UNKNOWN
-7055 UNKNOWN
+1170 Statuepawn 
+1500 Statue Night 
+2120 Wyvern 
+3096 New Giant Senior Soldier (Deceased) 
+3150 Elephant (Born) 
+3180 Bay Grant, Seoul 
+3250 Warrior in the Mirror 
+3260 Butcher 
+3270 Bone Dragon 
+5010 Naga 
+5030 Manscorpion ? 
+6020 Beautiful Voice Frog 
+6030 Spider Queen: Coalescence 
+6191 Silver Chariot 
+7055 Retired Fire Protection Woman 

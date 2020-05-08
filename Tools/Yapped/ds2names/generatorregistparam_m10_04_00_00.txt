@@ -1,0 +1,46 @@
+13200000 【Skeleton】 
+20110000 [Slave Beast: Piglet] 
+70050000 【Dragon Shrine Maiden】 Npc 
+70050001 【Dragon Shrine Maiden】 NPC (Ghost) 
+70050002 【Dragon Shrine Maiden】 01 
+70050003 【Dragon Shrine Maiden】 02 
+70050004 【Dragon Shrine Maiden】 03 
+70050007 【Dragon Shrine Maiden】 06 
+70450000 【Ladder Shop】 (Born) 
+70450001 【Ladder Shop】 (Ghost) 
+70451000 [Ladder shop] for cut scene 
+74100000 [Blue Warrior] Npc 
+74100001 [Blue Warrior] NPC (Ghost) 
+74300000 【Tsukiko Grandfather】NPC 
+75100000 【Map writing】 Npc 
+75100001 【Map writing】 NPC (Ghost) 
+75400000 【Yorozu Babaa】 Npc 
+75400001 【Yorozu Babaa】 NPC (Ghost) 
+76100000 【Armor shop】 Npc 
+76100001 【Armor shop】 NPC (Ghost) 
+76100002 【Armor shop】 NPC (normal) 
+76100003 【Armor shop】 NPC (Bullish) 
+76200000 【Material Shop】 Npc 
+76200001 【Material Shop】 NPC (Ghost) 
+76300000 [Sorcerer] Npc 
+76300001 [Sorcerer] NPC (Ghost) 
+76400000 【Blacksmith】 Npc 
+76400001 【Blacksmith】 NPC (Ghost) 
+76400002 【Blacksmith】 NPC (indoor) 
+76600000 【Sorcerer】 Npc 
+76600001 【Sorcerer】 NPC (Ghost) 
+76900000 【Miracle Shop】 Npc 
+76900001 【Miracle Shop】 NPC (Ghost) 
+76900002 【Miracle Shop】 NPC (Black Spirit) 
+77700000 【Cat】 NPC Sitting 
+77700001 【Cat】 NPC (Ghost) 
+77700002 【Cat】 NPC02 
+77700003 【Cat】 NPC03 
+77700004 【Cat】 NPC04 
+77700005 【Cat】 NPC05 
+77700006 【Cat】 NPC06 
+77700007 【Cat】 NPC07 
+78600000 [Transparent character for pledge] 
+83700000 【Tutorial】 NPC: Week 2 Hunting 
+83710001 【Tutorial】 NPC: Gap Sinus: Proximity 
+83720000 【Tutorial】 NPC: Gap Sinus: Shooting 

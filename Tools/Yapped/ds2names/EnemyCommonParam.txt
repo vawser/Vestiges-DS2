@@ -1,0 +1,173 @@
+10 【Data Test】 
+100000 Goblin 
+101000 Cobold 
+102000 Kingdom Soldier (Dead) 
+102100 Kingdom Soldier (Living) 
+102130 Kingdom Soldier (Born): Dying 
+103000 Lower-level soldier (dead) 
+103100 Lower-level soldiers (raw) 
+105000 Fairy Shrine Maiden 
+106000 Dark Priest (Dead) 
+107000 Parasite Spider (Parasitic) 
+108000 Rogue (Dead) 
+113000 Sailor (dead) 
+115000 Deceased: Traveler's Clothing ♂ 
+117000 Statue: Pawn 
+118000 Dark Wizard (Dead) 
+118001 Dark Wizard (Deceased): Death penalty 
+119000 Lion Black Mage (Born) 
+121000 Giant Lower Soldier (Giant) 
+123000 Deformed shadow (born) 
+124000 Assassin (Live) 
+125000 Undead Citizen 
+125010 Undead Citizen: Trap After Boss 
+127000 Dead Workers 
+127001 Dead Workers (Deceased): Torch*CapsuleS 
+129000 The Keeper of the Forest 
+131000 Cleric 
+132000 Skeleton 
+133000 Wheel Skeleton 
+134000 Dwarf 
+135000 Heavy Dwarf 
+137000 Necromancer 
+138000 a torturet 
+139000 Man-made immortal 
+141000 Strengthened Immortals 
+146000 Deceased: Clothes of the wealthy♂ 
+147000 Deceased: Sick ♂ 
+148000 Deceased: Farmer's Clothes♂ 
+149000 Deceased: Steelworker 
+150000 Statue: Night 
+151000 Royal Warrior 
+152000 Kingdom Soldier Warrior 
+153000 Royal Guard 
+154000 Skeleton aristocracy 
+155000 Lizard Man 
+156000 Helmet Skeleton 
+157000 Armor Skeleton 
+201100 Slave Beast: Piglet 
+202000 Slave Beast (Wild) 
+203000 Parasite Spider 
+204000 Great Moss 
+205000 Poison hornworm 
+206000 Needle maggots 
+209000 Hunting Dogs 
+210000 Basilisk 
+212000 Wyvern 
+213000 Stone Defense 
+214000 Fang Beast 
+216000 Door possessed 
+217000 A hermit in the dark 
+220000 Giant poison hornworm 
+222000 Giant Basil risk 
+223000 Dead Rat 
+223500 Giant Rat 
+224000 Coal tar 
+225000 Light worm (diverted by NPC) 
+226000 Dog Rat 
+226001 Dog Mouse: For Boss Warfare 
+226100 Dog Mouse: Color (2) 
+227000 Stray dog 
+300000 Auger 
+301000 Wandering Knight 
+302000 Prison man (dead) 
+303300 Double-sided warrior: snake head 
+304000 Banshee (Deceased) 
+305000 Damon Knight (Dead) 
+306000 Damon Armor (Dead): Captain 
+307000 Durahan (deceased) 
+307100 Durahan (Raw) 
+307110 Durahan (raw): Only the head 
+308000 Lion Warrior 
+309000 Giant Senior Soldier (Giant) 
+309600 New Giant Senior Soldier (Deceased) 
+309700 New Giant Senior Soldier (Live) 
+311000 Cavalry: Cavalry Soldiers 
+312000 Immortal Senior Soldier 
+313000 Falcon Warrior 
+314000 Elephant (deceased) 
+315000 Elephant (Born) 
+316000 Captured Magician (Raw) 
+317000 Dragon Professor 
+318000 Bay Grant 
+319000 Damon Armor (Dead): Mass Production 
+321000 Mimic 
+324000 Gargoyle 
+325000 Warrior in the Mirror 
+326000 Butcher 
+327000 Bone Dragon 
+330000 Ancient Warriors 
+331000 Damon Heavy Soldier 
+332000 Queen Knight A 
+333000 Queen Knight B 
+334000 Queen Knight C 
+337000 A terrible dead person. 
+500000 Javazahat 
+501000 Naga 
+502000 Manscorpion ♂ 
+502001 Manscorpion ♂: The White Spirit 
+502002 Manscorpion ♂: Ghosts 
+503000 Manscorpion ♀ 
+504000 Mirror Night 
+506100 Agaduran Stand 
+506200 Wormhole 
+506500 Agaduran 
+509000 Dark Bishop 
+511000 Phantom Knight 
+512000 Phantom Mage (Spirit) 
+514600 Old King 
+600000 Old Dragon 
+601000 Salamander 
+602000 Beautiful Voice Frog 
+603000 Spider Queen 
+603100 Spider Queen (Cliff) 
+607000 Molten iron daemon 
+608000 Corrosive insect (outer shell): Scum bottom 
+611000 Heavy Cavalry: Soldiers Only 
+611010 Heavy Cavalry: Soldiers Only: Bow 
+619100 Silver Chariots: Horses Only 
+619110 Silver Chariots: Coalescence 
+625000 Ornstein 
+626000 Forgotten Sinner 
+627000 Queen's armor 
+700000 Dragon Shrine Maiden 
+701000 Dragon Shrine Maiden (Child) 
+703600 New Queen 
+704500 ladder shop 
+705000 Retired Fire Guard Woman 
+721100 The Spirit of the Prime Minister 
+723000 Housekeeper 
+724000 Captain of the Kingdom 
+725000 Pilgrims in the Abyss 
+726000 Dwarf Gabalance  
+730000 I Under The Mirror Night 
+731000 I Under Mirror Night 2 
+742000 Wandering Warrior 
+743000 Tsukiko Grandfather 
+744000 Patch 
+751000 Atlas 
+752000 Sea Solar 
+753000 Bell Guard 
+754000 Yorozu Babaa 
+755000 Stalker Warrior 
+760000 The Girl of the Bard 
+760200 The Girl In Captivity 
+761000 armor shop 
+762000 Material shop 
+763000 Sorcerer 
+764000 blacksmith 
+766000 A magician 
+768000 Spell Mania 
+769000 Miracle Man Leash 
+770000 Dark Art Shop 
+771000 A Sealed Man 
+772000 a curiosity shop 
+776000 Top Weapons Store 
+777000 Cat 
+783000 Black Phantom Shop 
+784000 The Teacher of The Sin 
+785000 Guardian Knight 
+786000 Glitter Girl 
+800000 General-purpose NPC 
+801000 General-purpose NPC (phantom mimetic) 
+812000 Belle claire 

@@ -1,0 +1,44 @@
+30 [Captain of the Kingdom] NPC Memory 1 
+32 [Captain of the Kingdom] NPC (Ghost) 
+60 ?Tsukiko Grandfather? Npc 
+61 ?Tsukiko Grandfather? NPC (Ghost) 
+656 ?White Spirit?Tsukiko Ya 
+657 [White Spirit] Captain of the Kingdom 
+800 ?BOSS?New Giant Senior Soldier (Deceased) 
+1120 Giant lower-level soldiers (giant): Square 1 at the end of the tunnel 
+1130 Giant lower soldier poison (giant): bare hands: tunnel destination square 1 
+1210 Kingdom Soldier (Living): Medium Shield: Spear_ Beyond the Arc de Triomphe 
+1211 Kingdom Soldier (Living): Medium Shield: Spear_ Beyond the Arc de Triomphe 
+1212 Kingdom Soldier (Living): Medium Shield: Spear_ Beyond the Arc de Triomphe 
+1300 Giant Lower Soldier Bare Hands (Giant): Next To Oil Jar 
+1310 Giant Lower Soldier Club (Giant): Arc de Triomphe 
+1311 Giant Lower Soldier Bare Hands (Giant): Arc of Triumph 
+1330 Giant lower soldier fire (giant): bare hands: Attack from the roof 
+1331 Giant lower soldier fire (giant): bare hands: Attack from the roof 
+1400 Giant Senior Soldier (Giant): 2-Swords: Jump Attack 
+1600 Giant Senior Soldier (Giant): Two-Handed Club: Keeper in front of goal 
+2200 Lower Soldier (Raw): One-handed axe: Before sub-route rubble 
+2201 Lower soldier (raw): Bow: Subroute before rubble 
+2202 Lower soldier (raw): Bow: Subroute before rubble 
+2230 Lower Soldier (Raw Man): Small Shield: One Hand Sword: Subroute Before Rubble_Barista 
+2300 Kingdom Soldier (Living Man): 1 on the wooden scaffolding of the bow square 
+2301 Kingdom Soldier (Living Man): 2 on the wooden scaffolding of bow_square 
+2400 Giant Senior Soldier (Giant): 2-Swords_ War Square 
+2410 Kingdom Soldier (Living): Two-Handed Sword 
+2510 Kingdom Soldier (Live): Barista left in the back of the arch 
+2511 Kingdom Soldier (Live): Barista right in the back of the arch 
+2520 Giant lower soldier (giant): Falling appearance _ oil jar destruction 
+2600 Kingdom Soldier (Live Man): Spear: Medium Shield: Barista left next to wall crane 
+2610 Kingdom Soldier (Live Man): Spear: Medium Shield: Barista right next to wall crane 
+2900 Giant Lower Soldier (Giant): Club: Man-in-The-World Sniping 1 
+2910 Giant lower soldier fire (giant): bare hands: 2 officers snipered by barista 
+2920 Giant Lower Soldier (Giant): Club: Hidden Room 
+3000 Giant Senior Soldier (Giant): 2-Swords_First Half_1 
+3010 Kingdom Soldier (Living): Two-Handed Sword: Bow_ First Half 
+3011 Kingdom Soldier (Living): Spear_First Half_1 
+3012 Kingdom Soldier (Living): Spear_First Half_2 
+3100 Giant Senior Soldier (Giant): 2 Swords_Late_2 
+3110 Kingdom Soldier (Alive): Spear_ Late 
+3111 Kingdom Soldier (Alive): Spear_ Late 
+3112 Kingdom Soldier (Living): Two-Handed Sword: Bow_ First Half 
+9990 [Official] giant soldiers appearing from a broken wall 

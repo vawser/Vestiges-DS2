@@ -1,0 +1,14 @@
+0 Test 
+204310 Fist_Both Hands_Stance 
+214310 Dagger_Both Hands_Stance 
+244310 Double-edged sword_both hands_stance 
+254310 Spear_Both Hands_Stance 
+294310 Straight sword_both hands_stance 
+364310 Two-handed axe_both hands_stance 
+364311 Two-handed axe_both-handed_stance_thick weapon 
+404310 Two-handed bow_both-handed_stance 
+414310 Two hands large bow_both hands_stance 
+424310 One-handed bow_both hands_stance 
+444310 Small shield_both hands_stance 
+454310 Medium Shield_Both Hands_Stance 
+464310 Large shield_both hands_stance 

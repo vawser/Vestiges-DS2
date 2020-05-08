@@ -1,39 +1,39 @@
-7010 UNKNOWN
-7020 UNKNOWN
-7030 UNKNOWN
-7110 UNKNOWN
-7120 UNKNOWN
-7130 UNKNOWN
-7140 UNKNOWN
-7150 UNKNOWN
-7160 UNKNOWN
-7170 UNKNOWN
-7210 UNKNOWN
-7220 UNKNOWN
-7230 UNKNOWN
-7240 UNKNOWN
-7250 UNKNOWN
-7260 UNKNOWN
-7270 UNKNOWN
-7280 UNKNOWN
-9150 UNKNOWN
-9500 UNKNOWN
-9700 UNKNOWN
-9701 UNKNOWN
-9702 UNKNOWN
-9703 UNKNOWN
-9704 UNKNOWN
-9705 UNKNOWN
-9706 UNKNOWN
-9707 UNKNOWN
-732000 Unknown NPC
-733000 Unknown NPC
+7010 PlayAble Character A 
+7020 PlayAble Character B 
+7030 PlayAble Character C 
+7110 MIN Naked 0% 
+7120 30% lighter 
+7130 Medium 50% 
+7140 Weight 70% 
+7150 Maximum weight 100% 
+7160 Excess weight 150% 
+7170 MAX Weight 200% 
+7210 Traveler 
+7220 Soldiers 
+7230 Light Warrior 
+7240 Item Master 
+7250 Thieves 
+7260 Magician 
+7270 A priest. 
+7280 Hunter 
+9150 For NPC testing 
+9500 Dark Spirit Double Sword Man 
+9700 Phantom - Naked (Man) 
+9701 Phantom - Clothes (Man) 
+9702 Phantom - Light Clothing (Male) 
+9703 Phantom - Heavy Wear (Male) 
+9704 Phantom - Naked (Female) 
+9705 Phantom - Clothes (Woman) 
+9706 Phantom - Light Clothing (Female) 
+9707 Phantom - Heavy Clothing (Female) 
+732000 Sorcerer Sinner 1 
+733000 Sorcerer Sinner 2 
 741000 Crestfallen Saulden
 761000 Maughlin the Armourer
 761010 Maughlin the Armourer
 763000 Rosabeth of Melfia
 763010 Rosabeth of Melfia
-765000 UNKNOWN
+765000 a tool shop 
 766000 Carhillion of the Fold
 766010 Carhillion of the Fold
 772000 Magerold of Lanafir
@@ -59,8 +59,8 @@
 832600 A Chip Off the Ol Rock
 832700 Shadowveil Assasin
 833000 Peculiar Kindalur Phantom
-834000 UNKNOWN
-834100 UNKNOWN
+834000 Prison of Oblivion: Sorcerer 
+834100 Prison of Oblivion: The Dark Knight 
 835000 Black Dragon Knight
 835100 Black Dragon Knight
 835200 Black Dragon Knight

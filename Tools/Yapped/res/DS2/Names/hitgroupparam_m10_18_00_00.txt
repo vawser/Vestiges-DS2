@@ -1,0 +1,7 @@
+0 Group 0 
+1 Group 1 
+2 Area illuminated by group 2_ insect keys 
+3 Scaffoldattribute changes in group 3_flooding 
+4 Group 4_ Boss Battle Ship 
+10 Group 10 Dark ? Bright 
+40 Oil Pot_01 

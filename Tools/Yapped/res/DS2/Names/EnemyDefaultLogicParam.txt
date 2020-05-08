@@ -1,63 +1,63 @@
-1 UNKNOWN
-1000 UNKNOWN
-1001 UNKNOWN
-1002 UNKNOWN
-1010 UNKNOWN
-2910 UNKNOWN
-3000 UNKNOWN
-3060 UNKNOWN
-3061 UNKNOWN
-6010 UNKNOWN
-6060 UNKNOWN
-8100 UNKNOWN
-9000 UNKNOWN
-9010 UNKNOWN
-9020 UNKNOWN
-9030 UNKNOWN
-9061 UNKNOWN
-9062 UNKNOWN
-9100 UNKNOWN
-9101 UNKNOWN
-9111 UNKNOWN
-9112 UNKNOWN
-9113 UNKNOWN
-9120 UNKNOWN
-9140 UNKNOWN
-9150 UNKNOWN
-9160 UNKNOWN
-9170 UNKNOWN
-9200 UNKNOWN
-9300 UNKNOWN
-9333 UNKNOWN
-9334 UNKNOWN
-9400 UNKNOWN
-9500 UNKNOWN
-9501 UNKNOWN
-9502 UNKNOWN
-9503 UNKNOWN
-9504 UNKNOWN
-9601 UNKNOWN
-9602 UNKNOWN
-9603 UNKNOWN
-9604 UNKNOWN
-9605 UNKNOWN
-9606 UNKNOWN
-9607 UNKNOWN
-9608 UNKNOWN
-9609 UNKNOWN
-9610 UNKNOWN
-9611 UNKNOWN
-9612 UNKNOWN
-9613 UNKNOWN
-9700 UNKNOWN
-9701 UNKNOWN
-9702 UNKNOWN
-9703 UNKNOWN
-9704 UNKNOWN
-9705 UNKNOWN
-9706 UNKNOWN
-9707 UNKNOWN
-9900 UNKNOWN
+1 Without 
+1000 Goblin (Test) 
+1001 Goblin (Test 2) 
+1002 Goblin (Official Test) 
+1010 Cobold (Test) 
+2910 Auger (Test) 
+3000 Auger (test for actual use) 
+3060 Demon Soldier (Captain) (Test for actual aircraft) 
+3061 Demon soldier (test for actual use) 
+6010 Salamander (tentative) 
+6060 Yadokari Castle (tentative) 
+8100 White Phantom Test 
+9000 Player character for proto version 
+9010 Proto version enemy character 
+9020 New player character for proto version 
+9030 New enemy character for proto version 
+9061 Flamto 
+9062 Flamto (no environmental map) 
+9100 Giant Boss Test (Morinaga) 
+9101 Giant Lower Soldier (Test) 
+9111 Ueda Test (Goblin) Yoshida Param Adjustment Version 
+9112 Ueda Test (Goblin) 
+9113 Ueda Test (Goblin: Floating) 
+9120 Captain of the Giant SS (Morinaga Test) 
+9140 Okawachi Test 
+9150 For NPC testing 
+9160 Imazu Test 
+9170 For barrett bullet test 
+9200 Character for new bone structure 
+9300 GgD - Dead: Traveler's Clothing ? 
+9333 Ohki NPC Test 1 
+9334 Ohki NPC Test 2 
+9400 Oil Wet Test - Kingdom Soldier (Dead): Bow 
+9500 Dark Spirit Double Sword Man 
+9501 Red Spirit Level 0 
+9502 Red Spirit Level 1 
+9503 Red Spirit Level 2 
+9504 Red Spirit Level 3 
+9601 Blue Spirit Level 0 
+9602 Blue Spirit Level 1 
+9603 Blue Spirit Level 2 
+9604 Blue Spirit Level 3 
+9605 Small White Phantom 
+9606 White Phantom 
+9607 Small Gold Phantom 
+9608 Gold Phantom 
+9609 Dragon Spirit Phantom 
+9610 Abyss Phantom 
+9611 Usually Phantom Phantom 
+9612 Bonfire Phantom Phantom 
+9613 Tomb Phantom 
+9700 Phantom - Naked (Man) 
+9701 Phantom - Clothes (Man) 
+9702 Phantom - Light Clothing (Male) 
+9703 Phantom - Heavy Wear (Male) 
+9704 Phantom - Naked (Female) 
+9705 Phantom - Clothes (Woman) 
+9706 Phantom - Light Clothing (Female) 
+9707 Phantom - Heavy Clothing (Female) 
+9900 For test characters 
 100000 Forest Grotesque
 100008 Forest Grotesque
 100009 Forest Grotesque

@@ -14,7 +14,7 @@
 325000 Ruin Sentinel
 325010 Ruin Sentinel
 326000 The Rotten
-332000 UNKNOWN
+332000 Throne Watcher
 333000 Velstadt, The Royal Aegis
 334000 Throne Defender
 500000 Covetous Demon

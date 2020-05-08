@@ -1,0 +1,403 @@
+1 Test 
+2 Test 
+3 Test 
+10 10: Unauthorized data (prohibited) 
+8182 8182: Weapon Color Check 
+8183 8183: Landing Check 
+732000 Sorcerer Sinner 1: The Fire of The Sorcerer 
+733000 Sorcerer Sinner 2: The Fire of The Sorcerer 
+741000 Heartbroken Blue Warrior: Busted Sword 
+761000 Armor shop: Falcion 
+763000 Sorcerer: Sorcerer's Wand 
+766000 Sorcerer: Dark Wizard Lizard Wand 
+772000 Curiosity: Size 
+784000 The Teacher of The Sin: The Long Sickle 
+810000 NPC for Multi: Swordsman (Male): Zweiender 
+811000 NPC for Multi: Archer (Man): Convoy Bow 
+812000 NPC for Multi: Sage (Female): Fairy Shrine Maiden's Wand 
+813000 NPC for Multi: Lancer (Female): The Knight's Assault Spear C 
+814000 NPC for Multi: Flesh breaking (female): White Spirit: Great Axe 
+820000 NPC for Multi: Spearman (Man): Winged Spear 
+821000 NPC for Multi: Reaper (Female): Jabazahat's Two-Handed Sickle 
+822000 NPC for Multi: The Magician (Man): Dark Bishop's Wand 
+823000 NPC for Multi: Koryu Swordsman (Male): Old Dragon's Two-Handed Sword 
+824000 NPC for Multi: The Older Brother of a Female Swordsman: The Swordsman's Two-Handed Sword 
+831000 Saint's Tomb: Abandoned Saint: Queen's Bell 
+831100 Saint's Tomb: Knight of the Saint: King Van Grad's Two-Handed Sword 
+832000 Old Dark Hole: Abyss 1: Sniper: Compositing Bow 
+832100 Old Dark Hole: Abyss 2: Axeman: Demon Heavy Soldier's Two Hands Mallet 
+832200 The Hole of Old Darkness: The Abyss 3: Yellow Husband: The Fire of The Magic 
+832201 The Old Dark Hole: The Abyss 3: Yellow Husband: Ibara Whip 
+832300 The Hole of Old Darkness: The Abyss 4: Yellow Wife: The Fire of The Magic 
+832301 The Old Dark Hole: The Abyss 4: Yellow Wife: The Whip 
+832400 The Hole of Old Darkness: The Abyss 5: Traveler: Dagger 
+832401 The Old Dark Hole: The Abyss 5: Traveler: The Dagger of the Nagain 
+832500 Old Dark Hole: Abyss 6: Knight: Ricardo's Sting 
+832600 The Hole of The Old Darkness: The Abyss 7: Heavy Warrior: The Great Dragon Fang 
+832700 Old Dark Hole: Abyss 8: Queen: Shorter 
+832701 Old Dark Hole: Abyss 8: Queen: Two-Sided Swordsman's Song Sword 
+833000 Amana's Shrine: Cannibal Keeper: Meat Cleaver 
+835000 Enshrinement Hall: Dragon Knight: Old Dragon's Two-Handed Axe 
+835001 Enshrinement Hall: Painting Guard (Female): The Song of Painting 
+835100 Enshrinement Hall: Dragon Knight: Old Dragon's One Hand Mallet 
+835200 Enshrinement Hall: Dragon Knight: Old Dragon's One Hand Sword 
+836000 Molten Castle: Samurai Sorcerer: Stalker Warrior's Sword 
+836001 Molten Castle: Samurai Sorcerer: Stalker Warrior's Sword (for two-sword-style both hands) 
+836100 Molten Castle: Bell Guard 1: Great Sword 
+836200 Molten Castle: Bell Guard 2: Fire Bow (Averin) 
+836300 Ming-iron castle: Bell Guard 3: Dark Wizard's Komori Wand 
+836301 Molten Castle: Bell Guard 3: Salamander Spear 
+836400 Molten Castle: Light Heavy Soldier: Daemon Heavy Soldier's Two-Handed Mallet 
+837000 Gap Sinus: Second Lap Hunting: Short Sword 
+837100 Gap Sinus: Tutorial: Broken Straight Sword 
+837200 Gap Sinus: Tutorial: Short Bow 
+838000 Forest of Shadows: Phantom Enemy 1: Dagger 
+838100 Forest of Shadows: Phantom Enemy 2: Long Sword 
+842000 The Forest of Decayed Giants: In Front of the King's Door: The Second Lap Red Spirit 1: The Two-Handed Sword of the Elephant 
+843000 The Forest of Decayed Giants: In front of the king's door: Second Lap Red Spirit 2: The Straight Sword of the Wandering Knight 
+843001 Decayed Giant Forest: In Front of the King's Door: Round 2 Red Spirit 2: Dagger 
+844000 Decayed Giant Forest: Ground Cracking Square: Round 2 Red Spirit 3: Broad Sword 
+845000 Decaying Giant Forest: Second Lap Dark Spirit: Scimiter 
+846000 Kiseki-gai Gerdra: Dark Spirit: Tsurushi 
+847000 Heide Great Fire Tower: Second Lap Dark Spirit 1: Silver Chariot Assault Spear 
+847100 Heide Great Fire Tower: Second Lap Dark Spirit 2: The Old Woman's Two-Handed Axe 
+848000 Tomb of Immortality: Second Lap Dark Spirit 1: Phantom Mage's One Hand Sword 
+848100 Tomb of Immortality: Dark Spirit 2 (Ghost): Dagger 
+849000 King's Castle D'Angheig: Dark Spirit 1 (Ghost): Dagger 
+849100 King's Castle D'Angheig: The Dark Spirit 2 (Clown): The Fire of The Magic 
+849200 King's Castle D'Angheig: Dark Spirit 3 (Transparent Armor): Shorter 
+850000 Anne Deal's House: The Second Lap Dark Spirit (right): A dagger in a deformed shadow 
+850001 Anne Deal's House: The Second Lap Dark Spirit (left): Rogue Dagger 2 
+851000 Valley of The Reservoir: Dark Spirit: The Two-Handed Sickle of the Man-Made Immortal 
+852000 Hunting Forest: Red Spirit Level 3: The Great Sword 
+853000 King Castle D'Angheig: Two-Sword Avalin 
+853100 King's Castle D'Angheig: Leroy: Estock 
+853200 King's Castle D'Angheig: Second Lap Dark Spirit 1: Heavy Equipment: Demon Heavy Soldier Warpick 
+853300 King's Castle D'Angheig: 2 laps Dark Spirit 2: Knight: Long Sword 
+853400 King's Castle D'Angheig: 2 laps: Dark Spirit 3: Long distance: Dragon Hunting Arch 
+853500 King's Castle D'Angheig: Dark Spirit Key number: Drying Rod 
+854000 Hidden Port: Dark Spirit (Darth Mall): Statuenite's Double-Edged Sword 
+1000000 1000: Dagger 
+1010000 1010: Dagger 
+1040000 1040: Narga Dagger 
+1050000 1050: Deformed shadow dagger 
+1060000 1060: Rogue Dagger 1 
+1070000 1070: Rogue Dagger 2 
+1100000 1100: Paring Dagger 
+1110000 1110: Assassin's Double-Edged Dagger 
+1130000 1130: Kingdom Sergeant Dagger 
+1200000 1200: Broken Straight Sword 
+1210000 1210: Short Sword 
+1220000 1220: Long Sword 
+1230000 1230: Broad Sword 
+1240000 1240: Lower soldier's one-handed sword 
+1270000 1270: Sailor's One Hand Sword 
+1280000 1280: Phantom Mage's One-Handed Sword Catalyst (Magic) 
+1320000 1320: One-handed sword of a wandering knight 
+1330000 1330: Durahan's One Hand Sword 
+1350000 1350: The Old Dragon's Straight Sword 
+1360000 1360: The Direct Sword of the Sun 
+1370000 1370: Demon Heavy Soldier's Straight Sword 
+1400000 1400: Estock 
+1410000 1410: Mail Breaker 
+1420000 1420: Spelt Four Tenten (Magic) Sting Sword 
+1430000 1430: Spider Queen's Sting Sword 
+1440000 1440: Swords of the Kingdom's Military Master 
+1500000 1500: Laypia 
+1520000 1520: Manscorpion ♂ stabbing sword 
+1530000 1530: Ricardo's Sting 
+1600000 1600: Falcion 
+1610000 1610: Shorter 
+1620000 1620: Double-sided warrior song sword 
+1640000 1640: Assassin's Song Sword 
+1650000 1650: Scimiter 
+1660000 1660: Durahan Song Sword 
+1670000 1670: Spider Queen Song Sword 
+1680000 1680: Slave Merchant's Song Sword (Large) 
+1690000 1690: Painting Defense Sword 
+1700000 1700: Sword 
+1710000 1710: Drying rod 
+1720000 1720: Youkai 
+1730000 1730: Daemon armor (mass production) sword 
+1740000 1740: Leviathan's Sword 
+1760000 1760: Agaduran Sword 
+1770000 1770: Stalker Warrior Sword 
+1800000 1800: Bustard Sword 
+1810000 1810: Franberge 
+1820000 1820: Claymore 
+1850000 1850: Two-handed sword of the head of the Kingdom SS 
+1860000 1860: Mirror Knight's Two-Handed Sword 
+1870000 1870: The father of the avenged warrior's two-handed sword 
+1871000 1871: The Great Sword of Moonlight 
+1880000 1880: Elephant Man's Two-Handed Sword 
+1900000 1900: King Van Grad's two-handed sword 
+1910000 1910: Sea Solar's two-handed sword 
+1911000 1911: Sea Solar's Two-Handed Sword (2) 
+1920000 1920: Old Dragon's Two-Handed Sword 
+1930000 1930: Black Knight's Sword 
+1940000 1940: Two-handed sword of the kingdom soldier 
+1950000 1950: Ancient Warrior's Two-Handed Sword 
+1960000 1960: Queen Knight A's Two-Handed Sword 
+1970000 1970: Queen Knight C's Two-Handed Sword 
+1980000 1980: Key man's key 
+2000000 2000: Hand Axe 
+2010000 2010: Battle Axe 
+2020000 2020: Bandit One Hand Axe 
+2030000 2030: Lower soldier's one-handed axe 
+2070000 2070: Heavy Dwarf One Hand Axe 
+2080000 2080: Revenge Warrior's One Hand Axe 
+2090000 2090: Meat cleaver 
+2100000 2100: Immortal Senior Soldier's One Hand Axe 
+2200000 2200: Crescent Axe 
+2210000 2210: Great Axe 
+2220000 2220: Bandit's Two-Handed Axe 
+2240000 2240: Lion Warrior's Two-Handed Axe 
+2250000 2250: Giant SS Captain's Two-Handed Axe 
+2260000 2260: Heavy Dwarf's Two-Handed Axe 
+2290000 2290: Old Dragon's Two-Handed Axe 
+2300000 2300: The Great Axe of the Black Knight 
+2310000 2310: Demon heavy soldier's two-handed axe 
+2400000 2400: Club 
+2410000 2410: Mace 
+2420000 2420: Morningstar 
+2430000 2430: Strengthening Club 
+2440000 2440: Blacksmith's Hammer 
+2470000 2470: Phantom Priest's One Hand Mallet 
+2500000 2500: Housekeeper's Egg  
+2520000 2520: Tonkachi 
+2530000 2530: Old Dragon Warpick 
+2540000 2540: Dragon Professor's One Hand Hammer 
+2560000 2560: Double-sided warrior's toge club 
+2600000 2600: Large Club 
+2610000 2610: Tsurushi 
+2620000 2620: Great Club 
+2630000 2630: Heavy Dwarf's Hands Mallet 
+2660000 2660: Two-handed hammer of the molten iron daemon 
+2670000 2670: Strengthening immortals' hands 
+2680000 2680: Dairyu Fang 
+2690000 2690: Giant lower-class soldier's two-handed club 
+2700000 2700: Two-handed mallet of Yadokari Castle 
+2710000 2710: Daemon Mallet 
+2720000 2720: Cleric's Two Hands 
+2730000 2730: Ancient Warrior's Two Hands Mallet 
+2740000 2740: Daemon heavy soldier's two-handed mallet 
+2750000 2750: Queen Knight B's Two Hands Mallet 
+2800000 2800: Short Spear 
+2810000 2810: Long Spear 
+2820000 2820: Pike 
+2830000 2830: Partisan 
+2840000 2840: Statuepone Spear 
+2850000 2850: Salamander Spear 
+2860000 2860: Immortal Advanced Soldier Spear 
+2870000 2870: The Spear of the Wandering Knight 
+2880000 2880: Patch Spear 
+2890000 2890: Three Spears of the Evangelist 
+2895000 2895: Gargoil Spear 
+2896000 2896: Ornstein Spear 
+2900000 2900: The Wandering Knight's Assault Spear A 
+2920000 2920: Wandering Knight's Assault Spear B 
+2930000 2930: Advanced Knight Assault Spear 
+2940000 2940: Silver Chariot Assault Spear 
+3000000 3000: Long sickle 
+3010000 3010: Prison man's two-handed sickle 
+3020000 3020: Two-handed sickle of the man-made immortal 
+3040000 3040: Crescent sickle of blue phantom shop 
+3050000 3050: Black Phantom Shop's Two-Handed Sickle 
+3060000 3060: Jabaza hat's two-handed sickle 
+3070000 3070: Two-handed sickle in the form of queen's armor 
+3200000 3200: Lutzern 
+3210000 3210: Size 
+3220000 3220: Halvard 
+3240000 3240: Leviathan Spear Hammer 
+3250000 3250: Two-handed spear hammer of the brain trunk god tree 
+3251000 3251: After the destruction of the tree of the brain trunk 
+3270000 3270: Elephant Man's Long Axe 
+3280000 3280: The Old Woman's 1-Handed Axe 
+3290000 3290: Heavy Cavalry's Long Axe 
+3300000 3300: Black Knight Axe Spear 
+3310000 3310: Kingdom guards' long-handed axe 
+3320000 3320: Skeleton aristocrat's long-handed axe 
+3330000 3330: Ancient Warrior's Long Axe 
+3340000 3340: Ancient Warrior's Two-Handed Axe Spear 
+3350000 3350: Demon Heavy Soldier's Two-Handed Axe Spear 
+3400000 3400: Bare Fist 
+3401000 3401: Ladder Attack L Input 
+3402000 3402: Ladder Attack R Input 
+3403000 3403: NPC Ladder Attack L Input 
+3404000 3404: NPC Ladder Attack R Input 
+3405000 3405: NPC Fist 
+3406000 3406: Strong bare hands 
+3407000 3407: Strong bare hands: ladder attack L input 
+3408000 3408: Strong bare hands: ladder attack R input 
+3410000 3410: Claw 
+3420000 3420: Yadokari Castle Nails 
+3430000 3430: Assassin's Claw (left) 
+3440000 3440: Bag shop claw 
+3500000 3500: Sestas 
+3600000 3600: Whip 
+3610000 3610: Ibara Whip 
+3620000 3620: Tortureman Whip 
+3630000 3630: Beautiful Voice Frog Whip 
+3660000 3660: The Elder whip of the castle town 
+3800000 3800: Sorcerer's Wand 
+3810000 3810: Fairy Shrine Maiden's One Hand Cane 
+3820000 3820: The Keeper's One Hand Cane in the Forest 
+3830000 3830: Dark Wizard's One Hand Wand (Medium) 
+3850000 3850: Rich's Miracle Dark Man's Wand 
+3860000 3860: Cleric's One Hand Wand 
+3870000 3870: Dark Wizard's One Hand Wand (Top) 
+3880000 3880: One hand cane of bookstore 
+3890000 3890: Spell Four Tenten (Magic) One Hand Wand 
+3900000 3900: Spell Four Tenten (Magic) One Hand Wand 
+4010000 4010: Dark Priest's One Hand Bell (Lower) 
+4020000 4020: One-handed bell of the keeper of the forest 
+4030000 4030: Dark Priest's One Hand Bell (Mid) 
+4040000 4040: One-handed bell of the Dragon's Shi Festival 
+4050000 4050: Queen Bell 
+4060000 4060: Cleric One Hand Bell 
+4080000 4080: One-handed bell of Spell Four Tenten (Miracle) 
+4090000 4090: Blue Phantom Shop One Hand Bell 
+4100000 4100: One-handed bell with the Saint 
+4110000 4110: Dark Priest One Hand Bell Round (Top) 
+4150000 4150: Dark Bishop's One Hand Wand 
+4200000 4200: Short Bow 
+4210000 4210: Longbow 
+4220000 4220: Composite Bow 
+4230000 4230: Sailor's two-handed bow 
+4240000 4240: Heavy Cavalry's Two-Handed Bow 
+4270000 4270: Sancho's two-handed bow 
+4280000 4280: Queen's Bow 
+4290000 4290: Faris's Black Bow 
+4400000 4400: Large bow of daemon armor 
+4420000 4420: Dragon Hunting Arch 
+4600000 4600: Light Crossbow 
+4610000 4610: Heavy Cross Bow 
+4630000 4630: Silver Chariot One Hand Bow 
+4660000 4660: New Avalin 
+5000000 5000: The Great Sword 
+5010000 5010: Double-sided warrior's great sword 
+5040000 5040: Two-headed Wyvern's Great Bent Sword 
+5200000 5200: Zweiender 
+5210000 5210: Great Sword 
+5220000 5220: Demon Knight's Oversized Sword 
+5230000 5230: Biheaded Wyvern's Oversized Sword 
+5240000 5240: King Van Clad's Oversized Sword 
+5270000 5270: Bay Grant (Seoul) Oversized Sword 
+5275000 5275: Demon Heavy Soldier's Oversized Sword 
+5280000 5280: Agaduran's Oversized Sword 
+5285000 5285: Ancient Warrior's Oversized Sword 
+5290000 5290: The Great Sword of the Black Knight 
+5295000 5295: The Forgotten Sinner's Oversized Sword 
+5310000 5310: Statuenite's Double-Edged Sword 
+5330000 5330: Heavy Cavalry Double Blade 
+5340000 5340: Transmission of Double-Edged Sword 
+5350000 5350: Double-edged sword of iron mass 
+5360000 5360: Curved double-edged sword 
+5400000 5400: The Fire of Magic 
+5410000 5410: The Fire of The Magic 
+5500000 5500: First Time Benefit: Dagger 
+5510000 5510: First Time Benefit: Long Sword 
+5520000 5520: First Time Benefit: Hand Axe 
+5530000 5530: First Benefit: Mace 
+5540000 5540: First Time Benefit: Cane 
+6000000 6000: Torch (Small) 
+6100000 6100: Telescope 
+6300000 6300: Phantom - Dagger  
+6310000 6310: Phantom - Swords  
+6320000 6320: Phantom - Song Sword 
+6330000 6330: Phantom-Sword 
+6340000 6340: Phantom - Direct Sword 
+6350000 6350: Phantom - Two-Handed Sword  
+6360000 6360: Phantom - One-handed battle  
+6370000 6370: Phantom - Two-Handed Battle  
+6380000 6380: Phantom - One Hand Axe 
+6390000 6390: Phantom - Two-Handed Axe 
+6400000 6400: Phantom -Spear 
+6410000 6410: Phantom - Two-Handed Sickle 
+6420000 6420: Phantom - Two-Handed Long Axe  
+6430000 6430: Phantom - Bare Hands 
+6440000 6440: Phantom - Nails 
+6450000 6450: Phantom - Torch 
+6460000 6460: Phantom-Telescope  
+6470000 6470: Phantom-Whip  
+6480000 6480: Phantom - One Hand Wand 
+6490000 6490: Phantom - One Hand Bell 
+6500000 6500: Phantom - Two-Handed Bow 
+6510000 6510: Phantom - Two Hands Large Bow  
+6520000 6520: Phantom - One Hand Bow  
+6530000 6530: Phantom - Two-Handed Sword  
+6540000 6540: Phantom - Two-Handed Oversized Sword 
+6550000 6550: Phantom - Double Blade  
+7010000 7010: Statue of a man for a cut scene 
+11000000 11000: Buckler 
+11005000 11005: The Father's Shield of The Avenged Warrior 
+11010000 11010: Small Leather Shield 
+11020000 11020: Iron Circle Shield 
+11030000 11030: Lower soldier's shield (old) 
+11040000 11040: Target Shield 
+11050000 11050: Falcon warrior's shield 
+11070000 11070: Assassin's Shield 
+11080000 11080: Shield of the Kingdom's Military 
+11091000 11091: Red-white circle shield 
+11110000 11110: Dark Priest's Shield (A) 
+11120000 11120: Dark Priest Mask Shield 
+11130000 11130: Phantom Mage's Shield 
+11140000 11140: Necromancer Shield 
+11160000 11160: Sailor's Shield 
+11185000 11185: Queen Knight C Shield 
+11200000 11200: Large Leather Shield 
+11210000 11210: Twin Bird Tree Shield 
+11220000 11220: Heater Shield 
+11230000 11230: Squadron Leader's Shield 
+11240000 11240: Lion Warrior's Medium Shield 
+11250000 11250: Cleric's Medium Shield 
+11260000 11260: King Van Grad's Medium Shield 
+11270000 11270: Sea Solar Medium Shield 
+11280000 11280: Ancient Warrior's Medium Shield 
+11300000 11300: Coat of Arms Shield 
+11310000 11310: Dragon Emblem Shield 
+11330000 11330: Phantom Priest's Medium Shield 
+11350000 11350: Immortal Senior Soldier's Medium Shield 
+11360000 11360: StatueNite's Medium Shield 
+11370000 11370: The Shield of The Spell Four Heavenly Kings (Miracles) 
+11380000 11380: Butterfly Shield 
+11390000 11390: Cleric's Medium Shield B 
+11395000 11395: Spell Four Heavenly Kings (Magic) Medium Shield 
+11400000 11400: Wood Shield 
+11420000 11420: Kingdom Soldier's Medium Shield (Old) 
+11430000 11430: Twin Snake Kite Shield 
+11450000 11450: Durahan's Medium Shield 
+11470000 11470: Sancho's Medium Shield 
+11475000 11475: Queen Knight A's Medium Shield 
+11480000 11480: Old Dragon Shield 
+11485000 11485: Demon Heavy Soldier's Medium Shield 
+11490000 11490: Slave Beast Molten Iron Shield 
+11495000 11495: Dragon Professor's Medium Shield 
+11500000 11500: The Shield of the Great Eagle 
+11510000 11510: Tower Shield 
+11530000 11530: Phantom Knight's Shield (left) 
+11540000 11540: Phantom Knight's Shield (right) 
+11550000 11550: Mirror Knight's Great Shield 
+11560000 11560: Heavy Cavalry Shield 
+11570000 11570: Elephant Man's Shield 
+11590000 11590: The Great Shield of Havel 
+11600000 11600: Heavy Dwarf Shield 
+11610000 11610: Bay Grant's Great Shield 
+11620000 11620: Patch Shield 
+11630000 11630: Ancient Warrior Shield 
+11640000 11640: Demon Heavy Soldier's Great Shield 1 
+11650000 11650: Demon Heavy Soldier's Great Shield 2 
+11700000 11700: Contest Shield 1: Small Shield 
+11710000 11710: Contest Shield 2: Small Shield 
+11720000 11720: Contest Shield 3: Medium Shield 
+11730000 11730: Contest Shield 4: Medium Shield 
+11740000 11740: Contest Shield 5: Great Shield 
+11750000 11750: Contest Shield 6: Great Shield 
+11800000 11800: First Award Shield 1 
+11810000 11810: First Award Medium Shield 2 
+11820000 11820: First Award Medium Shield 3 
+11830000 11830: First Award Shield 4 
+11840000 11840: First Award Shield 5 
+12000000 12000: Phantom - Small Shield 
+12010000 12010: Phantom - Medium Shield 
+12020000 12020: Phantom - Great Shield 

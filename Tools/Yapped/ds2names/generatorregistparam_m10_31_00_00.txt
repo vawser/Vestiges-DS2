@@ -1,0 +1,14 @@
+33000000 [Ancient Warrior] two-handed sword 
+33000010 [Ancient Warrior] Oversized Sword 
+33000019 [Ancient Warrior] Oversized Sword: Soul Blue 
+33000040 [Ancient Warrior] Two-handed mallet 
+33000049 [Ancient Warrior] Two Hands Mallet: Soul Blue 
+61100000 [Heavy cavalry: soldiers only] 
+62500000 [Ornstein] 
+76900000 Miracle Man Npc 
+76900001 Miracle Man NPC (Ghost) 
+78500000 [Knight of protection] Npc 
+78500001 [Knight of protection] NPC (Ghost) 
+81100000 [NPC for multi: Swordsman (male)] NPC: White Spirit 
+81250000 [Heide Great Fire Tower: 2 Laps Dark Spirit 2] Soul Black 
+84700000 [Heide Great Fire Tower: 2 laps Dark Spirit 1] Soul Black 

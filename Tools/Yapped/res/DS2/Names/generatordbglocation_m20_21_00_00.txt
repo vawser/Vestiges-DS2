@@ -1,0 +1,114 @@
+1 ?Belager?NPC 
+40 ?NPC?Pilgrims in the Abyss 
+41 ?NPC?Pilgrims in the Abyss 
+60 ?Tsukiko Grandfather? Npc 
+61 ?Tsukiko Grandfather? NPC (Ghost) 
+205 ?Dragon Shrine Maiden?NPC 
+235 ?Queen?NPC 
+236 ?Queen?NPC 
+305 [Girl in captivity] Npc 
+306 [Girl in captivity] NPC: Ghosts 
+400 ?Dragon Shrine Maiden?NPC: 2nd Place 
+670 [Black Spirit_ On the Way] Enclosed Man 
+671 ?Black Spirit_Road?Castle Drangreig: Dark Spirit 1 (Ghost) 
+676 [White Spirit _ Boss Room Front: Mirror Night] Tsukiko Grandfather 
+677 ?White Spirit_Boss Room Front: Queen? Durahan 
+678 [White Spirit_ Boss Room Front: Queen] Tsukiko Grandfather 
+825 ?Boss?Mirror Night 
+859 [Queen's armor form] 
+860 [Queen Knight A] 
+862 [Queen Knight C] 
+863 ?Boss?Heavy Cavalry Soldiers: Soldiers Only A 
+864 ?Boss?Heavy Cavalry Soldiers Only Soldier B 
+1000 ?In front of the main gate?Elephant soldier_live man 
+1010 ?In front of the main gate?Elephant soldier_live man 
+1020 ?In front of the main gate? Npc 
+1030 [Main gate front] Kingdom soldier: Crossbow 
+1031 [Main gate front] Kingdom Soldier: Crossbow Return Preparation 17.5 
+1050 [Main gate left] kingdom soldier warrior: two-handed sword: infinite spring ing spirit_01 
+1051 [Main gate left] kingdom soldier warrior swords: infinite spring ing spirit_02 (on lap 2) 
+1052 [Main gate left] kingdom soldier warrior swords: infinite spring ing spirit_02 (on lap 2) 
+1053 [Main gate left] kingdom soldier warrior: two-handed sword: infinite spring ing spirit_04 
+1090 [Road in front of the stairs in front of the main gate] Kingdom soldier warrior: crossbow 
+1091 [Road in front of the stairs in front of the main gate] Kingdom soldier warrior: crossbow 
+1092 [Road in front of the stairs in front of the main gate] kingdom soldier warrior: two-handed sword 
+1098 ?Road in front of the main gate stairs?Ishimori 
+1099 [Stairway in front of the main gate] elephant soldier_live man 
+1100 ?Entrance?Kingdom Guard: Axe Spear 
+1200 ?Entrance Passage?Kingdom Guard: Oversized Sword 
+1210 ?Entrance Passage?Kingdom Soldier Warrior: Two-Handed Sword 
+1211 ?Entrance Passage?Kingdom Soldier Warrior: Two-Handed Sword 
+1220 [Between entrance and aisle] royal guard: oversized sword 
+1230 ?Entrance Passage Ladder Top Room?Kingdom Soldier Warrior: Two-Handed Sword_01 
+1240 ?Entrance Passage Ladder Top Room?Kingdom Soldier Warrior: Two-Handed Sword_02 
+1250 ?Entrance passage ladder below?Kingdom guard: Oversized sword 
+1290 Appeared when you meet the conditions to open the door in front of the king's door] red spirit 
+1291 Appeared when you meet the conditions to open the door in front of the king's door] red spirit 
+1300 ?Golem Room?Statue: Pawn Shield 
+1301 ?Golem Room?Statue: Pawn 
+1302 ?Golem Room?Statue: Pawn Shield 
+1303 ?Golem Room?Statue: Pawn 
+1304 ?Golem Room?Statue: Pawn Shield 
+1305 ?Golem Room?Statue: Pawn 
+1306 ?Golem Room?Statue: Pawn Shield 
+1307 ?Golem Room?Statue: Pawn 
+1308 ?Golem Room?Statue: Pawn Shield 
+1309 ?Golem Room?Statue: Pawn 
+1310 ?Golem Room?Statue: Pawn Shield 
+1311 ?Golem Room?Statue: Pawn 
+1320 [Golem room _ right center door back] warrior in the mirror 
+1325 [Golem room _ right back door back] warrior in the mirror 
+1330 [Golem room _ the door in front of the left hand] warrior in the mirror 
+1335 [Golem room _ left center door back] warrior in the mirror 
+1340 [Golem room _ left back] warrior in the mirror 
+1350 [Gorlem room _ slap] kingdom soldier heavy warrior: color (1): two-handed hammer 
+1400 ?Accumulation of Acid?Elephant Soldier_Live 
+1410 ?Accumulation of Acid?Elephant Soldier_Dead 
+1420 [Accumulation of acid] Kingdom Warrior: Crossbow 
+1510 [Hidden Bonfire Soba] Kingdom Soldier Warrior: Crossbow 
+1550 ?Portrait?Kingdom Soldier Escort: Two-Handed Sword 
+1560 ?Portrait?Kingdom Soldier Escort: Two-Handed Sword 
+1561 ?Between portraits?Kingdom soldier escort: Two-handed sword emphasis on the protection of the exit 
+1591 [Outer passage (2) First Half Stairs] Kingdom Warrior: Crossbow 
+1600 [Outer passage (2)? Kingdom guards: Oversized sword 
+1610 [Outer passage (2)? Kingdom Soldier Warrior: Crossbow 
+1620 [Outer passage (2) second half stairs] kingdom soldier warrior: two-handed sword 
+1702 ?One-way passage?Damon Armor (deceased): Bow_01 
+1703 ?One-way passage?Damon Armor (deceased): Bow_02 
+1704 ?One-way passage?Damon Armor (deceased): Bow_03 
+1710 ?One-way passage?Kingdom guards: Oversized sword 
+1750 [One-way lever front] kingdom guard: axe spear 
+1751 [One-way lever front] kingdom escort: oversized sword 
+1800 ?Machine Room?Statue: Pawn Shield 
+1801 ?Machine Room?Statue: Pawn 
+1802 ?Machine Room?Statue: Pawn Shield 
+1803 ?Machine Room?Statue: Pawn 
+1804 ?Machine Room?Statue: Pawn Shield 
+1805 ?Machine Room?Statue: Pawn 
+1806 ?Machine Room?Statue: Pawn Shield 
+1910 [Large saloon] royal guard: axe spear 
+1911 [Large saloon] royal guard: axe spear 
+1920 [Large saloon exit destination] elephant soldier_live man 
+1921 ?Large Saloon?Elephant Soldier_Born 
+1930 ?Large Hall?Damon Armor (Deceased): Bow_01 
+1931 ?Large Hall?Damon Armor (Deceased): Bow_02 
+1932 ?Large Hall?Damon Armor (Deceased): Bow_03 
+1933 ?Large Hall?Damon Armor (Deceased): Bow_04 
+1934 ?Large Hall?Damon Armor (Deceased): Bow_05 
+1935 ?Large Hall?Damon Armor (Deceased): Bow_06 
+2100 [Between kings] Demon Heavy Warrior Swords 
+3010 [Mirror Night Corridor] Statue: Night 
+3020 [Mirror Night Corridor] Statue: Night 
+3030 [Mirror Night Corridor] Statue: Night 
+3040 [Mirror Night Corridor] Statue: Night 
+3100 ?Key room of corridor?Red Spirit 
+4000 [Before Rasbos] Demon Heavy Warrior - Two-Handed Sword - Medium Shield 
+4010 [Before Rasbos] Demon Heavy Warrior: Oversized Sword 
+4020 [Before Rasbos] Demon Heavy Warrior : Two-handed long axe 
+4030 [Before Rasbos] Demon Heavy Warrior: Two-Handed Mallet 
+4040 [Before Rasbos] Demon Heavy Warrior - Two-Handed Sword - Medium Shield 
+4900 [Mirror Night Door Front] Kingdom Escorts 
+5000 [Mirror Night War _ Attendant] I under the mirror night: two-handed sword 
+5001 [Mirror Night War _ Attendant] I under the mirror night: two-handed long axe 
+8000 ?Entrance Room?Bay Grant 
+8010 ?Entrance Room?Bay Grant 

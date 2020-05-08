@@ -1,0 +1,103 @@
+0 Template 
+10 Bare hands 
+11 The Fire of Magic 
+20 Nail 
+21 Key claws 
+30 Fist 
+40 Dagger (Counter 100) 
+41 Dagger (Counter 110) 
+42 Dagger (Counter 120) 
+43 Dagger (Counter 130) 
+44 Dagger (Counter 150) 
+60 Swords (Counter 100) 
+61 Swords (Counter 120) 
+62 Swords (Counter 140) 
+70 Whip 
+90 Double-edged sword (counter 110) 
+91 Double-edged sword (counter 120) 
+100 Spear 
+110 Assault Spear 
+120 Curved Sword (Counter 100) 
+121 Curved Sword (Counter 110) 
+122 Curved Sword (Counter 130) 
+130 Sword (Counter 130) 
+131 NPC-Sword (Two-Sword Style) 
+132 Sword (Counter 150) 
+140 Direct Sword (Counter 100) 
+141 Direct Sword (Counter 110) 
+142 Direct Sword (Counter 120) 
+145 Rational Catalyst - Direct Sword 
+150 Two-Handed Sickle (Counter 110) 
+151 Two-handed sickle (for immortal one-handed axe) 
+160 Two-handed sword (counter 100) 
+161 Two-Handed Sword (Counter 110) 
+162 Two-handed sword (counter 120) 
+163 Two-handed sword (counter 150) 
+170 Two-handed oversized sword (counter 130) 
+171 Two-handed oversized sword (counter 110) 
+180 Two-Handed Sword (Counter 110) 
+200 One Hand (Counter 100) 
+201 One-handed catalyst 
+202 Otama 
+203 One hand mallet (for clerics) 
+204 One Hand (Counter 120) 
+205 One Hand (Counter 130) 
+240 Both hands 
+245 Two-handed mallet 
+246 Two-handed axe hammer 
+270 One-handed axe (counter 110) 
+271 One-handed axe (counter 120) 
+275 One-handed axe (heavy 110) 
+276 One-handed axe (heavy 120) 
+277 One-handed axe (heavy 100) 
+280 Two-handed axe (double-edged 100) 
+281 Two-handed axe (double-edged 110) 
+285 Two-handed axe (single blade 100) 
+286 Two-Handed Axe (Crescent Axe) 
+287 Two-handed axe (single blade 110) 
+290 Two-handed axe 
+330 Wand (Chanting 100) 
+331 Large Cane (Chanting 105) 
+332 Wand (Chanting 105) 
+333 Wand (Chanting 110) 
+334 Wand (Chanting 120) 
+335 Wand (Chanting 125) 
+336 Wand (Chanting 135) 
+337 Wand (Chanting 140) 
+338 Large Cane (Chanting 125) 
+339 Large Cane (Chanting 100) 
+340 Magic Miracle Catalyst 
+341 Large Cane (Chanting 110) 
+350 Suzu (Chanting 100) 
+351 Suzu (Exclusive with Saint's Wife) 
+352 Suzu (Chanting 105) 
+353 Suzu (Chanting 120) 
+354 Suzu (Chanting 130) 
+355 Bell (circular) 
+356 Suzu (Chanting 140) 
+357 Suzu (Chanting 145) 
+358 Suzu - For Dark Art (Chanting 145) 
+360 Two-handed bow (range 35) 
+361 Two-handed bow (range 45) 
+362 Two-handed bow (range 50) 
+363 Two-handed bow (range 60) 
+364 Two-handed bow (range 65) 
+365 Two-handed bow 
+370 Two-handed bow (normal) 
+371 Long bow with both hands 
+380 One-handed bow (range 35) 
+381 One Hand Bow (Shield Cross 45) 
+385 One-handed shot bow (range 35) 
+386 One-handed bow (range 40) 
+410 Small Shield Pari 
+420 Small Shield Spell Pari 
+430 Medium Shield Pari (Counter 100) 
+431 Medium Shield Pari (Counter 110) 
+440 Medium Shield Spell Pari 
+450 Medium Shield Bash 
+460 Great Shield Surreal Bash 
+461 Great Shield Spell Pari 
+465 Large Shield - Left 
+466 Large Shield - Right 
+470 Torches 
+480 Binoculars 

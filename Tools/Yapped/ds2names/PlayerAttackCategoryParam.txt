@@ -1,0 +1,8 @@
+1 Long-range attack 
+2 Slow back attack 
+3 Slow attacks 
+4 Ordinary back attack 
+5 Ordinary attacks 
+6 Fast back attack 
+7 Fast Attack 
+8 Proximity bare hands 

@@ -1,0 +1,30 @@
+10000000 【Goblin】Bare Hands 
+10000003 【Goblin】Bare-handed_Hiroshi-eating 
+10000010 【Goblin】Sling 
+10000020 【Goblin】Sword 
+10000023 【Goblin】Sword: A Large Eating 
+10000030 [Goblin], bare hand_Soul Black 
+10100000 [Kobold] for Andyle 
+21000000 【Basilisk】Battle 
+21300000 【Ishimori】 
+22200100 【Huge Basilrisk】 
+30100000 [Knight wandering] 
+30330000 [Two-sided warrior (deceased): Color (1)】 
+30700000 【Durahan】 NPC (neck) 
+30700001 【Durahan】 NPC (Ghost) 
+30800000 [Lion Warrior] 
+30800001 [Lion Warrior] Petrified 
+30800010 [Lion Warrior: Color (2)] 
+32100000 [[[[]-Mimic] for Andyle 
+50200000 【Manscorpion ♂】NPC 
+50200001 【Manscorpion ♂】NPC 
+50200002 【Manscorpion ♂】NPC 
+50300000 Manscorpion ♀ 
+72500000 Pilgrims in the Abyss (Born) NPC 
+72500001 Pilgrims in the Abyss (Deceased) NPC 
+74205000 [Warrior of avenged: The Great Sword] Npc 
+74205001 [Warrior of avenged: The Great Sword] NPC (Ghost) 
+77600000 【Top Weapons Shop】Belka's Crow 
+77600001 【Top Weapon Shop】Belka's Crow (Ghost) 
+83800000 Forest of Shadows: Phantom Enemy 1 
+83810000 Forest of Shadows: Phantom Enemy 2 

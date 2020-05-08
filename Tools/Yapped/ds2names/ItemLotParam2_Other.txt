@@ -1,0 +1,935 @@
+0 Disabled 
+10000 Host Time - 'Strong' Pledge Success Rewards 
+10010 Host Time - "King of The Mouse" Pledge Success Reward 
+10020 Host Time - Dragon Spirit Repelling Reward 
+10030 Host Time - Deep Abyss Spirit Repelling Reward 
+10040 Host Time - Golden Spirit Success Return Reward 
+10050 White Spirit Sat- White Spirit: Successful Return (Time Limit Expires) 
+10060 White Spirit S. Golden Spirit: Successful Return (Time Limit Expires) 
+10070 Korei-Korei: Successful Return (Time Limit Expires) 
+10080 Korei-Kokin Spirit: Successful Return (Time Limit Expires) 
+10090 Relief Blue Spirit - Successful Return (Host Passes Boss White Door) 
+10100 Relief Blue Spirit - Successful Return (Host passes through goal white door) 
+10110 Relief Blue Spirit - Dark Spirit: Successful Return (Dark Spirit dies) 
+10120 Relief Blue Spirit - Red Spirit: Successful Return (Dark Spirit dies) 
+10130 Retaliation At The Blue Spirit - Successful Return (Host Death) 
+10140 The Time of the Dark Spirits - The Dark Spirit: A Successful Return (Host Death) 
+10150 The Time of the Dark Spirit - The Red Spirit: A Successful Return (Host Death) 
+10160 The Time of the Dark Spirits - The Dark Spirit: A Successful Return (Relief Blue Spirit Death) 
+10170 The Time of the Dark Spirit - Red Spirit: Successful Return (Relief Blue Spirit Death) 
+10180 Bell Guard Ash Spirit - Successful Return (Host Death) 
+10190 The King of The Mouse At The Ashes - Successful Return (Through the Goal Ash Door) 
+10200 The King of Mice At The Ashes - Successful Return (Host Death) 
+10210 Dragon Spirit Time - Successful Return (Host Death) 
+10220 Abyss Remembrance Time - Successful Return (Defeat the Host with Its Own Attack) 
+10230 Duel Blue Spirit Time - Duel Victory Return 
+10240 Duel Dark Spirit Son - Duel Victory Return 
+106000 Kiishi-gai Gerdra: Zakobos 
+154000 Hunting Forest: Skeleton Aristocracy 
+154001 Hunting Forest: Skeleton Aristocracy_2 Laps 
+212000 Anne Deal's House: Wyvern 
+223500 The Door way of Faros: The King of Rats 
+226100 Lower Waterway: Dog Rat: Color (2) 
+303300 Hidden Port: Double-Sided Warrior: Snake Head 
+305000 Iron Castle: Demon Knight 
+309600 The Decaying Forest of Giants: The New Giant Senior Soldier (Deceased) 
+309610 King's Castle D'Angheig: Heavy Cavalry 
+309700 Memories of giants: New Giant Senior Soldiers 
+309701 Memories of giants: New Giant Senior Soldier (Live) _2 
+318000 Decaying Giant Forest: Bay Grant 
+324000 Against Gargoil 
+324001 Gargoil Match_Round 2 
+325000 Prison of Oblivion: Warrior in the Mirror 
+326000 Throwaway Hole: Butcher 
+326001 Throwaway Hole: Butcher_2 Laps 
+332000 Throne 1 of the Fire: Queen Knight A 
+332001 Throne 1 of the Fire: The Queen's Knight A_2 Laps 
+333000 Tomb of Immortality: Queen Knight B 
+333001 Tomb of Immortality: The Queen's Knight B_2 
+500000 Valley of The Reservoir: Javaza Hat 
+501000 Valley of The Reservoir: Naga 
+501001 Valley of The Reservoir: Naga_Round 2 
+503000 Forest of Shadows: Manscorpion ♀ 
+503001 Forest of Shadows: Manscorpion ♀_2 
+504000 King's Castle D'Angheig: Mirror Knight 
+504001 King's Castle D'Angheig: Mirror Night_Round 2 
+506100 Old Dark Hole: Agaduran Stand 
+514500 Tomb of Immortality: King (Modern) 
+600000 The Nest of The Guardian Dragon: The Old Dragon 
+602000 Altar of Amana: The Beautiful Voice Frog 
+603000 The Queen of The Spider 
+603001 Kiseki-gai Gerdra: Spider Queen_Round 2 
+607000 Molten Iron Castle: Molten Iron Daemon 
+607001 Molten Iron Castle: Molten Iron Daemon_2 Laps 
+611000 Heide Great Fire Tower: Heavy Cavalry: Soldiers Only 
+619100 Hunting Forest: Silver Chariot 
+619101 Hunting Forest: Silver Chariot_2 Laps 
+625000 Heide Great Fire Tower: Ornstein 
+626000 Prison of Oblivion: Forgotten Sinners 
+626001 Prison of Oblivion: Forgotten Sinners_Round 2 
+627000 Throne 2 of the Fire: The Queen's Armor 
+1307000 Durahan - Transfer of Equipment 
+1307100 Durahan (neckless) -? 
+1502000 ◆Manscorpion -Man-♀-Destroy-De-petting item 
+1502010 Manscorpion (Man) - Transfer of equipment 
+1506000 Tomb Amulet - Transfer of Equipment 
+1700000 ◆Shrine Maiden - First Conversation - Est Bottle 
+1701000 Shrine Maiden (Child) - Conversation - Estintia's Wings 
+1704000 Ladder Shop - Equipment Transfer 
+1705000 Retired Fire Protection Woman 1- Transfer of Equipment 
+1705100 Retired Fire Protection Woman 2-? 
+1705300 Retired Fire Protection Woman 3-? 
+1721000 Prime Minister's Spirit - Transfer of Equipment 
+1723000 Fire Protection Woman's Housekeeper - Transfer of Equipment 
+1724000 Captain of the Kingdom - Transfer of Equipment 
+1725000 Pilgrims in the Abyss - Transfer of Equipment 
+1726000 Dwarf - Transfer of equipment 
+1741000 Heartbroken Blue Warrior - Transfer of Equipment 
+1741010 Heartbroken Blue Warrior - Number of Migrants -MAX 
+1742000 ◆The key to the house of the avenger - thank you for the attack - patch 
+1742010 Avenger Warrior - Transfer of Equipment 
+1743000 Tsukiko Ya - Transfer of Equipment 
+1744000 ◆Patch - Thank you for the patch - the key to the patch house 
+1744010 Patch - Transfer of equipment 
+1744020 ◆Patch - Giant Forest Conversation - White Sign Wax Stone 
+1751000 ◆Map writing - Giant's Forest Conversation - A House Key 
+1751010 Atlas: Transfer of equipment 
+1752000 Female Knight - Transfer of Equipment 
+1752010 Female Knight - Encounter 2nd - Human Statue 
+1752020 Female Knight - Encounter 3rd - Iron Protection Ring +1 
+1753000 Bell Guard - Transfer of Equipment 
+1753010 Bell Guard-? 
+1753020 Bell Guard - Pledge Ring 
+1754000 Yorozu Babaa - Equipment Transfer 
+1756000 King of Mice - Pledge Ring 
+1757000 Three Sisters A-Event 1 
+1758000 Three Sisters B-Event 1 
+1759000 Three Sisters C-Event 1 
+1760000 Girl 1- Transfer of equipment 
+1760010 The Girl of the Bard 1 - In Conversation - Tsurusasmall 
+1760020 1- Rescue of the girl in captivity - The blessing of the goddess 
+1760100 Girl 2-Equipment Transfer 
+1760110 The Girl of the Bard 2- In Conversation - Vine 
+1760120 The Girl of The Bard 2 - Rescue of the Girl in Captivity - The Spark of The Magic 
+1760200 The Girl in Captivity - In Conversation - The Fire of The Magic 
+1761000 Armor shop - equipment transfer 
+1762000 Material shop - equipment transfer 
+1763000 Sorcerer - Thank you for the rescue 
+1764000 Blacksmith - Transfer of equipment 
+1764300 EX Blacksmith - Transfer of Equipment 
+1766000 Sorcerer - Transfer of equipment 
+1768000 Spell Mania - Transfer of Equipment 
+1769000 Miracle Man - Transfer of Equipment 
+1770000 Dark Art Shop - Transfer of Equipment 
+1771000 Sealed Man - Transfer of Equipment 
+1771010 Sealed Man - First (Ladder) - All The Ring of The Devil 
+1771020 Sealed Person - Second Person (Map) - Reduction Power 
+1771030 Sealed Man - Third (Spell Mania) - The Sun of Chaos 
+1771040 Sealed Person - 4th (Shrine Maiden) - Magical Opening 
+1772000 Curiosity shop - Transfer of equipment 
+1776000 Top Weapons Store-? 
+1777000 Cat-? 
+1783040 Black Phantom Shop - Equipment Transfer 
+1784000 The Martial Law of The Escape - Transfer of Equipment 
+1785040 Guardian Knight - Transfer of Equipment 
+1786000 Glitter Girl-? 
+1787000 ◆Old Dragon - Chaos of the Dragon 
+2001000 ◆Pledge - Blue Religion - First Pledge - Pledge Ring 
+2001011 Pledge - Blue Religion - Level 1 Reward-? 
+2001012 Pledge - Blue Religion - Level 2 Rewards-? 
+2001013 Pledge - Blue Religion - Level 3 Rewards- ? 
+2002000 Pledge - Guardian of Blue - First Pledge - Pledge Ring 
+2002011 Pledge - Blue Guardian - Level 1 Reward- ? 
+2002012 Pledge - Blue Guardian - Level 2 Rewards- ? 
+2002013 Pledge - Blue Guardian - Level 3 Rewards- ? 
+2003000 Pledge - Blood Dark Spirit - First Pledge - Pledge Ring 
+2003011 Pledge - Blood Dark Spirit - Level 1 Reward-? 
+2003012 Pledge - Blood Dark Spirit - Level 2 Reward-? 
+2003013 Pledge - Blood Dark Spirit - Level 3 Reward- ? 
+2004000 ◆Pledge - Bell Guard - First Pledge - Pledge Ring 
+2004011 Pledge - Bell Guard - Level 1 Reward- ? 
+2004012 Pledge - Bell Guard - Level 2 Rewards- ? 
+2004013 Pledge - Bell Guard - Level 3 Rewards- ? 
+2005000 ◆Pledge - Mouse - First Pledge - Pledge Ring 
+2005011 Pledge - Mouse - Level 1 Reward - ? 
+2005012 Pledge - Mouse - Level 2 Reward - ? 
+2005013 Pledge - Mouse - Level 3 Reward - ? 
+2006000 ◆Pledge - Abyss - First Pledge - Pledge Ring 
+2006011 Pledge - Abyss - Level 1 Reward - ? 
+2006012 Pledge - Abyss - Level 2 Rewards - ? 
+2006013 Pledge - Abyss - Level 3 Rewards- ? 
+2007000 Pledge - Sun - First Pledge - Pledge Ring 
+2007011 Pledge - Sun - Level 1 Reward - ? 
+2007012 Pledge - Sun - Level 2 Rewards- ? 
+2007013 Pledge - Sun - Level 3 Rewards- ? 
+2008000 ◆Pledge - Koryu - First Pledge - Pledge Ring 
+2008011 Pledge - Koryu - Level 1 Reward - ? 
+2008012 Pledge - Koryu - Level 2 Reward - ? 
+2008013 Pledge - Koryu - Level 3 Reward - ? 
+2009000 ◆Pledge - Strong man - First pledge - Strong man roster 
+2009011 Pledge - Strong - Level 1 Reward - ? 
+2009012 Pledge - Strong - Level 2 Reward - ? 
+2009013 Pledge - Strong - Level 3 Reward - Pledge Ring 
+3001000 The Book of Pointing 
+3002000 The Book of "Come On" 
+3004000 The Book of One Bow 
+3005000 The Book of Welcome 
+3006000 The Book of The War 
+3007000 The Book of Waving 
+3008000 The Book of Guts Pose 
+3009000 The Book of Joy 
+3010000 The Book of "Yutakebi" 
+3011000 The Book of Shoulder Familiarity 
+3012000 The Book of Aioi 
+3013000 The Book of Understanding 
+3014000 The Book of Denial 
+3015000 The Book of "Leave to You" 
+3016000 The Book of The Begging of Life 
+3017000 The Book of "DoshitaZa" 
+3018000 The Book of "Beheading" 
+3019000 The Book of Provocation 
+3020000 The Book of Making fun of 
+3021000 The Book of The Sun Praise 
+10025010 【Wooden Treasure Chest】Fire Guard Woman's House _2F 
+10026000 【Treasure Corpse 01】 Grass Sagasa Area_Right Hand Cliff 
+10026001 【Treasure Corpse】Kusagasa saga area_right-hand cliff_2 laps 
+10026020 【Treasure Corpse 03】 Oga Front 
+10026030 【Treasure Corpse 04】 Under the Waterfall 
+10026031 【Treasure Corpse 04】 Under the Waterfall 
+10026040 [Treasure Corpse 05] Tutorial 1 Exit 
+10026050 【Treasure corpse 06】 Behind the back of the house of the fire guard woman_ cart 
+10026060 [Treasure Corpse 07] [Orb of red eyes] behind the door of tutorial stage 2 
+10026070 [Treasure Corpse 08] 【Dagger】 Behind the Door of Tutorial Stage 2 
+10026080 [Treasure Corpse 09] [Shizukuishi x1] Behind the Door of Tutorial Stage 2 
+10026090 [Treasure corpse 10] tutorial 2_ jump ing scaffolding 
+10027000 【Special OBJ】　For "Line Reason" item display 
+10045000 【Kihoho-ho】Blacksmith 
+10045001 【Kihoho-ho】Blacksmith 2F_2 
+10045002 【Kihoho-ho】Blacksmith 2F_3 
+10045010 【Kiho-ho-bin】Village Chief's House 
+10045020 【Iron Treasure Chest】 Large Hole Room 
+10045030 【Iron Treasure Chest】 Large Hole Room 
+10045040 【Kihoho-ho】Blacksmith 
+10045050 【Iron Treasure Chest 01】 Large Hole Room 
+10045060 【Iron Treasure Chest】 Passage to the Giant Forest 
+10045070 [Iron Treasure Chest 05] Passage to The Heide Great Fire Tower 
+10045500 【Server Treasure Chest】Item Distribution 
+10045600 【Server Treasure Chest】Normal 
+10046000 【Treasure Corpse】Pull ing from the well 
+10046010 【Treasure corpse】 front of the gate of the gap side 
+10046020 [Treasure corpse 02] scaffolding under the glitter daughter 
+10046030 【Treasure Corpse】Cliff Road 
+10046040 【Treasure Corpse】Obelisk Side 
+10046050 【Treasure Corpse】Scaffolding of the Large Hole 
+10046060 【Treasure Corpse】Scaffolding of the Large Hole 
+10046070 [Treasure Corpse 03]　Mr. A's basement 
+10046080 【Treasure Corpse 09】 Road to hunting forest ※Visible from the revolving window 
+10046090 [Treasure corpse 10] scaffolding to the large hole _scum bottom front 
+10046100 [Treasure Corpse 11]　Mr. A's House 1F 
+10046110 【Treasure Corpse】Next to the Stone Monument of the Pledge 
+10046120 【Treasure corpse 13】 Outside the house in front of the revolving door 
+10046130 [Treasure corpse 14] large hole_1 sheet 
+10105010 [Wooden treasure chest 02] room in the back of the royal guard door that can be destroyed 2F_ the main tower 
+10105020 【Wooden Treasure Chest】 Cave of the Start 
+10105021 【Kihoho-bin】Start of the cave_round 
+10105030 [Iron treasure chest 05] knock ing in the room in the back of the mosimoshi door 
+10105040 【Wooden Treasure Chest 05_Trap】 Barista Room Basement 
+10105041 【Wooden treasure chest 05_Trap】 Barista Room Basement_2 
+10105050 【Wooden Treasure Chest 03】 Waterway _ The Door Of The King 
+10105070 [Iron treasure chest 01] the tip of the room of the royal guard door 2F_ the main tower 
+10105080 【Iron Treasure Chest 03】 Barista Room Basement_ Hidden Door Back Room 
+10105090 [Iron treasure chest 04] barista room basement _hidden door back room_left 
+10105100 [Iron treasure chest 06] on the flame barrel square _ scaffolding of the flaming pot soldiers  
+10105110 【Iron Treasure Chest】 Under Waterway 
+10105120 【木宝箱09】 地割れ広場_木組み足場 
+10105130 【Iron Treasure Chest】Next to The Flame Cave 
+10105140 【Iron Treasure Chest】 Hidden Room of Patch Passage 
+10106000 【Treasure Corpse 02】 Start of the River_Downstream 
+10106010 【Treasure Corpse】Ground Cracking Square_Rooftop 
+10106020 【Treasure Corpse 01】 Start of the River_ Opposite Bank 
+10106030 【Treasure Corpse】 The Back of the Passage under the Giant Sword 
+10106050 【Treasure Corpse】The branch of the main tower is caught 
+10106060 【Treasure corpse 06】 The back of the shelf of the outer wall passage_small room 
+10106061 [Treasure corpse 06] outer wall passage_the back of the shelf of the small room_2 
+10106070 【Treasure Corpse 15】 Dark Passage_Front 
+10106080 【Treasure Corpse 16】 Dark Passage_Back 
+10106090 [Treasure corpse 31] on the royal guard door to the giant sword under _ Bay Grant 
+10106100 【Treasure Corpse】Giant Sword 
+10106110 【Treasure Corpse】The River Upstream of the Start 
+10106120 【Treasure Corpse 17】 Ground Cracking Square_Building 
+10106130 【Treasure corpse 20】 In front of the grid where the ground cracking square can be seen in the submerged square 
+10106140 【Treasure corpse 07】 Outer wall passage destination _ hollow of the roof 
+10106150 【Treasure Corpse】Submerged Square_Rock Gorogoro 
+10106160 [Treasure corpse 24] patch passage 
+10106170 【Treasure Corpse】Scaffolding jumping from the stairs of the arena 
+10106180 [Treasure corpse 36]　L-shaped aisle_stairs 
+10106190 【Treasure corpse】Flame barrel square_ Before the wall leading to the flame jar soldiers 
+10106200 [Treasure Corpse 05] Passage on the circular arena_ 
+10106210 【Treasure corpse】Tree trunk going up to the back of the wooden scaffolding 
+10106220 [Treasure corpse 26] flame barrel square _ the back of the wall leading to the flaming pot soldiers 
+10106230 [Treasure corpse 33] leaning on the tree in the center of the circular arena 
+10106240 【Treasure corpse】Submerged square_ stuck in collapsed building 
+10106250 [Treasure corpse 28] in front of the door under the stairs in front of the elevator 
+10106260 【Treasure Corpse】A Round Arena_Mhaveinin in the Center 
+10106270 【Treasure Corpse】Wooden Scaffolding Back_Return Road Jumping Scaffolding 
+10106280 [Treasure corpse 35] round arena_ aback in the front 
+10106290 【Treasure Corpse】Return road from Bay Grant Battlefield 
+10106300 【Treasure Corpse 14】 In front of the door of the waterway_king soldier 
+10106310 【Treasure Corpse】Cave near Flame Cave 
+10106320 【Treasure Corpse】The Back of the Cave of the Map Maker 
+10106321 【Treasure Corpse】The back of the cave of the map maker_ 
+10106340 [Treasure corpse 11_ human bone_whole body] flame cave 
+10106350 [Treasure corpse 29_ human bone _whole body] Salamander cave_ boss aisle side 
+10106360 [Treasure corpse 30_ human bone_whole body] Salamander cave_flame cave side 
+10106370 【Treasure Corpse】 In front of the Bay Grant room 
+10106371 【Treasure Corpse 40】 Bay Grant Room Front_2 
+10106380 Treasure Corpse 41: Outside the passage on the circular arena 
+10106390 【Treasure Corpse】 Next to the Main Tower 
+10106400 【Treasure corpse 43】 Under wooden scaffolding _ main tower side 
+10106410 【Treasure corpse 44】 front of the boss front elevator 
+10106420 [Treasure corpse 45] wooden scaffolding _ scaffolding on the door side of the king 
+10106430 【Treasure corpse 46】 In front of the lattice where the ground cracking plaza and the submerged square can be seen 
+10106440 【Treasure Corpse】Barista Room_Mash 
+10106450 【Treasure Corpse】Barista Room_Aomue 
+10106460 [Treasure corpse 49_ human bone_whole body] under the waterway_ face down 
+10106470 [Treasure corpse 50_ human bone _ whole body] under the waterway _ kabese 
+10106480 [Treasure corpse 51_ human bone_ skull] under the waterway 
+10106490 【Treasure Corpse】Main Tower 
+10106500 【Treasure corpse 53】 Scaffolding above the head of the flame barrel square 
+10145050 【Wooden Treasure Chest】 The room which advances from the well of the start 
+10145060 【Wooden Treasure Chest】Spider Room 2 
+10145061 【Wooden Treasure Chest 03】 Spider Room 2_2 Laps 
+10145070 【Wooden treasure chest】Sand door house_left treasure chest 
+10145080 [Iron treasure chest 08] sand door house _ right treasure chest 
+10145110 【Iron Treasure Chest】 The Back of the Bar 
+10145120 [Iron treasure chest 03] lowered with a wall hole lever 
+10145130 【Iron Treasure Chest 04】 Key door room of Kiishi Street_Front 
+10146000 [Treasure Corpse 22] [Key of Kiishi Street] Church in front of the boss 
+10146010 【Jar corpse 05】 Room next to the bar 
+10146020 【Treasure Corpse 08】 Church Attic 
+10146030 【Treasure corpse】 in front of the veranda to collapse 
+10146040 【Treasure Corpse】Window of Church 
+10146050 【Treasure Corpse 01】 Well of the Start 
+10146051 【Treasure Corpse 01】 Start well_2 
+10146060 【Treasure Corpse 03】 Around the Farmer 1 
+10146070 [Treasure corpse] scaffolding of the outpost 
+10146080 【Treasure Corpse】The Fire Room at the Church 
+10146090 [Treasure corpse] scaffolding to jump from the scaffold of the rope 
+10146100 【Treasure Corpse】On the building in front of the ant hell 
+10146110 【Treasure Corpse 31】 Tent Square_Buried Corpse 2 
+10146120 【Treasure corpse】On the building at the wall of the Chamber room 
+10146130 【Treasure Corpse】Bottom of tent square_well 
+10146140 【Treasure Corpse】Around The Farmer 2 
+10146150 【Treasure Corpse】Around The Farmer 3 
+10146160 【Treasure Corpse】Oiwa Gorogoro's Bait 
+10146170 [Treasure corpse 36] on the hole room 
+10146180 [Treasure corpse 17_human bone_whole body] room entering from the side street of the tavern 
+10146181 [Treasure corpse 17_human bone_whole body] room _2 lap entering from the side street of the tavern 
+10146190 【Treasure corpse 37】 the back of the room next to the bar_ shelf 
+10146200 Bone Treasure Corpse (Human Bone_ Pile of Bones) 
+10146210 【Treasure corpse 34】 scaffolding of the middle layer jumping in 
+10146220 【Treasure corpse 35】 Chambara room back_blocked stairs 
+10146230 [Treasure corpse 30] comes out when you break the jar 
+10146240 【Treasure Corpse 23】 Church Attic_Left Corner 
+10146250 【Treasure Corpse】Church Attic_Left-back a-o-mon 
+10146260 【Treasure Corpse 25】 Church Attic_Right Middle 
+10146270 【Treasure Corpse 26】 Church Attic_ A Crush in Front of a Ladder 
+10146280 【Treasure Corpse 29】 Church 2_Lever Door 
+10146290 【Treasure corpse】 Fall ing by the tower destruction 
+10146300 【Jar corpse 01】 Entrance from Faros　 
+10146310 【Jar corpse 03】 room in front of the rope　 
+10146320 【Jar corpse 04】 Chamber room　 
+10146330 【Urn corpse 06】 Spider web area 
+10146340 【Treasure corpse 38】 Spider's web area_The first nest was crossed. 
+10146350 【Treasure corpse 39】 Spider's web area_White door 
+10146360 【Treasure corpse 40】 Spider's web area_bottom_the other side of the white door 
+10146370 【Treasure corpse 41】 Spider's web area_bottom_white door 
+10146380 【Treasure Corpse】Scaffolding on the treasure corpse 
+10146381 [Treasure corpse 42] scaffolding on the 40 th lap 
+10146390 【Treasure Corpse】The back of the rock in the back 
+10146400 【Treasure Corpse】 For spider trap in the back of ant hell 
+10146500 【Special OBJ】 Mushroom Damipoli 
+10155000 【Iron Treasure Chest 03】 The back of the passage between mirror knights 
+10155010 【Iron Treasure Chest】 The back of the aisle on the top floor 
+10155020 [Iron treasure chest 02] the back of the wall to be destroyed in the auger passage_Auga 
+10156000 【Treasure Corpse 01】 Entrance Lobby_Bone Dragon Front 
+10156010 【Treasure Corpse 02】 Between Mirror Night 
+10156020 【Treasure Corpse 03】 Entrance Lobby_In Front of A Huge Cage 
+10156030 【Treasure Corpse 04】 Auger Passage_Hanging Cage 
+10156031 【Treasure Corpse 04】 Auger Passage_Hanging Cage Front_2 
+10156040 【Treasure Corpse】Cage room next to the auger passage 
+10156050 [Treasure corpse] in front of the wall destruction auger of the body eye 
+10156060 [Treasure corpse 10_human bone_whole body] in front of the giant basilrisk 
+10156070 【Treasure Corpse 05】 Dungeon_Right Hand 
+10156080 【Treasure Corpse】Outside the Building 
+10156090 【Treasure Corpse 12】 Outside the Building 
+10156100 [Treasure corpse 06_ human bone_whole body] dungeon_wall 
+10156130 【Treasure corpse 14】 the back of the room in front of the dungeon_ shelf 
+10156140 【Treasure Corpse 15】 On the Experimental Room_Anatomy Table 
+10156150 【Treasure Corpse】Before lift to the guard dragon 
+10156160 [Treasure corpse 17_human bone_whole body] dungeon_left hand wall 
+10156161 [Treasure corpse 17_human bone_whole body] dungeon_left hand wall_2 laps 
+10156170 【Treasure corpse 18】 Outside the building, the root of the tree on the left side 
+10156180 【Treasure Corpse 19】 Outside the Museum 
+10156190 【Treasure Corpse 20】 Left side of the entrance outside the building 
+10165000 【Iron Treasure Chest】 Treasure House 
+10165010 【Wooden Treasure Chest】The Back of the Insect Key Hidden Door 
+10165020 【Iron Treasure Chest】Treasure House 
+10165040 [Wooden treasure chest 06] warrior room in the mirror _ hidden door of the stairs 
+10165041 [Wooden treasure chest 06] warrior room in the mirror _ the hidden door back of the stairs _2 laps 
+10165050 【Iron Treasure Chest】 Between the Walls and Buildings 
+10165070 【Iron Treasure Chest】Room of insect key hidden door 
+10165080 [Wooden treasure chest 05] warrior room in the mirror _ hidden door back 
+10165110 【Iron Treasure Chest】 The Back of the Insect Key Hidden Door 
+10165120 【Iron Treasure Chest】Boss Postwar Treasure Room 
+10165130 【Iron Treasure Chest 06】 Dining Room_Underground 
+10165140 【Iron Treasure Chest 04】 Bay Grant Hawk Route Area 
+10165150 【Iron Treasure Chest】The Treasure Chest where the blacksmith sits 
+10165160 【Kiho-bin 12】 Blacksmith's room_Gold bed next to the left 
+10165170 【Kiho-ho-bin】Right next to the blacksmith's room_gold floor 
+10165180 【Kiho-ho-bin】In front of the blacksmith's room_ blacksmith 
+10165190 【Wooden treasure chest 15】 Between the entrance of the blacksmith's room 
+10165200 【Kihoho-bin】Bell Guard Area_Under the Bell 
+10165210 [Iron Treasure Chest 07] Warrior war in the mirror _ hidden door back _2F 
+10165220 【Iron Treasure Chest】Room that falls from the top of the bell guard area_ 
+10165230 [Iron Treasure Chest 09] In the tower after the gargoyle war 
+10166000 [Treasure corpse 13] Warrior room in the mirror 
+10166010 【Treasure corpse 03】 Fall ing on the wooden set _ destruction 
+10166020 【Treasure Corpse】Outside the Dining Room 
+10166030 【Treasure Corpse】The outer wall of the start_ the back of the collapsed wall 
+10166040 【Treasure Corpse】 On the _EX smith's room on the wall 
+10166050 【Treasure corpse 06】 Flame barrel room_ lattice on ladder 
+10166060 [Treasure corpse 42] collapsed floor on the tower of the distance 
+10166070 [Treasure corpse 08] side road that can be a rolling shortcut to the door 
+10166080 [Treasure corpse 10] stuck to the wall outside the window of the collapsed stair room 
+10166090 [Treasure corpse 43] dungeon_ right second 
+10166100 [Treasure corpse 14] warrior room in the mirror _ hidden door back 
+10166110 【Treasure corpse 26】 Scaffolding to jump on the way to the underground waterway 
+10166120 【Treasure corpse 30】 Dungeon_Left room 
+10166130 【Treasure corpse 23】 The back of the door of the room leading to the tower away 
+10166140 【Treasure Corpse】Pledge Area _2F 
+10166150 Treasure corpse 35: Prison beside the passage after the warrior in the mirror 
+10166160 【Treasure corpse 16】 The room which enters by the pledge area _ fall 
+10166170 【Treasure Corpse】Pledge Area_Rooftop 
+10166180 【Treasure Corpse】Collapsed Wall in the Dining Room 
+10166190 【Treasure Corpse】Bridge leading to the tower away 
+10166191 【Treasure Corpse】The bridge that leads to the tower away 
+10166200 【Treasure Corpse】Return road from hidden passage 
+10166230 【Treasure Corpse】Outside the Dungeon 
+10166250 [Treasure corpse 18] 【Key to the prison】 Down the stairs after gargoyle 
+10166260 【Treasure Corpse】Hidden Passage Away Scaffolding 
+10166270 【Treasure Corpse】In front of both broken doors 
+10166280 【Treasure Corpse】Dungeon_Left Room 
+10166290 【Treasure Corpse】Roof on Well Square 
+10166300 [Treasure corpse 01_ human bone _ whole body] start passage prison 
+10166310 [Treasure corpse 05_ human bone _ whole body] room to go out to well plaza_ prison 
+10166320 [Treasure corpse 24_ human bone _whole body] prison on the room leading to the tower away 
+10166330 [Treasure corpse 33_ human bone_ whole body] dungeon_ upper left room second room 
+10166350 [Treasure corpse 45] room before the forgotten sinner war_right 
+10166360 [Treasure corpse 46] the side of the stairs before the forgotten sinner war_ left 
+10166370 【Treasure corpse 47】 Well plaza_ Roof of the destination 
+10166380 【Treasure Corpse】 Under the Dining Room 
+10166390 【Treasure Corpse 49】 Gargoil Post-War _ On the Stairs 
+10166400 [Treasure corpse 50] Gargoil war _left back 
+10166410 【Treasure Corpse】Lift Landing 
+10166420 【Treasure corpse 52】 The window of the outer wall tower_2floor 
+10166421 [Treasure corpse 52] outer wall tower_2 second lap of the window of the second floor 
+10166430 【Treasure corpse 53】 Flame barrel room_Hidden door back 
+10166440 【Treasure Corpse】Room leading to the tower away _ top floor jail 
+10166441 【Treasure Corpse】Room leading to the tower away_top floor of the prison_2 
+10166450 【Treasure Corpse】Tower of The Distance 
+10166460 【Treasure corpse】The prison of the lift landing to the hidden port 
+10166470 【Treasure corpse 57】 horizontal hole entering from the lift to the hidden port _ ceiling 
+10175020 【Wooden Treasure Chest】Poisonous Fog Area 1_The Back of the Cave 
+10175021 【Wooden treasure chest】Poison fog area 1_The back of the cave_2 laps 
+10175030 【Iron Treasure Chest】The end of the poison fog tunnel which gets off by the ladder 
+10175040 [Kihoho-ho 06] gear blowout _ the bottom of the aisle 
+10175050 [Wooden treasure chest 10] hidden door back on the boss room 
+10175060 【Iron Treasure Chest 02】 Cross Room 
+10175070 [Wooden treasure chest 05_trap] room before javazahat war 
+10175090 [Wooden treasure chest 08_trap] in front of the rotating floor 
+10175110 【Iron Treasure Chest 01】 Poison hole in poison fog area 1_cave 
+10175120 【Iron Treasure Chest】 The Back of the Crumbling Terrace 
+10175130 【Iron Treasure Chest】 The Back of the Insect Key Hidden Door 
+10175140 [Iron treasure chest] the back of the passage to jump off the bridge that collapses through the gears 
+10175150 [Iron treasure chest 06] under the passage that jumps off the bridge that collapses through the breakout of the gear 
+10175160 【Iron Treasure Chest】 On the Suspended Ceiling 
+10176000 【Treasure Corpse】Wooden Board Square_Front Hole 
+10176010 [Treasure corpse 16] the back of the bridge that collapsed through the gears 
+10176020 【Treasure corpse 01】 Poison fog area 1_Scaffolding in front of 
+10176030 【Treasure Corpse】Poison Fog Area 1_On the Slope in the Direction of The Course 
+10176040 【Treasure Corpse】Terrace in the Back of Hidden Door 
+10176050 【Treasure Corpse 19】 Under the Suspended Ceiling 
+10176060 【Treasure Corpse】On the narrow path to the village 
+10176070 [Treasure corpse 41_ human bone_whole body] wooden board square_ the back of the board to break the enemy 
+10176080 【Treasure Corpse】Wooden Board Square_Top Hole 
+10176090 【Treasure Corpse 12】 Wooden Board Square_ Between the boards that the enemy breaks 
+10176100 【Treasure corpse】The back of the passage in front of the insect key room 
+10176110 【Treasure Corpse】Jabbazahat War_Waterway 
+10176120 【Treasure corpse】The room in front of the gear blowout 
+10176130 【Treasure Corpse】Wooden Board Square_The back of the board to be destroyed by the enemy_ 
+10176140 [Treasure corpse 20] under the ladder of the ladder shop 
+10176150 【Treasure Corpse】Terrace in front of the suspended ceiling 
+10176160 [Treasure corpse 43] wooden board square_ the back of the board to break the enemy_ knee holding 
+10176170 【Treasure corpse】Passage outside the gear room 
+10176171 [Treasure corpse 23] aisle outside the gear room_2 
+10176180 【Treasure corpse 30】 Poison fog area 1_Cave 
+10176190 【Treasure Corpse】Cross Room 
+10176200 [Treasure corpse 02_human bone_whole body] poison fog area 1_under the vantage table 
+10176210 [Treasure corpse 07_human bone_whole body] under the little pitfalls under yagura 
+10176220 [Treasure corpse 08_human bone_whole body] poison fog area 2_the depth of the cave 
+10176221 [Treasure corpse 08_human bone_whole body] poison fog area 2_cave back_2 laps 
+10176230 [Treasure corpse 03_human bone_whole body] poison fog area 1_right back anoomu 
+10176231 [Treasure corpse 03_human bone_whole body] poison fog area 1_right back of the back of the ao-mu-ei_2 laps 
+10176250 [Treasure corpse 24_ human bone_whole body] poison fog area 1_right 
+10176260 [Treasure corpse 25_ human bone_whole body] poison fog area 1_front 
+10176270 [Treasure corpse 26_human bone_whole body] poison fog area 1_right back of the face 
+10176280 [Treasure corpse 27_ human bone_whole body] poison fog area 1_left 
+10176290 [Treasure corpse 28_human bone_whole body] poison fog area 1_left hill 
+10176300 [Treasure corpse 29_human bone_whole body] poison fog area 1_ next to cave in front 
+10176340 [Treasure corpse 34_ human bone_whole body] poison fog area 2_ return road from the pitfalls 
+10176350 [Treasure corpse 35_ human bone_whole body] poison fog area 2_cave front 
+10176370 [Treasure corpse 37_ human bone_whole body] poison fog area 2_wall sitting 
+10176390 【Treasure Corpse】Treasure Route of Kiita Plaza 
+10176400 【Treasure Corpse】Wooden Board Square_Hole with Enemies 
+10176410 [Treasure corpse 46_human bone_whole body] poison fog tunnel 
+10176420 [Treasure corpse 47] windmill tower _ arrow trap switch 
+10176430 [Treasure corpse 48] the end of the passage with the tower of the windmill _ Treasure corpse 47 
+10176440 [Treasure corpse 49] windmill tower _ fountain room of recovery 
+10176450 [Treasure corpse 50_human bone_whole body] poison pond in front of the boss 
+10176460 【Treasure Corpse】Kiita Plaza_Correct Route 
+10176461 【Treasure Corpse】Kiita Plaza_Correct Route_Round 2 
+10176470 【Treasure Corpse】Wooden Board Square_Hole on left hand 
+10176480 【Treasure Corpse】Wooden Board Square_Hole under the Left Hand 
+10176490 【Treasure Corpse】Kiita Plaza_Plaza 
+10185000 【Wooden chest】 The house of the first house_2F 
+10185001 【Wooden treasure chest】The first house _2F_2 
+10185030 【Kiho-ho-bin】Bar 
+10185040 【Iron Treasure Chest 07】 Bar_Counter 
+10185050 [Iron Treasure Chest] Nest of Darkness _2F 
+10185060 【Iron Treasure Chest 03】 Drink House_Hidden Room 
+10185070 【Wooden chest 05】 3-story house_hidden room_right 
+10185071 [Wooden treasure chest 05] 3-story house_hidden room_right_2 laps 
+10185080 【Wooden chest 06】 3-story house_hidden room_front 
+10185081 [Wooden treasure chest 06] 3-story house_hidden room_front_2 laps 
+10185100 [Wooden treasure chest 08_trap] the nest of the dark secret_2F 
+10185110 【Iron Treasure Chest】 Drink House 
+10185120 【Iron Treasure Chest】Boss Rear Ship Room 
+10186000 【Treasure Corpse 01】 Balcony of the first house _2F 
+10186010 Treasure corpse 13: Stuck on a stranded ship 
+10186020 【Treasure corpse 15】 house on the ship's calling lever_stairs 
+10186021 [Treasure corpse 15] the house of the ship call lever destination _stairs_second lap 
+10186030 【Treasure Corpse】Space behind the shelf 
+10186050 【Treasure corpse】Water field in front of the light stand 
+10186070 【Treasure Corpse】House of Darkness Next to The Light Stand 
+10186071 [Treasure corpse 04] the house of darkness next to the lamp stand_2 
+10186100 【Treasure Corpse】On the house of the dark secret next to the light stand 
+10186110 【Treasure Corpse】Scaffolding in front of the nest of darkness 
+10186120 [Treasure corpse 19] human bone _skull drinking house_hidden room_right 
+10186130 [Treasure corpse 10] the house of the ship call lever destination _ rooftop 
+10186140 [Treasure corpse 20] human bone _skull drinking house_hidden room_left 
+10186150 【Treasure corpse】Abandoned house on the left of the lamp stand 
+10186160 [Treasure corpse 21] human bone _whole body drinking house_hidden room 
+10186170 【Treasure Corpse】Drink House 
+10195000 【Wooden treasure chest】The room of the upper and lower scaffolding, the hill in front of the right hand as seen from the entrance 
+10195001 [Wooden treasure chest] the room of the upper and lower scaffolding, the upper ground in front of the right hand as viewed from the entrance_2 laps 
+10195030 【Iron Treasure Chest 09】 Molten Iron Furnace Area_Right Hand 
+10195040 [Iron treasure chest 11] molten iron furnace area __ left back ladder 
+10195050 【Iron Treasure Chest 06】 Return road from the bell guard area_Hidden Room_Left 
+10195060 【Iron Treasure Chest 07】 Return road from the bell guard area_Hidden Room_Right 
+10195090 [Iron treasure box 08] roof on a huge molten iron kettle 
+10195100 [Iron treasure chest 02] molten iron furnace area_right center 
+10195110 [Iron treasure chest 04] fall under scaffolding _ damage floor back 
+10195120 【Iron Treasure Chest】 Bell Guard Goal Destination 
+10195130 【Iron Treasure Chest】Near the bonfire in front of the bell guard 
+10195140 【Iron Treasure Chest】 On the Stairs after the Demon Knight War 
+10195150 【Iron Treasure Chest】 Boss After Treasure Room 
+10196000 【Treasure Corpse】The back of the bell guard area_tower 
+10196010 【Treasure Corpse】Bell Guard Area_Roof 
+10196020 【Treasure Corpse】Bell Guard Area_Goal 
+10196030 【Treasure corpse 06】 Molten iron furnace area_Scaffolding in the left back 
+10196040 【Treasure Corpse 13】 Roof on a giant molten iron kettle 
+10196050 【Treasure Corpse 21】 Inside the statue of a cow_ in front of a fire-blowing cow 
+10196060 【Treasure Corpse 07】 Molten Iron Furnace Area_Right Column 
+10196070 [Treasure corpse 09] the back of the ladder past the furnace of burning 
+10196080 [Treasure Corpse 04] [Key of fire] next to the statue of the fire spout ing immediately after entering the castle 
+10196090 【Treasure corpse 05】 Water vase room at the door above the statue of fire 
+10196100 【Treasure corpse 14】 on the beam on the giant molten iron kettle_2 
+10196110 [Treasure corpse 17] falling scaffolding_left back 
+10196111 [Treasure corpse 17] falling scaffolding_left back_second lap 
+10196120 [Treasure corpse 23] switch molten iron kettle_1 
+10196130 [Treasure corpse 19] falling scaffolding _ in front of the white door 
+10196140 [Treasure corpse 02_ human bone_whole body] jumping scaffolding immediately after the start 
+10196150 【Treasure corpse 03】 In front of the molten iron furnace area_The back of the hidden door 
+10196160 [Treasure corpse 08_human bone_whole body] molten iron furnace area_central front stairs under 
+10196170 [Treasure corpse 20] huge molten iron kettle_half-body bath 
+10196180 [Treasure corpse 01_ human bone_ skull] immediately after the start _ stairs back 
+10196190 [Treasure corpse 16_ human bone_skull] falling scaffold _ beyond the iron kettle 
+10196200 【Treasure corpse 15】 Return road from the bell guard area_stairs side 
+10196210 【Treasure Corpse】Inside the Burning Furnace 
+10196211 【Treasure Corpse】Inside the Scorching Furnace 
+10235010 【Iron Treasure Chest】 Mushroom Cave Bottom 
+10236000 【Treasure Corpse】Back of Pier 
+10236010 Treasure corpse 30: Back 2F_ stairs of colosseum 
+10236020 【Treasure Corpse 09】 Bridge to the Forest_Left Back 
+10236021 【Treasure Corpse 09】 Bridge to the Forest_Left Back_2Nd 
+10236030 【Treasure Corpse】Bridge to the Forest 
+10236040 Treasure Corpse 14: Cliff in front of the bridge to the Colosseum 
+10236050 [Treasure corpse 23] cave route_ right right in 
+10236060 【Treasure Corpse】Cave Route_ Collapsed Bridge in the Back 
+10236070 【Treasure Corpse 01】 The edge of the corridor of immortality_ hole 
+10236071 [Treasure corpse 01] the edge of the corridor of immortality_hole_2 
+10236080 [Treasure corpse 03] scaffolding under the corridor of immortality _ roof 
+10236090 【Treasure corpse 10】 Torcha in front of the bridge to the forest 
+10236100 【Treasure Corpse 12】 Treasure Corpse Torchka_Wall Rest 
+10236110 [Treasure corpse 13] Treasure corpse torch ka_knee holding 
+10236120 [Treasure corpse 02] the corner of the door side under the corridor of immortality 
+10236130 【Treasure Corpse】Bridge to the Forest_Left Hand 
+10236131 【Treasure corpse 08】 Bridge to the forest_Left hand front_2 laps 
+10236140 【Treasure corpse 31】 Cave route_near the iron bar lever 
+10236150 [Treasure corpse 16] collapsed pier 
+10236160 [Treasure corpse 26] cliff route_ on the slope 
+10236170 【Treasure Corpse】Cliff Route_Sakagami and Torchica's Intermediate Scaffolding 
+10236180 [Treasure corpse 18] Battle of Chariots_1 body 
+10236190 [Treasure corpse 19] Battle of Chariots_2 body 
+10236200 [Treasure corpse 20] Battle of Chariots_3 body 
+10236210 [Treasure corpse 21] Chariots battle_4body 
+10236220 [Treasure corpse 22] Chariotts battle_5 body_end 
+10236230 【Treasure Corpse】Cliff Route_Torchica Wall 
+10236240 【Treasure Corpse 05】 Scaffolding in front of the Colosseum 
+10236250 【Treasure Corpse 06】 Under Torture Lift 
+10236260 【Treasure Corpse】The Middle Layer of Mushroom Cave 
+10255010 【Treasure chest】Scaffolding on the tip of the suspension bridge 
+10255020 Treasure chest: Treasure yagura next to the loop route to Bonfire 1 
+10255030 【Treasure chest】Scaffolding from the ladder area_lower layer 
+10255040 【Iron Treasure Chest】Loop Route to Bonfire 1_ Scaffolding jumping from the tower 
+10255050 Treasure chest 09: On the side hole _ tar in front of the boss room 
+10255090 【Iron Treasure Chest】 Next to The Giant Room 
+10255100 [Iron treasure chest 01] ladder area front _ the side hole of the dead 
+10255110 【Iron Treasure Chest 06】 Additional for rings 
+10255120 【Iron Treasure Chest 04】 Boss After Treasure Room 
+10255130 【Iron Treasure Chest 05】 Cave Area_Tar Reservoir 
+10256000 【Jar corpse 04】 Kokeshi room 
+10256030 【Jar corpse 23】 Small room of the tower which is caught in the rope 
+10256060 【Urn corpse 06】 Return road from the kokeshi room 
+10256090 【Jar corpse 11】 Head of suspension bridge 2_below 
+10256130 【Urn corpse 17】 Ladder area_Lower layer 
+10256160 【Treasure Corpse】White Door 
+10256170 [12-2 jar corpse] 
+10256210 【Treasure Corpse】Boss Room 
+10256220 [Jar corpse 01]　 
+10256230 [Jar corpse 02]　 
+10256240 [Jar corpse 03]　 
+10256250 [Jar corpse 05]　 
+10256260 [Jar corpse 07]　 
+10256270 [Jar corpse 08]　 
+10256280 [Jar corpse 09]　 
+10256290 [Jar corpse 10]　 
+10256300 [12-1 jar corpse] 
+10256310 [Jar corpse 13]　 
+10256320 [Urn corpse 14]　 
+10256330 [Jar corpse 15]　 
+10256340 [Jar corpse 16]　 
+10256350 [Jar corpse 19]　 
+10256360 [Jar corpse 20]　 
+10256370 [Jar corpse 21-1] 
+10256380 [Jar corpse 21-2] 
+10256390 [Jar corpse 22] 
+10256500 Treasure Corpse: Butcher's Arm 
+10275000 【Iron Treasure Chest 04】 Castle Area_Wall Ed-Wall Ed 
+10275010 [Kihoho-ho 03] Old Dragon Egg Root_Mimic Side 
+10275020 【Kiho-bin】Building roof in front of the hill 
+10275021 [Kiho-bin 02] building rooftop in front of the hill_2 laps 
+10275030 【Iron Treasure Chest】Scaffolding from the Castle Area_High Ground 
+10275040 [Iron Treasure Chest 02] Old Dragon Egg Route_ Under The Spiral Stairs 
+10275050 【Iron Treasure Chest】Old Dragon's Egg Route_Return Road 
+10275060 【Iron Treasure Chest 05】 Castle Area_The Back of The Insect Key Hidden Door 
+10275070 [Iron Treasure Chest 06] The right of the old dragon egg 
+10276000 [Treasure corpse 06] dragon's nest_right_outer cliff_front 
+10276010 [Treasure corpse 02] dragon's nest_left_egg next to 
+10276020 [Treasure corpse 03] Dragon's nest_left_center 
+10276030 [Treasure corpse 04] dragon's nest_left_fishing bridge front 
+10276040 [Treasure corpse 05] dragon's nest_left_inside passage 
+10276041 [Treasure corpse 05] dragon's nest_left_inside passage deep_second lap 
+10276050 [Treasure corpse 08] dragon's nest_right_outer cliff_back 
+10276060 [Treasure corpse 07] dragon's nest_right_egg back 
+10276061 [Treasure corpse 07] dragon's nest_right_egg back_second lap 
+10276070 [Treasure corpse 20] the tip of the dragon's nest on the left_ cliff 
+10276080 [Treasure corpse 09] dragon's nest_right_upper layer inside 
+10276090 [Treasure corpse 10] dragon's nest_right_egg yard next to 
+10276100 [Treasure corpse 11] dragon's nest_right_lower inner 
+10276110 [Treasure corpse 12] dragon's nest_right_lower outside 
+10276120 [Treasure corpse 18] dragon's nest _left_hole 
+10276130 [Treasure corpse 14] scaffolding on the first bonfire 
+10276140 【Treasure corpse 15】 Castle area_High ground railing 
+10276150 【Treasure Corpse 16】 Old Dragon's Egg Route_Spiral Stairs 
+10276160 【Treasure Corpse】Kojima jumping off a rope 
+10276170 [Treasure corpse 19] dragon's nest _right_lower_jumping under scaffolding 
+10276180 [Treasure corpse 20] dragon's nest_right_upper layer outside 
+10295000 【Iron Treasure Chest】 Room in front of the left hand side of the emptiness 
+10296000 【Treasure Corpse 01】 Madura Side Right Back Room 
+10296010 【Treasure Corpse 02】 Madura Side _Entrance Front 
+10296020 【Treasure corpse 03】 imaginary side_left hand 
+10305010 [Iron treasure chest 02] port side _upper floor_elevator side 
+10306000 [Treasure corpse 01] upper floor _ butt right 
+10306010 【Treasure Corpse 02】 Upper floor_ railing at the end 
+10306020 [Treasure corpse 03] upper floor_right_wall rest 
+10315000 [Kihoho-ho- ] Scaffolding before the heavy equestrian war 
+10315001 [Kihoho-ho 01] scaffolding before the heavy equestrian war _2 laps 
+10315010 [Iron Treasure Chest 02] After The Ornstein War 
+10315020 【Kihoho-ho】After The Ornstein War 
+10315030 [Iron Treasure Chest 01]　【Iron Treasure Chest】 The End of the Working Bridge 
+10316010 [Treasure corpse 02] scaffolding of the bird head image _ caught in the railing 
+10316040 【Treasure corpse】On the spiral stairs after the heavy equestrian war 
+10316041 [Treasure corpse 05] on the spiral stairs after the heavy equestrian war _2 laps 
+10316050 【Treasure Corpse 06】 Ornstein Route _ Broken Stairs 
+10316090 【Treasure Corpse 10】 Connection with Madura_Maduro Side 
+10316100 [Treasure corpse 11] front of the first gimmick lever 
+10316101 [Treasure corpse 11] front of the first gimmick lever _2 laps 
+10316110 【Treasure Corpse】Before the Battle of Ornstein 
+10325000 【Wooden Treasure Chest】Ruins of the Bridge_Central Interior 
+10325001 【Wooden treasure chest】Ruins of the bridge_Central interior_2 laps 
+10325010 【Wooden Treasure Chest 01】 Ruins of the Bridge　 
+10325020 【Iron Treasure Chest】Ring 2_Stray Forest_Petrified Stop Building 
+10325030 【Iron Treasure Chest 07】 Manscorpion Residence_2F 
+10325040 【Iron Treasure Chest】Durahan House 
+10325050 【Iron Treasure Chest 01】 Ring 1_Stray Forest_Gate Ruins 
+10325060 [Iron Treasure Chest 03] Basilisk's Nest_ Magic Line 
+10325080 【Iron Treasure Chest 05】 The remains of the house next to the ruins of the ring 5_bridge 
+10325100 【Wooden Treasure Chest 04】 Ruins of the House_ Old Gate Location 
+10325110 【Iron Treasure Chest 09】 Ruins of the Bridge_ Hidden Room 
+10326000 [Treasure Corpse 01] 
+10326010 【Treasure Corpse 02】 Manscorpion's Residence_Near the Outer Wall 
+10326020 [Treasure Corpse 03] 
+10326030 [Treasure Corpse 04] 
+10326040 【Treasure corpse 05】 House in front of the ruins of the bridge_2f 
+10326060 [Treasure Corpse 07] 
+10326070 [Treasure Corpse 08] 
+10326080 [Treasure Corpse 09] 
+10326081 [Treasure corpse 09]_2 
+10326090 [Treasure corpse 10] 
+10326100 [Treasure Corpse 11] 
+10326101 【Treasure Corpse】_Round 
+10326110 Treasure corpse 12: It is eaten by the passage from the connection road _ goblin 
+10326120 [Treasure corpse 13] 
+10326130 [Treasure corpse 15] 
+10326140 [Treasure corpse 16] 
+10326141 [Treasure corpse 16]_2 
+10326150 【Treasure Corpse】House in front of manscorpion's residence 
+10326160 [Treasure corpse 18] 
+10326170 【Treasure Corpse 19】 Connection to Anne Deal_Pond 
+10326180 [Treasure Corpse 20] 
+10326190 [Treasure Corpse 21] 
+10326191 [Treasure corpse 21]_2 
+10326200 【Treasure Corpse】Boss Room 
+10326210 【Treasure corpse 14】 The back of the house on the left of the ruins of the bridge 
+10326220 【Treasure Corpse】Connection to The Castle_Gate 
+10326230 【Treasure Corpse 24】 Scorpion's Residence_Entrance 
+10326240 【Treasure Corpse】The Ruins of The Lost Forest Durahan 
+10326250 【Treasure Corpse 26】 The Road to The Castle_Wandering 
+10326260 【Treasure Corpse 27】 The Road to The Castle 
+10335000 [Wooden treasure chest 01_trap] hidden passage _spiral slope under 
+10335010 【Wooden Treasure Chest 02_Trap】 between 2F_ Togetge Passage 
+10335020 [Wooden treasure chest 03_trap] 2F_ small room in the hidden passage 
+10335021 [Wooden treasure chest 03_trap] 2F_ hidden aisle destination small room_2 laps 
+10335030 [Kiho-ho-ho 04] regular route_1st light stand side passage 
+10335031 [Kihoho-ho 04] regular route_1 first light stand side of the passage_2 laps 
+10335040 【Iron Treasure Chest 01】 Pledge Route _1F Square_ The Back of the Elephant Cage 
+10336000 【Treasure Corpse】Before the Pledge Route 
+10336010 【Treasure Corpse 02】 Regular Route_Spiral Stairs 
+10336011 [Treasure corpse 02] regular route_spiral stairs under_2 laps 
+10336020 【Treasure Corpse】The _2F_ of the Elephant Cage 
+10336040 【Treasure Corpse】In front of the gate _1F_ pledge route 
+10336041 【Treasure Corpse 05】 Pledge Route _1F_ Gate Front_2 
+10336050 【Treasure Corpse】Pledge Route _1F_ Higher Ground 
+10336060 【Treasure Corpse 07】 Pledge Route _2F_ On Ladder 
+10336070 【Treasure Corpse】Pledge Route _2F_ Stairs In Front of the Gate 
+10336080 【Treasure Corpse】Pledge Route _2F_5 Disc-In-Front 
+10345000 【Iron Treasure Chest】Scaffolding of the lower suspension bridge 
+10345010 【Wooden treasure chest】The shadow of the scaffold in front of the bottom of the scum 
+10346000 [Treasure corpse 11] wooden scaffolding to the bottom of the scum _ scaffolding 
+10346010 [Treasure corpse 12] wooden scaffolding to the bottom of the scum 
+10346020 [Treasure corpse 11_human bone_whole body] spinning stairroom _ coffin on 
+10346030 [Treasure corpse 04_ human bone_ whole body] circular waterway _ corridor side 
+10346031 [Treasure corpse 04_ human bone_whole body] circular waterway_corridor side_2 laps 
+10346040 [Treasure corpse 06_human bone_whole body] 2F_ the end of the corridor 
+10346050 [Treasure corpse 07_human bone_whole body] rotating stairroom 
+10346060 [Treasure corpse 08_ human bone_whole body] circular waterway_ inside 
+10346070 [Treasure corpse 10_ human bone_whole body] lower _aisle at the end 
+10346080 [Treasure corpse 05_ human bone_skull] 1F_ corridor shelf 
+10346090 [Treasure corpse 12_ human bone_whole body] connection to the bottom of the scum_ lattice back 
+10346091 [Treasure corpse 12_human bone_whole body] connection to the bottom of the scum_lattice back_2 laps 
+10346100 [Treasure corpse 13_ human bone_ skull] connection to the bottom of the scum _ high difficulty jump 
+20105000 [Kihoho-ho 01] stage 1_the back of the door of the start passage 
+20105001 [Kihoho-ho 01] stage 1_start passage door back_2 laps 
+20105010 [Iron Treasure Chest 04] Stage 1_After the Arc de Triomphe_Stairs 
+20105020 [Wooden treasure chest 03_trap] stage 2_hidden door front 
+20105030 [Iron Treasure Chest 01] Stage 2_Hidden Door Back 
+20105040 [Iron Treasure Chest 02] Stage 2_Hidden Door Back 
+20105050 【Iron Treasure Chest 03】 Stage 2_The room to get off using the lift 
+20105060 【Iron Treasure Chest 05】 Stage 2_The room to get off using the lift 
+20106000 [Treasure corpse 01] stage 1_the back of the passage of the start 
+20106010 【Treasure Corpse 02】 Stage 1_Tunnel Destination Square_On wooden scaffolding 
+20106011 【Treasure Corpse】Stage 1_Tunnel Destination Square_On Wooden Scaffolding_2 
+20106020 [Treasure corpse 03] stage 1_after the arc de trio_ the roof of the house on the left 
+20106030 [Treasure corpse 04] stage 1_after the arc de trio_ right back 
+20106040 【Treasure Corpse 05】 Stage 1_In front of the goal 
+20106050 [Treasure corpse 06] stage 2_insect key hidden door 
+20106060 【Treasure corpse 16】 Stage 1_Stairs in front of the goal 
+20106061 [Treasure corpse 16] stage 1_the second lap of the stairs in front of the goal 
+20106070 [Treasure corpse 08] stage 2_passage from the roof 
+20106080 [Treasure Corpse 09] Stage 2_Right out outside 
+20106090 【Treasure Corpse】Stage 2_Outdoor_Barista 
+20106100 [Treasure corpse 11] stage 3_1 first vantage table 
+20106110 [Treasure corpse 12] stage 3_head rumbling front 
+20106111 [Treasure corpse 12] stage 3_head rumbling front_2 laps 
+20106120 【Treasure Corpse】Stage 3_Head Rumbling View Stand 
+20106130 [Treasure corpse 14] roof exiting from the room getting off in the stage 2_ lift 
+20106140 【Treasure Corpse 15】 Stage 2_Outdoor_On wooden scaffolding 
+20106141 【Treasure Corpse】Stage 2_Outdoor_On Wooden Scaffolding_2 
+20106150 [Treasure corpse 17] stage 1_ cliff caught by the goal 
+20115000 【Wooden Treasure Chest 01】 Subroute 1_Hit 
+20115010 【Kihoho-bin】Tower 1 Outside_Left Hand 
+20115020 【Wooden treasure chest】 Cave in front of the house 
+20115030 【Wooden treasure chest】 Next to the house 
+20115040 【Iron Treasure Chest】 In the cave at the end of the house 
+20115050 【Wooden Treasure Chest】 Next to the Tower to The Girl 
+20115051 [Wooden treasure chest 06] next to the tower to girl 2 
+20115060 【Iron Treasure Chest 03】 Subroute 3_Hit 
+20115070 【Iron Treasure Chest】 The Door Of The Living 
+20115080 【Iron Treasure Chest】 Cliff on the Side of the House 
+20115090 [Iron treasure chest 08] Aokusa area_insect key hidden door 
+20115100 [Iron treasure chest 05] outside the tower of the girl 2 _ stairs side 
+20115110 [Iron treasure chest 07] outside the tower of the girl 2 _ stairs side 
+20115500 【Special OBJ】 Chair_King's Soul 
+20116000 [Treasure corpse 11] cave to the parent tree _ out right 
+20116010 【Treasure Corpse】Tower 1_1F 
+20116011 【Treasure Corpse】1_1F_2 Tower 
+20116020 【Treasure Corpse】Kojima_Musee in the house 
+20116030 【Treasure Corpse】Subroute 
+20116040 【Treasure Corpse 08】 Between the Blue Grass Area Destination_Gate 
+20116060 【Treasure Corpse 12】 Parent Tree Square 
+20116070 【Treasure Corpse 13】 Parent Tree Plaza_Knee Holding 
+20116080 【Treasure Corpse 14】 Shinki Plaza_Satsuki 
+20116090 【Treasure Corpse】On the Fallen Pillar of The Parent Tree Square 
+20116100 【Treasure Corpse】The entrance of The Parent Tree Square 
+20116110 [Treasure corpse 18] the hole beside the girl 
+20116120 【Treasure Corpse】Kojima_Ao-toe-to-ei-ei-ei-ei-ei 
+20116130 【Treasure Corpse 02】 Subroute 1_Branch Drop 
+20116140 [Treasure corpse 24] house 2 ahead _ cliff beside the white door 
+20116150 【Treasure Corpse 01】 The back of the root of the start 
+20116160 【宝死体21】 家1先の小島_すがりつき 
+20116170 【Treasure Corpse】Inside of House 2 
+20116171 [Treasure corpse 25] inside of the house 2_Aomue_2 laps 
+20116190 [Treasure corpse 10_human bone_skull] collapsed pillar by the white door at the end of the house 2 
+20116200 [Treasure corpse 22] side road in the house 2 destination _rooted back 
+20215000 【Iron Treasure Chest】Acid Pool 
+20215010 【Wooden Treasure Chest】Acid Pool 
+20215011 【Wooden Treasure Chest 02】 Acid Pool Back_2 
+20215020 【Wooden Treasure Chest】Golem Room Destination 
+20215021 【Wooden Treasure Chest】Golem Room Ahead_2 
+20215040 [Wooden treasure chest 04_trap] on the large saloon 
+20215041 [Kiho-ho-bin 04_Trap] large saloon top_2 laps 
+20215050 【Iron Treasure Chest】Golem Door 
+20215060 【Iron Treasure Chest 05】 On Corridor_Front 
+20215070 【Iron Treasure Chest】 Near Lever 
+20215080 【Iron Treasure Chest 03】 Right Side of The Main Gate 
+20215090 【Iron Treasure Chest】 Large Saloon 
+20215100 【Iron Treasure Chest】 On the Corridor 
+20215110 【Iron Treasure Chest】 On the Corridor 
+20215120 【Iron Treasure Chest 11】 Machine Room_Right 
+20215130 [Iron Treasure Chest 08] Golem Door Back_Right Center 
+20215140 [Iron treasure box 12] machine room destination_left 
+20215150 [Iron treasure chest 10] lifting to Amana side 
+20216000 [Treasure corpse 01_human bone_whole body] golem door room_left center door back 
+20216010 [Treasure corpse 02_human bone_whole body] cave of abyss NPC 
+20216020 [Treasure corpse 03_human bone_whole body] under the stairs of the golem door 
+20216021 [Treasure corpse 03_human bone_whole body] golem door head of stairs under_2 laps 
+20216030 [Treasure corpse 04_ human bone_whole body】 acid reservoir_stairs side 
+20216040 [Treasure corpse 05_human bone_whole body] between masks 
+20216050 [Treasure corpse 10_human bone_whole body] outside the hidden bonfire room 
+20216060 [Treasure corpse 08_ human bone _whole body] corridor to mirror night_left 
+20216061 [Treasure corpse 08_human bone_whole body] corridor to mirror night_left_second lap 
+20216070 [Treasure corpse 09_ human bone _ whole body] corridor to mirror night _ right 
+20216080 [Treasure corpse 07_ human bone _ skull] corridor to mirror night 
+20216090 【Treasure Corpse 11】 The shadow of the slope to The Castle of The Rock 
+20216100 【Treasure Corpse 06】 One-way door room 
+20245000 【Wooden Treasure Chest 02】 Under the shortcut drawbridge 
+20245010 【Kiho-ho-ho】Corridor area ahead of 
+20245020 【Iron Treasure Chest】 The Hill of the Tomb Area 
+20245030 【Iron Treasure Chest】 The High Ground on The Phantom Night 
+20245040 【Iron Treasure Chest】The end of the bell area insect key hidden door 
+20245050 【Iron Treasure Chest】 The back of the hidden door without a key guide in the grave area 
+20246000 [Treasure corpse 01_human bone_whole body] right side of the stairs of the starting point 
+20246010 【Treasure Corpse】Tomb Guard Room 
+20246011 【Treasure corpse 12】 The room of the grave guard_the second lap 
+20246030 [Treasure corpse 04_human bone_whole body] passage under the phantom night 1 of the course blocked 
+20246040 [Treasure corpse 05_ human bone _ whole body] graveyard area _ entering right hand 
+20246050 [Treasure corpse 06_human bone_bone mountain] graveyard area_elevated 
+20246070 [Treasure corpse 08_human bone_bone mountain] bell area_cul-de-sac 
+20246100 [Treasure corpse 13_ human bone _ pile of bones] on the ladder of the hidden route　 
+20246110 [Treasure corpse 14_human bone_whole body] graveyard area _ right hand corner in 
+20246111 [Treasure corpse 14_human bone_whole body] graveyard area_right hand corner_2 laps 
+20246120 [Treasure corpse 15_human bone_whole body] graveyard area_ under stairs 
+20246121 [Treasure corpse 15_human bone_whole body] graveyard area_under stairs_second lap 
+20246130 [Treasure corpse 16_ human bone _ whole body] room with hidden door 
+20246140 [Treasure corpse 17_human bone_bone mountain] graveyard area 2_ exit front 
+20246150 [Treasure corpse 18_human bone_whole body] graveyard area 2_ other side of exit 
+20246151 [Treasure corpse 18_human bone_whole body] graveyard area 2_other side of exit_2 laps 
+20246500 [Treasure corpse 11_ King's armor] back to the map 
+20265000 【Tentative】43 
+20266000 【Tentative】44 
+40035000 【Tentative】45 
+40036000 【Tentative】46 
+50000000 【For small slippers】Table 1 
+50000001 【For small slippers】Table 2 
+50000002 【For small slippers】Table 3 
+50000003 【For small slippers】Table 4 
+50000100 【For slippers】Table 1 
+50000101 【For slippers】Table 2 
+50000102 【For slippers】Table 3 
+50000103 【For slippers】Table 4 
+50000200 [For egg fossils] table 1 
+50000201 [For egg fossils] Table 2 
+50000202 [For egg fossils] Table 3 
+50000203 [For egg fossils] Table 4 
+50000300 【For seven-colored stone】Table 1 
+50000301 [For seven colored stones] table 2 
+50000302 [For seven colored stones] table 3 
+50000303 [For seven colored stones] table 4 
+50001000 For treasure chest destruction 
+60001000 [Scum bottom] the last giant soldier drops 
+60002000 [Decaying Giant Forest] Giant Tree Fruit 
+60003000 [Nest of the guard dragon] fossil of the egg of the dragon 
+60004000 [Memory of giants] access to the corpse of the giant 
+60005000 【Memory of the Old Dragon】Access to the corpse of the old dragon 
+60006000 【NPC Event】Miracle Man Defeat Award 
+60007000 【Reward】Black Spirit 1000 times repelled 
+60007100 【Reward】Host 1000 times defeat 
+60007200 【Reward】Clear without death 
+60007300 【Reward】Clear ed. 
+60008000 Bay Grant road to destroy 
+60009000 For defeating petrified lion warriors 
+60010000 Soldier Keys 
+60011000 The nucleus of the ash fog 
+70000000 【Special Benefit】Black Flame Stone Dagger 
+90000000 Ito Test 1 
+90000001 Ito Test 2 
+99995000 Debug -OBJ-Treasure Chest 00 
+99995001 Debug -OBJ-Treasure 01 
+99995002 Debug -OBJ-Treasure 02 
+99995003 Debug -OBJ-Treasure 03 
+99995004 Debug -OBJ-Treasure 04 
+99995005 Debug -OBJ-Treasure 05 
+99995006 Debug -OBJ-Treasure 06 
+99995007 Debug -OBJ-Treasure 07 
+99995008 Debug -OBJ-Treasure 08 
+99996000 For debugging-OBJ-Treasure Corpse 00 
+99996001 For Debugging -OBJ-Treasure Corpse 01 
+99996002 For Debugging-OBJ-Treasure Corpse 02 
+99996003 For Debugging-OBJ-Treasure Corpse 03 
+99996004 For Debugging-OBJ-Treasure Corpse 04 
+99996005 For debugging -OBJ-Treasure Corpse 05 
+99996006 For debugging-OBJ-Treasure Corpse 06 
+99996007 For Debugging-OBJ-Treasure Corpse 07 
+99996008 For Debugging-OBJ-Treasure Corpse 08 

@@ -1,0 +1,438 @@
+1 Asset Character Test 
+10 Player Character 
+100000 Goblin 
+100010 Goblin: Sword 
+100020 Goblin (Live): Sling 
+100101 Goblin (Test 2) 
+100200 Goblin (Official Test) 
+100201 Goblin (Official Test) 
+101000 Cobold (Test) 
+291000 Auger (Test) 
+300000 Auger (test for actual use) 
+306000 Demon Soldier (Captain) (Test for actual aircraft) 
+306001 Demon Soldier (Captain) (Test for actual aircraft) 
+306100 Demon soldier (test for actual use) 
+306101 Demon soldier (test for actual use) 
+601000 Salamander (tentative) 
+606000 Yadokari Castle (tentative) 
+900000 Player character for proto version 
+901000 Proto version enemy character 
+902000 New player character for proto version 
+903000 New enemy character for proto version 
+906100 Flamto 
+906200 Flamto (no environmental map) 
+910000 Giant Boss Test (Morinaga) 
+910100 Giant Lower Soldier (Test) 
+911100 Ueda Test (Goblin) Yoshida Param Adjustment Version 
+911101 Ueda Test (Goblin) Yoshida Param Adjustment Version 
+911200 Ueda Test (Goblin) 
+911201 Ueda Test (Goblin) 
+911300 Ueda Test (Goblin: Floating) 
+912000 Captain of the Giant SS (Morinaga Test) 
+912001 Captain of the Giant SS (Morinaga Test) 
+914000 Okawachi Test 
+914001 Okawachi Test 
+915000 For NPC testing 
+916000 For Imazu test 
+917000 For barrett bullet test 
+920000 Character for new bone structure 
+933300 Ohki NPC Test 1 
+933400 Ohki NPC Test 2 
+990000 For test characters 
+10000000 Goblin 
+10000001 Goblin :Poison Aura 
+10001000 Goblin :Sword: Poison Aura 
+10002000 Goblin (Live): Sling 
+10100000 Cobold 
+10100001 Cobold: Petrified Aura 
+10200000 Kingdom Soldier (Dead): Spear: Medium Shield 
+10201000 Kingdom Soldier (Dead): Two-Handed Sword 
+10202000 Kingdom Soldier (Dead): Two-Handed Axe 
+10203000 Kingdom Soldier (Deceased): Stabbing Sword: Medium Shield 
+10204000 Kingdom Soldier (Dead): Bow 
+10205000 Kingdom Soldier (Deceased): Bare Hands: Two-Handed Sword 
+10210000 Kingdom Soldier (Alive): Spear: Medium Shield 
+10211001 Kingdom Soldier (Living): Two-Handed Sword: Bow 
+10211002 Kingdom Soldier (Living): Two-Handed Sword: Bow 
+10212002 Kingdom Soldier (Live): Bow *For Gallery 
+10213000 Kingdom Soldier (Born): Dying 
+10214000 Kingdom Soldier (Living Man): Holding the Door 
+10215000 Kingdom Soldier (Live): Torch 
+10300000 Lower Soldier (Deceased): Bare hands: The Bastion of Resistance (modern) 
+10300100 Lower-class soldier (deceased): Bare hands: Underground port 
+10301000 Lower Soldier (Deceased): Dagger: Fort of Resistance (Modern) 
+10301100 Lower Soldier (deceased): Dagger: Underground port 
+10302000 Lower Soldier (Deceased): One-handed sword: Small shield: Fort of resistance (modern) 
+10302100 Lower Soldier (Deceased): One Hand Sword: Small Shield: Underground Port 
+10303000 Lower Soldier (Deceased): One-handed axe: Fort of resistance (modern) 
+10303100 Lower Soldier (Deceased): One-handed axe: Underground port 
+10304000 Lower Soldier (Deceased): Two-Handed Bow: Fort of Resistance (Modern) 
+10304100 Lower Soldier (Deceased): Two-Handed Bow: Underground Port 
+10305000 Lower-class soldier (dead): Bow of both hands (fire and arrow) 
+10310000 Lower Soldier (Raw): Dagger 
+10311000 Lower Soldier (Raw): One-handed sword 
+10312000 Lower Soldier (Live): One-handed axe 
+10313000 Lower soldier (raw): Bow 
+10500000 Fairy Shrine Maiden: Bare Hands 
+10501000 Fairy Shrine Maiden: Cane 
+10600000 Dark Priest (Deceased): Color (1)_No Mask 
+10601000 Dark Priest (Deceased): Color (1)_No Mask: Shield 
+10602000 Dark Priest (Deceased): Color (1)_Mask 
+10603000 Dark Priest (Deceased): Color (1)_Masked: Shield 
+10620000 Dark Priest (Deceased): Color (3) _ Head C 
+10621000 Dark Priest (Deceased): Color (3) _ Head C: Shield 
+10700000 Parasite Spider (Parasitic) 
+10800000 Rogue (deceased): Dagger x 2 
+10801000 Rogue (Dead): One Hand Mallet 
+10802000 Rogue (deceased): Two bows x 2 
+11300000 Sailor (deceased): One-handed sword; small shield: underground port 
+11301000 Sailor (dead): Song sword × 2 
+11302000 Sailor (deceased): Bow of both hands 
+11500000 Deceased: Traveler's Clothing ♂: Bare hands: Maduro (modern) 
+11500100 Dead: Traveler's Clothes ♂: Bare Hands: The Edge of the Fairy 
+11500200 Dead: Traveler's Clothes ♂: Bare Hands: The Castle of Ruins 
+11500300 Dead: Traveler's Clothing ♂: Bare Hands: Torture 
+11500400 Deceased: Traveler's Clothing ♂: Bare Hands: The Home of the Dragon 
+11501000 Deceased: Traveler's Clothing ♂: Dagger: Maduro (Modern) 
+11501100 The Dead: The Traveler's Clothing ♂: Dagger: The Castle of Ruins 
+11501200 Dead: Traveller's Clothing ♂: Dagger: Torture 
+11501300 Deceased: Traveler's Clothing ♂: Dagger: The Home of the Dragon 
+11700000 Statue: Pawn: Spear: Shield 
+11701000 Statue: Pawn: Spear 
+11800000 Dark Wizard (Deceased): Color (1): Head A 
+11810000 Dark Wizard (Deceased): Color (2): Head A 
+11811000 Dark Wizard (Deceased): Color (2): Head B 
+11820000 Dark Wizard (Deceased): Color (3): Head B 
+11900000 Lion Black Mage (Born) 
+12100000 Giant Lower Soldier (Giant): Bare Hands 
+12100100 Giant Lower Soldier (Giant): Bare hands: Flying and appearing 
+12101001 Giant Lower Soldier (Giant): Two-Handed Club 
+12102002 Giant Lower Soldier Poison (Giant): Bare Hands 
+12103003 Giant Lower Soldier Fire (Giant): Bare Hands 
+12200000 Bernice Knight: Two-Handed Sword 
+12201000 Bernice Knight: Assault Spear 
+12202000 Bernice Knight: One Hand Mallet 
+12203000 Bernice Knight: Crossbow 
+12300000 Deformed shadow (raw): 2 swords 
+12301000 Deformed Shadow (Born): Dagger: Stabbing Sword 
+12400000 Assassin (Live): 2 Swordsnails 
+12401000 Assassin (Born): Dagger 
+12402000 Assassin (Live Man): Song Sword 
+12403000 Assassin (Live Man): Bow 
+12410000 Assassin (Raw): Color (2): 2 Claws 
+12411000 Assassin (Born): Color (2): Dagger 
+12412000 Assassin (Born): Color (2): Song Sword 
+12413000 Assassin (Born): Color (2): Bow 
+12500000 Undead Citizen: Explosion 
+12500100 Undead Citizen: Poison 
+12500200 Undead Citizen: Acid 
+12500300 Undead Citizens: Petrified 
+12500400 Undead Citizen: Normal 
+12700000 Dead Workers (Dead): Bare Hands 
+12701000 Dead Workers (Dead): Torch (No Shadow) 
+12701100 Dead Workers (Dead): Torch (Shadowed) 
+12702000 Dead Workers (Dead): Broken Straight Sword 
+12900000 The Keeper of the Forest: Cane 
+12901000 Keeper of the Forest: Bell 
+13100000 Cleric: War 
+13101000 Cleric: Bell 
+13102000 Cleric: Cane 
+13200000 Skeleton: 2 swords 
+13201000 Skeleton: One-handed bent sword 
+13202000 Skeleton: One-handed stabbing 
+13203000 Skeleton: Bow 
+13209000 Skeleton: For cut scenes 
+13300000 Wheel Skeleton: Bare Hands 
+13301000 Wheel Skeleton: Curved Sword 
+13302000 Wheel Skeleton: The Great Sword 
+13400000 Dwarf 
+13500000 Heavy Dwarf: Two-Handed Axe x 2: Head A 
+13501000 Heavy Dwarf: Two-handed mallet: Head A 
+13502000 Heavy Dwarf: Bow: Head A 
+13600000 Dark Reith (dead): Two-handed sword:: One hand 
+13601000 Dark Reith (dead): Two-handed sword:: With both hands 
+13602000 Dark Reith (Dead): Bow 
+13701000 Necromancer (Immortal): Shield: Wand 
+13701001 Necromancer (Immortal): Shield: Cane (no shield) 
+13800000 Tortureman: Torture Instruments 
+13801000 Tortureman: Whip 
+13900000 Man-made Immortal: Sickle 
+13901000 Man-made Immortal: Bare Hands 
+14000000 Belka's Crow 
+14100000 Strengthened Immortals 
+14600000 Dead: ♂ the clothes of the wealthy: Dagger 
+14601000 Dead: ♂ the Clothes of the Wealthy: Stabbing Sword 
+14602000 Deceased: ♂ the Clothes of the Wealthy: Daggers & Torches 
+14700000 Deceased: Sick ♂ 
+14800000 Deceased: Farmer's Clothing ♂: Mallet: Head Part 1 
+14801000 Deceased: Farmer's Clothes ♂: Mallet: Head Part 2 
+14802000 Deceased: Farmer's Clothes ♂: Two-Handed Sickle: Head Part 1 
+14803000 Deceased: Farmer's Clothes ♂: Two-Handed Sickle: Head Part 2 
+14804000 Deceased: Farmer's Clothing ♂: Torch 
+14900000 Deceased: Steelworker 
+15000000 Statue: Night 
+15100000 Royal Warrior: Color (1): Two-Handed Hammer 
+15110000 Royal Warrior: Color (2): Two-Handed Hammer 
+15111000 Royal Warrior: Color (2): One-handed club 
+15120000 Kingdom Soldier Warrior: Color (3): Two-Handed Hammer 
+15121000 Royal Warrior: Color (3): One-handed club 
+15200000 Kingdom Soldier Warrior: Two-Handed Sword 
+15201000 Kingdom Warrior: Crossbow 
+15300000 Royal Guard: Axe Spear 
+15301000 Royal Guard: Oversized Sword 
+15400000 Skeleton Aristocracy: Axe Spear 
+15401000 Skeleton Aristocracy: Sickle 
+15402000 Skeleton Aristocracy: Cane 
+15500000 Lizard Man 
+15600000 Helmet Skeleton: Curved Sword ×2 
+15601000 Helmet Skeleton: Curved Sword & Shield 
+15602000 Helmet Skeleton: Stabbing Sword 
+15603000 Helmet Skeleton: Two-Handed Bow 
+15700000 Armor Skeleton: Curved Sword x 2 
+15701000 Armor Skeleton: Song Sword & Shield 
+15702000 Armor Skeleton: Stabbing Sword 
+15703000 Armor Skeleton: Two-Handed Bow 
+20100000 Slave Beasts: Volcanic Steel Mills 
+20110000 Slave Beast: Piglet 
+20200000 Slave Beast (Wild) 
+20300000 Parasite Spider 
+20400000 Great Moss 
+20500000 Poison hornworm: Poison 
+20510000 Poison hornworm: acid 
+20600000 Needle maggots 
+20900000 Hunting Dogs 
+21000000 Basilisk 
+21200000 Wyvern 
+21300000 Stone Defense 
+21310000 Stone Defense: Explosion 
+21400000 Fang Beast 
+21600000 Door possessed 
+21700000 A hermit in the dark 
+21800000 Humanity (enemy) 
+21900000 Bay Grant Hawk 
+22000000 Giant VenomOus Worm: Acid 
+22200000 Giant Basilrisk: Color (2) 
+22300000 Dead Rat 
+22350000 The King of Rats 
+22351000 The King of Rats 
+22400000 Coal tar 
+22500000 Light Worm 
+22600000 Dog Rat 
+22610000 Dog Mouse: Color (2) 
+22620000 The King of Rats 
+22700000 Stray dog 
+30000000 Auger 
+30100000 Wandering Knight (Dead): One Hand Sword 
+30101000 Wandering Knight (Dead): Spear A 
+30102000 Wandering Knight (Dead): Spear B 
+30103000 Wandering Knight (Dead): Assault Spear 
+30200000 Prison man (deceased): Color (1): Two-handed sickle 
+30201000 Prison man (deceased): Color (1): Two-handed long axe 
+30202000 Prison man (deceased): Color (1): Two hands war mallet 
+30210000 Prison man (deceased): Color (2): Two-handed sickle 
+30211000 Prison man (deceased): Color (2): Two-handed long axe 
+30212000 Prison man (deceased): Color (2): Two hands war mallet 
+30330000 Double-sided warrior: snake head 
+30400000 Banshee (Deceased) 
+30500000 Damon Knight (Dead) 
+30501000 Damon Knight (Dead): The Oversized Sword of Fire 
+30502000 Damon Knight (Deceased): Initial State 
+30600000 Demon Armor (Dead): Sword 
+30600100 Damon Armor (Dead): Sword: Full-body flame 
+30601000 Damon Armor (Dead): Bow 
+30700000 Durahan (deceased): One-handed sword: Medium Shield 
+30701000 Durahan (deceased): One-handed sword: Curved sword 
+30710000 Durahan (Raw) 
+30711000 Durahan (raw): Only the head 
+30800000 Lion Warrior 
+30810000 Lion Warrior: Color (2) 
+30900000 Giant Senior Soldier (Giant): 2 Swords 
+30960000 New Giant Senior Soldier (Deceased): Normal Time 
+30961000 New Giant Senior Soldier (Deceased): When equipped with a left arm 
+30970000 New Giant Senior Soldier (Live) 
+31100000 Cavalry: Cavalry Soldiers 
+31200000 Immortal Senior Soldier (Immortal): Sickle 
+31201000 Immortal Senior Soldier (Immortal): Spear 
+31201001 Immortal Senior Soldier (Immortal): Spear: Magic Aura 
+31300000 Falcon Warrior Swords - Shield : No Hawk 
+31301000 Falcon Warrior Sashimi Sword Shield: No Hawk 
+31302000 Takataku Warrior: Sashimi Sword 
+31303000 Falcon Warrior: Bow: No Hawk 
+31400000 Elephant Man (Dead): Spear Axe 
+31500000 Elephant (Born) 
+31600000 Captured Magician (Raw) 
+31700000 Dragon Professor 
+31800000 Bay Grant 
+31801000 Bay Grant (Enhanced LV1) 
+31802000 Bay Grant (Enhanced LV2) 
+31900000 Damon Armor (Dead): Mass Production Type: Sword 
+31901000 Damon Armor (Dead): Mass Production Type: Bow 
+32100000 Mimic 
+32400000 Gargoyle 
+32500000 Warrior in the Mirror 
+32600000 Butcher 
+32700000 Bone Dragon 
+33000000 Ancient Warrior: Two-Handed Sword & Medium Shield 
+33001000 Ancient Warrior: Oversized Sword 
+33002000 Ancient Warriors: Axe Spears & Great Shields 
+33003000 Ancient Warrior: Two-Handed Ax 
+33004000 Ancient Warrior: Mallet 
+33100000 Demon Heavy Soldier: Two-Handed Sword & Medium Shield 
+33101000 Damon Heavy Soldier: Oversized Sword 
+33102000 Damon Heavy Soldier: Two-Handed Ax 
+33103000 Damon Heavy Soldier: Mallet 
+33104000 Damon Heavy Soldier: One Hand Mallet 
+33200000 Queen Knight A 
+33201000 Queen Knight A (with both hands) 
+33300000 Queen Knight B 
+33400000 Queen Knight C 
+33700000 Amazing Dead: Bare Hands 
+33701000 Amazing Dead: Torchi 
+33702000 Amazing Dead: Sword 
+33702001 Great Dead: Sword: Dark Aura 
+50000000 Javazahat 
+50100000 Naga 
+50200000 Manscorpion ♂ 
+50300000 Manscorpion ♀ 
+50400000 Mirror Night 
+50500000 The Beast 
+50610000 Agaduran Stand 
+50620000 Wormhole 
+50650000 For Agaduran_In Game 
+50700000 Rich 
+50800000 Wraith 
+50900000 Dark Bishop (Immortal): Masked 
+50910000 Dark Bishop (Anger Mode) 
+51000000 Phantom Priest (Spirit) 
+51100000 Phantom Knight 
+51200000 Phantom Mage (Spirit) 
+51300000 King Van Clad (past) 
+51400000 King Van Clad (modern) for cut scene 
+51450000 Van Clad King (modern) for in-game 
+51460000 Old King 
+51500000 Dark Bishop (Immortal): No Mask 
+60000000 Old Dragon 
+60001000 Old Dragon (After Petrification) 
+60002000 Old Dragon (Sleeping: Sleeping) 
+60003000 Old Dragon (Sleeping: Waking Up) 
+60100000 Salamander 
+60101000 Salamander (Systemic Flame) 
+60102000 Salamander (after petrification) 
+60200000 Beautiful Voice Frog 
+60202000 Beautiful Voice Frog 
+60300000 Spider Queen 
+60310000 Spider Queen (Cliff) 
+60600000 Yadkari Castle 
+60601000 Yadokari Castle (after petrification) 
+60700000 Molten iron daemon 
+60800000 Corrosive insects (outer shell) 
+60900000 Leader of the Giants SS 
+60901000 Leader of the Giants SS (after petrification) 
+60910000 Leader of the Giant SS (Phantom) 
+61100000 Heavy Cavalry: Soldiers Only 
+61101000 Heavy Cavalry: Soldiers Only: Bow 
+61300000 The God tree of the brain trunk 
+61400000 Two-headed Wyvern 
+61500000 Leviathan 
+61600000 King Van Clad (after deformation) 
+61700000 Silver Chariot: Body 
+61800000 Silver Chariot: Executioner (Dead) 
+61900000 Silver Chariot: Horse (Dead) 
+61910000 Silver Chariots: Horses Only 
+61911000 Silver Chariots: Coalescence 
+61912000 Silver Chariots: Cliff Clinging 
+62000000 Bodhidharma 
+62100000 Corrosive insects (main body) 
+62200000 Corrosive insects (children) 
+62400000 Giant King *Death 
+62450000 Giant King 
+62500000 Ornstein 
+62600000 Forgotten Sinner 
+62700000 Queen's armor 
+70000000 Dragon's Shrine Maiden for Cut Scene 
+70050000 Dragon Shrine Maiden: No Hood 
+70051000 Dragon Shrine Maiden: With Hood 
+70100000 Dragon Shrine Maiden (Child) _ For Cut Scene 
+70150000 Dragon Shrine Maiden (Child) For In-Game 
+70200000 Queen (Modern) 
+70300000 Queen (past) for cut scenes 
+70360000 New Queen 
+70450000 Slave Traders For In-Game 
+70451000 slave merchants_ for cut scenes 
+70500000 For retired fire-proof woman 1_ cut scene 
+70510000 Retired Fire Protection Woman 2 
+70530000 Retired Fire Protection Woman 4 
+70550000 Retired Fire Protection Woman 1_For In-Game 
+72100000 Kingdom Army Master (Modern) 
+72110000 Kingdom Army Master (Past) 
+72200000 tick researchers 
+72300000 Housekeeper 
+72301000 for the housekeeper_cut scene 
+72400000 Captain of the SS 
+72500000 Dragon's Shrine Festival Grandal 
+72900000 Loyal Dog 
+73000000 I 1_ Oversized Sword Under Mirror Night 
+73001000 I under the mirror night 1_two-handed long axe 
+73002000 I 1_One Hand Sword Under Mirror Night 
+73100000 I 2_ Oversized Sword Under Mirror Night 
+73101000 I 2_Two-Handed Axe Under Mirror Night 
+73102000 I 2_One Hand Sword Under Mirror Night 
+74000000 The person who is the person who is stamped 
+74100000 A broken warrior 
+74200000 Enemy Warrior One-Handed Axe 
+74201000 Enemy Warrior: The Great Sword 
+74300000 Tsukiko Ya: One-handed sword 
+74301000 Tsukiko Ya: Two-Handed Sword 
+74400000 Patch 
+74600000 Chasing Warriors: The Castle of Ruins 
+75100000 My brother looking for my sister: A coal mining village 
+75200000 Sea Solar 
+75300000 Sancho: One-handed axe 
+75300001 Sancho: One-Handed Axe: Flame Aura 
+75301000 Sancho: Two-handed bow 
+75400000 The Princess of Captivity 
+75400001 The Princess of Captivity: A Ghost 
+75500000 Stalker Warrior 
+75501000 Stalker Warrior_ With Both Hands 
+75502000 Stalker Warrior_2 Sword 
+76000000 Girl 1 of the Bard  
+76010000 Girl 2 of the Bard 
+76020000 Banshee Bluff 1 
+76030000 Banshee Bluff 2 
+76040000 Banshee Bluff 3 
+76100000 Armor shop: Madura (hyundai) 
+76101000 Armor shop: Fairy's side 
+76200000 Material shop 
+76300000 Bookstore (Madura: Hyundai) 
+76301000 Bookstore (Spider Town) 
+76400000 Blacksmith Leniguts: Tonkachi & Fire Scissors 
+76401000 Blacksmith Leniguts: Otsuchi 
+76430000 EX Blacksmith McDuff 
+76431000 EX Blacksmith Macduff: Mallet 
+76500000 a tool shop 
+76600000 Spell shop 1 & 4 (Maduro: Hyundai) 
+76601000 Spell shop 1&4 (Fort of Resistance: Modern) 
+76700000 Spell Shop 2 & 3 (Hyundai) 
+76800000 Spell Four Tenno (Magic) 
+76900000 Spell Four Tenno (Miracle) Leash 
+77000000 Spell Four Tenno (Magic): Cane & Small Shield 
+77001000 Spell Four Tenno (Magic): Sashimi & Small Shield 
+77100000 Spell Four Tenno (Dark Art) 
+77200000 a curiosity shop 
+77400000 Middle Arms Shop 2 
+77700000 Fortune Teller: Madura (Modern) 
+77701000 Fortune Teller: Fairy's Side 
+77800000 Yorozuya (Modern) 
+78000000 Material shop (modern) 
+78300000 Black Phantom Shop 
+78310000 Blue Phantom Shop 
+78400000 The Priest of The Sin (City of Spiders) 
+78500000 The Holy Woman's Attendant: Two-Handed Ax & Medium Shield 
+78501000 The Saint's Man: Ax & Bell 
+78600000 Glitter Girl 
+78700000 The Fairy of the Dungeon of The Moment 
+80000000 Modern Player 
+80010000 Player of the Future 
+80030000 Player (Phantom) 
+81000000 Torture Castle - Red Spirit Level 3 
+90009400 Oil Wet Test - Kingdom Soldier (Dead): Bow 

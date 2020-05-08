@@ -1,0 +1,28 @@
+0 Disabled 
+11000 Host Time - "Strong" Pledge Success Rewards for Operational Events 
+11010 Host Time - "King of The Mouse" Pledge For Success Rewards_ Operational Events 
+11020 Host Time - Dragon Spirit Repelling Reward for Management Event 
+11030 Host Time - Abyss Spirit Repelling Reward for Management Event 
+11050 White Spirit S. White Spirit: Successful Return (Expiration Time Limit) for Operational Events 
+11060 White Spirit S. Golden Spirit: Successful Return (Expired Time Limit) for Operational Events 
+11070 Korei-Korei: Successful Return (Expiration Time Limit) for Operational Events 
+11080 Korei-Kokin Spirit: Successful Return (Expired Time Limit) for Operational Events 
+11090 Relief Blue Spirit Time - Successful Return (Host Passes boss white door) for management event 
+11100 Relief Blue Spirit Time - Successful Return (Host passes through the goal white door) for the management event 
+11110 Relief Blue Spirit stime - Dark Spirits: Successful Return (Dark Spirit dies) for the event of operation 
+11120 Relief Blue Spirit Sat - Red Spirit: Successful Return (Dark Spirit Dies) for Operational Events 
+11130 Retaliation At The Time - Successful Return (Host Death) for Operational Events 
+11140 The Time of the Dark Spirits - The Dark Spirit: Successful Return (Host Death) for The Event 
+11150 The Time of the Dark Spirit - The Red Spirit: A Successful Return (Host Death) for The Management Event 
+11160 The Time of the Dark Spirits - The Dark Spirit: A Successful Return (Relief Blue Spirit Death) for The Management Event 
+11170 Dark Spirit Sat- Red Spirit: Successful Return (Relief Blue Spirit Death) for Operational Events 
+11180 Bell Guard Ash Spirit - Successful Return (Host Death) for Operational Events 
+11190 The King of Mice - Successful Return (Through the Goal Ash Door) for the Event of Operation 
+11200 The King of Mice At The Time of the Ashes - Successful Return (Host Death) for The Management Event 
+11210 Dragon Spirit Time - Successful Return (Host Death) for Operational Events 
+11220 Fuf spirit son - successful return (defeat the host with its own attack) for the event of operation 
+11230 Duel Blue Spirit Time - Duel Victory Return for The Management Event 
+11240 Duel Dark Spirit Sat - Duel Victory Return for The Management Event 
+10045500 【Server Treasure Chest】 
+90000000 Shimizu Test 1 
+90000001 Shimizu Test 2 

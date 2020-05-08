@@ -1,0 +1,130 @@
+1001 Intrusion Point 1-1 
+1002 Intrusion Point 1-2 
+1004 Intrusion Point 1-4 
+1005 Intrusion Point 1-5 
+1006 Intrusion Point 1-6 
+1007 Intrusion Point 1-7 
+1008 Intrusion Point 1-8 
+1009 Intrusion Point 1-9 
+1010 Intrusion Point 1-10 
+1011 Intrusion Point 1-11 
+1012 Intrusion Point 1-12 
+1013 Intrusion Point 1-13 
+1014 Intrusion Point 1-14 
+1015 Intrusion Point 1-15 
+1016 Intrusion Point 1-16 
+1017 Intrusion Point 1-17 
+1018 Intrusion Point 1-18 
+1019 Intrusion Point 1-19 
+1020 Intrusion Point 1-20 
+2001 Intrusion Point 2-1 
+2002 Intrusion Point 2-2 
+2003 Intrusion Point 2-3 
+2004 Intrusion Point 2-4 
+2005 Intrusion Point 2-5 
+2006 Intrusion Point 2-6 
+2007 Intrusion Point 2-7 
+2008 Intrusion Point 2-8 
+2009 Intrusion Point 2-9 
+2010 Intrusion Point 2-10 
+2011 Intrusion Point 2-11 
+2012 Intrusion Point 2-12 
+3001 Intrusion Point 3-1 
+3002 Intrusion Point 3-2 
+3003 Intrusion Point 3-3 
+3004 Intrusion Point 3-4 
+3005 Intrusion Point 3-5 
+3006 Intrusion Point 3-6 
+3007 Intrusion Point 3-7 
+3008 Intrusion Point 3-8 
+3009 Intrusion Point 3-9 
+4001 Intrusion Point 4-1 
+4002 Intrusion Point 4-2 
+4003 Intrusion Point 4-3 
+4004 Intrusion Point 4-4 
+4005 Intrusion Point 4-5 
+4006 Intrusion Point 4-6 
+4007 Intrusion Point 4-7 
+40000 ?Advice blood character?Hidden door 3 
+45000 [Blood character prohibited] hidden door 3 
+201100 For backlead safety [King's Castle] 
+201101 For backlead safety [Immortal Mausoleum] 
+300000 Boss: Beautiful Voice Frog Battle Start Judgment 
+301000 Beautiful Voice Frog's Singing Voice_ Play 
+301001 Beautiful Voice Frog's Singing Voice_Play 2 
+301010 Beautiful Voice Frog Singing Voice_ Stop 
+301011 Beautiful Voice Frog Singing Voice_Stop 2 
+400000 Lifts -The Tomb of Immortality 
+400010 Lift-The Tomb of Immortality 
+404000 Elevator_Connection Replacement Point 
+600000 Change of the door_navimesh of the living person 
+700000 Change of the door of the dead_navimesh 
+802000 [Insect key] hidden door _navi mesh change 
+10000000 ?NPC for Multi: The Magician(Male)?Black Spirit Appearance Area 
+20000000 ?NPC?Girl 1's singing voice begins 
+20000001 Girl (1) Singing Range 2 
+20000010 ?NPC?Girl 1's singing voice stops 
+20000020 ?NPC?Girl 1's singing voice resumes 
+20000100 ?NPC?Girl 2's singing voice begins 
+20000110 ?NPC?Girl 2's singing voice stops 
+20000120 ?NPC?Girl 2's singing voice resumes 
+50000000 Aisle to Tower 1 _ Banshee Launch 
+50000010 Start the lizard under tower 1 
+50000100 outside tower one_lizard start_1 
+50000105 Outside Tower 1_Lizard Launch_2 
+50000110 outside tower one_lizard start_3 
+50000115 Outside Tower 1_Lizard Launch_4 
+50000120 out of the house one_lizard start_1 
+50000125 out of the house one_lizard start_2 
+50000130 out of the house one_lizard start_3 
+50000135 out of the house one_lizard start_4 
+50000140 out of the house one_lizard start_5 
+50000145 out of the house one_lizard start_6 
+50000150 out of the house one_lizard start_7 
+50000151 start _cleric out of house one 
+50000152 Cleric Launch 2 
+50000153 Cleric Start 3 
+50000155 New 
+50000300 Stooping Fire 2 Outside _ Lizard Launch 
+50000310 Blue Grass Area_Lizard Launch_1 
+50000315 Blue Grass Area_Lizard Launch_2 
+50000320 Blue Grass Area_Lizard Launch_3 
+50000325 Blue Grass Area_Lizard Launch_4 
+50000330 Blue Grass Area_Lizard Launch_5 
+50000400 Subroute 3_Lizard Launch 
+50000600 Red Fan Kojima_Lizard Launch_1 
+50000700 outside the house two_lizard start_1 
+50000705 outside house 2_lizard start_2 
+50000710 outside house 2_lizard start_3 
+50000720 outside house 2_lizard start_4 
+50000730 outside house 2_lizard start_5 
+50000740 outside house 2_lizard start_6 
+50000750 The Door of the Living_ Cleric Launch Area 
+51000010 I just want you to prepare for your return so that lizards don't kill girls. 
+51000020 No lizards escape in the cave 
+51000030 No lizards escape in the cave 
+51000040 Kingdom Escort Sehomed Return Area 
+51008540 No cleric entry in front of the white door 
+52000000 Navigation point 1 for the tower 1_2F_ banshee 
+52000001 Navi point 2 for the tower 1_2F_ banshee 
+52000010 Navigation point 1 for the tower 1_2F_ banshee 
+52000011 Navi point 2 for the tower 1_2F_ banshee 
+52000020 Navi point 1 for outside house 1_Banshee 
+52000021 Navi Point 2 for Outside House 1_Banshee 
+52000030 Navi point 1 for the altar_banshee 
+52000031 Navi Point 2 for Banshee on the altar 
+52000040 Navi Point 1 for Under altar_Banshee A 
+52000041 Navi Point 2 for Under altar_Banshee A 
+52000050 Navi Point 1 for Under altar_Banshee B 
+52000051 Navi Point 2 for Under altar_Banshee B 
+52000060 Navi point 1 for outside altar_banshee 
+52000061 Navi Point 2 for Outside Altar_Banshee 
+52000070 Start passage_Navi point for banshee 1 
+52000071 Start Passage_Navi Point 2 for Banshee 
+52000080 Navi Point 1 for Subroute 1_Banshee 
+52000081 Subroute 1_Banshee Navi Point 2 
+52000090 Subroute 1 Back_Banshee Navi Point 1 
+52000091 Subroute 1 Back_Banshee Navi Point 2 
+52000100 Navi point for the door of the living person_Banshee 
+59000000 White fan appearance point 
+90000000 [Tower (4) Goal] Wandering Knight 

@@ -1,0 +1,20 @@
+10620000 Dark Priest: Color (3) 
+12510000 Undead Citizen: Color (1): Acid 
+21200000 Wyburn 01 
+21200010 Wyburn: Dozing off 
+21200020 Wyburn 02 
+21300000 Stone Defense 
+30700000 Durahan (White Spirit) 
+32100000 [[[]-Mimick】 Battle 
+33100000 Demon Heavy Soldier: Two-Handed Sword & Medium Shield 
+33100010 Damon Heavy Soldier: Oversized Sword 
+33100030 Damon Heavy Soldier: Mallet 
+33100040 Damon Heavy Soldier: One Hand Mallet 
+60000000 Koryu 
+70150000 NPC: Sinalot 
+77100000 Enclosed Man: Black Spirit 
+81400000 NPC for Multi: Flesh-breaking (Female): White Spirit 
+82300000 NPC for Multi: Koryu Swordsman (Male): Black Spirit 
+83500000 NPC for Multi: Painting Defense (Man): Black Spirit 
+83510000 NPC for Multi: Painting Guard (Female): Black Spirit 
+83520000 NPC for Multi: Dragon Knight: Black Spirit 

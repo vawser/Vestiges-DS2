@@ -1,9 +1,9 @@
-1000 UNKNOWN
-1001 UNKNOWN
-9111 UNKNOWN
-9113 UNKNOWN
-9150 UNKNOWN
-9170 UNKNOWN
+1000 Forest Grotesque
+1001 Forest Grotesque (Sling)
+9111 Forest Grotesque (Test)
+9113 Forest Grotesque (Floating Test)
+9150 Test NPC
+9170 Bullet Test
 100000 Forest Grotesque
 100001 Forest Grotesque
 100010 Forest Grotesque

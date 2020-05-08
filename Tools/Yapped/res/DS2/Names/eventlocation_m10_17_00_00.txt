@@ -1,0 +1,141 @@
+1001 Intrusion Point 1-1 
+1002 Intrusion Point 1-2 
+1003 Intrusion Point 1-3 
+1004 Intrusion Point 1-4 
+1005 Intrusion Point 1-5 
+1006 Intrusion Point 1-6 
+1007 Intrusion Point 1-7 
+1008 Intrusion Point 1-8 
+1009 Intrusion Point 1-9 
+1010 Intrusion Point 1-10 
+2001 Intrusion Point 2-1 
+2002 Intrusion Point 2-2 
+2003 Intrusion Point 2-3 
+2004 Intrusion Point 2-4 
+2005 Intrusion Point 2-5 
+2006 Intrusion Point 2-6 
+2007 Intrusion Point 2-7 
+2008 Intrusion Point 2-8 
+2009 Intrusion Point 2-9 
+2010 Intrusion Point 2-10 
+2011 Intrusion Point 2-11 
+2012 Intrusion Point 2-12 
+2013 Intrusion Point 2-13 
+2014 Intrusion Point 2-14 
+2015 Intrusion Point 2-15 
+3001 Intrusion Point 3-1 
+3002 Intrusion Point 3-2 
+3003 Intrusion Point 3-3 
+3004 Intrusion Point 3-4 
+3005 Intrusion Point 3-5 
+3006 Intrusion Point 3-6 
+3007 Intrusion Point 3-7 
+3008 Intrusion Point 3-8 
+3009 Intrusion Point 3-9 
+3010 Intrusion Point 3-10 
+3011 Intrusion Point 3-11 
+3012 Intrusion Point 3-12 
+3013 Intrusion Point 3-13 
+3014 Intrusion Point 3-14 
+3015 Intrusion Point 3-15 
+40000 ?Advice Blood Character?Hidden Door 2_01 
+40010 ?Advice Blood Character?Hidden Door 2_02 
+40020 ?Advice Blood Character?Hidden Door 2_03 
+40030 ?Advice Blood Character?Hidden Door 3_01 
+45000 [Blood character prohibited] hidden door 2_01 
+45010 [Blood character prohibited] hidden door 2_02 
+45020 [Blood character prohibited] hidden door 2_03 
+45030 [Blood character prohibited] hidden door 3_01 
+100000 Navi mesh change of the gate opened with the lever 
+101700 Backlead Safety Points [Hunting] 
+101701 Safety points for backlead [molten iron] 
+400000 Lifting machine - Under The Molten Iron Castle 
+400010 Lifting machine - On The Molten Iron Castle 
+403000 Elevator_Connection Replacement Point 
+405000 Flag switching point for connection 
+500000 Gate_Navigation change point opened with lever 
+702000 [Insect key] hidden door _navi mesh change 
+800000 Boss: Shabazahat battle start judgment 
+850000 Boss: Naga battle start judgment 
+900000 Navi mesh change of hidden door 1 
+901000 Hidden Door Navi Mesh Change 2 
+902000 Navi mesh change of hidden door 3 
+1100000 Tree wall 1 that the enemy destroys 
+1101000 Tree wall 2 destroyed by the enemy 
+1300000 Rotating floor_navi mesh change 
+1400000 Navi mesh change of destructive scaffold 
+2700000 One-way door (where you jumped) 
+3201000 Suspended ceiling: The extent to which damage is dealt from the event 
+4100000 Poison Fog Damage Area_1 
+4100010 Poison Fog Damage Area_2 
+4100020 Poison Fog Damage Area_3 
+4100030 Poison Fog Damage Area_4 
+4100040 Poison Fog Damage Area_5 
+4100050 Poison Fog Damage Area_6 
+4100060 Poison Fog Damage Area_7 
+4100070 Poison Fog Damage Area_8 
+50000000 Enemy launch area on the path side of the poison 
+50001000 Enemy launch area in the right corner of the poison 
+50002000 The enemy comes out from the back of the room in the poison. 
+50003100 Dead launch area on the slopes of Poison Square 
+50004000 Body press man-made immortal start of Kiita Square 
+50005000 The enemy's launch area hidden in the wooden board 
+50006000 The first time the enemy appears by breaking the destroying wall 
+50007000 The second time the enemy appears by breaking the destroying wall 
+50008000 Enemy launch area in front of the tower 
+50009000 Enemy launch area 1 of the waterway 
+50009010 for the enemy launch _ backwards of the waterway 
+50010000 Enemy launch area in front of jabba white door 
+50010010 New 
+50011000 Enemy launch area at the bottom of the subroute 
+50012000 Enemy launch in front of insect key 
+50013000 Enemy_ falling area on the ladder 
+50013010 for the enemy on the ladder_ falling area reverse 
+50014000 Enemy launch area_1 under the rotating floor 
+50014010 Enemy launch area_2 under the rotating floor 
+50015000 Enemy launch area hidden in the wall near the rotating floor 
+50016000 Enemy launch area of the T-shaped path with just a pot 
+50017000 Worker launch area of the early dead 
+50019000 A blow-out bridge and a sebo for launching 
+50019001 Blow-out bridge and sebo start 2 
+50020000 For boss front immortal start 
+50021000 For the entrance of the tower, for the start of the character 
+50022000 Ladder shop return area 
+50023000 For launching enemies on the other side of the jar 
+50024000 Door closing up stairs (switch) 
+50025000 No enemy entry in Kiita Square 
+50025010 No enemy invasion of Kiita Square 2 
+50025020 No enemy invasion of The Plaza Square 3 
+50026000 No cavalry entry 
+50027000 Block 3 Unregistered Enemy Return Area 
+50028000 Female Knight Return Area 1 
+50028010 Female Knight Return Area 2 
+50029000 No entry to the lower tower 
+50029010 No cavalry entry under the tower 2 
+50029020 No entry to the lower tower 
+50030000 Cavalry launch area under the tower 
+50031000 Lever front cavalry start area 
+50031100 Lever front-horse soldiers return area 
+50031110 Lever front-horse soldiers return area 2 
+50032000 Terrace climbed door closing assassin launch area 
+50033000 1 for the dead start-up in front of the lever 
+50033010 2 for the dead start-up in front of the lever 
+50034000 Return point of the atrium bridge 
+50035000 Early cavalry troops entry prohibition 
+50035010 Early Cavalry Soldiers Entry Ban 2 
+50035020 Early Cavalry Soldiers Entry Ban 3 
+50036000 For not falling into the steel mill ditch 
+50037000 Enemy feedback area 1 of the poison jar room 
+50037010 Enemy feedback area 2 of the poison jar room 
+50038000 Insect key room 1 for poison horn start 
+50039000 For skeleton return 
+50040000 Map connection feedback area 
+50041000 Cavalry (1) Start area 
+50042000 Skeleton launch area 
+50043000 For returning poison hornworms 
+50044000 Board breaking cavalry soldiers return area 1 
+50044010 Board breaking cavalry soldiers return area 2 
+50045000 Woodboard Square Man-made Immortal Return Area 
+50046000 Immortal Knight Return Area 
+50047000 Lever front cavalry (back) start area 
+50048000 For starting poison pool skeleton 

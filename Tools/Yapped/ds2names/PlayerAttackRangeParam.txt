@@ -1,0 +1,5 @@
+1 Super close range 
+2 Short 
+3 Medium 
+4 Long distance 
+5 Super long distance 

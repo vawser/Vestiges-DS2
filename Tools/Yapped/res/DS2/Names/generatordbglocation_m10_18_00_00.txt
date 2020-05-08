@@ -1,0 +1,58 @@
+90 ?NPC?Female Knight 
+91 ?NPC?Female Knight (Ghost) 
+135 ?NPC?Sorcerer 
+136 ?NPC?Sorcerer (Ghost) 
+245 ?NPC?Dwarf 
+246 ?NPC?Dwarf 
+566 ?NPC?Female Knight: White Spirit 
+844 BOSS: Double-sided warrior: Snake head 
+1000 [Sleeping in the tip of the start cave] lower-class soldier son of a dead man - one-handed axe 
+1100 [First cabin _1F] lower-class soldier (dead) one-handed sword - small shield 
+1110 [First hut _1F] lower-class soldier (dead) one-handed axe 
+1220 [First hut 2F_ oil jar throwing] sailor (deceased) 
+1500 [Main route pier _ sniper] [Lower soldier (dead)], bow 
+1510 [Main Route Pier_ Proximity] Sailor (Dead) Sword 
+2000 [Surprise attack from the roof of the hut on the left side of the lamp stand 1] sailor (dead) one-handed sword 
+2110 [Dark room near the light stand] the hideaway in the darkness 
+2200 [Hut on the left side of the lamp stand 1 and enter] lower-level soldier (deceased): one-handed sword: shield 
+2300 [Hut on the left side of the lamp stand 1 and enter] lower-level soldier (deceased): one-handed sword: shield 
+2500 [Building on the left side of the top layer_stair ambush] ?Sailor(Dead)]Song Sword 
+2600 [On the central stairs _ oil bottle throwing] sailor (dead) one-handed sword 
+2605 [Right on the central stairs] sailor (dead) bent sword x2 
+2610 [Square to climb the central stairs _ in front of the door that does not open] sailor (deceased) 
+3010 [Inside the building _ hut near the light stand] wild dog 
+3500 ?Well Plaza_Well-front?Wild Dog 
+3510 ?Well Plaza_Insect Key?Sailor (Dead) One-handed Sword 
+3600 [Bar building 1F_ sleeping at the desk] sailor (deceased) 
+3620 [Bar building 1F_ sleeping at the desk] sailor (deceased) 
+3630 [Bar building 1F_ sleeping at the desk] sailor (deceased) 
+3700 [Surprise attack from the back of the door and stairs 2F_ the building of the bar] sailor (deceased) curved sword 
+3800 [Sniper 2F_ bar building] sailor (dead) bow 
+3810 [Sniping up and down 2F_ building of the bar] sailor (dead) bow 
+4100 [Upper layer passage 1] the hideaway in the darkness 
+4110 [Upper layer passage_2] the hideaway in the darkness 
+4120 [Upper layer passage_3] the hideaway in the darkness 
+4200 [Wall destruction room 1F back] hide away in the darkness 
+4210 [Wall destruction room 1F back _ door reaction wall destruction] hide away in the darkness 
+4220 [Wall destruction room 2F_ fall surprise] hide away in the darkness 
+4230 [Break the wall 2F_ wall destruction room] hide away in the darkness 
+4500 [House to lever] sailor (dead) one-handed sword 
+4540 ?Home to lever?Sailor (dead) song sword x2 
+4550 ?Boss Ship? NPC Red Spirit 
+4600 [Hut 1 of the destination that fell from the ship lever] the hideaway in the darkness 
+4610 [Hut 2 of the destination that fell from the ship lever] hide away in the darkness 
+4720 ?3-story building 3F?Sailor (deceased) Bentays x2 
+4800 ?Drinking House 1 near the pier?Sailor (dead) one-handed sword 
+4810 ?Drinking House 2 near the pier? Sailor (dead) one-handed sword 
+4850 [The back of the wall of the house where the boat arrives] 
+5000 [Room without roof] hideout in the darkness - run away to the room with a roof when the light is turned on with the insect key 
+5030 ?Boss ship front?The one lurking in the darkness: in front of the pier toward the boss ship 
+5040 [Boss Mae Pier_ Eldo] Sailor: Dead: One-handed sword 
+5041 [Boss Mae Pier_ Eldo] Sailor: Dead: One-handed sword 
+5050 [Boss mae water field_ dive _start when the water enters] sailor: dead: curved sword x2 
+5200 [Boss ship] sailor: Dead: Bow 
+5201 [Boss ship] sailor: Dead: Bow 
+5210 ?Boss Ship?Sailor: Dead: Curved Sword 
+5211 ?Boss Ship?Sailor: Dead: One-handed sword 
+5220 [Boss ship] shadow of the deformed: 2nd week boss attendant 01 
+5221 [Boss ship] shadow of the deformed: 2nd week boss attendant 02 

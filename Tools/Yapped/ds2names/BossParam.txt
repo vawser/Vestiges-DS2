@@ -1,0 +1,42 @@
+1 Test 
+212000 Wyvern 
+212001 Wyburn: The Nest of The Guard Dragon (1) 
+212002 Wyburn: The Nest of The Guard Dragon (2) 
+212003 Wyburn: The Nest of The Guard Dragon (3) 
+303300 Double-sided warrior: snake head 
+305000 Daemon Knight 
+309600 New Giant Senior Soldier (Deceased) 
+309700 New Giant Senior Soldier (Live) 
+318000 Bay Grant 
+318010 Bay Grant 
+318020 Bay Grant 
+325000 Warrior in the Mirror: Prison of Oblivion 
+325010 Warrior in the Mirror: King's Castle D'Angreig 
+326000 Butcher 
+332000 Queen Knight A 
+333000 Queen Knight B 
+334000 Queen Knight C 
+500000 Javazahat 
+501000 Naga 
+502000 Manscorpion ♂ 
+502001 Manscorpion ♂ 
+502009 Manscorpion ♂ 
+503000 Manscorpion ♀ 
+504000 Mirror Night 
+506100 Agaduran Stand 
+506101 Agaduran Stand (For Alter Ego) 
+514600 Old King 
+600000 Old Dragon 
+601000 Salamander 
+602000 Beautiful Voice Frog 
+603000 Spider Queen 
+603100 Spider Queen (Cliff) 
+607000 Molten iron daemon 
+611010 Heavy Cavalry: Soldiers Only (Bow) 
+611500 Heavy Cavalry: Soldiers Only (Red): King's Castle 
+611510 Heavy Cavalry: Soldiers Only (Red): Heide 
+619110 Silver Chariots: Horses Only 
+625000 Ornstein 
+626000 Forgotten Sinner 
+627000 Queen's armor 
+628000 Giant Rat 

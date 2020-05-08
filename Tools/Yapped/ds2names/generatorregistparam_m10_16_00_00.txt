@@ -1,0 +1,45 @@
+12500000 [Undead Citizen: Normal] Chain 
+12500001 [Undead Citizen: Normal: Tower of Sinners] Chain 
+12500005 [Undead Citizen: Normal] Normal Standing 
+12500006 [Undead Citizen: Normal: Tower of Sinners] Normal Standing 
+12500007 [Undead citizen: Petrified] usually standing 
+12500010 [Undead Citizen: Normal] All Fours 
+12500012 [Undead Citizen: Petrified] All fours 
+12500020 [Undead Citizen: Normal] Sit 
+12500021 [Undead Citizen: Normal: Tower of Sinners] Sit 
+12500022 [Undead Citizen: Petrified] Sit 
+12500030 [Undead Citizen: Explosion] Trap After Boss 
+12500040 [Undead Citizen: Explosion] Seoul Black 
+12500050 [Undead Citizen: Normal] Matryoshka jailed 
+14100000 [Strengthened immortal] 
+15200000 [Kingdom soldier warrior: two-handed sword] 
+15201000 [Kingdom Soldier Warrior: Crossbow] 
+22700000 Stray dog 
+22700010 Wild Dog: Soul Black 
+30102000 [Wandering Knight ( dead] Spear A] assault spear 
+30200000 Prison man (dead) 
+30200010 Prison man (dead): Kicking a flaming barrel 
+30200100 Prison man (dead) spelling 
+30200900 Prison Man (Dead): Soul Black 
+30200910 The Dead: Soul Black: The Boss's Room 
+32400000 【Gargoyle】 
+32400001 [Gargoil] for directing 
+32500000 [Warrior in the Mirror] during BOSS_ audience 
+62600000 [Forgotten Sinners] BOSS_ Dungeon 
+73200000 [Sinner of the sorcerer 1] 
+73330000 [Sinner of the sorcerer 2] 
+75200000 [Female Knight] Npc 
+75200001 [Female Knight] NPC (Ghost) 
+75200900 [Female Knight] NPC (White Spirit) 
+75300000 【Bell Mori Sancho】 Npc 
+75300001 【Bell Mori Sancho】 NPC (Ghost) 
+75300900 【Bell Mori Sancho】 NPC (Dark Spirit) 
+75301000 【Bell Guard: Zako】 
+76430000 【EX Blacksmith】 NPC: Blacksmith 
+76430001 【EX Blacksmith】 NPC (Ghost) 
+76430002 【EX Blacksmith】 NPC: Blacksmith (after move) 
+76800000 [Spell Mania] Npc 
+76800001 [Spell Mania] NPC (Ghost) 
+76800002 [Spell Mania] NPC (after resurrection) 
+81200000 【NPC for Multi: Sage (Female)]: White Spirit 
+82000000 [NPC for multi: Lancer (male)], Black Spirit 

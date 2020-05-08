@@ -1,168 +1,168 @@
 1 UNKNOWN
-21200001 Guardian Dragon
-21200002 Guardian Dragon
-21200003 Guardian Dragon
-21200004 Guardian Dragon
-21200005 Guardian Dragon
-21200006 Guardian Dragon
-21200007 Guardian Dragon
-21200101 Guardian Dragon
-21200102 Guardian Dragon
-21200103 Guardian Dragon
-21200104 Guardian Dragon
-21200105 Guardian Dragon
-21200106 Guardian Dragon
-21200107 Guardian Dragon
-21200201 Guardian Dragon
-21200202 Guardian Dragon
-21200203 Guardian Dragon
-21200204 Guardian Dragon
-21200205 Guardian Dragon
-21200206 Guardian Dragon
-21200207 Guardian Dragon
-21200301 Guardian Dragon
-21200302 Guardian Dragon
-21200303 Guardian Dragon
-21200304 Guardian Dragon
-21200305 Guardian Dragon
-21200306 Guardian Dragon
-21200307 Guardian Dragon
-30500001 Smelter Demon
-30500002 Smelter Demon
-30500003 Smelter Demon
-30500004 Smelter Demon
-30500005 Smelter Demon
-30500006 Smelter Demon
-30960001 The Last Giant
-30960002 The Last Giant
-30960003 The Last Giant
-30960004 The Last Giant
-30960005 The Last Giant
-30960006 The Last Giant
-30970001 Giant Lord
-30970002 Giant Lord
-30970003 Giant Lord
-30970004 Giant Lord
-30970005 Giant Lord
-30970006 Giant Lord
-32600001 The Rotten
-32600002 The Rotten
-32600003 The Rotten
-32600004 The Rotten
-32600005 The Rotten
-32600006 The Rotten
-33200001 Throne Defender
-33200002 Throne Defender
-33200003 Throne Defender
-33200004 Throne Defender
-33200005 Throne Defender
-33200006 Throne Defender
-33200009 Throne Defender
-33300001 Velstadt
-33300002 Velstadt
-33300003 Velstadt
-33300004 Velstadt
-33300005 Velstadt
-33300006 Velstadt
-50000001 Covetous Demon
-50000002 Covetous Demon
-50000003 Covetous Demon
-50000004 Covetous Demon
-50000005 Covetous Demon
-50100001 Mytha, the Baneful Queen
-50200001 Manscorpion Tark
-50200002 Manscorpion Tark
-50200003 Manscorpion Tark
-50200004 Manscorpion Tark
-50200005 Manscorpion Tark
-50300001 Scorpioness Najka
-50300002 Scorpioness Najka
-50300003 Scorpioness Najka
-50300004 Scorpioness Najka
-50300005 Scorpioness Najka
-50300006 Scorpioness Najka
-50400001 Looking Glass Knight
-50400002 Looking Glass Knight
-50400003 Looking Glass Knight
-50400004 Looking Glass Knight
-50400005 Looking Glass Knight
-50400006 Looking Glass Knight
-50400007 Looking Glass Knight
-50400008 Looking Glass Knight
-50400009 Looking Glass Knight
-50400010 Looking Glass Knight
-50400011 Looking Glass Knight
-50400012 Looking Glass Knight
-50400013 Looking Glass Knight
-50400014 Looking Glass Knight
-50400015 Looking Glass Knight
-50400016 Looking Glass Knight
-50400017 Looking Glass Knight
-51460001 Vendrick (hollow)
-51460002 Vendrick (hollow)
-51460003 Vendrick (hollow)
-51460004 Vendrick (hollow)
-51460005 Vendrick (hollow)
-51460006 Vendrick (hollow)
-60000001 Ancient Dragon
-60000002 Ancient Dragon
-60000003 Ancient Dragon
-60000004 Ancient Dragon
-60000005 Ancient Dragon
-60000006 Ancient Dragon
-60100001 Flame Lizard
-60100002 Flame Lizard
-60102001 Flame Lizard
-60200001 Demon of Song
-60200002 Demon of Song
-60200003 Demon of Song
-60200004 Demon of Song
-60200005 Demon of Song
-60200006 Demon of Song
-60200007 Demon of Song
-60200008 Demon of Song
-60300001 The Duke's Dear Freja
-60300002 The Duke's Dear Freja
-60300003 The Duke's Dear Freja
-60310001 The Duke's Dear Freja
-60310002 The Duke's Dear Freja
-60310003 The Duke's Dear Freja
-60700001 Old Iron King
-60700002 Old Iron King
-60700003 Old Iron King
-60700004 Old Iron King
-60700005 Old Iron King
-60700006 Old Iron King
-60900001 UNKNOWN
-60900002 UNKNOWN
-60900003 UNKNOWN
-60900004 UNKNOWN
-60900005 UNKNOWN
-60900006 UNKNOWN
-60900007 UNKNOWN
-61910001 Executioner's Chariot
-61910002 Executioner's Chariot
-61910003 Executioner's Chariot
-61910004 Executioner's Chariot
-61910005 Executioner's Chariot
-61910006 Executioner's Chariot
-61910007 Executioner's Chariot
-61911001 Executioner's Chariot
-61911002 Executioner's Chariot
-61911003 Executioner's Chariot
-61911004 Executioner's Chariot
-61911005 Executioner's Chariot
-61911006 Executioner's Chariot
-61911007 Executioner's Chariot
-61911008 Executioner's Chariot
-62700001 Nashandra
-62700002 Nashandra
-62700003 Nashandra
-62700004 Nashandra
-62700005 Nashandra
-62700006 Nashandra
-62700007 Nashandra
-62700008 Nashandra
+21200001 Guardian Dragon 1 - Head
+21200002 Guardian Dragon 1 - Underside
+21200003 Guardian Dragon 1 - Left Wing
+21200004 Guardian Dragon 1 - Right Wing
+21200005 Guardian Dragon 1 - Left Leg
+21200006 Guardian Dragon 1 - Right Leg
+21200007 Guardian Dragon 1 - Tail
+21200101 Guardian Dragon 1 - Head
+21200102 Guardian Dragon 2 - Underside
+21200103 Guardian Dragon 2 - Left Wing
+21200104 Guardian Dragon 2 - Right Wing
+21200105 Guardian Dragon 2 - Left Leg
+21200106 Guardian Dragon 2 - Right Leg
+21200107 Guardian Dragon 2 - Tail
+21200201 Guardian Dragon 3 - Head
+21200202 Guardian Dragon 3 - Underside
+21200203 Guardian Dragon 3 - Left Wing
+21200204 Guardian Dragon 3 - Right Wing
+21200205 Guardian Dragon 3 - Left Leg
+21200206 Guardian Dragon 3 - Right Leg
+21200207 Guardian Dragon 3 - Tail
+21200301 Guardian Dragon 4 - Head
+21200302 Guardian Dragon 4 - Underside
+21200303 Guardian Dragon 4 - Left Wing
+21200304 Guardian Dragon 4 - Right Wing
+21200305 Guardian Dragon 4 - Left Leg
+21200306 Guardian Dragon 4 - Right Leg
+21200307 Guardian Dragon 4 - Tail
+30500001 Smelter Demon - Head
+30500002 Smelter Demon - Underside
+30500003 Smelter Demon - Left Arm
+30500004 Smelter Demon - Right Arm
+30500005 Smelter Demon - Left Foot
+30500006 Smelter Demon - Right Foot
+30960001 The Last Giant - Head
+30960002 The Last Giant - Left Arm
+30960003 The Last Giant - Right Arm
+30960004 The Last Giant - Underside
+30960005 The Last Giant - Left Foot
+30960006 The Last Giant - Right Foot
+30970001 Giant Lord - Head
+30970002 Giant Lord - Underside
+30970003 Giant Lord - Left Arm
+30970004 Giant Lord - Right Arm
+30970005 Giant Lord - Left Foot
+30970006 Giant Lord - Right Foot
+32600001 The Rotten - Right Arm
+32600002 The Rotten - Left Arm
+32600003 The Rotten - Right Shoulder
+32600004 The Rotten - Left Shoulder
+32600005 The Rotten - Torso
+32600006 The Rotten - Head
+33200001 Throne Defender - Head
+33200002 Throne Defender - Torso
+33200003 Throne Defender - Left Arm
+33200004 Throne Defender - Right Arm
+33200005 Throne Defender - Left Foot
+33200006 Throne Defender - Right Foot
+33200009 Throne Defender - Shield
+33300001 Velstadt - Head
+33300002 Velstadt - Torso
+33300003 Velstadt - Left Arm
+33300004 Velstadt - Right Arm
+33300005 Velstadt - Left Foot
+33300006 Velstadt - Right Foot
+50000001 Covetous Demon - Tail
+50000002 Covetous Demon - Lower chin
+50000003 Covetous Demon - Left Arm
+50000004 Covetous Demon - Right Arm
+50000005 Covetous Demon - Belly
+50100001 Mytha, the Baneful Queen - Tail
+50200001 Manscorpion Tark - Upper Body
+50200002 Manscorpion Tark - Underside
+50200003 Manscorpion Tark - Left Hand
+50200004 Manscorpion Tark - Right Hand
+50200005 Manscorpion Tark - Tail
+50300001 Scorpioness Najka - Upper Body
+50300002 Scorpioness Najka - Underside
+50300003 Scorpioness Najka - Left Hand
+50300004 Scorpioness Najka - Right Hand
+50300005 Scorpioness Najka - Left Tail
+50300006 Scorpioness Najka - Right Tail
+50400001 Looking Glass Knight - Pelvis
+50400002 Looking Glass Knight - Left Thigh
+50400003 Looking Glass Knight - Left Calf
+50400004 Looking Glass Knight - Left Foot
+50400005 Looking Glass Knight - Right Thigh
+50400006 Looking Glass Knight - Right Calf
+50400007 Looking Glass Knight - Right Foot
+50400008 Looking Glass Knight - Spine
+50400009 Looking Glass Knight - Spine
+50400010 Looking Glass Knight - Head
+50400011 Looking Glass Knight - Left Arm
+50400012 Looking Glass Knight - Left Forearm
+50400013 Looking Glass Knight - Left Hand
+50400014 Looking Glass Knight - Shield
+50400015 Looking Glass Knight - Right Arm
+50400016 Looking Glass Knight - Right Forearm
+50400017 Looking Glass Knight - Right Hand
+51460001 Vendrick (hollow) - Head
+51460002 Vendrick (hollow) - Underside
+51460003 Vendrick (hollow) - Left Arm
+51460004 Vendrick (hollow) - Right Arm
+51460005 Vendrick (hollow) - Left Foot
+51460006 Vendrick (hollow) - Right Foot
+60000001 Ancient Dragon - Head
+60000002 Ancient Dragon - Left Front Leg
+60000003 Ancient Dragon - Right Front Leg
+60000004 Ancient Dragon - Left Rear Leg
+60000005 Ancient Dragon - Right Rear Leg
+60000006 Ancient Dragon - Tail
+60100001 Flame Lizard - Tail
+60100002 Flame Lizard - Throat
+60102001 Flame Lizard - Tail (After Petrification)
+60200001 Demon of Song - Head
+60200002 Demon of Song - Lower Chin
+60200003 Demon of Song - Left Front Leg
+60200004 Demon of Song - Right Front Leg
+60200005 Demon of Song - Left Rear Leg
+60200006 Demon of Song - Right Rear Leg
+60200007 Demon of Song - Tail
+60200008 Demon of Song - Contents
+60300001 The Duke's Dear Freja - Body and Legs
+60300002 The Duke's Dear Freja - Head (front)
+60300003 The Duke's Dear Freja - Head (back)
+60310001 The Duke's Dear Freja (Cliff) - Body and Legs
+60310002 The Duke's Dear Freja (Cliff) - Head (front)
+60310003 The Duke's Dear Freja (Cliff) - Head (back)
+60700001 Old Iron King - Head
+60700002 Old Iron King - Underside
+60700003 Old Iron King - Left Arm
+60700004 Old Iron King - Right Arm
+60700005 Old Iron King - Left Feather
+60700006 Old Iron King - Right Feather
+60900001 Captain of the Giant SS - Head
+60900002 Captain of the Giant SS - Before Left Arm 
+60900003 Captain of the Giant SS - Right Arm
+60900004 Captain of the Giant SS - After Left Arm
+60900005 Captain of the Giant SS - Right Arm
+60900006 Captain of the Giant SS - Left Foot
+60900007 Captain of the Giant SS - Right Foot
+61910001 Executioner's Chariot (Horse) - Left Head
+61910002 Executioner's Chariot (Horse) - Right Head
+61910003 Executioner's Chariot (Horse) - Body
+61910004 Executioner's Chariot (Horse) - Front Left Foot
+61910005 Executioner's Chariot (Horse) - Front Right Foot
+61910006 Executioner's Chariot (Horse) - Back Left Foot
+61910007 Executioner's Chariot (Horse) - Back Right Foot
+61911001 Executioner's Chariot (Coalescence) - Left Head
+61911002 Executioner's Chariot (Coalescence) - Right Head
+61911003 Executioner's Chariot (Coalescence) - Body
+61911004 Executioner's Chariot (Coalescence) - Front Left Foot
+61911005 Executioner's Chariot (Coalescence) - Front Right Foot
+61911006 Executioner's Chariot (Coalescence) - Back Left Foot
+61911007 Executioner's Chariot (Coalescence) - Back Right Foot
+61911008 Executioner's Chariot (Coalescence) - Executioner
+62700001 Nashandra - Head
+62700002 Nashandra - Underside
+62700003 Nashandra - Left Arm
+62700004 Nashandra - Right Arm
+62700005 Nashandra - Left Skirt
+62700006 Nashandra - Right Skirt
+62700007 Nashandra - Front Skirt
+62700008 Nashandra - Rear Skirt
 68100001 Sinh, the Slumbering Dragon
 68100002 Sinh, the Slumbering Dragon
 68100003 Sinh, the Slumbering Dragon

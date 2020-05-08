@@ -1,0 +1,59 @@
+0 In-Game Camera 
+106000 Kiishi-gai Gerdra: Zakobos 
+154000 Hunting Forest: Skeleton Aristocracy 
+212000 Anne Deal's House: Wyvern 
+223500 The Door way of Faros: The King of Rats 
+226100 Lower Waterway: Dog Rat: Color (2) 
+303300 Hidden Port: Double-Sided Warrior: Snake Head 
+305000 Iron Castle: Demon Knight 
+309600 The Decaying Forest of Giants: The New Giant Senior Soldier (Deceased) 
+309610 King's Castle D'Angheig: Heavy Cavalry 
+309700 Memories of giants: New Giant Senior Soldiers 
+318000 Decaying Giant Forest: Bay Grant 
+324000 Prison of Oblivion: Gargoil 
+325000 Prison of Oblivion: Warrior in the Mirror 
+326000 Throwaway Hole: Butcher 
+332000 Throne 1 of the Fire: Queen Knight A 
+333000 Tomb of Immortality: Queen Knight B 
+500000 Valley of The Reservoir: Javaza Hat 
+501000 Valley of The Reservoir: Naga 
+503000 Forest of Shadows: Manscorpion ♀ 
+504000 King's Castle D'Angheig: Mirror Knight 
+506100 Old Dark Hole: Agaduran Stand 
+514600 Tomb of Immortality: King 
+600000 The Nest of The Guardian Dragon: The Old Dragon 
+602000 Altar of Amana: The Beautiful Voice Frog 
+603000 The Queen of The Spider 
+607000 Molten Iron Castle: Molten Iron Daemon 
+611000 Heide Great Fire Tower: Heavy Cavalry: Soldiers Only 
+619100 Hunting Forest: Silver Chariot 
+625000 Heide Great Fire Tower: Ornstein 
+626000 Prison of Oblivion: Forgotten Sinners 
+627000 Throne 2 of the Fire: The Queen's Armor 
+1002000 Modern - Gap Sinus - General Purpose 
+1004000 Hyundai - Madura - General Purpose 
+1010000 Modern - Decaying Giant Forest - General Purpose 
+1014000 Hyundai - Kiseki-gai Gerdra - General Purpose 
+1015000 Hyundai - Anne Deal's House - General 
+1016000 Modern - Prison of Oblivion - General 
+1017000 Modern - Reservoir Valley - General Purpose 
+1018000 Hyundai - Hidden Port - General Purpose 
+1019000 Hyundai - Melted Iron Castle - General Purpose 
+1021000 Hyundai - King's Castle Drangreig - General 
+1023000 Modern - Hunting Forest - General Purpose 
+1025000 Modern - Dumping Hole - General Purpose 
+1027000 Modern - Guard Dragon's Nest - General Purpose 
+1028000 Modern - Fire-succeeding Thrones - Generic 
+1029000 Modern - Maduro imaginary shadow forest connection path - general purpose 
+1030000 Hyundai - Heide Great Fire Tower Hidden Port Connection Road - General Purpose 
+1031000 Hyundai - Heide Great Fire Tower - General Purpose 
+1032000 Modern - The Shadow Forest of The Void - General Purpose 
+1032010 Modern - The Shadow Forest of The Void - The Misty Forest 
+1033000 Modern - Faros Door way - General purpose 
+1034000 Modern - Saint's Tomb - General Purpose 
+2010000 Modern - The Memory of giants (past) - General 
+2011000 Modern - Altar of Amana (Past) - General Purpose 
+2021000 Hyundai - King's Castle D'Angheig (past) - General 
+2024000 Modern-Immortal Mausoleum (Past) - General Purpose 
+2026000 Memories of The Old Dragon - General Purpose 
+4003000 Modern - Old Dark Hole - General Purpose 

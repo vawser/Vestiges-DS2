@@ -1,0 +1,45 @@
+1000 Connection flag ON 
+2000 The branch of the treasure corpse 
+3000 Boss: Beautiful Voice Frog Combat 
+3010 The voice of the beautiful voice frog 
+3020 Beautiful Voice Frog Singing Voice_ Flag 
+4000 Lift to Immortal Mausoleum 
+4010 On elevator lever 
+4020 Lower elevator lever 
+4030 Elevator_Initialization 
+5000 The Altar of the Living 
+6000 The Door of the Living 
+7000 The Door of the Dead 
+7010 Ascension of Banshee 
+8000 【Insect key】Hidden door (1) for start-up 
+8010 【Insect Key】Hidden Door 
+8020 【Insect Key】Hidden Door (1)_Navi mesh change 
+9000 Get King's Soul 
+14000 Light worm_cave_1 reacting to enemy and PC approach 
+14010 Light worm_cave_2 reacting to enemy and PC approach 
+14020 Light worm_cave_3 reacting to enemy and PC approach 
+15000 Light worm_square_1 reacting to enemy and PC approach 
+15010 Light worm_square_2 reacting to enemy and PC approach 
+15020 Light worm_square_3 reacting to enemy and PC approach 
+15030 Light worm_square_4 reacting to enemy and PC approach 
+15040 Light worm_square_5 reacting to enemy and PC approach 
+15050 Light worm_square_6 reacting to enemy and PC approach 
+15060 Light worm_square_7 reacting to enemy and PC approach 
+16000 Lizard extinction judgment_cave 
+16010 Lizard extinction judgment_square 
+80000 Reproduction seed fire 01_ the upper layer of the entrance tower 
+81000 Regenerate disrepair of fire 02_collapsed building beside water grass 
+82000 Regeneration Seed Fire 03_Cave to Parent Tree 
+83000 Regeneration seed fire 04_the lower layer of the tower in front of the altar of the living 
+111300 NPC: Girl 1 of the Bard 
+111301 NPC: The Girl of the Bard 1: The Ghost 
+111302 OBJ: The Girl of the Bard 1: The Tomb 
+111303 OBJ: The Girl of the Bard 1: Key Guide 
+111304 OBJ: The Girl of the Bard 1: The Voice of The Song 
+111310 NPC: Girl 2 of the Bard 
+111311 NPC: The Girl of the Bard 2: The Ghost 
+111312 OBJ: The Girl of the Bard 2: Tomb 
+111313 OBJ: The Girl of the Bard 2: Key Guide 
+111314 OBJ: The Girl of the Bard 2: The Voice of The Song 
+118130 NPC for Multi: Lancer (Female): White Phantom Sign Display 
+118220 NPC for Multi: The Magician (Male): Black Phantom Appearance 

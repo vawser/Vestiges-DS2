@@ -1,0 +1,6 @@
+0 A bad example 
+1 Wait relationship 
+41000 An exaggeration 
+41100 I'm in a position to be there. 
+59000 Poise Dash 
+59100 Ai dash 

@@ -1,0 +1,40 @@
+0 Prohibited use 
+60760000 Arrow_Physics_Weak 
+60770000 Arrow_Physics_Strong 
+60780000 Arrow_Magic 
+60790000 Arrow_Lightning 
+60800000 Arrow_Flame 
+60810000 Arrow_Darkness 
+60820000 Arrow_Poison 
+60830000 Arrow_bleeding 
+60850000 Ohya_Physical_Strong 
+60870000 Daiya_Lightning 
+60880000 Daiya_Flame 
+60900000 Daiya_Weapon Destruction 
+60910000 Bolt_Physical_Weak 
+60920000 Bolt_Physical_Strong 
+60930000 Bolt_Magic 
+60940000 Bolt_Lightning 
+60950000 Bolt_Flame 
+60960000 Bolt_Darkness 
+190100010 Arrow_Physics_Weak 
+190100020 Arrow_Physics_Strong 
+190100030 Arrow_Magic 
+190100040 Arrow_Lightning 
+190100050 Arrow_Flame 
+190100060 Arrow_Darkness 
+190100070 Arrow_Poison 
+190100080 Arrow_bleeding 
+190100090 Daiya_Physics_Weak 
+190100100 Ohya_Physical_Strong 
+190100110 Ohya_Magic 
+190100120 Daiya_Lightning 
+190100130 Daiya_Flame 
+190100140 Ohya_Darkness 
+190100150 Daiya_Weapon Destruction 
+190100160 Bolt_Physical_Weak 
+190100170 Bolt_Physical_Strong 
+190100180 Bolt_Magic 
+190100190 Bolt_Lightning 
+190100200 Bolt_Flame 
+190100210 Bolt_Darkness 

@@ -1,8 +1,8 @@
-9910 UNKNOWN
-9920 UNKNOWN
-9930 UNKNOWN
-9940 UNKNOWN
-9950 UNKNOWN
+9910 Light and dark Lv. 0 -- ??Lv.0
+9920 Light and dark Lv. 1 -- ??Lv.1
+9930 Light and dark Lv. 2 -- ??Lv.2
+9940 Light and dark Lv. 3 -- ??Lv.3
+9950 Light and dark Lv. 4 -- ??Lv.4
 10020000 Things Betwixt
 10040000 Majula
 10100000 Forest of Fallen Giants
@@ -27,13 +27,13 @@
 20210000 Drangleic Castle/Throne of Want
 20240000 Undead Crypt
 20260000 Dragon Memories
-20620000 UNKNOWN
-20630000 UNKNOWN
+20620000 E3 Fort of resistance (modern)
+20630000 E3 Iwamine Castle (past)
 40030000 Dark Chasm of Old
 50350000 Shulva, Sanctum City/Dragon's Sanctum/Dragon's Rest/Cave of the Dead
 50360000 Brume Tower/Iron Passage/Memory of the Old Iron King
 50370000 Frozen Eleum Loyce/Grand Cathedral/The Old Chaos/Frigid Outskirts
 50380000 Memory of the King
-90000000 UNKNOWN
-99805004 UNKNOWN
-99970000 UNKNOWN
+90000000 Ninja Test Map
+99805004 Map for logic testing 
+99970000 Shimizu Test Map

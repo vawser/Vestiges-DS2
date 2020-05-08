@@ -1,0 +1,47 @@
+1000 1_00 across the Bridge 
+1002 1_02 crossing the Bridge 
+1005 1_05 crossing the Bridge 
+1006 1_06 across the Bridge 
+1008 1_08 crossing the Bridge 
+1009 1_09 crossing the Bridge 
+1010 1_10 crossing the Bridge 
+1011 1_11 crossing the Bridge 
+1012 1_12 crossing the Bridge 
+1100 2_00 across the Bridge 
+1101 2_01 Crossing the Bridge 
+1102 2_02 crossing the Bridge 
+1103 2_03 crossing the Bridge 
+1104 2_04 across the Bridge 
+1105 2_05 crossing the Bridge 
+1106 2_06 across the Bridge 
+1107 2_07 crossing the Bridge 
+1108 2_08 crossing the Bridge 
+1109 2_09 across the Bridge 
+1200 Flying Wyburn_Bridgedrop 
+1201 Wyburn's egg destruction number determined 
+1300 Flying Wyburn_Turning 1_00 
+1301 Flying Wyburn_Turning 1_01 
+1302 Flying Wyburn_Turning 1_02 
+6000 Connection flag ON 
+7000 ?Insect key?Hidden door (1) for start-up 
+7010 ?Insect Key?Hidden Door 
+7020 ?Insect Key?Hidden Door (1)_Navi mesh change 
+8000 Get old dragon eggs 
+9000 When the egg is broken, Wyburn's attack power UP1 
+9010 When you break the egg, Wyburn's attack power UP2 
+9020 When you break the egg, Wyburn's attack power UP3 
+10000 The Old Dragon and the Hostile 
+10010 White door condition monitoring 
+11000 Old Dragon Warrior Power-Down 1 in Wyburn Subjugation 
+11010 Old Dragon Warrior Power-Down 2 in Wyburn Subjugation 
+11020 Old Dragon Warrior Power-Down 3 in Wyburn Subjugation 
+80000 Play ing spark 01_in the rocks at the starting point 
+81000 Play ing seed fire 02_Wyburn breaks bridge 
+111015 OBJ: Durahan: White Phantom Sign Display 
+111050 NPC: The Shrine maiden of the Dragon (Andir's House) 
+111051 OBJ: The Shrine maiden of the dragon (House of Andy's): Permission to appear 
+111052 OBJ: Dragon Shrine Maiden (Immortal Mausoleum): Invasion Judgment 
+111435 OBJ: The Enclosed: The Appearance of the Black Phantom: Online 
+111570 NPC: The Old Dragon 
+118140 NPC for Multi: Meat Cutting (Female): White Phantom Sign Display 
+118230 NPC for Multi: Koryu Swordsman (Man): Black Phantom Appearance: Online 

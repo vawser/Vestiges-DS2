@@ -1,0 +1,52 @@
+45 【Ladder Shop:Migration】 Npc 
+46 【Ladder Shop:Migration】 NPC (Ghost) 
+47 【Ladder Shop:Migration】 For NPC cut-in 
+60 【Tsukiko Grandfather】NPC 
+85 【Map writing】 Npc 
+86 【Map writing】 NPC (Ghost) 
+100 [Blue Warrior] Npc 
+101 [Blue Warrior] NPC (Ghost) 
+105 【Armor shop】 Npc 
+106 【Armor shop】 NPC (Ghost) 
+107 【Armor shop】 NPC (normal) 
+108 【Armor shop】 NPC (Bullish) 
+110 【Material shop: Migration】 Npc 
+111 【Material shop: Migration】 NPC (Ghost) 
+115 [Sorcerer] Npc 
+116 [Sorcerer] NPC (Ghost) 
+120 【Blacksmith】 Npc 
+121 【Blacksmith】 NPC (Ghost) 
+122 【Blacksmith】 NPC (after move) 
+135 【Sorcerer】 Npc 
+136 【Sorcerer】 NPC (Ghost) 
+150 【Miracle Shop】 Npc 
+151 【Miracle Shop】 NPC (Ghost) 
+152 【Miracle Shop】 NPC (PC infiltration) 
+205 【Dragon Shrine Maiden】 Npc 
+207 【Dragon Shrine Maiden】 NPC (Ghost) 
+260 【Yorozu Babaa: Migration】 Npc 
+261 【Yorozu Babaa: Migration】 NPC (Ghost) 
+270 【Cat】Sitting 
+400 [Dragon Shrine Maiden] Standing 1: Looking at the Sky: 01 
+401 [Dragon Shrine Maiden] Iwaza 1: Poke the cheek with your hand: 02 
+402 [Dragon Shrine Maiden] Iwasai 2: Extend ing both hands behind the back: 03 
+405 [Dragon Shrine Maiden] Standing 2: Kicking the Ground: 06 
+410 【Cat】Box Sit 
+413 【Cat】Nail Togi 
+414 【Cat】Chair 
+415 【Cat】Table 
+1000 [Slave Beast] Piglet 
+1001 [Slave Beast] Piglet 
+1002 [Slave Beast] Piglet 
+1100 [Skeleton] increase the number of laps appeared 
+1101 [Skeleton] increase the number of laps appeared 
+1102 [Skeleton] increase the number of laps appeared 
+1103 [Skeleton] increase the number of laps appeared 
+1104 [Skeleton] increase the number of laps appeared 
+1105 [Skeleton] increase the number of laps appeared 
+1106 [Skeleton] increase the number of laps appeared 
+1107 [Skeleton] increase the number of laps appeared 
+3101 【Tutorial 2】 NPC: Gap Sinus: Proximity 
+3230 【Tutorial 3】 NPC: Gap Sinus: Shooting 
+4000 【Tutorial】Week 2 Hunting 
+9000 [Character for pledge] 

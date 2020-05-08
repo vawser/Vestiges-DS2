@@ -1,0 +1,212 @@
+0 Prohibited use 
+17 Self-torch_shadowed ali_8m 
+21 Self-torch_shadowant_12m 
+29 Self-torch_shadowant_20m 
+50 Magic: Shining Light 
+100200 ♦Gap sinus: Outdoor bright space general purpose 
+100220 ⇒ Outdoor dark space general purpose 
+100240 ⇒ Indoor bright space general purpose 
+100260 ⇒ Indoor dark space general purpose 
+100270 ⇒For map connections 
+100280 ⇒Special general purpose 
+100290 ⇒ Boss room, cut scene only 
+100400 ♦Maduro- Outdoor bright space general purpose 
+100420 ⇒ Outdoor dark space general purpose 
+100440 ⇒ Indoor bright space general purpose 
+100460 ⇒ Indoor dark space general purpose 
+100480 ⇒Special general purpose 
+100490 ⇒ Boss room, cut scene only 
+101000 ♦Decayed Giant Forest 
+101020 ⇒ Outdoor dark space general purpose 
+101040 ⇒ Indoor bright space general purpose 
+101060 ⇒ Indoor dark space general purpose 
+101080 ⇒Special general purpose 
+101090 ⇒ Boss room, cut scene only 
+101091 ⇒ Boss room, cut scene only 
+101400 ♦Kiseki-gai Gerdra- Outdoor bright space 
+101420 ⇒ Outdoor dark space general purpose 
+101440 ⇒ Indoor bright space general purpose 
+101460 ⇒ Indoor dark space general purpose 
+101480 ⇒Special general purpose 
+101490 ⇒ Boss room, cut scene only 
+101500 ■Anne Deal's House 
+101520 ⇒ Outdoor dark space general purpose 
+101540 ⇒ Indoor bright space general purpose 
+101560 ⇒ Indoor dark space general purpose 
+101580 ⇒Special general purpose 
+101590 ⇒ Boss room, cut scene only 
+101600 ♦ Oblivion Prison - Outdoor bright space general purpose 
+101620 ⇒ Outdoor dark space general purpose 
+101640 ⇒ Indoor bright space general purpose 
+101660 ⇒ Indoor dark space general purpose 
+101680 ⇒Special general purpose 
+101690 ⇒ Boss room, cut scene only 
+101691 ⇒ Boss room (sinner) 
+101700 ♦Reservoir Valley- Outdoor bright space general purpose 
+101720 ⇒ Outdoor dark space general purpose 
+101740 ⇒ Indoor bright space general purpose 
+101760 ⇒ Indoor dark space general purpose 
+101780 ⇒Special general purpose 
+101790 ⇒ Boss Room (Naga) 
+101791 ⇒ Boss Room (Java) 
+101800 ♦Hidden port: Outdoor bright space general purpose 
+101820 ⇒ Outdoor dark space general purpose 
+101840 ⇒ Indoor bright space general purpose 
+101860 ⇒ Indoor dark space general purpose 
+101880 ⇒Special general purpose 
+101890 ⇒ Boss room, cut scene only 
+101900 ♦Molten Iron Castle: Outdoor bright space 
+101920 ⇒ Outdoor dark space general purpose 
+101940 ⇒ Indoor bright space general purpose 
+101960 ⇒ Indoor dark space general purpose 
+101980 ⇒Special general purpose 
+101990 ⇒ Boss room, cut scene only 
+101991 ⇒ Boss room, cut scene only 
+102300 ♦Hunting forest swells outdoors 
+102320 ⇒ Outdoor dark space general purpose 
+102340 ⇒ Indoor bright space general purpose 
+102360 ⇒ Indoor dark space general purpose 
+102380 ⇒Special general purpose 
+102390 ⇒ Boss room, cut scene only 
+102391 ⇒ Boss room, cut scene only 
+102500 ♦Kuzbottom: Outdoor bright space general purpose 
+102520 ⇒ Outdoor dark space general purpose 
+102540 ⇒ Indoor bright space general purpose 
+102560 ⇒ Indoor dark space general purpose 
+102580 ⇒Special general purpose 
+102590 ⇒ Boss room, cut scene only 
+102700 ♦Defending dragon's nest- Outdoor bright space general purpose 
+102720 ⇒ Outdoor dark space general purpose 
+102740 ⇒ Indoor bright space general purpose 
+102760 ⇒ Indoor dark space general purpose 
+102780 ⇒Special general purpose 
+102790 ⇒ Boss room, cut scene only 
+102800 ■Throne of fire 
+102820 ⇒ Outdoor dark space general purpose 
+102840 ⇒ Indoor bright space general purpose 
+102860 ⇒ Indoor dark space general purpose 
+102880 ⇒Special general purpose 
+102890 ⇒ Boss room, cut scene only 
+102900 ♦Madura ⇒ Hollow Forest - Outdoor Bright Space 
+102920 ⇒ Outdoor dark space general purpose 
+102940 ⇒ Indoor bright space general purpose 
+102960 ⇒ Indoor dark space general purpose 
+102980 ⇒Special general purpose 
+102990 ⇒ Boss room, cut scene only 
+103000 ♦Heide ⇒ Hidden Port - Outdoor bright space general purpose 
+103020 ⇒ Outdoor dark space general purpose 
+103040 ⇒ Indoor bright space general purpose 
+103060 ⇒ Indoor dark space general purpose 
+103080 ⇒Special general purpose 
+103090 ⇒ Boss room, cut scene only 
+103100 ♦Heide Large Fire Tower 
+103120 ⇒ Outdoor dark space general purpose 
+103140 ⇒ Indoor bright space general purpose 
+103160 ⇒ Indoor dark space general purpose 
+103180 ⇒Special general purpose 
+103190 ⇒ Boss room, cut scene only 
+103191 ⇒ Boss room, cut scene only 
+103200 ■Forest of shadows in the shadows of the hollow 
+103220 ⇒ Outdoor dark space general purpose 
+103240 ⇒ Indoor bright space general purpose 
+103260 ⇒ Indoor dark space general purpose 
+103280 ⇒Special general purpose 
+103290 ⇒ Boss room, cut scene only 
+103300 ♦Faros Door Way 
+103320 ⇒ Outdoor dark space general purpose 
+103340 ⇒ Indoor bright space general purpose 
+103360 ⇒ Indoor dark space general purpose 
+103380 ⇒Special general purpose 
+103390 ⇒ Boss room, cut scene only 
+103400 ♦Saint's Tomb 
+103420 ⇒ Outdoor dark space general purpose 
+103440 ⇒ Indoor bright space general purpose 
+103460 ⇒ Indoor dark space general purpose 
+103480 ⇒Special general purpose 
+103490 ⇒ Boss room, cut scene only 
+201000 ♦ Giant's memory - outdoor bright space 
+201020 ⇒ Outdoor dark space general purpose 
+201040 ⇒ Indoor bright space general purpose 
+201060 ⇒ Indoor dark space general purpose 
+201080 ⇒Special general purpose 
+201090 ⇒ Boss room, cut scene only 
+201100 ♦Amana's altar 
+201120 ⇒ Outdoor dark space general purpose 
+201140 ⇒ Indoor bright space general purpose 
+201160 ⇒ Indoor dark space general purpose 
+201170 ⇒For map connections 
+201180 ⇒Special general purpose 
+201190 ⇒ Boss room, cut scene only 
+202100 ■King's Castle D'Angheig 
+202120 ⇒ Outdoor dark space general purpose 
+202140 ⇒ Indoor bright space general purpose 
+202160 ⇒ Indoor dark space general purpose 
+202180 ⇒Special general purpose 
+202190 ⇒ Boss Room: Treasures 
+202191 ⇒ Boss Room: Mirror 
+202192 ⇒ Boss Room: Back of the Hall 
+202193 ⇒ Boss Room: Ras Boss 
+202400 ♦Mausoleum: Outdoor bright space 
+202420 ⇒ Outdoor dark space general purpose 
+202440 ⇒ Indoor bright space general purpose 
+202460 ⇒ Indoor dark space general purpose 
+202461 ⇒ Indoor dark space (second half of the map) 
+202480 ⇒Special general purpose 
+202490 ⇒ Boss room, cut scene only 
+202600 ■Memories of The Old Dragon 
+202620 ⇒ Outdoor dark space general purpose 
+202640 ⇒ Indoor bright space general purpose 
+202660 ⇒ Indoor dark space general purpose 
+202680 ⇒Special general purpose 
+202690 ⇒ Boss room, cut scene only 
+206200 Default: E3 Resistance Fort 
+206300 Default: E3 Iwamine Castle (past) 
+300100 Default: Dungeon of The Tick: Plain 
+300200 Default: Dungeon of The Tick: Bunk floor 
+300300 Default: Dungeon of The Tick: Three-stage floor 
+300400 Default: Dungeon of The Tick: Multi-stage floor 
+300500 Default: Dungeon of Ticks: Height difference 
+300600 Default: Dungeon of The Tick: Falling Death Mild 
+300700 Default: Dungeon of Ticks: Fall ing death hard 
+300800 Default: Dungeon of Ticks: Maze Small 
+300900 Default: Dungeon of Ticks: Maze Large 
+301000 Default: Dungeon of Ticks: Obstacle Mild 
+301100 Default: Dungeon of Ticks: Obstacle Hard 
+301200 Default: Dungeon of Ticks: Division 
+301300 Default: Dungeon of The Tick: Dark Mild 
+301400 Default: Dungeon of Ticks: Dark Hard 
+301500 Default: Dungeon of Ticks: Waterside 
+301600 Default: Dungeon of Ticks: Trap Ball 
+301700 Default: Dungeon of Ticks: Trap Bow and Arrow 
+301800 Default: Dungeon of Ticks: Various Traps 
+305000 Default: Dungeon of Ticks: Medium Boss 
+306000 Default: Dungeon of Ticks: Boss Room 
+400300 ♦Old dark hole- Outdoor bright space general purpose 
+400320 ⇒ Outdoor dark space general purpose 
+400340 ⇒ Indoor bright space general purpose 
+400360 ⇒ Indoor dark space general purpose 
+400380 ⇒Special General Purpose Pledge Lv0 None 
+400381 ⇒Special General Purpose Pledge Lv1 Small 
+400382 ⇒Special General Purpose Pledge Lv2 medium 
+400383 ⇒Special General Purpose Pledge Lv3 Large 
+400390 ⇒ Boss room, cut scene only 
+401000 Default: Arena: Torture 
+900000 Default: Ninja Test 
+981600 Default: Planning Rough - Ruins Castle 
+981800 Default: Planning Rough - Underground Port 
+981900 Default: Planning Rough - Volcano Steel Works 
+982100 Default: Planning Rough - Iwamine Castle 
+982400 Default: Planning Rough - Submerged Castle 
+982500 Default: Planning Rough-D-Ssukemura 
+990000 Default: Test map, etc. 
+998000 Default: Boss Gallery, etc. 
+999000 Default: GD Test - Brook 
+999100 Default: GD Test - Sato 
+999200 Default: PG Test - Watanabe (Taka) 
+999300 Default: GD test - water drop etc. 
+999400 Default: GD test - Wada, etc. 
+999500 Default: GD Test - Shibae 
+999600 Default: GD Test - Higuchi 
+999700 Default: PG Test - Shimizu 
+999800 Default: GD Test - Takeda 
+999900 Default: PG Test - Watanabe (Crystal) 

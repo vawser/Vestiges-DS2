@@ -1,0 +1,44 @@
+11700000 Statue: Pawn: Shielded 
+11701000 Statue: Pawn: No Shield 
+15000000 Statue: Night 1 
+15000001 Statue: Night 2 
+15000002 Statue: Night 3 
+15000003 Statue: Night 4 
+15200000 Kingdom Soldier Warrior: Two-Handed Sword 
+15200100 Kingdom Soldier Warrior: Two-Handed Sword: Infinite Springing Spirit 
+15201000 Kingdom Warrior: Crossbow 
+15300000 Royal Guard: Axe Spear 
+15301000 Royal Guard: Oversized Sword 
+21300700 Stone Defense 
+30601100 Damon Armor (Dead): Bow 
+30710900 【Durahan】NPC: White Spirit 
+31500000 [Elephant: Born] 
+31500001 【Elephant Man】Born: A Stone Statue at The Time of Waiting 
+31800000 [Bay Grant: No luggage] 
+32501000 [Warrior in the Mirror] Battle 
+33200000 [Queen Knight A] 
+33400000 [Queen Knight C] 
+50400000 [Mirror Night] Boss 
+61101000 [Heavy cavalry soldiers: soldiers only: bow] boss 
+61150000 [Heavy equestrian soldiers : soldiers only] boss 
+62700000 [Queen's armor form] 
+70050200 【Dragon Shrine Maiden】 Npc 
+70050201 【Dragon Shrine Maiden】 NPC (after move) 
+70360000 【Queen】NPC 
+72110000 【Belager】NPC 
+72500100 Pilgrims in the Abyss (Ghost) NPC 
+72500300 Pilgrims in the Abyss (Born) NPC 
+73000000 [I under the mirror night] two-handed sword 
+73101000 [Mirror Knight Under Me] two-handed long axe 
+74300100 【Tsukiko Grandfather】NPC 
+74300300 【Tsukiko Grandfather】NPC 
+74300700 [Tsukiko-ya_Mirror Night] NPC: White Spirit 
+74300701 [Tsukiko-ya_Queen] NPC: White Spirit 
+76020000 [Girl in captivity] 
+76020100 [Captive Girl: Ghost] 
+77100400 【Enclosed Man】NPC: Black Spirit 
+84900000 [King's Castle Doran greig: Dark Spirit 1 (Ghost)]NPC for multi 
+85320000 【Main Gate】King's Castle Drangreig: 2nd Lap Dark Spirit 1 
+85330000 [King's Door] King's Castle Drangreig: 2 laps Dark Spirit 2 
+85340000 [King's Door] King's Castle Drangreig: 2nd Lap Dark Spirit 3 
+85350000 【Key room of corridor】 NPC: Black Spirit_2 

@@ -1,0 +1,37 @@
+10010 Very small 
+10020 Small 
+10030 Medium 
+10040 Large 
+10050 Extra large 
+10060 Special size 
+10070 Special size 
+21540 Dedicated - Skeleton Aristocracy 
+22120 Dedicated - Wyburn 
+22235 Dedicated - Giant Rat 
+23033 Dedicated - Double Sided Warrior: Snake Head 
+23050 Dedicated - Daemon Night 
+23096 Dedicated - New Giant Senior Soldier (Deceased) 
+23097 Dedicated - New Giant Senior Soldier (Live) 
+23180 Dedicated - Bay Grant 
+23240 Dedicated - Gargoil 
+23250 Dedicated - Warrior in the Mirror 
+23260 Dedicated - Butcher 
+23320 Dedicated - Queen Knight A 
+23330 Dedicated - Queen Knight B 
+23340 Dedicated - Queen Knight C 
+25000 Dedicated - Javaza Hat 
+25010 Dedicated - Naga 
+25030 Dedicated - Manscorpion ♀ 
+25040 Dedicated - Mirror Night 
+25061 Dedicated - Agaduran Stand 
+25146 Dedicated - Old King 
+26000 Dedicated - Old Dragon 
+26020 Dedicated - Beautiful Voice Frog 
+26030 Dedicated - Spider Queen 
+26031 Dedicated - Spider Queen (Cliff) 
+26070 Dedicated - Molten Iron Daemon 
+26110 Dedicated - Heavy Cavalry 
+26191 Exclusive - Silver Chariot 
+26250 Dedicated - Ornstein 
+26260 Dedicated - Forgotten Sinner 
+26270 Dedicated - Queen's Armor Form 

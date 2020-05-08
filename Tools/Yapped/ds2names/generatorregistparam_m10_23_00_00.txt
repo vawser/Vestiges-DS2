@@ -1,0 +1,67 @@
+10800000 [Rogue (deceased): Dagger x 2】 Standing 
+10800002 [Rogue (deceased): Dagger × 2] Standing _ Surprise Attack 
+10800003 [Rogue (deceased) dagger × 2] jump to the upper stage 
+10800004 [Rogue (deceased): Dagger x 2】 Fushimi 
+10800005 [Rogue (deceased): One hand mallet × 2] standing 
+10800007 [Rogue (deceased): One hand mallet × 2] standing _ surprise attack 
+10800008 [Rogue (deceased): One hand mallet × 2] fusilier 
+10800010 [Rogue (deceased): Two-handed bow × 2] standing 
+10800013 [Rogue (deceased): Two-handed bow × 2] standing _ change in the area 
+10800014 [Rogue (deceased): Two-handed bow × 2] fushia _ crouching 
+10800015 [Rogue (deceased): Two-handed bow × 2] crouch _ surprise attack 
+10800016 [Rogue (deceased): Two-handed bow × 2] standing 
+10800021 [Rogue (deceased): Dagger x 2】 Crouch _ Blade Dash 
+10800030 [Rogue (deceased): Dagger × 2] with tension _ surprise attack 
+10800031 [Rogue (deceased): One hand mallet × 2] crouch _ blade dash 
+11800000 [Dark Wizard ( deceased ] color (1)】 Long-distance combat 
+11800001 【Dark Wizard(Deceased): Color (1)】Boss Attendant 
+12700001 [Workers of the dead] bare hands: Noding sitting 
+12700052 [Workers of the dead] bare hands] sound reaction _Agura 
+13200003 [Skeleton: One-handed bent sword] neck filling start 
+13200010 [Skeleton: Bow] standing start 
+13200032 [Skeleton] one-handed stabbing] neck filling start 
+13202235 [Skeleton stabbing] appeared at the time of boss death 
+13209000 [Skeleton for poly play] 
+13300101 [Wheel skeleton ] bare hands] appeared at the time of boss death 
+13800000 [Torture man] fall from the stick 
+13800001 [Torture person] [torture device] round trip 
+13800002 [Tortureman: Whip] fallfrom the stick 2 
+13800004 [Tortureman: Torture Device: Soul Black] Falling from a Stick 
+13800005 [Tortureman: Whip: Soul Black] falling from the stick 2 
+13900000 [Man-made immortal son of the immortal] wandering 
+13900001 [Man-made immortal (immortal)]Stand 
+13900900 [Man-made Immortal: Sickle: Soul Black] Standing 
+13900901 [Man-made Immortal: Sickle: Soul Black] Roar 
+15400000 [Skeleton aristocracy: axe spear] boss 
+15400001 [Skeleton aristocracy: sickle] boss 
+15400002 [Skeleton aristocracy: cane] boss 
+15600000 [Helmet skeleton × 2] standing start 
+15700012 [Armor skeleton : no armor : no head equipped : stabbing sword] standing start 
+15700014 [Armor skeleton : no armor : no head equipped : stabbing sword] neck filling start 
+15700020 [Armor skeleton : no armor : Bandana × 2] stand start 
+15700022 [Armor skeleton : No armor ] helmet - stabbing sword ] standing start 
+15700023 [Armor skeleton: armor: crown: two-handed bow] standing start 
+15700500 [Skeleton: Two-sword style] for bosses 
+15700600 [Skeleton: Two-sword style: helmet] for bosses 
+15701400 [Skeleton: Song sword] for the boss 
+15701500 [Skeleton: Curved sword: helmet] for the boss 
+15702300 [Skeleton: Stabbing sword] for the boss 
+15702600 [Skeleton: Stabbing sword: helmet] for the boss 
+15703300 [Skeleton: Bow: Helmet] for boss 
+15705800 [Armor skeleton] armor with a crown × 2] appeared at the time of boss death 
+15706802 [Armor skeleton] armor with armor : Helmet - Bent sword - shield ] appeared at the time of boss death 
+20400000 [Great Moss] battle 
+21300000 【Ishimori】 
+32700010 [Amazing Dead: Torch] Battle 
+32700020 [Amazing Dead: Sword] Battle 
+32700021 [Amazing dead: sword] Agura 
+32700024 [Amazing dead man: sword] face down 
+61910000 [Silver Chariot: Coalescence] Boss 
+74200000 [Wandering Warrior] (Born) 
+74200001 [Wandering Warrior] (deceased) 
+77000000 【Dark Art Shop】 (Born) 
+77000001 【Dark Art Shop】 (deceased) 
+78300000 [Black Phantom Shop] (Raw) Pledge NPC 
+78300001 [Black Phantom Shop] NPC for pledge 
+82100000 【NPC for Multi: God of Death (Female)]】 Black Spirit 
+85200000 【Red Spirit】Hunting Forest: Red Spirit Level 3NPC 

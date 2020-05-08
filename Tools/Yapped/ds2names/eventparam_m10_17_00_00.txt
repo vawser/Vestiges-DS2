@@ -1,0 +1,78 @@
+1000 the gate that opens up with a lever 
+2000 Hanging Poison Vase 01_Attach 
+2010 Hanging Poison Pot 01_Operation 
+3000 OBJ attachment of a huge windmill 
+4000 Lifting machine- Molten iron castle 
+4010 On elevator lever 
+4020 Lower elevator lever 
+4030 Elevator_Connection replacement 
+4050 Connection _Connection flag OFF 
+5000 Iron bars that can be opened and closed with levers 
+6000 Hanging Poison Vase 02_Attached 
+6010 Hanging Poison Pot 02_Operation 
+7000 【Insect key】Hidden door (1) for start-up 
+7010 【Insect Key】Hidden Door 
+7020 【Insect Key】Hidden Door (1)_Navi mesh change 
+7100 【Insect key】The fountain of recovery_poisonous_for start-up 
+7110 【Insect Key】The Fountain of Recovery_Poisonous 
+8000 Boss: Shabazahat_ Combat 
+8010 Worker semanating in the jar 1 
+8020 Freed dead workers in a jar 2 
+8030 Freed dead workers in a jar 3 
+8040 Worker semanating in the jar 4 
+8500 Boss: Naga_ Combat 
+9000 Navi mesh change of hidden door 1 
+9010 Hidden Door Navi Mesh Change 2 
+9020 Navi mesh change of hidden door 3 
+10000 Disable poison fog damage for enemy characters 
+11000 Tree wall 1 that the enemy destroys 
+11010 Tree wall 2 destroyed by the enemy 
+12000 Floor switch trampling arrow_before iron bar 
+12010 Floor switch trampling arrow_crossroads 
+14000 Navi mesh change of destructive scaffold 
+15000 Hunting Forest MAP Loading Destruction 
+27000 One-way door (back road) 
+31100 Wing condition management of huge windmills 
+32010 Suspended ceiling: Ceiling 
+42000 Poison water drop 
+80000 Reclaim edi-fire 01_ cave in front of the village mining square 
+81000 Play Seed Fire 02_Bosjavaza hat after, tower lower 
+82000 Reclaimed Spark 03_Entrance Poison Reservoir Cave 
+83000 Reproduced seed fire 04_ after a huge windmill, the middle belly of the tower 
+84000 Reproduction seed fire 05_boss room front hidden door tip, tower upper layer 
+111090 NPC: Ladder Shop (Valley of The Reservoir) 
+111091 NPC: Ladder Shop (Valley of The Reservoir): Ghost 
+111092 OBJ: Ladder Shop (Valley of The Reservoir): Tomb 
+111093 OBJ: Ladder Shop (Valley of The Reservoir): Key Guide 
+111094 OBJ: Ladder Shop (Valley of The Reservoir): Death Judgment 
+111095 OBJ: Ladder Shop (Valley of The Reservoir): Ladder 
+111096 OBJ: Ladder Shop (Valley of The Reservoir): Ladder Poly Play 
+111200 NPC: Dwarf (Valley of the Reservoir) 
+111201 NPC: Dwarf (Valley of the Reservoir): Ghost 
+111202 OBJ: Dwarf (Valley of The Reservoir): Tomb 
+111203 OBJ: Dwarf (Valley of The Reservoir): Key Guide 
+111204 OBJ: Dwarf (Valley of the Reservoir): Death Judgment 
+111205 OBJ: Dwarf (Valley of the Reservoir): Appearance Judgment 
+111250 NPC: Patch (Valley of The Reservoir) 
+111251 NPC: Patch (Valley of The Reservoir): Ghost 
+111252 OBJ: Patch (Valley of The Reservoir): Tomb 
+111253 OBJ: Patch (Valley of The Reservoir): Key Guide 
+111254 OBJ: Patch (Valley of the Reservoir): Death Judgment 
+111255 OBJ: Patch (Valley of The Reservoir): Appearance Judgment 
+111256 OBJ: Patch (Valley of The Reservoir): Treasure Acquisition Judgment 
+111270 NPC: Female Knight (Valley of The Reservoir) 
+111271 NPC: Female Knight (Valley of The Reservoir): Ghost 
+111272 OBJ: Female Knight (Valley of The Reservoir): Tomb 
+111273 OBJ: Female Knight (Valley of The Reservoir): Key Guide 
+111274 OBJ: Female Knight (Valley of The Reservoir): Death Judgment 
+111275 OBJ: Female Knight (Valley of The Reservoir): Appearance Judgment 
+111340 NPC: Material shop (Valley of the reservoir) 
+111341 NPC: Material shop (Valley of the reservoir): Ghost 
+111342 OBJ: Material shop (Valley of the reservoir): Tomb 
+111343 OBJ: Material shop (Valley of the reservoir): Key guide 
+111344 OBJ: Material shop (valley of the reservoir): death judgment 
+112010 NPC: Altar of the Sun (Pledge Event) 
+112011 OBJ: Altar of the Sun (Pledge Event) 
+118100 NPC for Multi: Swordsman (Male): White Phantom Sign Display 
+120000 Trophy: Shine Pledge 
+120130 Trophy: Akertilla 

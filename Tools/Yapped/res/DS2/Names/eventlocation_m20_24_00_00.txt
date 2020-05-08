@@ -1,0 +1,240 @@
+1001 Intrusion Point 1-1 
+1002 Intrusion Point 1-2 
+1003 Intrusion Point 1-3 
+1004 Intrusion Point 1-4 
+1005 Intrusion Point 1-5 
+1006 Intrusion Point 1-6 
+1007 Intrusion Point 1-7 
+1008 Intrusion Point 1-8 
+1009 Intrusion Point 1-9 
+1010 Intrusion Point 1-10 
+1011 Intrusion Point 1-11 
+1012 Intrusion Point 1-12 
+1013 Intrusion Point 1-13 
+1014 Intrusion Point 1-14 
+1015 Intrusion Point 1-15 
+2001 Intrusion Point 2-1 
+2002 Intrusion Point 2-2 
+2003 Intrusion Point 2-3 
+2004 Intrusion Point 2-4 
+2005 Intrusion Point 2-5 
+2006 Intrusion Point 2-6 
+2007 Intrusion Point 2-7 
+2008 Intrusion Point 2-8 
+2009 Intrusion Point 2-9 
+2010 Intrusion Point 2-10 
+2011 Intrusion Point 2-11 
+2012 Intrusion Point 2-12 
+2013 Intrusion Point 2-13 
+2014 Intrusion Point 2-14 
+2015 Intrusion Point 2-15 
+2016 Intrusion Point 2-16 
+2017 Intrusion Point 2-17 
+2018 Intrusion Point 2-18 
+2019 Intrusion Point 2-19 
+2020 Intrusion Point 2-20 
+2021 Intrusion Point 2-21 
+2022 Intrusion Point 2-22 
+2023 Intrusion Point 2-23 
+2024 Intrusion Point 2-24 
+2025 Intrusion Point 2-25 
+2026 Intrusion Point 2-26 
+2027 Intrusion Point 2-27 
+2028 Intrusion Point 2-28 
+40000 ?Advice blood character?Hidden door 2 
+40010 ?Advice Blood Character?Hidden Door 2_02 
+40020 ?Advice blood character?Hidden door 3 
+45000 [Blood character prohibited] hidden door 2 
+45010 [Blood character prohibited] hidden door 2_02 
+45020 [Blood character prohibited] hidden door 3 
+200000 Drawbridge_Navi Change Point 
+202400 For backlead safety 
+400000 Boss: Queen's Knight B Battle Start Judgment 
+401000 Boss: Queen's KnightB_ Post-Poly Play Starting Point 
+410000 Navimesh change of pillars destroyed in queen's knight B battle 1 
+411000 Navimesh change of pillars destroyed in queen's knight B battle 2 
+412000 Navimesh change 3 of the pillars destroyed in the Queen's Knight B battle 
+413000 Navimesh change of pillars destroyed in queen's knight B battle 4 
+414000 Navimesh change of pillars destroyed in queen's knight B battle 5 
+415000 Navimesh change 6 of the pillars destroyed in the Queen's Knight B battle 
+416000 Navimesh change of pillars destroyed in queen's knight B battle 7 
+417000 Navimesh change 8 of the pillars destroyed in the Queen's Knight B battle 
+702000 [Insect key] hidden door _navi mesh change 
+802000 Boss battle judgment area with king 
+802001 Boss war with king_ end judgment area 
+802010 King_Boss Battle Start Point 
+1300000 Navi mesh change of hidden door 1 
+1301000 Hidden Door Navi Mesh Change 2 
+10000000 ?Black Spirit?Appearance Area 
+20000000 ?NPC?Torch warning area 
+20000010 ?NPC?Torch ing hostile area 
+50000000 ?Return area?Matsumei deceased 
+50000010 Traveling Worker Seuping Area 
+50000680 Black Spirit Launch Area 
+50000681 Dark Spirit Saeed Area 
+50000900 [Todo escort] deep pursuit prohibited area 
+50000901 Head Kingdom Escorts_ Melee Logic Area 
+50001000 [Logic entry stop] for preventing intrusion of characters who are not on block 1 
+50001001 ?Logic Area?Phantom Night Narrow Judgment 
+50001010 ?Diversion? Agadulan - Immortal return area 
+50001011 stairs room dakubisho start editless after all 
+50001012 Tomb Guard & Immortal Return Area (entrance side) 
+50001020 [Kingdom escort sdeep pursuit prohibited area] for protection 
+50001030 Kingdom Escort Sehomed Return Area 
+50001040 Start of the deceased under the step 
+50001050 High ground dead start area 
+50001060 Phantom Nato feedback area of the stair room 
+50002000 New 
+50002050 Lap 1 Phantom Night Return Area 01 
+50002051 1st Phantom Night Return Area 02 & Used in Dark Spirits 
+50003000 [Logic entry prohibition] for preventing character escape that is not on block 1 
+50004000 [Boss ex-escort] do not follow to the king 
+50005000 White door front guard chase start area 
+51000000 Worker Patrol Navi Point 1 
+51000001 Worker Patrol Navi Point 2 
+51000002 Worker Patrol Navi Point 3 
+51000003 Worker Patrol Navi Point 4 
+51001000 Tomb warp point 1 in the first half of the map 
+51001001 Tomb warp point 2 in the first half of the map 
+51001002 Tomb warp point 3 in the first half of the map 
+51001003 Tomb warp point 4 in the first half of the map 
+51001004 Tomb warp point 5 in the first half of the map 
+51001005 Tomb warp point 6 in the first half of the map 
+51001006 Tomb warp point 7 in the first half of the map 
+51001007 Tomb warp point 8 in the first half of the map 
+51001008 Tomb warp point 9 in the first half of the map 
+51001009 Tomb warp point 10 in the first half of the map 
+51001010 Tomb warp point 11 in the first half of the map 
+51001011 Tomb warp point 12 in the first half of the map 
+51001012 Tomb warp point 13 in the first half of the map 
+51001013 Tomb warp point 14 in the first half of the map 
+51001014 Tomb warp point 15 in the first half of the map 
+51001015 Tomb warp point 16 in the first half of the map 
+51001016 Tomb warp point 17 in the first half of the map 
+51001017 Tomb warp point 18 in the first half of the map 
+51001018 Tomb warp point 19 in the first half of the map 
+51001019 Tomb warp point 20 in the first half of the map 
+51001020 Tomb warp point 21 in the first half of the map 
+51001021 Tomb warp point 22 in the first half of the map 
+51001022 Tomb warp point 23 in the first half of the map 
+51001023 Tomb warp point 24 in the first half of the map 
+51001024 Tomb warp point 25 in the first half of the map 
+51001025 Tomb warp point 26 in the first half of the map 
+51001026 Tomb warp point 27 in the first half of the map 
+51001027 Tomb warp point 28 in the first half of the map 
+51001028 Tomb warp point 29 in the first half of the map 
+51001029 Tomb warp point 30 in the first half of the map 
+51001030 Tomb warp point 31 in the first half of the map 
+51001031 Tomb warp point 32 in the first half of the map 
+51001032 Tomb warp point 33 in the first half of the map 
+51001033 Tomb warp point 34 in the first half of the map 
+51001034 Tomb warp point 35 in the first half of the map 
+51001035 Tomb warp point 36 in the first half of the map 
+51001036 Tomb warp point 37 in the first half of the map 
+51001037 Tomb warp point 38 in the first half of the map 
+51001038 Tomb warp point 39 in the first half of the map 
+51001039 Tomb warp point 40 in the first half of the map 
+51001040 Tomb warp point 41 in the first half of the map 
+51001041 Tomb warp point 42 in the first half of the map 
+51001042 Tomb warp point 43 in the first half of the map 
+51002000 Phantom Mage Launch Area 1 
+51002010 Phantom Mage Launch Area 2 
+51002020 Phantom Mage Launch Area 3 
+51002030 Phantom Mage Launch Area 4 
+51002040 Phantom Mage Launch Area 5 
+51003000 workers start area one of the dead 
+51003005 one for activating the workers of the dead 
+51003010 dead workers start area 2_1 
+51003015 2_1 for activating dead workers 
+51003020 Dead Workers Launch Area 2_2 
+51003025 2_2 for activating dead workers 
+51003030 dead workers start area 3_1 
+51003035 3_1 for activating dead workers 
+51003040 Dead Workers Launch Area 3_2 
+51003045 3_2 for activating dead workers 
+51003050 Dead Workers Launch Area 3_3 
+51003055 3_3 for activating dead workers 
+51003060 Dead Workers Launch Area 4 
+51003065 4 for activating dead workers 
+51003070 dead workers start area 5_1 
+51003075 5_1 for activating dead workers 
+51003080 Dead Workers Launch Area 5_2 
+51003085 5_2 for activating dead workers 
+51003090 Dead Workers Launch Area 5_3 
+51003095 5_3 for activating dead workers 
+51003100 Dead Workers Launch Area 6 
+51003105 6 for activating dead workers 
+51003120 Dead Workers Launch 
+51003900 Grave area_Worker warpable range 
+51004000 Phantom Mage Launch Area 10 
+51004010 Phantom Mage Launch Area 11 
+51004020 Phantom Mage Launch Area 12 
+51004030 Phantom Mage Launch Area 13 
+51004040 Phantom Mage Launch Area 14 
+51005000 dead workers start area 10_1 
+51005005 10_1 for activating dead workers 
+51005010 Dead Workers Launch Area 10_2 
+51005015 10_2 for activating dead workers 
+51005020 dead workers start area 11_1 
+51005025 11_1 for activating dead workers 
+51005030 Dead Workers Launch Area 11_2 
+51005035 11_2 for activating dead workers 
+51005040 dead workers start area 12_1 
+51005045 12_1 for activating dead workers 
+51005050 Dead Workers Launch Area 12_2 
+51005055 12_2 for activating dead workers 
+51005060 dead workers start area 13_1 
+51005065 13_1 for activating dead workers 
+51005070 Dead Workers Launch Area 13_2 
+51005075 13_2 for activating dead workers 
+51005900 Bell area_ Dead workers warpable range 
+51006000 Bell If Area Warp Point 1 
+51006001 Bell Area Warp Point 2 
+51006002 Bell Area Warp Point 3 
+51006003 Bell Area Warp Point 4 
+51006004 Bell Area Warp Point 5 
+51006005 Bell Area Warp Point 6 
+51006006 Bell If Area Warp Point 7 
+51006007 Bell If Area Warp Point 8 
+51006008 Bell If Area Warp Point 9 
+51006009 Bell Area Warp Point 10 
+51006010 Bell If Area Warp Point 11 
+51006011 Bell If Area Warp Point 12 
+51006012 Bell If Area Warp Point 13 
+51006013 Bell If Area Warp Point 14 
+51006014 Bell If Area Warp Point 15 
+51006015 Bell If Area Warp Point 16 
+51006016 Bell If Area Warp Point 17 
+51006017 Bell If Area Warp Point 18 
+51006018 Bell If Area Warp Point 19 
+51006019 Bell If Area Warp Point 20 
+51006020 Bell If Area Warp Point 21 
+51006021 Bell If Area Warp Point 22 
+51006022 Bell If Area Warp Point 23 
+51007000 Bell If Navi Point_Bell 1 Front 
+51007001 Bell If Navi Point_Bell 2 Front 
+51007002 Bell If Navi Point_Bell 3 Front 
+51007003 Bell If Navi Point_Bell 4 Front 
+51007004 Bell ringing navi point_aisle back bell front 
+51008000 Phantom Mage Boss Front Summon position 1 
+51008001 Phantom Mage Boss Front Summon position 2 
+51008002 Phantom Mage Boss Front Summon position 3 
+51008003 Phantom Mage Boss Front Summon position 4 
+51008004 Phantom Mage Boss Front Summon position 5 
+51008005 Phantom Mage Boss Front Summon position 6 
+51008006 Phantom Mage Boss Front Summon position 7 
+51008007 Phantom Mage Boss Front Summon position 8 
+51008008 Phantom Mage Boss Front Summon position 9 
+51008009 Phantom Mage Boss Front Summon position 101 
+51008010 Phantom Mage Boss Front Summon position 102 
+51008011 Phantom Mage Boss Front Summon position 103 
+51008012 Phantom Mage Boss Front Summon position 104 
+51008013 Phantom Mage Boss Front Summon position 105 
+51008014 Phantom Mage Boss Front Summon position 106 
+51008015 Phantom Mage Boss Front Summon position 107 
+51008016 Phantom Mage Boss Front Summon position 108 
+51008017 Phantom Mage Boss Front Summon position 109 
+51009000 Before boss_Phantom Meji operation 
+51009001 Before boss_Phantom Meji operation 
+51009002 Boss front _phantom me working 
+51009003 Before boss_Phantom Mage 

@@ -1,0 +1,332 @@
+0 Unauthorized data (prohibited) 
+1 For production 
+2 Function confirmation data 01 
+3 Function confirmation data 02 
+4 Function confirmation data 03 
+900 Dummy data for NPC 
+1000 Dagger 
+1010 Dagger 
+1040 Narga Dagger 
+1050 Deformed shadow dagger 
+1060 Rogue Dagger 1 
+1070 Rogue Dagger 2 
+1100 Paring dagger 
+1110 Assassin's Double-Edged Dagger 
+1130 Kingdom Master Dagger 
+1200 Broken Straight Sword 
+1210 Short Sword 
+1220 Long Sword 
+1230 Broad Sword 
+1240 a one-handed sword of a lower-class soldier 
+1270 Sailor's One Hand Sword 
+1280 Phantom Mage's One-Handed Sword Catalyst (Magic) 
+1320 A wandering knight's one-handed sword 
+1330 Durahan's One Hand Sword 
+1350 The Old Dragon's Straight Sword 
+1360 Direct Sword of the Sun 
+1370 Demon Heavy Soldier's Direct Sword 
+1400 Estock 
+1410 Mail Breaker 
+1420 The Stabbing Sword of The Spell Four Tenno (Magic) 
+1430 Spider Queen's Sting Sword 
+1440 The Sword of the Kingdom's Military 
+1500 Rapier 
+1520 Manscorpion ♂ Stabbing Sword 
+1530 Ricardo's Sting Sword 
+1600 Falcion 
+1610 Shorter 
+1620 Two-sided warrior song sword 
+1640 Assassin's Song Sword 
+1650 Scimitar 
+1660 Durahan's Song Sword 
+1670 Spider Queen's Song Sword 
+1680 Slave Merchant's Song Sword (Large) 
+1690 The song sword of the painting guard 
+1700 A sword 
+1710 a drying rod 
+1720 Youyto 
+1730 Daemon Armor (Mass Production) Sword 
+1740 Leviathan's Sword 
+1760 Agaduran's Sword 
+1770 Stalker Warrior Sword 
+1800 Busted Sword 
+1810 Flanderge 
+1820 Claymore 
+1850 Two-handed sword of the head of the Kingdom SS 
+1860 Mirror Knight's Two-Handed Sword 
+1870 The father of the avenger's two-handed sword 
+1871 The Great Sword of Moonlight 
+1880 Two-handed sword of an elephant man 
+1900 King Van Grad's two-handed sword 
+1910 Sea Solar's Two-Handed Sword 
+1911 Sea Solar's Two-Handed Sword (2) 
+1920 Old Dragon's Two-Handed Sword 
+1930 Black Knight's Sword 
+1940 Two-handed sword of the kingdom soldier 
+1950 Ancient Warrior's Two-Handed Sword 
+1960 Queen Knight A's Two-Handed Sword 
+1970 Queen Knight C's Two-Handed Sword 
+1980 The Key man's key 
+2000 Hand Axe 
+2010 Battle Axe 
+2020 Bandit One Hand Axe 
+2030 A lower-class soldier's one-handed axe 
+2070 Heavy Dwarf's One Hand Axe 
+2080 One-handed axe of the avenged warrior 
+2090 Meat cutting knife 
+2100 Immortal Senior Soldier's One Hand Axe 
+2200 Crescent Axe 
+2210 Great Axe 
+2220 Bandit's Two-Handed Axe 
+2240 Lion Warrior's Two-Handed Axe 
+2250 Giant SS Leader's Two-Handed Axe 
+2260 Heavy Dwarf's Two-Handed Axe 
+2290 Old Dragon's Two-Handed Axe 
+2300 The Great Axe of the Black Knight 
+2310 Damon Heavy Soldier's Two-Handed Axe 
+2400 Club 
+2410 Mace 
+2420 Morningstar 
+2430 Strengthening Club 
+2440 Blacksmith's Hammer 
+2470 Phantom Priest's One Hand Mallet 
+2500 Housekeeper's Egg  
+2520 Tonkachi 
+2530 Old Dragon Warpick 
+2540 One hand hammer of the professor of the dragon 
+2560 Two-sided warrior's toge club 
+2600 Large Club 
+2610 Pickaxe 
+2620 Great Club 
+2630 Heavy dwarf's hands hammer 
+2660 The two-handed hammer of the iron-melting daemon 
+2670 Strengthened immortals' hands 
+2680 Dairyu Fang 
+2690 Giant lower-class soldier's two-handed club 
+2700 Two-handed mallet of Yadkari Castle 
+2710 Daemon Mallet 
+2720 Cleric's Two Hands 
+2730 Ancient Warrior's Two Hands Mallet 
+2740 Damon Heavy Soldier's Two Hands Mallet 
+2750 Queen Knight B's Two Hands Hammer 
+2800 Short Spear 
+2810 Long Spear 
+2820 Pike 
+2830 Partisans 
+2840 Statuepawn Spear 
+2850 Salamander Spear 
+2860 Immortal Senior Soldier Spear 
+2870 The Spear of the Wandering Knight 
+2880 Patch Spear 
+2890 Three Spears of the Evangelist 
+2895 Gargoil Spear 
+2896 Ornstein's Spear 
+2900 The Knight's Assault Spear A 
+2920 The Knight's Assault Spear B 
+2930 Advanced Knight Assault Spear 
+2940 Silver Chariot Assault Spear 
+3000 Long Sickle 
+3010 Prison man's two-handed sickle 
+3020 Two-handed sickle of the man-made immortal 
+3040 Crescent Sickle of The Blue Phantom Shop 
+3050 Black Phantom Shop's Two-Handed Sickle 
+3060 Jabazahat's Two-Handed Sickle 
+3070 A two-handed sickle in the queen's armor form 
+3200 Lutzern 
+3210 Size 
+3220 Halberd 
+3240 Leviathan Spear Hammer 
+3250 A two-handed spear hammer of the trunk of the brain tree 
+3251 After the destruction of the tree of the brain trunk 
+3270 Elephant man's long-handed axe 
+3280 The two-handed long axe of the holy woman's one 
+3290 Heavy Cavalry's Long Axe 
+3300 Black Knight's Axe Spear 
+3310 Two-handed axe of the kingdom escort 
+3320 Skeleton aristocrat's long-handed axe 
+3330 Ancient Warrior's Long Axe 
+3340 Ancient Warrior's Two-Handed Axe Spear 
+3350 Damon Heavy Soldier's Two-Handed Axe Spear 
+3400 Bare Fist 
+3401 Ladder Attack L Input 
+3402 Ladder Attack R Input 
+3403 NPC Ladder Attack L Input 
+3404 NPC Ladder Attack R Input 
+3405 NPC Fist 
+3406 Strong bare hands 
+3407 Strong bare hands: ladder attack L input 
+3408 Strong bare hands: ladder attack R input 
+3410 Claws 
+3420 Yadokari Castle Claws 
+3430 Assassin's Claw (left) 
+3440 The key nail of the bag shop 
+3500 Sestas 
+3600 Whipped 
+3610 Ibara Whip 
+3620 Tortureman Whip 
+3630 Beautiful Voice Frog Whip 
+3660 The Whip of the Elder of the Castle Town 
+3800 Sorcerer's Wand 
+3810 Fairy Shrine Maiden's One Hand Wand 
+3820 One hand cane of the keeper of the forest 
+3830 Dark Wizard's One Hand Wand (Medium) 
+3850 Rich's Miracle Dark Man's Wand 
+3860 Cleric's One Hand Cane 
+3870 Dark Wizard's One Hand Wand (Top) 
+3880 One hand cane at a bookstore 
+3890 Spell Four Tenno (Magic) One Hand Wand 
+3900 Spell Four Tenno (Magic) One Hand Wand 
+4010 Dark Priest's One Hand Bell (Lower) 
+4020 One-handed bell of the keeper of the forest 
+4030 Dark Priest's One Hand Bell (Medium) 
+4040 One-handed bell of the Dragon's Shi Festival 
+4050 Queen Bell 
+4060 Cleric's One Hand Bell 
+4080 One-handed bell of spell four tenno (miracle) 
+4090 Blue Phantom Shop One Hand Bell 
+4100 One-handed bell with the holy woman 
+4110 Dark Priest's One Hand Bell Round (Top) 
+4150 Dark Bishop's One Hand Wand 
+4200 Short Bow 
+4210 Longbow 
+4220 Composite Bow 
+4230 Sailor's Two-Handed Bow 
+4240 Heavy Cavalry's Two-Handed Bow 
+4270 Sancho's Two-Handed Bow 
+4280 The Queen's Bow 
+4290 Faris's Black Bow 
+4400 Great Bow of Daemon Armor 
+4420 Dragon Hunting Bow 
+4600 Light CrossBow 
+4610 Heavy Cross Bow 
+4630 Silver Chariot's One Hand Bow 
+4660 New Avalin 
+5000 The Great Sword 
+5010 The Great Sword of the Two-Sided Warrior 
+5040 Two-headed Wyvern's Great Sword 
+5200 Zweiender 
+5210 Great Sword 
+5220 Damon Knight's Oversized Sword 
+5230 Two-headed Wyvern's Oversized Sword 
+5240 King Van Clad's Oversized Sword 
+5270 An Oversized Sword of Bay Grant (Seoul) 
+5275 Demon Heavy Soldier's Oversized Sword 
+5280 Agaduran's Oversized Sword 
+5285 Ancient Warrior's Oversized Sword 
+5290 The Great Sword of the Black Knight 
+5295 The Oversized Sword of a Forgotten Sinner 
+5310 Statuenite's Double-Edged Sword 
+5330 Double-edged Sword of heavy cavalry 
+5340 A double-edged sword 
+5350 a double-edged sword of iron mass 
+5360 Curved double-edged sword 
+5400 The Fire of Magic 
+5410 The Fire Of The Magic 
+5500 First Benefits: Dagger 
+5510 First Award: Long Sword 
+5520 First Award: Hand Axe 
+5530 First Benefit: Mace 
+5540 First Benefit: Cane 
+6000 Torch (Small) 
+6100 Telescope 
+6300 Phantom - Dagger  
+6310 Phantom - Swords  
+6320 Phantom - Song Sword 
+6330 Phantom - Sword 
+6340 Phantom - Direct Sword 
+6350 Phantom - Two-Handed Sword  
+6360 Phantom - One-handed war  
+6370 Phantom - Two-Handed War  
+6380 Phantom - One Hand Axe 
+6390 Phantom - Two-Handed Axe 
+6400 Phantom - Spear 
+6410 Phantom - Two-Handed Sickle 
+6420 Phantom - Two-Handed Long Axe  
+6430 Phantom - Bare Hands 
+6440 Phantom - Nails 
+6450 Phantom - Torch 
+6460 Phantom - Telescope  
+6470 Phantom - Whip  
+6480 Phantom - One Hand Wand 
+6490 Phantom - One Hand Bell 
+6500 Phantom - Two-Handed Bow 
+6510 Phantom - Two Hands Large Bow  
+6520 Phantom - One Hand Bow  
+6530 Phantom - Two-Handed Sword  
+6540 Phantom - Two Hands Oversized Sword 
+6550 Phantom - Double Blade  
+7010 Statue of a person for a cut scene 
+8182 Weapon Color Check 
+8183 Landing check 
+11000 Buckler 
+11005 The shield of the father of the avenged warrior 
+11010 Small Leather Shield 
+11020 Iron Circle Shield 
+11030 A small shield of lower-class soldiers (old) 
+11040 Target Shield 
+11050 A shield of a falcon warrior 
+11070 Assassin's Shield 
+11080 A shield of the kingdom's military master. 
+11091 Red-white circle shield 
+11110 Dark Priest's Shield (A) 
+11120 Dark Priest Mask Shield 
+11130 Phantom Mage's Shield 
+11140 Necromancer's Shield 
+11160 Sailor's Shield 
+11185 Queen Knight C's Shield 
+11200 Large Leather Shield 
+11210 Two Bird Tree Shield 
+11220 Heater Shield 
+11230 SS Leader's Shield 
+11240 Lion Warrior Shield 
+11250 Cleric's Shield 
+11260 King Van Grad's Shield 
+11270 Sea Solar Shield 
+11280 Ancient Warrior Shield 
+11300 Coat of arms shield 
+11310 Dragon Emblem Shield 
+11330 Phantom Priest's Shield 
+11350 Immortal Senior Soldier's Shield 
+11360 Statue Night's Shield 
+11370 The Shield of The Spell Four Heavenly Kings 
+11380 Butterfly Shield 
+11390 Cleric Shield B 
+11395 Spell Four Heavenly Kings (Magic) Medium Shield 
+11400 Wood Shield 
+11420 Kingdom Soldier's Shield (Old) 
+11430 Twin Snake Kite Shield 
+11450 Durahan's Shield 
+11470 Sancho's Shield 
+11475 Queen Knight A's Shield 
+11480 Old Dragon Shield 
+11485 Demon Heavy Soldier's Shield 
+11490 Slave Beast Smelt Shield 
+11495 Dragon Professor's Shield 
+11500 The Shield of the Great Eagle 
+11510 Tower Shield 
+11530 Phantom Knight's Shield (left) 
+11540 Phantom Knight's Shield (right) 
+11550 Mirror Knight's Great Shield 
+11560 Heavy Cavalry Shield 
+11570 Elephant Shield 
+11590 The Great Shield of Havel 
+11600 Heavy Dwarf Shield 
+11610 Bay Grant's Great Shield 
+11620 Patch Shield 
+11630 Ancient Warrior Shield 
+11640 Damon Heavy Soldier's Great Shield 1 
+11650 Demon Heavy Soldier's Great Shield 2 
+11700 Contest Shield 1: Small Shield 
+11710 Contest Shield 2: Small Shield 
+11720 Contest Shield 3: Medium Shield 
+11730 Contest Shield 4: Medium Shield 
+11740 Contest Shield 5: The Great Shield 
+11750 Contest Shield 6: The Great Shield 
+11800 First Award Shield 1 
+11810 First Award Shield 2 
+11820 First Award Shield 3 
+11830 First Award Shield 4 
+11840 First Award Shield 5 
+12000 Phantom - Small Shield 
+12010 Phantom - Medium Shield 
+12020 Phantom - Great Shield 

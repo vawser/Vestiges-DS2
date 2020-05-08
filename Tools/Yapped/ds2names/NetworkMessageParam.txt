@@ -1,0 +1,60 @@
+0 Sign creation failed: Communication error 
+1 Sign creation failed: Unknown error 
+2 Sign maintenance failure: Unknown error 
+3 Sign Delete: Move Area 
+4 Sign delete: Other 
+5 Sign summoning temporarily not allowed 
+6 Summon failed: Sign deleted 
+7 Summon failure: Summoned to others 
+8 Summon failure: Server busy 
+9 Summon failure: Blacklist 
+10 Summon failure: Generic 
+11 Intrusion failure: No intrusion destination 
+12 Intruding Failed: Server Busy 
+13 Intruding Failure: Generic 
+14 Intake interruption: Area move 
+15 Intake interruption: General purpose 
+16 Start failure: NAT type (host side) 
+17 Start failure: NAT type (guest side) 
+18 Start failure: QoS check error (host side) 
+19 Start failure: QoS check error (guest side) 
+20 Failed to start: Host death (※Guest only) 
+21 Failed to start: Boss passes through white door (host side) 
+22 Failed to start: Boss passes through white door (guest side) 
+23 Failed to start: Go through the goal white door (host side) 
+24 Failed to start: Pass through the goal white door (guest side) 
+25 Failed to start: Boss destroyed (host side) 
+26 Start failure: Boss destroyed (guest side) 
+27 Failure to start: Dark spirit death (※ guest only) 
+28 Failed to start: Return of the Dark Spirits (※Guests only) 
+29 Start failure: Other (host side) 
+30 Start failed: Others (guest side) 
+31 Stop after start: Session (host side) 
+32 Stop after start: Session (guest side) 
+33 Start summoning autographs 
+34 Start summoning 
+35 Get intrude 
+36 Start incoming 
+37 Ring Search Begins Visit 
+38 Psychic Appearance: Host Side 
+39 Psychic appearance: appearance guest side 
+40 Mausoleum appearance: existing guest side 
+41 Return: Return ing by cutting 
+42 Repatriation: Host repatriated 
+43 Return: Return on your own 
+44 Return: Others 
+45 Summon failed: Session creation failed 
+46 Summon failure: Server timeout 
+47 Summon failure: Waiting for partner to join timeout 
+48 Stop starting: Block list target host side 
+49 Sign creation failed: Server Timeout 
+50 Sign maintenance failure: Server busy 
+51 Sign maintenance failure: Server Timeout 
+52 Start failed: Session join failure 
+53 Intruding Failure: Server Timeout 
+54 Start abort: Start processing Timeout host side 
+55 Start abort: Start Processing Timeout Guest Side 
+56 Stop start: Disconnect host side 
+57 Stop starting: Disconnected guest side 
+58 Abort: Guest death 
+59 Stop starting: Block list target guest side 

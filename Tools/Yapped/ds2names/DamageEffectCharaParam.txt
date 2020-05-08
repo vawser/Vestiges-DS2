@@ -1,0 +1,12 @@
+0 Meat 
+1 Leather 
+2 Tree 
+3 Stone 
+4 Copper 
+5 Iron 
+6 Bone 
+7 Energy 
+8 Flame 
+9 Lightning 
+10 Darkness 
+11 Magic 

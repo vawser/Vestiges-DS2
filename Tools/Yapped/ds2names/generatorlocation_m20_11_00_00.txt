@@ -1,0 +1,142 @@
+20 [NPC Ginse poet Girl 1] NPC Bard Girl 1 Milfari 
+21 [NPC Ginse poet Girl 1] NPC Bard Girl 1 Milfari (Ghost) 
+25 [NPC Ginse poet Girl 2] NPC Bard Girl 2 Nina 
+26 [NPC Ginse poet Girl 2] NPC Ginse poet Girl 2 Nina (Ghost) 
+660 【Black Spirit】NPC for Multi: Magician (Male) 
+666 [Tower 1, Kojima_ White Spirit of the Left Hand] NPC for Multi: Lancer (Female) 
+802 Beautiful Voice Frog  
+1100 [Tower 1_Subroute 1_Song Reaction] Banshee (Deceased): Scary Face 
+1200 [Tower 1_Subroute 1_Chest] Poison Horn worm 
+1300 [Underwater battle in the basement of the tower 1] lizard man 
+1400 [Tower 1 out right hand _ combat] lizard man 
+1410 [Battle of the tower 1 out] cleric 
+1500 [House 1 front right _ battle] lizard man 
+1501 [House 1 front left _ Battle] lizard man 
+1600 [Girl 1's house front water place left hand] lizard man 
+1700 [Girl 1's house front water place right hand] lizard man 
+1800 [Left hand of girl 1's house_ course blocking 1] poison horn insect 
+1810 [Left hand of girl 1 house _ course block2] lizard man 
+1900 [Explosion in the left shallow water at the tip of the house 1] poison horn insect 
+1910 [Explosion in the right shallow water ahead of the house 1] poison horn insect 
+2000 [House tip_ right shallow water] lizard man 
+2010 【House destination_right shallow water_factor 2】Poison horn worm 
+2100 [House 1 destination _ battle] lizard man 
+2200 [Right back in front of the cave _ Battle] lizard man 
+2300 [Cave left side hole _ treasure chest] Banshee (deceased) Scary face 1/3 
+2301 [Cave left side hole _ treasure chest] Banshee (deceased) scary face 
+2302 [Cave left side hole _ treasure chest] lizard man 
+2303 [Cave left side hole _ treasure chest] lizard man 
+2304 [Cave left side hole _ treasure chest] lizard man 
+2305 [Cave left side hole _ treasure chest] lizard man 
+2310 【1st cave_oemen】Poisonous hornworm (acid) 
+2400 [Blue light grass area_right hand bonfire side_combat] lizard man 
+2410 [Blue light grass area_right hand bonfire side_combat] lizard man 
+2500 [Blue light grass area_left hand side_ combat] lizard man 
+2600 [Blue light grass area_ Where there is no left-hand preamase] poison horn worm 
+2700 [Blue Light Grass Area_ Deep to the right hip _ Battle] Fairy Shrine Maiden: Cane 
+2800 [Aomitsugrass area _ center back both sides road _ battle] fairy shrine maiden 
+2810 [Blue light grass area _ center back both sides road _ battle] lizard people 
+2820 [Blue Light Grass Area_Central Road] Cleric 
+2900 [Blue Light Grass Area_Galeki's Back_Battle】 Lizard 
+3000 [In a broken building _ Battle] lizard man 
+3100 [Aomitsugrass Area Oku_ Red Spirit] Cannibal Leader 
+3110 【[Aomitsugrass Area Back] Fairy Shrine Maiden: Cane 
+3200 [Submarine 3_ Long-distance attack from front of the treasure chest] fairy shrine maiden: cane 
+3201 【Subroute 3】Fairy Shrine Maiden: Cane 
+3210 [Subroute 3] Lizard man 
+3300 [House 2 left hand front shallow water _ battle] lizard man 
+3310 【[Blue Light Grass Area Back] Cleric 
+3311 【[Aomitsugrass Area Back] Fairy Shrine Maiden: Cane 
+3320 [House 2 left hand front shallow water _ battle] lizard man 
+3321 [House 2 left hand front shallow water _ battle] lizard man 
+3322 [House 2 left hand front shallow water _ battle] lizard man 
+3340 【The nest of the inner part of the submerged bridge_Auga】Auger (raw person): Color (1): General purpose 
+3400 [House 2 right hand _ combat] lizard man 
+3500 [Looking at the entrance of the house 2] dead: traveler's clothes ♂: bare hands 
+3510 [Looking at the entrance of the house 2] dead: traveler's clothes ♂: bare hands 
+3520 [Looking at the entrance of the house 2] dead: traveler's clothes ♂: bare hands 
+3600 [Submerged bridge_ course block] lizard man 
+3650 [Scaffolding in the depths of the house 2 destination_ hole] fairy shrine maiden: cane 
+3670 [The second cave_before the bonfire] poison horn worm 
+3671 [The second cave_before the bonfire] poison horn worm 
+3672 [The second cave_before the bonfire] poison horn worm 
+3673 [The second cave_before the bonfire] poison horn worm 
+3680 [The second cave_ beyond the bonfire] poison horn worm 
+3681 [The second cave_ beyond the bonfire] poison horn worm 
+3682 [The second cave_ beyond the bonfire] poison horn worm 
+3683 [The second cave_ beyond the bonfire] poison horn worm 
+3684 [The second cave_ beyond the bonfire] poisonous horn worm huge 
+3700 [Destination of the submerged bridge] lizard man 
+3710 【Battle on the end of the submerged bridge】Fairy Shrine Maiden: Cane 
+3800 【The nest of the inner part of the submerged bridge_Auga】Auger (raw person): Color (1): General purpose 
+3900 【Parent Tree Cave Front_Battle】Fairy Shrine Maiden: Cane 
+4000 【Parent tree cave out left】Fairy shrine maiden: cane: prayer 
+4100 [Parent tree cave out and looking at the treasure] Banshee (deceased) scary face 2/3 
+4200 [Parent tree _light worm_battle】 lizard man 
+4210 [Parent tree _light worm_battle】 lizard man 
+4220 [Parent tree _light worm_battle】 lizard man 
+4230 [Parent tree _light worm_battle】 lizard man 
+4240 [Parent tree _light worm_battle】 lizard man 
+4250 [Parent tree _light worm_battle】 lizard man 
+4260 【Parent Tree】Fairy Shrine Maiden: Cane 
+4270 【Parent Tree】Fairy Shrine Maiden: Cane 
+4280 [Parent tree _light worm samari_outside course blocked] lizard man 
+4300 【Light worm samari_road block】 Fairy shrine maiden: cane 
+5000 [Where the door of the deceased was opened climbing the tower] the clothes of the deceased: the sick ♂ 
+5001 [Where the door of the deceased was opened climbing the tower] the clothes of the deceased: the sick ♂ 
+5002 [Where the door of the deceased was opened climbing the tower] the clothes of the deceased: the sick ♂ 
+5010 【Before the altar】Necromancer 
+5101 [Cliff road to tower 5_ pass] fang sei matsume reaction test logic_2 
+5300 [Passage in front of the tower 5] demon armor (deceased) mass production type: sword 
+8000 [Start passage _ battle] Banshee (dead) scary face 
+8010 [1st Singing Reaction] Banshee (deceased) scary face 
+8020 【Under the Tower Stairs_Song Reaction】Banshee (Deceased) Scary Face 
+8030 【Waterside around Tower】Additional 4 
+8031 【Waterside around Tower】Additional 5 
+8032 【Waterside around Tower】Added 6 
+8033 [Waterside around tower 1 _ Battle] lizard man 
+8034 【Waterside around Tower】Additional 8 
+8040 【House 1 Exit_Song Reaction】Banshee (Deceased) Beautiful Face 
+8050 [House 1 destination Kojima_ Battle] fairy shrine maiden: cane 
+8051 【House 1 ahead Kojima_Combat】Fairy Shrine Maiden: Bare Hands 
+8052 [House 1 destination Kojima _ battle] lizard man 
+8053 [House 1 destination Kojima _ battle] lizard man 
+8054 【Iei-ei Kojima】Additional 
+8055 [House 1 destination Kojima _ battle] lizard man 
+8056 [House 1 destination Kojima _ battle] lizard man 
+8057 [House 1 destination Kojima _ combat] for cleric_2 laps or later 
+8058 [House 1 destination Kojima _ combat] for cleric_2 laps or later 
+8059 [House 1 destination Kojima _ combat] for cleric_2 laps or later 
+8060 [Treasure chest rock front _ battle] lizard man 
+8061 [House 1 destination Kojima _ battle] for the first lap of the cleric_ 
+8062 [House 1 destination Kojima _ battle] for the first lap of the cleric_ 
+8063 [House 1 destination Kojima _ battle] for the first lap of the cleric_ 
+8500 [Arch back_ battle] lizard man 
+8501 [Arch front _ battle] lizard man 
+8510 [On the crumbling pillar _ non-combat] fairy shrine maiden : bare hands 
+8520 [Red Fan Kojima _ Battle] Lizard Man 
+8521 [Red Fan Kojima] Lizard Man 
+8530 [House 2 right hand _ combat] lizard man 
+8531 [House 2 right hand _ combat] lizard man 
+8532 [House 2 right hand _ combat] lizard man 
+8540 [White door 2 front _ battle] cleric _2 laps 
+8541 [White door 2 front _ battle] cleric _2 laps 
+8542 [White door 2 front _ battle] cleric 
+8543 [White door 2 front _ battle] cleric 
+8544 [White door 2 front _ battle] fairy shrine maiden: bare hands 
+8550 [Hole outside house 2 _ battle] fairy shrine maiden: cane 
+8551 [Hole outside house 2 _ battle] cleric 
+8600 [Subroute 2_ Battle] Cleric 
+8601 [Subroute 2_ Battle] Fairy Shrine Maiden: Cane 
+8602 [Subroute 2_ Battle] Fairy Shrine Maiden: Cane 
+8650 [Door back of the living person _ run away when the door opens] Banshee (beautiful face) 
+8700 [After boss - connection path _ course block] royal guard escort: axe spear 
+8800 [Road to NPC after boss_ song reaction] Banshee (deceased) scary face 
+8805 [Road to NPC after boss _ Battle] hunting dog: color (1) 
+8850 [Depression near girl 2] added 
+8851 [Girl 2 near depression _ song reaction] Banshee (deceased): Scary face 3/3 
+8852 [Girl 2 near depression _ song reaction] Banshee (deceased): scary face 
+8860 [Depression near girl 2] song reaction] terrible dead 
+8861 [Depression near girl 2] song reaction] terrible dead 
+8862 [Depression near girl 2] song reaction] terrible dead 
+8880 [Stairs outside girl 2 ] song reaction] Banshee (deceased] beautiful face 

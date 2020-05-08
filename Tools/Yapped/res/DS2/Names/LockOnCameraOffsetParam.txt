@@ -1,48 +1,37 @@
-10010 UNKNOWN
-10020 UNKNOWN
-10030 UNKNOWN
-10040 UNKNOWN
-10050 UNKNOWN
-10060 UNKNOWN
-10070 UNKNOWN
-11000 UNKNOWN
-11010 UNKNOWN
-21540 UNKNOWN
-22120 UNKNOWN
-22235 UNKNOWN
-23033 UNKNOWN
-23050 UNKNOWN
-23096 UNKNOWN
-23097 UNKNOWN
-23180 UNKNOWN
-23240 UNKNOWN
-23250 UNKNOWN
-23260 UNKNOWN
-23320 UNKNOWN
-23330 UNKNOWN
-23340 UNKNOWN
-25000 UNKNOWN
-25010 UNKNOWN
-25030 UNKNOWN
-25040 UNKNOWN
-25061 UNKNOWN
-25146 UNKNOWN
-26000 UNKNOWN
-26020 UNKNOWN
-26030 UNKNOWN
-26031 UNKNOWN
-26070 UNKNOWN
-26110 UNKNOWN
-26191 UNKNOWN
-26250 UNKNOWN
-26260 UNKNOWN
-26270 UNKNOWN
-26750 UNKNOWN
-26790 UNKNOWN
-26800 UNKNOWN
-26810 UNKNOWN
-26820 UNKNOWN
-26850 UNKNOWN
-26890 UNKNOWN
-26900 UNKNOWN
-26920 UNKNOWN
+10010 Very small 
+10020 Small 
+10030 Medium 
+10040 Large 
+10050 Extra large 
+10060 Special size 
+10070 Special size 
+21540 Dedicated - Skeleton Aristocracy 
+22120 Dedicated - Wyburn 
+22235 Dedicated - Giant Rat 
+23033 Dedicated - Double Sided Warrior: Snake Head 
+23050 Dedicated - Daemon Night 
+23096 Dedicated - New Giant Senior Soldier (Deceased) 
+23097 Dedicated - New Giant Senior Soldier (Live) 
+23180 Dedicated - Bay Grant 
+23240 Dedicated - Gargoil 
+23250 Dedicated - Warrior in the Mirror 
+23260 Dedicated - Butcher 
+23320 Dedicated - Queen Knight A 
+23330 Dedicated - Queen Knight B 
+23340 Dedicated - Queen Knight C 
+25000 Dedicated - Javaza Hat 
+25010 Dedicated - Naga 
+25030 Dedicated - Manscorpion ? 
+25040 Dedicated - Mirror Night 
+25061 Dedicated - Agaduran Stand 
+25146 Dedicated - Old King 
+26000 Dedicated - Old Dragon 
+26020 Dedicated - Beautiful Voice Frog 
+26030 Dedicated - Spider Queen 
+26031 Dedicated - Spider Queen (Cliff) 
+26070 Dedicated - Molten Iron Daemon 
+26110 Dedicated - Heavy Cavalry 
+26191 Exclusive - Silver Chariot 
+26250 Dedicated - Ornstein 
+26260 Dedicated - Forgotten Sinner 
+26270 Dedicated - Queen's Armor Form 

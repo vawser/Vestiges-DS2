@@ -1,6 +1,6 @@
-0 UNKNOWN
-10 UNKNOWN
-14 UNKNOWN
+0 Test
+10 Balance adjustment armor: head
+14 Balance adjustment armor: foot
 20 UNKNOWN
 24 UNKNOWN
 100 UNKNOWN
@@ -28,19 +28,19 @@
 2100 UNKNOWN
 2200 UNKNOWN
 2300 UNKNOWN
-9800 UNKNOWN
-991800 UNKNOWN
-991801 UNKNOWN
-991802 UNKNOWN
-991803 UNKNOWN
-11001100 UNKNOWN
-11001101 UNKNOWN
-11001102 UNKNOWN
-11001103 UNKNOWN
-11002100 UNKNOWN
-11002101 UNKNOWN
-11002102 UNKNOWN
-11002103 UNKNOWN
+9800 Cross-test (on slope)
+991800 9918 [Magic Soldier Destruction Test] Head 
+991801 9918 [Magic Soldier Destruction Test] Chest 
+991802 9918 [Magic Soldier Destruction Test] Arms 
+991803 9918 [Magic Soldier Destruction Test] Feet 
+11001100 [Body] Head
+11001101 [Body] Chest
+11001102 [Body] Arms
+11001103 [Body] Foot
+11002100 [Dummy Body] Head
+11002101 [Dummy Body] Chest
+11002102 [Dummy Body] Arms
+11002103 [Dummy Body] Foot
 11010100 Pate's Helm
 11010101 Pate's Armor
 11010102 Pate's Gloves

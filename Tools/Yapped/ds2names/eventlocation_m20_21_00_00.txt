@@ -1,0 +1,166 @@
+1001 Intrusion Point 1-1 
+1002 Intrusion Point 1-2 
+1003 Intrusion Point 1-3 
+1004 Intrusion Point 1-4 
+2001 Intrusion Point 2-1 
+2002 Intrusion Point 2-2 
+2003 Intrusion Point 2-3 
+2004 Intrusion Point 2-4 
+2005 Intrusion Point 2-5 
+2006 Intrusion Point 2-6 
+2007 Intrusion Point 2-7 
+2008 Intrusion Point 2-8 
+2009 Intrusion Point 2-9 
+2010 Intrusion Point 2-10 
+3001 Intrusion Point 3-1 
+3002 Intrusion Point 3-2 
+3003 Intrusion Point 3-3 
+3004 Intrusion Point 3-4 
+3005 Intrusion Point 3-5 
+4001 Intrusion Point 4-1 
+4002 Intrusion Point 4-2 
+4003 Intrusion Point 4-3 
+4004 Intrusion Point 4-4 
+4005 Intrusion Point 4-5 
+4006 Intrusion Point 4-6 
+4007 Intrusion Point 4-7 
+4008 Intrusion Point 4-8 
+4009 Intrusion Point 4-9 
+4010 Intrusion Point 4-10 
+4011 Intrusion Point 4-11 
+4012 Intrusion Point 4-12 
+4013 Intrusion Point 4-13 
+4014 Intrusion Point 4-14 
+4015 Intrusion Point 4-15 
+4016 Intrusion Point 4-16 
+5001 Intrusion Point 5-1 
+5002 Intrusion Point 5-2 
+5003 Intrusion Point 5-3 
+5004 Intrusion Point 5-4 
+5005 Intrusion Point 5-5 
+5006 Intrusion Point 5-6 
+5007 Intrusion Point 5-7 
+5008 Intrusion Point 5-8 
+6001 Intrusion Point 6-1 
+6002 Intrusion Point 6-2 
+6003 Intrusion Point 6-3 
+6004 Intrusion Point 6-4 
+6005 Intrusion Point 6-5 
+6006 Intrusion Point 6-6 
+6007 Intrusion Point 6-7 
+6008 Intrusion Point 6-8 
+7001 Intrusion Point 7-1 
+7002 Intrusion Point 7-2 
+7003 Intrusion Point 7-3 
+7004 Intrusion Point 7-4 
+7005 Intrusion Point 7-5 
+7006 Intrusion Point 7-6 
+7007 Intrusion Point 7-7 
+7008 Intrusion Point 7-8 
+7009 Intrusion Point 7-9 
+40000 【Advice blood character】Hidden door 2 
+45000 [Blood character prohibited] hidden door 2 
+100000 Navi mesh change of hidden door 
+202100 For backlead safety [void] 
+202101 For backlead safety [Amana] 
+300000 Lever door _Navi mesh change between soldiers 
+400000 Warp point from the old dark hole 
+500000 Lifts - Amana altars under 
+500010 Lifts on the altar of Amana 
+504000 Elevator_Connection reading point 
+505000 Forced death point _PC connection 
+506000 Flag switching point for connection 
+600000 Golem Door 01_Navi mesh change 
+601000 Golem Door 02_Navi mesh change 
+602000 Golem Door 03_Navi mesh change 
+603000 Golem Door 04_Navi mesh change 
+604000 Golem Door 05_Navi mesh change 
+605000 Golem Door 06_Navi mesh change 
+610000 Golem opens main gate_navimesh change 
+700000 Boss: Heavy Cavalry Soldiers: Soldiers Only 2-Body Battle Start Judgment 
+701000 Boss: Heavy Cavalry: Soldiers Only 2 Body War _ Light Switching Range 1 
+701001 Boss: Heavy Cavalry: Soldiers Only 2 Bodies Fight _ Light Switching Range 2 
+701002 Boss: Heavy Cavalry: Soldiers Only 2 Body War _ Light Switching Range 3 
+800000 Boss: Decision to start fighting with Miller Knight 
+900000 King's Door_Navimesh Change 
+1072500 [Pilgrims in the abyss] appearance point 
+1100000 Boss: Queen's Knight A&C battle decision to start fighting 
+1200000 Boss: Determination to start fighting with the queen's armor form 
+1200001 Boss: The queen's armor form and the start of the battle decision_ at the time of the battle 
+1201000 Boss: Warp point after the end of the poly play in the form of the queen's armor 
+1201001 Boss: Warp point after the end of the poly play in the form of the queen's armor 
+1300000 on the elevator_corridor front_ 
+1300010 Elevator_ corridor front_ under 
+1600000 End roll start area 
+1600010 Endroll_ Poly Play Warp Point 
+1700000 After the War of Rasbos_Retry Point 
+10000000 [Girl of captivity] range after ascension 
+10000010 [Girl in captivity] stop range 
+10000020 [Girl of captivity] resumption range 
+10001000 【NPC for Multi:Severn(Female)】Black Spirit Appearance Area 
+10002000 [Enclosed person] black spirit appearance area 
+50000000 In front of the main gate_ elephant man start 
+50000005 Front of the main gate_elephant man start_2 
+50000010 In front of the main gate_ Spiritual Kingdom Soldiers Launch 
+50000011 In front of the main gate 
+50000020 Gate front: Elephant Return Area 1 
+50000021 Gate Front Elephant Soldier Return Point 2 
+50000022 The Return area of the Kingdom soldiers in front of the gate 
+50000070 During the audience_BayGrant Navi Point 01 
+50000071 During the audience_BayGrant Navi Point 02 
+50000080 During the audience_ Bay Ground moving area 
+50000085 During the audience_ Bay Grant appearance 
+50000090 _Baygrand launch during an audience 
+50000095 Stooping Fire Just Before Guard Defense Lifted 
+50000100 Golem door front _heavy soldier start_left hand front 
+50000105 Golem door front_heavy soldier start_left center 
+50000110 Golem door front _heavy soldier start_left back 
+50000115 Golem door front _heavy soldier start_right hand front 
+50000120 Golem door front _heavy soldier start_right center 
+50000125 Golem door front _heavy soldier start_right back 
+50000180 _ Swinging heavy soldiers on the golem room start 
+50000200 Acid Pool Crossbow Launch 
+50000300 _Escort_ Undefended area during portrait 
+50000350 Logic launch area after heavy cavalry_ fall 
+50000400 One-way door front _kingdom soldier warrior launch 
+50000401 Damon Armor (Dead): Bow Launch (Back Door) 
+50000410 One-way door front_ escort sup 
+50000420 The return area of the elephant people who went out of the large saloon 
+50000421 The return range of the elephant people in the large saloon 
+50000500 Large Saloon_Escort Supree_1 
+50000510 Large Saloon_Escort Supree_2 
+50000520 Large Saloon Escort Sergeant Normal Mode Transition Point 
+50000530 The Return area of the Great Expanse Elephant 
+50000531 The Return area of the Great Saloon Elephant Soldiers 2 
+50000550 Pawn Room_Pawn Launch_1 
+50000551 Pawn Room_Pawn Launch_2 
+50000552 Pawn Room_Pawn Launch_3 
+50000560 Statue: Pawn Launch 00 
+50000561 Statue: Pawn Launch 01 
+50000562 Statue: Pawn Launch 02 
+50000563 Statue: Pawn Launch 03 
+50000564 Statue: Pawn Launch 04 
+50000565 Statue: Pawn Launch 05 
+50000566 Statue: Pawn Launch 06 
+50000600 King's corridor entrance escort sergeant usually logic 
+50000630 black spirit sealed person_start area 
+50000700 Mirror Night Corridor _ StatueNite Full Launch 
+50000710 Mirror Night Corridor_StatueNight Launch_1 
+50000720 Mirror Night Corridor_StatueNight Launch_2 
+50000730 Mirror Night Corridor_StatueNight Launch_3 
+50000740 Mirror Night Corridor_StatueNight Launch_4 
+50000750 Mirror Night Corridor _ Heinous Logic Launch Area 
+53000800 Mirror Night Game_ Under-Generation Permit Area 
+56000100 Door to entrance ladder_Baygrant feedback area 
+56001000 No entry between the queen 
+56001090 Return of the Kingdom Soldiers along the way 
+56001290 Don't go before the throne. 
+56001300 Golem Room Statue Entry Prohibited 
+56001320 Warrior Return Area 03 in the Mirror 
+56001340 Pitfall fall suppression 
+56001550 Portrait Room Kingdom Escort Soldiers Return Area 
+56001600 Preventing prowl 
+56003100 Red Spirit Key Number Return Area (Because it will fall) 
+90000000 Character Event 5_ Enemies of the Throne Stand Up 
+90000001 Character Event 5_Heavy Cavalry Behavior Restrictions 
+90000002 For character event 5_PC intrusion judgment 

@@ -1,278 +1,225 @@
-910 UNKNOWN
-911 UNKNOWN
-920 UNKNOWN
-921 UNKNOWN
-1000 UNKNOWN
-1001 UNKNOWN
-1002 UNKNOWN
-1003 UNKNOWN
-1004 UNKNOWN
-1005 UNKNOWN
-1006 UNKNOWN
-1007 UNKNOWN
-1008 UNKNOWN
-1010 UNKNOWN
-1011 UNKNOWN
-1012 UNKNOWN
-1013 UNKNOWN
-1014 UNKNOWN
-1020 UNKNOWN
-1021 UNKNOWN
-1022 UNKNOWN
-1023 UNKNOWN
-1024 UNKNOWN
-1030 UNKNOWN
-1031 UNKNOWN
-1040 UNKNOWN
-1041 UNKNOWN
-1100 UNKNOWN
-1110 UNKNOWN
-1120 UNKNOWN
-1130 UNKNOWN
-1150 UNKNOWN
-1160 UNKNOWN
-1170 UNKNOWN
-1180 UNKNOWN
-1201 UNKNOWN
-1202 UNKNOWN
-1203 UNKNOWN
-1204 UNKNOWN
-1205 UNKNOWN
-1206 UNKNOWN
-1207 UNKNOWN
-1208 UNKNOWN
-1209 UNKNOWN
-1210 UNKNOWN
-1211 UNKNOWN
-1212 UNKNOWN
-1213 UNKNOWN
-1214 UNKNOWN
-1215 UNKNOWN
-1216 UNKNOWN
-1217 UNKNOWN
-1218 UNKNOWN
-1300 UNKNOWN
-1301 UNKNOWN
-1302 UNKNOWN
-1303 UNKNOWN
-1304 UNKNOWN
-1305 UNKNOWN
-1306 UNKNOWN
-1400 UNKNOWN
-1500 UNKNOWN
-1510 UNKNOWN
-1520 UNKNOWN
-1521 UNKNOWN
-1530 UNKNOWN
-1540 UNKNOWN
-1541 UNKNOWN
-1550 UNKNOWN
-1560 UNKNOWN
-1600 UNKNOWN
-1610 UNKNOWN
-1700 UNKNOWN
-1710 UNKNOWN
-1720 UNKNOWN
-2010 UNKNOWN
-2020 UNKNOWN
-2030 UNKNOWN
-2040 UNKNOWN
-2041 UNKNOWN
-2042 UNKNOWN
-2043 UNKNOWN
-2044 UNKNOWN
-2045 UNKNOWN
-2100 UNKNOWN
-2110 UNKNOWN
-2120 UNKNOWN
-2130 UNKNOWN
-2140 UNKNOWN
-2150 UNKNOWN
-2155 UNKNOWN
-2160 UNKNOWN
-2170 UNKNOWN
-2180 UNKNOWN
-2190 UNKNOWN
-2200 UNKNOWN
-2210 UNKNOWN
-2220 UNKNOWN
-2500 UNKNOWN
-2501 UNKNOWN
-2502 UNKNOWN
-2503 UNKNOWN
-2504 UNKNOWN
-2505 UNKNOWN
-2506 UNKNOWN
-2507 UNKNOWN
-2508 UNKNOWN
-2509 UNKNOWN
-2510 UNKNOWN
-2511 UNKNOWN
-2512 UNKNOWN
-2513 UNKNOWN
-2514 UNKNOWN
-2515 UNKNOWN
-2516 UNKNOWN
-2517 UNKNOWN
-2518 UNKNOWN
-2519 UNKNOWN
-2520 UNKNOWN
-2521 UNKNOWN
-2522 UNKNOWN
-2523 UNKNOWN
-2524 UNKNOWN
-2525 UNKNOWN
-2526 UNKNOWN
-2527 UNKNOWN
-2528 UNKNOWN
-2529 UNKNOWN
-2530 UNKNOWN
-2531 UNKNOWN
-2532 UNKNOWN
-2533 UNKNOWN
-2534 UNKNOWN
-2535 UNKNOWN
-2536 UNKNOWN
-2537 UNKNOWN
-2538 UNKNOWN
-2600 UNKNOWN
-2610 UNKNOWN
-2620 UNKNOWN
-2650 UNKNOWN
-2670 UNKNOWN
-2700 UNKNOWN
-2701 UNKNOWN
-2702 UNKNOWN
-2703 UNKNOWN
-2704 UNKNOWN
-2705 UNKNOWN
-2706 UNKNOWN
-2707 UNKNOWN
-2708 UNKNOWN
-2709 UNKNOWN
-2710 UNKNOWN
-2711 UNKNOWN
-2712 UNKNOWN
-2713 UNKNOWN
-2715 UNKNOWN
-2716 UNKNOWN
-2717 UNKNOWN
-2718 UNKNOWN
-2719 UNKNOWN
-2800 UNKNOWN
-2810 UNKNOWN
-3000 UNKNOWN
-3001 UNKNOWN
-3002 UNKNOWN
-3003 UNKNOWN
-3500 UNKNOWN
-3600 UNKNOWN
-4000 UNKNOWN
-5000 UNKNOWN
-5001 UNKNOWN
-5002 UNKNOWN
-300101000 UNKNOWN
-300102000 UNKNOWN
-300103000 UNKNOWN
-300104000 UNKNOWN
-300105000 UNKNOWN
-300106000 UNKNOWN
-300107000 UNKNOWN
-300108000 UNKNOWN
-300109000 UNKNOWN
-300110000 UNKNOWN
-300111000 UNKNOWN
-300112000 UNKNOWN
-300113000 UNKNOWN
-300114000 UNKNOWN
-300115000 UNKNOWN
-300116000 UNKNOWN
-300117000 UNKNOWN
-300118000 UNKNOWN
-300119000 UNKNOWN
-300120000 UNKNOWN
-300121000 UNKNOWN
-300122000 UNKNOWN
-300123000 UNKNOWN
-300124000 UNKNOWN
-300125000 UNKNOWN
-300126000 UNKNOWN
-300127000 UNKNOWN
-300128000 UNKNOWN
-300129000 UNKNOWN
-300130000 UNKNOWN
-300131000 UNKNOWN
-300132000 UNKNOWN
-300133000 UNKNOWN
-300134000 UNKNOWN
-300135000 UNKNOWN
-300136000 UNKNOWN
-300137000 UNKNOWN
-300138000 UNKNOWN
-300139000 UNKNOWN
-300140000 UNKNOWN
-300141000 UNKNOWN
-300142000 UNKNOWN
-300143000 UNKNOWN
-300144000 UNKNOWN
-300145000 UNKNOWN
-300145010 UNKNOWN
-300145020 UNKNOWN
-300145030 UNKNOWN
-300145040 UNKNOWN
-300145050 UNKNOWN
-300145060 UNKNOWN
-300145070 UNKNOWN
-300145080 UNKNOWN
-300145090 UNKNOWN
-300145100 UNKNOWN
-300145110 UNKNOWN
-300145120 UNKNOWN
-300145130 UNKNOWN
-300145140 UNKNOWN
-300145150 UNKNOWN
-300145160 UNKNOWN
-300145170 UNKNOWN
-300145180 UNKNOWN
-300145190 UNKNOWN
-300145200 UNKNOWN
-300145210 UNKNOWN
-300145220 UNKNOWN
-300145230 UNKNOWN
-300145240 UNKNOWN
-300145250 UNKNOWN
-300145260 UNKNOWN
-300145270 UNKNOWN
-300145280 UNKNOWN
-300145290 UNKNOWN
-300145300 UNKNOWN
-300145310 UNKNOWN
-300145320 UNKNOWN
-300145330 UNKNOWN
-300145340 UNKNOWN
-300145350 UNKNOWN
-300145360 UNKNOWN
-300145370 UNKNOWN
-300145380 UNKNOWN
-300145390 UNKNOWN
-300145400 UNKNOWN
-300145410 UNKNOWN
-300145420 UNKNOWN
-300145430 UNKNOWN
-300145440 UNKNOWN
-300145450 UNKNOWN
-300145460 UNKNOWN
-300145470 UNKNOWN
-300145480 UNKNOWN
-300145490 UNKNOWN
-300145500 UNKNOWN
-300145510 UNKNOWN
-300145520 UNKNOWN
-300145530 UNKNOWN
-300145540 UNKNOWN
-300145550 UNKNOWN
-300145560 UNKNOWN
-300145570 UNKNOWN
-300145580 UNKNOWN
-300145590 UNKNOWN
-300145600 UNKNOWN
+805 805: Dragon head stone and dragon body stone check 
+806 806: Confirmation of advice 
+807 807: Spell seal confirmation 
+808 808: Weapon Enchantment Confirmation 
+809 809: Lloyd's protection confirmation 
+810 810: Confirmation of damage to the deceased 
+811 811: Spelling Pariconfirm 
+812 812: Mimicry for control confirmation 
+813 813: Decoy for control confirmation 
+814 814: Enchantment confirmation 
+815 815: No sound, for fall control confirmation 
+816 816: Lucky Gauntlet 
+817 817: For checking the maximum HP maximum increase or decrease 
+818 818: Maximum equipment for checking weight rise 
+819 819: Equipment for checking the amount of durability decrease 
+820 820: Backstub disabled headshot for checking 
+821 821: For checking tough shaving values 
+822 822: Dying Attack And Defense ? For Confirmation 
+823 823: Left and right weapons hidden 
+824 824: Strong bare weapons 
+825 825: Reduction of dead & spiritual demerits 
+826 826: Check the effect of detoxifying 
+827 827: Item Check 
+828 828: Check spelling slots 
+829 829: Dry finger check 
+830 830: Check for rise of science and faith 
+831 831: Priority lock-on check 
+832 832: Back damage shoulder replacement 
+880 880: Menu SFX Display Confirmation Character 
+881 881: Damage Accumulation Barrett Generation 
+882 882: For checking attribute defenses 
+883 883: Seven Colored Stones 
+884 884: Psychic Shader 
+885 885: Shortening the chanting time & extending the effect time 
+886 886: Forced Raw Person Display 
+887 887: Ignition stone 
+900 900: Barrett Confirms (Spider Queen's Song Sword) 
+901 901: Barrett confirms (Queen Knight A's two-handed sword) 
+902 902: Barrett confirms (Queen Knight B' mallet) 
+903 903: Barrett confirms (Queen Knight C's two-handed sword) 
+904 904: Barrett Confirms (Dragon's Oversized Sword) 
+905 905: Barrett Confirms (Dragon's Great Sword) 
+906 906: Barrett Confirms (Moonlight Sword) 
+907 907: Barrett confirms (evangelist's three-fork spear) 
+908 908: Barrett confirms (queen's bow) 
+909 909: Barrett Confirms (Demon Knight's Oversized Sword) 
+910 910: Barrett Confirms (Mirror Knight's Two-Handed Sword) 
+911 911: Barrett confirmation (two-handed mallet of the iron daemon) 
+912 912: Barrett Confirms (Salamander Spear) 
+913 913: Barrett Confirms (Ornstein Spear) 
+922 922: Effect confirmation (blade of chaos) 
+923 923: Effect confirmation (King Van Grad's two-handed sword) 
+924 924: Effect confirmation (King Van Grad's oversized sword) 
+925 925: Effect confirmation (sinner's two-handed sword) 
+926 926: Effect Confirmation (Mailbreaker) 
+927 927: Effect confirmation (Ricardo's sting) 
+928 928: Effect confirmation (meat cleaver) 
+929 929: Effect confirmation (one-handed axe of immortal advanced soldier) 
+930 930: Effect confirmation (cleric's one hand mallet) 
+931 931: Effect confirmation (housekeeper's tama) 
+932 932: Effect confirmation (Dairyu fang) 
+933 933: Effect Confirmation (Lutzern) 
+934 934: Effect confirmation (the spear of the sacred tree of the brain stem) 
+935 935: Effect confirmation (yadokari's claw) 
+936 936: Effect confirmation (elder whip) 
+937 937: Effect confirmation (silver chariot one hand bow) 
+938 938: Effect confirmation (fairy shrine maiden's wand) 
+939 939: Effect confirmation (dragon one-handed bell) 
+940 940: Effect confirmation (queen's one-handed bell) 
+941 941: Effect confirmation (one-handed bell of the dark master) 
+942 942: Effect confirmation (shield bell) 
+943 943: Effect confirmation (fire of magic) 
+944 944: Effect confirmation (cleric's medium shield A) 
+945 945: Effect confirmation (cleric's medium shield B) 
+946 946: Effect check (phantom night left shield) 
+947 947: Effect Confirmation (Mirror Knight Shield) 
+948 948: Effect confirmation (large wheel kite shield) 
+949 949: Effect confirmation (large shield of evil eyes) 
+950 950:Lv.20 Status Variation Check 
+951 951:Lv.100 Status Variation Display 
+952 952: Lv.150 Status Variation Display 
+953 953: Lv.500 Status Variation Display 
+954 954: Lv.999 Status Variation Check 
+980 980: For landing SFX confirmation 
+994 994: Assault spear and song sword confirmation 
+1001 1001: For placement check 
+1002 1002: Spell check 
+1003 1003: Spell check - Magic 1 
+1004 1004: Spell Check - Magic 2 
+1005 1005: Spell Check - Magic 3 
+1006 1006: Spell Check - Magic 4 
+1007 1007: Spell Check - Magic 5 
+1008 1008: Spell Check - Magic 6 
+1010 1010: Spell check - Miracle 1 
+1011 1011: Spell Check - Miracle 2 
+1012 1012: Spell check - Miracle 3 
+1013 1013: Spell check - Miracle 4 
+1014 1014: Spell Check - Miracle 5 
+1020 1020: Spell Check - Spell Surgery 1 
+1021 1021: Spell Check - Spell Surgery 2 
+1022 1022: Spell Check - Spell Surgery 3 
+1023 1023: Spell Check - Spell Surgery 4 
+1024 1024: Spell Check - Spell Surgery 5 
+1030 1030: Spell check - Dark Art - Demon 1 
+1031 1031: Spell check - Dark Art - Devil 2 
+1040 1040: Spell check - Dark Art - Bizarre 1 
+1041 1041: Spell check - Dark Art - Bizarre 2 
+1106 1106: DLC Weapon Confirmation 1 
+1107 1107: DLC Weapon Confirmation 2 
+1108 1108: Shield Design Contest 
+1116 1116: Bow Check 
+1181 1181: SFX Non-Drawing Test 1 
+1182 1182: SFX Non-Drawing Test 2 
+1183 1183: SFX Non-Drawing Test 3 
+1190 1190: Equipment enhancement test 
+1200 1200: Pledge "None" 
+1201 1201: Pledge "Sun Warrior" 
+1202 1202: Pledge "Guardian Knight Lv.0" 
+1203 1203: Pledge "Guardian Knight Lv.1" 
+1204 1204: Pledge "Guardian Knight Lv.2" 
+1205 1205: Pledge "Guardian Knight Lv.3" 
+1206 1206: Pledge "Blood Dark Spirit Lv.0" 
+1207 1207: Pledge "Blood Dark Spirit Lv.1" 
+1208 1208: Pledge "Blood Dark Spirit Lv.2" 
+1209 1209: Pledge "Blood Dark Spirit Lv.3" 
+1210 1210: Pledge "Seikyo" 
+1211 1211: Pledge "The King of Rats" 
+1212 1212: Pledge "Bell Guard" 
+1213 1213: Pledge "Koryu" 
+1214 1214: Pledge "Strong man" 
+1215 1215: Pledge "Pilgrimage to the Abyss Lv.0" 
+1216 1216: Pledge "Pilgrimage to the Abyss Lv.1" 
+1217 1217: Pledge "Pilgrimage to the Abyss Lv.2" 
+1218 1218: Pledge "Pilgrimage to the Abyss Lv.3" 
+3000 3000: Heaviest equipment 
+3001 3001: Translucent drawing equipment 
+3002 3002: Heavy cross equipment 
+3003 3003- Steam version of the heaviest equipment 
+300101000 Lv.11::Gap Sinus 
+300102000 Lv.17:: Maduro 
+300103000 Lv.19:: Decaying Giant Forest 
+300104000 Lv.23:: Decaying Giant Forest: Boss Battle Route 
+300105000 Lv.25:: Decaying Giant Forest: WaterIng Around 
+300106000 Lv.25:: Heide Great Fire Tower 
+300107000 Lv.30:: Hidden Port 
+300108000 Lv.32:: The Shadow of the Hollow Forest: The Road to the Forest, Madeula Connection , To the Branch Tower 
+300109000 Lv.33:: Hunting Forest 
+300110000 Lv.34:: Heide Great Fire Tower: The Blue Cathedral 
+300111000 Lv.35:: Decaying Giant Forest: Bay Grant 
+300112000 Lv.35:: Prison of Oblivion 
+300113000 Lv.39:: Prison of Oblivion: The Bell Tower of the Moon 
+300114000 Lv.40::: Valley of The Reservoir 
+300115000 Lv.41:: Decaying Giant Forest: Turtle Route 
+300116000 Lv.42::Reservoir Valley: Tower of The Soil 
+300117000 Lv.46:: The Tomb of the Saints 
+300118000 Lv.47:: Reservoir Valley: Boss Battle Route 
+300119000 Lv.48:: Hunting Forest: Death penalty 
+300120000 Lv.50:: Scum bottom 
+300121000 Lv.54:: Prison of Oblivion: The Tower of Sinners 
+300122000 Lv.56::Molten Iron Castle 
+300123000 Lv.57::Molten Castle: The Bell Tower of the Sun 
+300124000 Lv.59:: Forest of Shadows: First Half 
+300125000 Lv.62:: Decaying Giant Forest: Salamander 
+300126000 Lv.63::Molten Castle: Boss Battle Route 
+300127000 Lv.65::Molten Castle: Medium Boss Route 
+300128000 Lv.65:: Forest of Shadows: The Second Half against the Boss 
+300129000 Lv.72:: The Door way of Faros 
+300130000 Lv.73:: Kiseki Street Gerdra 
+300131000 Lv.78:: Scum Bottom: Black Valley 
+300132000 Lv.79:: The Shadow of the Void: The Road to The Castle 
+300133000 Lv.99:: King's Castle Drunegreig 
+300134000 Lv.103:: The Shadow of the Void: To the House of Andy 
+300135000 Lv.104:: King's Castle D'Angreig: The Cloister of the King 
+300136000 Lv.106:: Altar of Amana 
+300137000 Lv.112:: Tomb of Immortality 
+300138000 Lv.114:: Anne Deal's House 
+300139000 Lv.118::The Nest of The Guard Dragon 
+300140000 Lv.120::Ritual Hall 
+300141000 Lv.123:: Memories of Giant Wasta 
+300142000 Lv.123:: Memories of Giant Row 
+300143000 Lv.128:: Memories of Giant O'Jay 
+300144000 Lv.130:: Throne of Fire 
+300145000 Lv.136:: The Old Dark Hole 
+300200000 First lap clear for lap check 
+300200010 Second lap clear for lap check 
+300200020 Third lap clear for lap check 
+300201000 Map check: Gap Cave 
+300202000 Map Check: Madura 
+300203000 Map Check: The Decaying Giant Forest 
+300206000 Map Check: Heide Great Fire Tower 
+300207000 Map Check: Hidden Port 
+300209000 Map Check: Hunting Forest 
+300210000 Map check: Heide Great Fire Tower: Blue Cathedral 
+300211000 Map Check: Decaying Giant Forest: Bay Grant 
+300212000 Map Check: Prison of Oblivion 
+300213000 Map Check: Prison of Oblivion: The Bell Tower of the Moon 
+300214000 Map Check: Reservoir Valley 
+300215000 Map Check: Decaying Giant Forest: Turtle Route 
+300216000 Map Check: Reservoir Valley: Tower of The Soil 
+300217000 Map Check: Saint's Tomb 
+300218000 Map Check: Valley of the Reservoir: Boss Battle Route 
+300219000 Map Check: Hunting Forest: Death penalty 
+300220000 Map Check: Scum Bottom 
+300221000 Map Check: Prison of Oblivion: Tower of Sinners 
+300222000 Map Check: Molten Iron Castle 
+300223000 Map Check: Molten Castle: The Bell Tower of the Sun 
+300224000 Map Check: Forest of Shadows: First Half 
+300225000 Map Check: Decaying Giant Forest: Salamander 
+300226000 Map Check: Molten Castle: Boss Battle Route 
+300227000 Map Check: Molten Castle: Medium Boss Route 
+300228000 Map Check: Forest of Shadows: The Late Boss 
+300229000 Map Check: The Door Way of Faros 
+300230000 Map Check: Kiseki-gai Gerdra 
+300231000 Map Check: Scum Bottom: Black Valley 
+300233000 Map check: King's Castle D'Angreig 
+300236000 Map Check: Altar of Amana 
+300237000 Map Check: Tomb of Immortality 
+300238000 Map Check: Anne Deal's House 
+300239000 Map Check: The Nest of The GuardDragon 
+300240000 Map check: Ritual Hall 
+300241000 Map Check: Memories of Giant Waswaste 
+300242000 Map Check: Memories of Giant Row 
+300243000 Map Check: Memories of Giant O'Jay 
+300244000 Map Check: Throne of Fire 
+300245000 Map Check: Old Dark Holes 

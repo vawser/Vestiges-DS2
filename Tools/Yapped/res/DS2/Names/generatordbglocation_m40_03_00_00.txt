@@ -1,0 +1,23 @@
+811 ?BOSS?Agadulan Stand 
+1000 [Before the block 1 hole] NPC for multi: traveler (man) 1 
+1002 [Block 1 lamp stand front] NPC for multi: Sniper (man) 
+1003 [Block 1 lamp stand front] MULTI NPC: Traveler (male) 3 
+1004 [Block 3 corpse room entrance] NPC for multi: heavy warrior (man) 
+1005 [Block 2 Kagesaka Exit] MULTI NPC: Yellow Robe (Male) 
+1006 [Block 2 Kagesaka Exit] MULTI NPC: Axeman (Male) 1 
+1007 [Before the block 2 hole] NPC for multi: Axeman (man) 3 
+1008 [Before the block 2 holes] NPC for multi: Yellow wife (female) 
+1009 [Block 3 corpse room] NPC for multi: Knight (man) 
+1012 [Block 3 goal front] NPC for multi: Queen (female) 
+2000 ?Boss Attendant?Wormhole 01 
+2001 ?Boss Attendant?Wormhole 02 
+2002 ?Boss Attendant?Wormhole 03 
+2003 ?Boss Attendant?Wormhole 04 
+2004 ?Boss Attendant?Wormhole 05 
+2005 ?Boss Attendant?Wormhole 06 
+2006 ?Boss Attendant?Wormhole 07 
+2100 ?BOSS?Agadulan Stand_Alterego 
+3000 [Stage 1_ Appeared in _PC4 before lift] Forest Keeper: Bell 
+3100 [Stage 2_ Appeared in _PC4 Corpse Yamayoko] The Keeper Cane of the Forest 
+3200 [Stage 2_ Shadow Esakashita _PC4 appeared in the person] mori's keeper : Bell 
+3210 [Appeared in the front hill _PC4 of the hole] the keeper of the forest: cane 

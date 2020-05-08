@@ -1,0 +1,63 @@
+95 【NPC】Sancho 
+96 【NPC】Sancho (Ghost) 
+175 【NPC Curiosity】 NPC Mag Herald 
+176 【NPC Curiosity】 NPC Mag Herald (Ghost) 
+570 【Bell Guard Area】Sancho 
+576 [Before The Demon Knight: White Spirit] Female Knight 
+806 【BOSS】 Damon Knight 
+807 【BOSS】 Molten Iron Daemon 
+1020 [Door of the castle _ Proximity] Daemon armor (deceased): Mass production type: sword_1 
+1021 [Door of the castle _ Proximity] Daemon armor (deceased): Mass production type: sword_2 
+2000 [Fire-blowing cow detour stairs on the stairs _ Proximity] Daemon armor (deceased): Mass production type: sword 
+2015 [Fire-blowing cow image _ door opening and start _ proximity] daemon armor (deceased): mass production type: sword_1 
+2016 [Fire-blowing cow image _ door opening and start _ proximity] daemon armor (deceased): mass production type: sword_2 
+2020 [Passage in the back of the fire-blowing cow statue] [ ] Demon armor (deceased): mass production type: bow 
+2030 [Exit of the passage exit in the back of the fire-blowing cow image] Daemon armor (deceased): mass production type: sword_1 
+2031 [Exit of the passage exit in the back of the fire-blowing cow image] Daemon armor (deceased): mass production type: sword_2 
+2040 [Fire-blowing cow statue soba 2nd round] Demon armor (deceased): Sword: Soul Black 
+3020 [Molten iron furnace left _ stairs back _ proximity] daemon armor (deceased): mass production type: sword 
+3025 [Molten iron furnace left _ ladder front _ battle] daemon armor (dead): mass production type: sword 
+3030 [Molten iron furnace left _ ladder on _ Sniper] Daemon armor (dead): bow: fire until approaching 
+3040 [Molten iron furnace left _ aisle under _ proximity 2nd lap] daemon armor (deceased): sword: full body flame soul black 
+3060 [Molten iron furnace central _ bridge top _ dash to the edge when you start] daemon armor (dead): mass production type: sword 
+3070 [In the molten iron furnace _ ambush 2nd lap] daemon armor (deceased): mass production type: sword_1: Soul Black 
+3071 [In the molten iron furnace _ ambush 2nd lap] daemon armor (deceased): mass production type: sword_2: Soul Black 
+3080 [Shortcut Bridge_ Course Block] Daemon Armor (Deceased): Sword 
+3090 [Right of molten iron furnace _ white door front] Daemon armor (deceased): bow 
+3110 [After the boss _ passage back] Demon armor (dead): sword 
+4010 [Inter-building passage _ scaffolding] kingdom heavy soldiers (1) bridge destruction 
+4015 [Approaching toward the _PC the aisle between the buildings (scaffolding)], the kingdom heavy soldiers 
+4020 [Molten iron jar passage _long distance] daemon armor (dead): bow 
+4025 [Lift floor _ Proximity] Kingdom Heavy Soldiers (1)1 
+4031 【Lift Floor_Long Distance】Damon Armor (Deceased) Bow 1 
+4032 [Lift floor _ long distance] Daemon armor (deceased): Mass production type bow 1 
+4033 [Lift floor _ long distance] Daemon armor (deceased): Bow 2 
+4035 [Lift floor ladder water jar near_ treasure chest mimetic] [mimic] iron 
+4036 [Giant Molten Iron Jar Key Room Stairs 2nd Round] Demon Armor (Deceased): Sword: Soul Black 
+4038 [Lift floor _ Proximity] Kingdom Heavy Soldiers (1)2 
+4039 [Stairs to the melting jar] Ishimori 
+4040 [Huge molten iron jar _ ambush] Daemon armor (deceased): Mass production type: sword_1 
+4041 [Giant molten iron jar _ ambush 2nd lap] daemon armor (deceased): mass production type: sword: Soul Black 
+4050 [Giant Molten Iron Pot Rooftop _ Shooting] Demon Armor (Deceased): Bow: Shooting Until Approaching_1 
+4051 [Giant Molten Iron Pot Rooftop _ Shooting] Demon Armor (Deceased): Bow: Shooting Until Approaching_2 
+4052 [Giant Molten Iron Pot Rooftop _ Shooting] Demon Armor (Deceased): Bow: Shooting Until Approaching_3 
+4100 [Passage to the boss room _ course blocking 1] kingdom heavy soldiers (1): narrow-room combat 
+5000 [Damon Night Boss Room] Bay Grant: Luggage Available 
+7002 [Near the Fountain of Recovery _ Sniper] Demon Armor (Dead): Bow: Shooting Until Approaching_3 
+7003 [3 white door of the fire-blowing cow _ ambush] kingdom heavy soldiers: color (1) 
+7005 [Passage to the boss room _ course block3] kingdom heavy soldiers: color (1): narrow-place combat 
+7006 [Inside the cow image _ ladder guard] Ming-iron castle: light heavy soldier 
+7007 [Bell Guard Area_ For Pledge Relief] NPC Samurai Saucer 
+7008 [Treasure chest front of the scorching scaffolding _ proximity 2nd lap] Demon armor (deceased): Sword: Soul Black 
+7009 [Second lap attacked when you go to pick up items] [Damon Armor (Deceased): Mass Production: Sword: Soul Black] 
+7011 [Toge room_ combat] kingdom heavy soldiers: color (1)1: narrow-room combat 
+8000 [Bell Guard Area_Combat] NPC Warrior (Male) Bell Guard 1: Oversized Sword & Great Shield 
+8005 [Bell Guard Area_Combat] NPC Warrior (Man) _2 Bell Guard 2: Crossbow & Crossbow 
+8015 [Bell Guard Area_Combat] NPC Warrior (Man) _4 Bell Guard 3: Wand & Spear 
+8020 [Bell Guard Area_Combat] NPC Warrior (Man) _5 Bell Guard 1: Oversized Sword & Great Shield 
+8025 [Bell Guard Area_ Battle Round] NPC Warrior (Man) _6 Bell Guard 2: Crossbow & Crossbow 
+8100 [Bell Guard Area_ Battle] Bell Guard: Zako 1 
+8110 [Bell Guard Area_ Battle] Bell Guard: Zako 2 
+8120 [Bell Guard Area_ Battle] Bell Guard: Zako 3 
+8130 [Bell Guard Area_ Battle] Bell Guard: Zako 4 
+8140 [Bell Guard Area_ Battle] Bell Guard: Zako 5 

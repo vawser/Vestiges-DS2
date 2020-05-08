@@ -1,0 +1,6 @@
+0 Enhanced specification test 
+100100 Dagger 
+100200 Direct sword 
+100300 Two-handed sword 
+100400 Two-handed oversized sword 
+100500 Test Moonlight Sword 

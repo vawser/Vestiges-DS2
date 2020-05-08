@@ -1,0 +1,28 @@
+15100000 Kingdom Heavy Soldiers: Color (1): Standard 
+15100010 Kingdom Heavy Soldiers: Color (1): Narrow-minded Combat 
+15100020 Kingdom Heavy Soldier: Color (1): Bridge Breaking 
+21300000 【Ishimori】 
+30500000 Daemon Knight 
+30600000 [Demon Armor (dead): Sword] 
+30600800 [Demon Armor (Deceased): Sword: Molten Castle: Full-body Flame Soul Black 
+30600900 [Damon Armor (Deceased): Sword: Soul Black 
+30601000 [Damon Armor (Dead): Bow】 
+30601010 [Demon armor (dead) bow] shooting until approaching 
+31801000 [Bay Grant: Luggage available] 
+31900000 [Damon Armor (deceased): Mass production type: Sword] 
+31900900 [Damon Armor (Deceased): Mass Production: Sword: Soul Black] 
+31901000 [Damon Armor (deceased): Mass production type: Bow] 
+32100000 [[[[]-mimic: iron] 
+60700000 [Molten iron daemon] 
+75200010 NPC Female Knight: White Phantom 
+75300000 NPC Bell Mori Sancho 
+75300001 NPC Bell Mori Sancho (Ghost) 
+75300010 NPC Bell Mori Sancho: Black Phantom 
+75300020 [Bell Guard: Zako: Molten Castle] 
+77200000 NPC Curiosity Shop 
+77200001 NPC Curiosity (Ghost) 
+83600000 [Molten Castle: Samurai Saucer] 
+83610000 [Bell Guard 1] Extra Large Sword Large Shield] 
+83620000 [Bell Guard 2] Crossbow 
+83630000 [Bell Guard 3: Cane & Spear] 
+83640000 [Molten Castle: Light Heavy Soldiers] 

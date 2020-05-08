@@ -1,36 +1,36 @@
-0 UNKNOWN
-10 UNKNOWN
-20 UNKNOWN
-30 UNKNOWN
-40 UNKNOWN
-50 UNKNOWN
-60 UNKNOWN
-70 UNKNOWN
-80 UNKNOWN
-90 UNKNOWN
-100 UNKNOWN
-110 UNKNOWN
-120 UNKNOWN
-130 UNKNOWN
-140 UNKNOWN
-150 UNKNOWN
-400 UNKNOWN
-410 UNKNOWN
-420 UNKNOWN
-430 UNKNOWN
-500 UNKNOWN
-600 UNKNOWN
-610 UNKNOWN
-620 UNKNOWN
-700 UNKNOWN
-710 UNKNOWN
-720 UNKNOWN
-800 UNKNOWN
-900 UNKNOWN
-1000 UNKNOWN
-1400 UNKNOWN
-1500 UNKNOWN
-1600 UNKNOWN
-1700 UNKNOWN
-1800 UNKNOWN
-2000 UNKNOWN
+0 Without 
+10 Dagger 
+20 Direct sword 
+30 Two-handed sword 
+40 Curved Sword 
+50 Oversized Sword 
+60 Double-edged sword 
+70 Swords 
+80 Axe 
+90 Hammer 
+100 Spear 
+110 Fist 
+120 Whip 
+130 Shooting 
+140 Catalyst 
+150 Shield 
+400 Helmet 
+410 Armor 
+420 Kote 
+430 Toeto 
+500 Ring 
+600 Arrows & Bolts 
+610 ?Prohibited use and output required?Arrow 
+620 ?Prohibited use and output required? Bolt 
+700 Active 
+710 Passive 
+720 Source 
+800 Spelling 
+900 Gesture 
+1000 Shop Weapons 
+1400 Shop Armor 
+1500 Shop Ring 
+1600 Shop Arrow 
+1700 Shop Items 
+1800 Shop Spell 
+2000 Warehouse 

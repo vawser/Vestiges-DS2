@@ -49,7 +49,7 @@
 64520000 Soul of Aava, the King's Pet
 64530000 Soul of Elana, Squalid Queen
 64540000 Soul of Nadalia, Bride of Ash
-64550000 Soul ofAlsanna, Silent Oracle
+64550000 Soul of Alsanna, Silent Oracle
 64560000 Soul of Sir Alonne
 64580000 Soul of the Ivory King
 64590000 Soul of Zallen, the King's Pet

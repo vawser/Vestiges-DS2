@@ -1,0 +1,165 @@
+1 Test 
+21200001 【Wyvern】 Head 
+21200002 【Wyvern】 Fuselage 
+21200003 [Wyvern] left arm (wing) 
+21200004 【Wyvern】 Right Arm (Wing) 
+21200005 [Wyvern] left leg 
+21200006 [Wyvern] right leg 
+21200007 [Wyvern] tail 
+21200101 【Wyvern】 Head 
+21200102 【Wyvern】 Fuselage 
+21200103 [Wyvern] left arm (wing) 
+21200104 【Wyvern】 Right Arm (Wing) 
+21200105 [Wyvern] left leg 
+21200106 [Wyvern] right leg 
+21200107 [Wyvern] tail 
+21200201 【Wyvern】 Head 
+21200202 【Wyvern】 Fuselage 
+21200203 [Wyvern] left arm (wing) 
+21200204 【Wyvern】 Right Arm (Wing) 
+21200205 [Wyvern] left leg 
+21200206 [Wyvern] right leg 
+21200207 [Wyvern] tail 
+21200301 【Wyvern】 Head 
+21200302 【Wyvern】 Fuselage 
+21200303 [Wyvern] left arm (wing) 
+21200304 【Wyvern】 Right Arm (Wing) 
+21200305 [Wyvern] left leg 
+21200306 [Wyvern] right leg 
+21200307 [Wyvern] tail 
+30500001 [Demon Knight] Head 
+30500002 [Demon Knight] fuselage 
+30500003 [Demon Knight] left arm 
+30500004 [Demon Knight] right arm 
+30500005 [Demon Knight] Left Foot 
+30500006 [Demon Knight] right foot 
+30960001 [New Giant Senior Soldier (Deceased)]] Head 
+30960002 [New Giant Senior Soldier (Deceased)]Left Arm 
+30960003 [New Giant Senior Soldier (Deceased)]Right Arm 
+30960004 [New Giant Senior Soldier (Deceased)]Fuselage 
+30960005 [New Giant Senior Soldier (Deceased)]Left Foot 
+30960006 [New Giant Senior Soldier (Deceased)]Right Foot 
+30970001 [New Giant Senior Soldier (Live)] Head 
+30970002 [New Giant Senior Soldier (Born)]] Fuselage 
+30970003 [New Giant Senior Soldier Sei- Raw] Left Arm 
+30970004 [New Giant Senior Soldier (Born)] Right Arm 
+30970005 [New Giant Senior Soldier (Live)] Left Foot 
+30970006 [New Giant Senior Soldier (Live)] Right Foot 
+32600001 [Butcher] right arm 
+32600002 [Butcher] left arm 
+32600003 [Butcher] right shoulder 
+32600004 [Butcher] left shoulder 
+32600005 [Butcher] torso 
+32600006 [Butcher] head 
+33200001 [Queen Knight A] Head 
+33200002 [Queen Knight A] Torso 
+33200003 [Queen Knight A] Left Arm 
+33200004 [Queen Knight A] Right Arm 
+33200005 [Queen Knight A] Left Foot 
+33200006 [Queen Knight A] Right Foot 
+33200009 [Queen Knight A] Shield 
+33300001 [Queen Knight B] Head 
+33300002 [Queen Knight B] Torso 
+33300003 [Queen Knight B] Left Arm 
+33300004 [Queen Knight B] Right Arm 
+33300005 [Queen Knight B] Left Foot 
+33300006 [Queen Knight B] Right Foot 
+50000001 [Javaza hat] tail 
+50000002 【Javaza Hat】 Lower Chin 
+50000003 [Jabazahat] left arm 
+50000004 【Jabazahat】 Right Arm 
+50000005 【Javazahat】 Belly 
+50100001 【Naga】 Tail 
+50200001 [Manscorpion ♂] Upper body 
+50200002 [Manscorpion ♂] scorpion fuselage 
+50200003 [Manscorpion ♂] left scissors 
+50200004 [Manscorpion ♂] right scissors 
+50200005 [Manscorpion ♂] tail 
+50300001 [Manscorpion ♀] upper body 
+50300002 [Manscorpion ♀] scorpion fuselage 
+50300003 [Manscorpion ♀] right scissors 
+50300004 【Manscorpion ♀】 Right Left Scissors 
+50300005 [Manscorpion ♀] left tail 
+50300006 [Manscorpion ♀] right tail 
+50400001 [Mirror Night]　Pelvis Pelvis 
+50400002 [Mirror Night]　L_Thigh Left Thigh 
+50400003 [Mirror Night]　L_Calf Left Calf 
+50400004 [Mirror Night]　L_Foot Left Foot 
+50400005 [Mirror Night]　R_Thigh Right Thigh 
+50400006 [Mirror Night]　R_Calf Right Calf 
+50400007 [Mirror Night]　R_Foot Right Foot 
+50400008 [Mirror Night]　Spine Spine Spine 
+50400009 [Mirror Night]　Spine1 Spine 1 
+50400010 [Mirror Night]　Head Head 
+50400011 [Mirror Night]　L_UpperArm Upper left arm 
+50400012 [Mirror Night]　L_UpperArm Left forearm 
+50400013 [Mirror Night]　L_Hand Left Hand 
+50400014 [Mirror Night]　L_Weapon Left Weapon Shield 
+50400015 [Mirror Night]　R_UpperArm Upper right arm 
+50400016 [Mirror Night]　R_UpperArm Right All Arms 
+50400017 [Mirror Night]　R_Hand Right Hand 
+51460001 The Old King' Head 
+51460002 [Old King] Fuselage 
+51460003 [Old King] Left Arm 
+51460004 [Old King] right arm 
+51460005 [Old King] Left Foot 
+51460006 [Old King] right foot 
+60000001 【Old Dragon】 Head 
+60000002 [Old dragon] left front leg 
+60000003 [Old Dragon] right front leg 
+60000004 [Old dragon] left hind leg 
+60000005 [Old dragon] right hind legs 
+60000006 [Old Dragon] Tail 
+60100001 [Salamander] tail 
+60100002 【Salamander】 Throat 
+60102001 [Salamander (after petrification)] tail 
+60200001 【Beautiful Voice Frog】 Head 
+60200002 [Beautiful voice frog] lower chin 
+60200003 [Beautiful voice frog] left front leg 
+60200004 [Beautiful voice frog] right front leg 
+60200005 [Beautiful voice frog] left hind leg 
+60200006 [Beautiful voice frog] right hind legs 
+60200007 [Beautiful voice frog] tail 
+60200008 【Beautiful Voice Frog】 Contents 
+60300001 [Spider Queen] Body and Legs 
+60300002 [Spider Queen] Head (front) 
+60300003 [Spider Queen] Head (after) 
+60310001 [Spider Queen (Cliff)] Body and Legs 
+60310002 【Spider Queen (Cliff)】 Head (Front) 
+60310003 [Spider Queen (Cliff) ] Head (rear) 
+60700001 [Iron iron daemon] head 
+60700002 [Molten iron daemon] fuselage 
+60700003 [Iron daemon] left arm 
+60700004 [Iron daemon] right arm 
+60700005 [Molten iron daemon] Left feather 
+60700006 [Molten iron daemon] right feather 
+60900001 [Captain of the Giant SS] head 
+60900002 [Leader of the Giant SS] before the left arm 
+60900003 [Captain of the Giant SS] right arm 
+60900004 [Leader of the Giant SS] after the left arm 
+60900005 [Giant SS Captain] right arm 
+60900006 [Captain of the Giant SS] left foot 
+60900007 [Captain of the Giant SS] right foot 
+61910001 [Silver Chariot: Horse Only]　LNeck horse's left head 
+61910002 [Silver Chariot: Horse Only]　RNeck Horse's Right Head 
+61910003 [Silver Chariot: Horse Only]　BodySpine Horse Body 
+61910004 [Silver Chariot: Horse Only]　LFleg horse's front left foot 
+61910005 [Silver Chariot: Horse Only]　RFleg horse's front right foot 
+61910006 [Silver Chariot: Horse Only]　LBleg horse's left foot 
+61910007 [Silver Chariot: Horse Only]　LBleg horse rear right foot 
+61911001 [Silver Chariot: Coalescence]　LNeck horse's left head 
+61911002 [Silver Chariot: Coalescence]　RNeck Horse's Right Head 
+61911003 [Silver Chariot: Coalescence]　BodySpine Horse Body 
+61911004 [Silver Chariot: Coalescence]　LFleg horse's front left foot 
+61911005 [Silver Chariot: Coalescence]　RFleg horse's front right foot 
+61911006 [Silver Chariot: Coalescence]　LBleg horse's left foot 
+61911007 [Silver Chariot: Coalescence]　LBleg horse rear right foot 
+61911008 [Silver Chariot: Coalescence]　Enemy Executioner 
+62700001 [Queen's armor form] head 
+62700002 [Queen's armor form] fuselage 
+62700003 [Queen's armor form] left arm 
+62700004 [Queen's armor form] right arm 
+62700005 [Queen's armor form] left skirt 
+62700006 [Queen's armor form] right skirt 
+62700007 [Queen's armor form] front skirt 
+62700008 [Queen's armor form] rear skirt 

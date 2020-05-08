@@ -1,0 +1,6 @@
+0 Group 0 
+1 Group 1 
+10 For tar OBJ (1) 
+11 For tar OBJ(2) 
+20 For dark ? bright 
+30 Giant senior soldier generation number judgment area 

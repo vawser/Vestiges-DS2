@@ -1,0 +1,140 @@
+1001 Intrusion Point 1-1 
+1002 Intrusion Point 1-2 
+1003 Intrusion Point 1-3 
+1004 Intrusion Point 1-4 
+1005 Intrusion Point 1-5 
+1006 Intrusion Point 1-6 
+1007 Intrusion Point 1-7 
+1008 Intrusion Point 1-8 
+1009 Intrusion Point 1-9 
+2001 Intrusion Point 2-1 
+2002 Intrusion Point 2-1 
+2003 Intrusion Point 2-3 
+2004 Intrusion Point 2-4 
+2005 Intrusion Point 2-5 
+2006 Intrusion Point 2-6 
+2007 Intrusion Point 2-7 
+2008 Intrusion Point 2-8 
+3001 Intrusion Point 3-1 
+3002 Intrusion Point 3-2 
+3003 Intrusion Point 3-3 
+3004 Intrusion Point 3-4 
+3005 Intrusion Point 3-5 
+4001 Intrusion Point 4-1 
+4002 Intrusion Point 4-2 
+4003 Intrusion Point 4-3 
+4004 Intrusion Point 4-4 
+4005 Intrusion Point 4-5 
+4006 Intrusion Point 4-6 
+4007 Intrusion Point 4-7 
+4008 Intrusion Point 4-8 
+4009 Intrusion Point 4-9 
+5001 Intrusion Point 5-1 
+5002 Intrusion Point 5-2 
+5003 Intrusion Point 5-3 
+5004 Intrusion Point 5-4 
+5005 Intrusion Point 5-5 
+5006 Intrusion Point 5-6 
+5007 Intrusion Point 5-7 
+6001 Intrusion Point 6-1 
+6002 Intrusion Point 6-2 
+6003 Intrusion Point 6-3 
+6004 Intrusion Point 6-4 
+7001 Intrusion Point 7-1 
+7002 Intrusion Point 7-2 
+7003 Intrusion Point 7-3 
+7004 Intrusion Point 7-4 
+7005 Intrusion Point 7-5 
+40000 【Advice blood character】Hidden door 2 
+40010 【Advice Blood Character】Hidden Door 2_02 
+40020 【Advice blood character】Hidden door 3 
+45000 [Blood character prohibited] hidden door 2 
+45010 [Blood character prohibited] hidden door 2_02 
+45020 [Blood character prohibited] hidden door 3 
+100000 Scaffold navigation switching area up and down_1 
+100001 Scaffold navigation switching area up and down_2 
+100002 Scaffold navigation switching area up and down_3 
+100003 Scaffold navigation switching area up and down_4 
+100004 Scaffold navigation switching area up and down_5 
+100005 Scaffold navigation switching area up and down_6 
+101900 Backlead Safety Points 
+200000 One door unlocking area of the bonfire room 
+500000 Bridge _Navimesh switching with lever_A 
+500001 Bridge_Navigation Mesh Switching with lever_B 
+500002 The bridge _navi mesh switching to fall with the lever_C 
+500003 Bridge_Navimesh switching with lever_D 
+600000 Scorching Furnace_Damage Area_01 
+600010 Scorching Furnace_Damage Area_02 
+600020 Navi mesh change in scorching furnace 
+800000 Boss: Demon Knight battle start judgment 
+900000 Navi mesh change of flame image 
+1000000 Navigation change of the iron bar opened with the bell lever 
+1102000 [Insect key] hidden door _navi mesh change 
+1200000 Falling scaffolding_left back_navimesh switching 
+1201000 Falling scaffolding_right back_navimesh replacement 
+1202000 Falling scaffolding_right-hand_navimesh switching 
+1203000 Falling scaffolding_left hand_navimesh switching 
+1500000 Boss: Molten iron daemon battle start determination 
+1501000 Boss: Starting point after the play against the Iron Demon 
+1502000 Boss: Placement position at the time of the iron daemon rematch 
+1700000 Bridge_Navi change point destroyed by enemies 
+1900000 Guillotine Door_Navimesh Switching 
+2300000 Navi mesh change of hidden door 1 
+2301000 Hidden Door Navi Mesh Change 2 
+2400000 Navi mesh change by barista destruction 
+10000000 【Bell Guard】Black Spirit Appearance Area 
+50001000 【Navi Point】Molten Iron Daemon_01 
+50001001 【Navi Point】Molten Iron Daemon_02 
+50001002 【Navi Point】Molten Iron Daemon_03 
+50001003 【Navi Point】Molten Iron Daemon_04 
+50001004 【Navi Point】Molten Iron Daemon_05 
+50001005 【Navi Point】Molten Iron Daemon_08 
+50001006 【Navi Point】Molten Iron Daemon_09 
+50001007 【Navi Point】Molten Iron Daemon_10 
+50001008 【Navi Point】Molten Iron Daemon_11 
+50001009 【Navi Point】Molten Iron Daemon_13 
+50002000 【Navi Point】Wandering Knight 
+50002010 [Navi point] daemon armor mass production type return point 1 
+50002020 [Navi point] daemon armor mass production type feedback point 2 
+50002030 【Navi point】Scaffold ing point to go up and down 1 
+50002040 [Navi point] scaffold return point to go up and down 2 
+50002050 【Navi Point】Bridge Destruction Personnel Movement Point 
+50003000 No entry area for other map connections 
+50004000 Enemy entry ban area at the entrance 
+50005000 Enemy entry prohibited area of bell guard area 
+51000000 Red Captain start area of the bridge in front of the castle 
+51000010 Red Captain Launch Area 2 of the bridge in front of the castle 
+51001000 Post-start bridge_mass production type start area 1 
+51001001 Post-start bridge_mass production type start area 1_2 
+51001010 Post-start bridge_mass production start area 2 
+51002000 Enemy launch area 1 before the fire-blown statue 
+51002010 Enemy launch area 2 before the fire-blown statue 
+51003000 Molten iron furnace left_Mass production type start 
+51004000 Start of the high ground archery on the left side of the molten railway road 
+51005000 Molten iron road left red captain generation area 
+51007000 Shortcut_Mass production start 
+51008000 White door destination_ Captain start area 1 
+51008010 White Door Ahead_ Captain Launch Area 2 
+51009000 Steelworks begin to destroy scaffolds 
+51010000 In front of the molten iron pot stairs and the heavy soldier start area 
+51011000 Molten iron pot area_Mass production type start area 
+51012000 Red Squad Launch Area Protecting Damage Floor_ Treasure Chest 
+51013000 falling scaffolding destination _ heavy soldier launch area 
+51014000 Falling scaffolding destination _ white door front heavy soldier start area 
+51015000 Mass production start area 1 on beams 
+51015010 Mass production start area 2 on beams 
+51016000 Triple Soldier Launch Area 
+51017000 Giant Molten Iron Pot Roof_Bow Shooting Start 
+51018000 Barista Oku_Treasure chest defense mass production type start area 
+51019000 Furnace daemon armor start area 
+51020000 Giant Molten Iron Jar Beam 2th Round Soul Black Launch Area 
+51021000 Enemy launch area 3 before the fire-blowing elephant 
+51022000 Molten iron furnace left red captain start area 
+51023000 【Bay Grant】Emerging Area 
+51023010 【Bay Grant】Movable Area 
+51024000 For the return of the former kingdom of the boss 
+51025000 For the return of the White Spirit Knight 
+58000000 Closed heavy soldiers_ only down attack 
+58001000 closed heavy warrior_ swinging attack only _ back side 
+59000000 Right towards the area_ bridge for the molten daemon warp 
+59001000 Left side towards area for molten daemon warp 

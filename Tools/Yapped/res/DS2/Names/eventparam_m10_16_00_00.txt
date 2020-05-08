@@ -1,0 +1,114 @@
+2000 Early iron bar rising with wall hole lever 
+2010 Iron bars rising with wall hole levers apart 
+2020 Iron bars rising with wall hole levers_ underground 
+2030 Iron bar_passage rising with wall hole lever 
+2040 Iron bar to rise with wall hole lever_ in front of boss 
+3000 Elevator (under boss room) 
+3010 Lift (boss room under) lever on 
+3020 Elevator (under boss room) under lever 
+3030 Elevator (under boss room) Initial position setting 
+4000 The lever where the bell bell rings 
+4010 Bell Guard_Net Reception 
+4020 Determination of lever use of bell guard_bell guard 
+5000 Navi mesh change of hidden door 1 
+5010 Hidden Door Navi Mesh Change 2 
+5020 Navi mesh change of hidden door 3 
+5030 Navi mesh change of hidden door 4 
+6000 ?Insect key?Hidden door (1) for start-up 
+6010 ?Insect Key?Hidden Door 
+6020 ?Insect Key?Hidden Door 
+6030 ?Insect Key?1_Navi mesh change of hidden door (1) 
+6040 ?Insect Key?2_Navi mesh change of hidden door (1) 
+6100 ?Insect Key?Hidden Door (2) For Starting 
+6110 ?Insect Key?Hidden Door 
+6120 ?Insect Key?Hidden Door (2)_Navi mesh change 
+8000 boss room lighting_right 
+8010 Boss Room Lighting_Left 
+8020 Change lock-on parameters in boss room 
+9000 Navi mesh change of wall 1 to be destroyed by flame barrel 
+9010 Navi mesh change of wall 2 to be destroyed by flame barrel 
+10000 Treasure corpse falls by the destruction of the yagura 
+11000 Navi mesh change by yagura destruction 1 
+11010 Navi mesh change by yagura destruction 2 
+11020 Navi mesh change 3 by yagura destruction 
+13000 When you hit a stone, the enemy enters the cage from the well and appears. 
+14000 Boss: Warrior in the Mirror_ Combat 
+14100 Navi mesh change of the hidden door of the boss room 1 
+14110 Navi mesh change of the hidden door of the boss room 2 
+14120 Navi mesh change 3 of the hidden door of the boss room 
+14130 Navi mesh change of the hidden door of the boss room 4 
+14140 Navi mesh change of the hidden door of the boss room 5 
+15000 Boss: Forgotten Sinners_ Combat 
+15010 Boss: Forgotten Sinners_ Poly Play 
+15020 Boss: Forgotten Sinner _ Zaco Launch 
+16000 Boss: Gargoyle (Zaco Boss) _ Battle 
+16010 Boss: Gargoyle statue to be launched sequentially 
+16050 Gargoyle to fly 
+17000 One-way door of the circle tower 
+17010 OBJ blocking one-way door 
+18010 Key door_2 opened with "Key of the Prison" 
+18030 Key door opened with "key of the prison" _4 
+18050 Key door opened in "Key of the prison" _6 
+18060 Key door opened in "Key of the prison" _7 
+18120 Key door opened with "key of the prison" _13 
+18130 Key door opened in "Key of the prison" _14 
+18140 Key door opened in "Key of the prison" _15 
+19000 Navi mesh change after the petrification of spell mania is released 
+22000 Rolling flame barrels _1F stairs 
+23000 One door open from the beginning 
+23010 The key door that has been open since the beginning 
+24000 Blacksmith's Treasure Chest 
+25000 Terminating Bonfire_ Sinner 
+26000 Torture Lift_Initialization 
+26010 torture lift_ up and running 
+26020 Torture Lift_ Action Judgment 
+27000 Elevator (former, hidden port) 
+27010 On elevator lever 
+27020 Lower elevator lever 
+28000 The key door that opens with the "old key" 
+29000 Launch enemy in Matryoshka destruction_1 
+29010 Launch enemy in Matryoshka destruction_2 
+30000 Open door 
+80000 Play ing spark 01_petrified stop destination prison 
+81000 Play ing seed fire 02_start point left hand room 
+82000 Regenerated seed fire 03_Outer wall advanced ahead of collapsed tower (hawk warp point) 
+83000 On the outer wall of the regeneration seed fire 04_bell guard area 
+84000 After the regeneration seed fire 05_flame barrel destruction wall 
+85000 Play seed fire 06_ boss mirror after warrior after diner 
+87000 play seed fire 08_ out of the tower away 
+87010 shop lineup extension_ forgotten sinners 
+90000 Trophy_ Sinner's Light 
+111270 NPC: Female Knight (Prison of Oblivion) 
+111271 NPC: Female Knight (Prison of Oblivion): Ghost 
+111272 OBJ: Female Knight (Prison of Oblivion): Tomb 
+111273 OBJ: Female Knight (Prison of Oblivion): Key Guide 
+111274 OBJ: Female Knight (Prison of Oblivion): Death Judgment 
+111275 OBJ: Female Knight (Prison of Oblivion): Appearance Judgment 
+111276 OBJ: Female Knight (Prison of Oblivion): White Phantom Sign Display 
+111277 OBJ: Female Knight (Prison of Oblivion): White Phantom 
+111280 NPC: Bell Guard: Vain 
+111281 NPC: Bell Guard: Vain: Ghost 
+111282 OBJ: Bell Guard: Vain: Tomb 
+111283 OBJ: Bell Guard: Vain: Key Guide 
+111284 NPC: Bell Guard: Black Phantom Appearance: Offline 
+111370 NPC: EX Blacksmith 
+111371 NPC:EX Blacksmith: Ghost 
+111372 OBJ:EX Blacksmith: Tomb 
+111373 OBJ:EX Blacksmith: Key Guide 
+111374 OBJ:EX Blacksmith: Permission to Move 
+111375 NPC:EX Blacksmith: After The Move 
+111376 OBJ:EX Blacksmith: Post-Movement Appearance Judgment 
+111377 OBJ:EX Blacksmith: Shop List 
+111400 NPC: Spell Mania 
+111401 NPC: Spell Mania: Ghosts 
+111402 OBJ: Spell Mania: Tomb 
+111403 OBJ: Spell Mania: Key Guide 
+111404 OBJ: Spell Mania: Petrified: Key Guide 
+111405 OBJ: Spell Mania: Petrified: Appearance Settings 
+111406 NPC: Spell Mania: After The Release of The Petrified 
+111407 NPC: Spell Mania: Permission to Move 
+118120 NPC for Multi: Sage (Female): White Phantom Sign Display 
+118200 NPC for Multi: Spearman (Male): Black Phantom Emerges 
+120050 Trophy: Bell Pledge (Prison of Oblivion) 
+120130 Trophy: Akertilla (Prison of Oblivion) 
+120140 Trophy: Skilled Worker 

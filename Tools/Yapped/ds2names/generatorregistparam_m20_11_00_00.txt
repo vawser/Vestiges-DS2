@@ -1,0 +1,21 @@
+10500000 Fairy Shrine Maiden: Bare Hands: General Purpose 
+10501000 Fairy Shrine Maiden: Cane: General Purpose 
+10501002 Fairy Shrine Maiden: Cane: Prayer 
+13100000 [Cleric (deceased)]] 
+13702200 【Necromancer】 
+14700100 [Deceased: The ♂ of the Clothes of the Sick: The Altar of Amana] 
+15300200 [Kingdom Soldier Escort: Axe Spear] 
+15500000 [Lizard man] 
+20510200 [Poison hornworm: acid] 
+20510201 【Poison hornworm: Acid_gas simultaneous injection suppression logi】 
+22000200 [Giant venomous horn: acid] 
+30000100 Auger (raw): Color (1): General purpose 
+30401000 [Banshee ( deceased ] Beautiful face : Physical education seat] 
+60200000 Beautiful Voice Frog 
+76000000 NPC Bard Girl 1  
+76000100 NPC Ginse poet Girl 1 (Ghost) 
+76010000 NPC Bard Girl 2 
+76010100 NPC Ginse poet Girl 2 (Ghost) 
+81000000 【NPC for Multi:Lancer (Female)]: White Spirit 
+82200300 【NPC for Multi: The Devil's Man】Black Spirit 
+83300000 【NPC】The Length of The Cannibal】 The Black Spirit 

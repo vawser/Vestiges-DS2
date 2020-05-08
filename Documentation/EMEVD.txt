@@ -1,0 +1,212 @@
+﻿#--------------------------------------
+# Commands
+#--------------------------------------
+CallMustSubEvent85x( <unk>, <event id>, <int>, <float>, <int> )
+ 850 - HealFlatAmountOverTime
+ 851 - HealPercentageAmountOverTime
+ 852 - Unknown
+
+CallMustSubEvent87x( <unk>, <event id>, <int>)
+ 870 - PreventStatusEffect
+ 871 - ClearStatusEffect
+ 872 - ApplyStatusEffect
+ 
+CallMustSubEvent93x( <unk>, <event id>, <arguments> )
+ 930 - ModifyPlayerSoulsAdditively
+ 931 - ModifyPlayerSoulsMultiplicatively
+ 
+UnknownCommand10013002( <int>, <int>, <float> )
+ 10 - Stamina Change
+ 20 - Defence Change
+ 30 - Resist/Durability Change
+ 40 - Poise/Stamina Damage Change
+ 60 - HP Trigger 
+ 70 - Poise Change
+ 80 - Revival Ring Change
+ 90 - Item Discovery Change
+ 100 - Soul Gain Change
+ 110 - On Kill Trigger
+ 120 - HP Regen Change
+ 130 - Falling Damage Change
+ 140 - Aggro Change
+ 150 - Max HP Change?
+ 160 - Spell Change
+ 170 - Bow Change
+ 180 - On Damage Trigger
+ 310 - Agape Ring
+ 
+UnknownCommand10004002( <float>, <float> )
+ 1 - HP/Stamina Regen
+
+UnknownCommand10013004( <int>, <float>, <int>. <float>, <int>, <int> );
+ 901 - Weapon Buff: Magic
+ 903 - Weapon Buff: Fire
+ 905 - Weapon Buff: Dark
+ 907 - Weapon Buff: Poison
+ 909 - Weapon Buff: Lightning
+ 921 - Weapon Buff: Bleed
+ 
+#--------------------------------------
+# Enums
+#--------------------------------------
+StateInfoType
+0 - Unknown0 - Immune to headshot stagger
+1 - Unknown1 - Immune to backstabs
+2 - Unknown2 - Ring of Life Protection
+3 - Unknown3 - Ring of Soul Protection
+4 - Unknown4 - 5% to crit for +50% damage
+6 - Unknown6 - Remain Human whilst Hollow
+10 - Unknown10 - Silence Footsteps
+15 - Unknown15 - Enemies attack Invader
+17 - Unknown17 - Hide left-hand weapon
+18 - Unknown18 - Hide right-hand weapon
+19 - Unknown19 - Item Discovery
+21 - Unknown21 - Soaked in Water (+100 Fire DEF, -100 Lightning DEF)
+22 - Unknown22 - Item Discovery Boost
+23 - Unknown23 - Apply Fire Status
+24 - Unknown24 - Homeward Bone
+25 - Unknown25 - Behind Damage Reduced
+27 - Unknown27 - Remain Human in Phantom Form
+28 - Unknown28
+29 - Unknown29 - Prevent damage from headshots
+31 - Unknown31 - Invisible Rolling
+33 - Unknown33
+34 - Unknown34
+39 - Unknown39
+40 - Unknown40
+41 - Unknown41
+42 - Unknown42 - Prevent Curse Buildup or Prevent Hollowing
+43 - Unknown43
+44 - Unknown44
+46 - Unknown46
+49 - Unknown49
+50 - Unknown50
+51 - Unknown51
+52 - Unknown52
+53 - Unknown53
+54 - Unknown54
+55 - Unknown55
+56 - Unknown56
+57 - Unknown57
+58 - Unknown58 - Prevent Curse Buildup or Prevent Hollowing
+59 - Unknown59 - Prevent Soul Gain
+60 - Unknown60
+61 - Unknown61
+
+MultiplicativeStatType
+0 - PoisonBuildup
+1 - BleedBuildup
+2 - Unknown2
+3 - CurseBuildup
+4 - IgniteBuildup
+5 - Unknown5 - Toxic Buildup
+6 - PetrifyBuildup
+7 - MaxHP
+8 - MaxStamina
+9 - EquipLoad
+11 - ThrustCounterattackDamageRate
+12 - Unknown12 - Physical DEF
+13 - Unknown13 - Magic DEF
+14 - Unknown14 - Fire DEF
+15 - Unknown15 - Lightning DEF
+16 - Unknown16 - Dark DEF
+17 - Unknown17 - Poison DEF
+18 - Unknown18 - Bleed DEF
+19 - Unknown19 - Petrify DEF
+20 - Unknown20 - Curse DEF
+22 - WeaponDegredationRate
+23 - ArmorDegradationRate
+24 - RingDegradationRate
+25 - OutgoingDamageRate
+26 - IncomingDamageRate
+27 - OutgoingPhysicalDamageRate
+28 - IncomingPhysicalDamageRate
+29 - Unknown29 - Hollowing
+30 - SoulGainRate
+39 - WeaponStability
+46 - Unknown46 - Item Discovery
+49 - Unknown49 - Item Discovery
+50 - MaxSpellUsages
+51 - SpellCastTime
+52 - SorceryPower
+53 - MiraclePower
+54 - PyromancyPower
+55 - HexPowerStaff
+56 - HexPowerChime
+57 - ShieldStability
+58 - OutgoingDamageRateII
+59 - IncomingDamageRateII
+60 - Unknown60
+61 - Unknown61 - Damage taken from behind
+62 - Unknown62 - 
+
+AdditiveStatType
+0 - Poise
+1 - Weight
+2 - AttackPoiseDamage
+3 - FallDamageProtectionModifier
+4 - CurrentHPRatio
+5 - CurrentHPRatio
+6 - Vigor
+7 - Endurance
+8 - Vitality
+10 - Strength
+11 - Dexterity
+12 - Intelligence
+13 - Faith
+14 - Adaptability
+17 - Unknown17
+18 - CurrentHP
+19 - Unknown19
+20 - AttunementSlots
+21 - AntiStabilityModifier
+22 - Unknown22
+
+PlayerPropertyType
+11 - HexSelfDamageStaff
+12 - HexSelfDamageChime
+13 - EquippedRightHandWeaponDurability
+14 - EquippedLeftHandWeaponDurability
+15 - EquippedWeaponsDurability
+16 - EquippedArmorDurability
+17 - EquippedRingsDurability
+18 - Unknown18 - Appear as White Phantom
+19 - Unknown19 - Player Light
+20 - Unknown20
+21 - Unknown21
+22 - Unknown22
+23 - Unknown23
+25 - Unknown25
+30 - Unknown30
+31 - Unknown31
+32 - Unknown32
+33 - Unknown33
+
+StatusEffectType
+0 - Poison
+1 - Bleed
+2 - Unknown2
+3 - Unknown3
+4 - Unknown4
+5 - Silence
+6 - Unknown6
+7 - Unknown7
+8 - Toxic
+9 - Unknown9
+10 - Unknown10
+11 - Unknown11
+12 - Unknown12
+13 - Unknown13
+14 - Unknown14
+
+BuffType
+0 - AllPhysical
+1 - Magic
+2 - Lightning
+3 - Fire
+4 - Dark
+5 - Poison
+6 - Bleed
+7 - Unknown7
+8 - Curse
+9 - Petrify

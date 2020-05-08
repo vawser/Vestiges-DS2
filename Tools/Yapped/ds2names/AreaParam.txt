@@ -1,0 +1,35 @@
+9910 Light and dark Lv. 0 
+9920 Light and dark Lv. 1 
+9930 Light and dark Lv. 2 
+9940 Light and dark Lv. 3 
+9950 Light and dark Lv. 4 
+10020000 Gap Sinus 
+10040000 Madura 
+10100000 Decaying Giant Forest 
+10140000 Kiishi-gai Gerdra 
+10150000 Anne Deal's House 
+10160000 Prison of Oblivion 
+10170000 Valley of the reservoir 
+10180000 Hidden Port 
+10190000 Iron Castle 
+10210000 King's Castle D'Angreig 
+10230000 Hunting Forest 
+10250000 Scum bottom 
+10270000 The Nest of The Guard Dragon 
+10290000 Maduro imaginary shadow forest connection road 
+10300000 Heide Great Fire Tower Hidden Port Connection Road 
+10310000 Heide Great Fire Tower 
+10320000 The Forest of Shadows of The Void 
+10330000 The Door way of Faros 
+10340000 Saint's Tomb 
+20100000 Memories of giants 
+20110000 Amana Altar 
+20210000 King's Castle D'Angreig 
+20240000 Tomb of Immortality 
+20260000 Memories of the Old Dragon 
+20620000 E3 Fort of resistance (modern) 
+20630000 E3 Iwamine Castle (past) 
+40030000 The Old Dark Hole 
+90000000 Ninja Test Map 
+99805004 Map for logic testing 
+99970000 Shimizu Test Map 

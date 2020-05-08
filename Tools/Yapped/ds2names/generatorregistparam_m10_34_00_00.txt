@@ -1,0 +1,12 @@
+12500000 Undead Citizen: Saint's Tomb: Battle 
+21300000 【Ishimori】 
+22600000 【Dog Mouse】 BOSS 
+22600010 [Dog rat] Zako_ combat 
+22600060 [Dog rat] boss's companion _ battle 
+22620000 [King of rats] Npc 
+22620001 [King of rats] NPC (Ghost) 
+33700015 [Amazing dead man: sword] laughing 
+33700020 [Amazing dead man: sword] hitting the wall 
+81100000 Saint's Tomb: Abandoned Saint 
+81110000 Saint's Tomb: Knight of the Saint 
+84920000 【NPC Ash Spirit】NPC for Multi: Transparent Armor 

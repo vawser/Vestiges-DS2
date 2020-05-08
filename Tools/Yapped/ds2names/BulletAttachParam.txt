@@ -1,0 +1,6 @@
+1000 Without 
+2000 Arrow 
+3000 Oya 
+4000 Bolt 
+5000 Throwing Axe 
+6000 Disk Shield 

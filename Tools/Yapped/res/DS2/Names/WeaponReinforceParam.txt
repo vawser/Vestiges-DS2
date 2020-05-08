@@ -176,9 +176,9 @@
 3403 Fists
 3404 Fists
 3405 Fists
-3406 Fists
-3407 Fists
-3408 Fists
+3406 Fists - Right-hand - Vanquisher's Seal
+3407 Fists - Left-hand - Vanquisher's Seal
+3408 Fists - Power Stance - Vanquisher's Seal
 3410 Claws
 3420 Malformed Claws
 3430 Manikin Claws
@@ -369,6 +369,7 @@
 11820 Bound Wooden Shield
 11830 Homunculus Wooden Shield
 11840 Transgressor's Leather Shield
-12000 UNKNOWN
-12010 UNKNOWN
-12020 UNKNOWN
+12000 Phantom - Small Shield 
+12010 Phantom - Medium Shield 
+12020 Phantom - Great Shield 
+

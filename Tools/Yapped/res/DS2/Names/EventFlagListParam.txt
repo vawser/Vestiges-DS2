@@ -1,562 +1,343 @@
-3500 UNKNOWN
-3510 UNKNOWN
-3520 UNKNOWN
-3521 UNKNOWN
-3522 UNKNOWN
-3523 UNKNOWN
-3524 UNKNOWN
-3525 UNKNOWN
-3540 UNKNOWN
-3550 UNKNOWN
-3551 UNKNOWN
-3552 UNKNOWN
-3560 UNKNOWN
-3570 UNKNOWN
-3580 UNKNOWN
-3590 UNKNOWN
-3600 UNKNOWN
-3610 UNKNOWN
-3620 UNKNOWN
-3621 UNKNOWN
-3622 UNKNOWN
-3623 UNKNOWN
-3630 UNKNOWN
-3631 UNKNOWN
-3632 UNKNOWN
-3634 UNKNOWN
-3640 UNKNOWN
-3650 UNKNOWN
-3651 UNKNOWN
-3652 UNKNOWN
-3653 UNKNOWN
-3660 UNKNOWN
-3661 UNKNOWN
-3662 UNKNOWN
-3663 UNKNOWN
-3664 UNKNOWN
-3670 UNKNOWN
-3671 UNKNOWN
-3672 UNKNOWN
-3673 UNKNOWN
-3680 UNKNOWN
-3681 UNKNOWN
-3682 UNKNOWN
-3690 UNKNOWN
-3691 UNKNOWN
-3692 UNKNOWN
-3693 UNKNOWN
-3694 UNKNOWN
-3695 UNKNOWN
-3700 UNKNOWN
-3710 UNKNOWN
-3711 UNKNOWN
-3712 UNKNOWN
-3713 UNKNOWN
-3720 UNKNOWN
-3730 UNKNOWN
-3740 UNKNOWN
-3750 UNKNOWN
-3760 UNKNOWN
-3761 UNKNOWN
-3762 UNKNOWN
-3770 UNKNOWN
-3771 UNKNOWN
-3772 UNKNOWN
-3780 UNKNOWN
-3790 UNKNOWN
-3800 UNKNOWN
-3801 UNKNOWN
-3802 UNKNOWN
-3810 UNKNOWN
-3820 UNKNOWN
-3821 UNKNOWN
-3822 UNKNOWN
-3830 UNKNOWN
-3840 UNKNOWN
-3850 UNKNOWN
-3860 UNKNOWN
-3861 UNKNOWN
-3862 UNKNOWN
-3870 UNKNOWN
-3880 UNKNOWN
-3890 UNKNOWN
-3900 UNKNOWN
-3910 UNKNOWN
-3920 UNKNOWN
-3930 UNKNOWN
-3940 UNKNOWN
-3950 UNKNOWN
-3960 UNKNOWN
-3970 UNKNOWN
-3999 UNKNOWN
-1002000 UNKNOWN
-1002001 UNKNOWN
-1002002 UNKNOWN
-1002099 UNKNOWN
-1004000 UNKNOWN
-1004001 UNKNOWN
-1004002 UNKNOWN
-1004003 UNKNOWN
-1004004 UNKNOWN
-1004005 UNKNOWN
-1004006 UNKNOWN
-1004007 UNKNOWN
-1004008 UNKNOWN
-1004009 UNKNOWN
-1004010 UNKNOWN
-1004011 UNKNOWN
-1004099 UNKNOWN
-1010000 UNKNOWN
-1010001 UNKNOWN
-1010002 UNKNOWN
-1010003 UNKNOWN
-1010004 UNKNOWN
-1010005 UNKNOWN
-1010006 UNKNOWN
-1010099 UNKNOWN
-1010100 UNKNOWN
-1010199 UNKNOWN
-1010300 UNKNOWN
-1010301 UNKNOWN
-1010302 UNKNOWN
-1010399 UNKNOWN
-1014000 UNKNOWN
-1014001 UNKNOWN
-1014002 UNKNOWN
-1014003 UNKNOWN
-1014004 UNKNOWN
-1014005 UNKNOWN
-1014006 UNKNOWN
-1014007 UNKNOWN
-1014008 UNKNOWN
-1014009 UNKNOWN
-1014010 UNKNOWN
-1014011 UNKNOWN
-1014012 UNKNOWN
-1014013 UNKNOWN
-1014014 UNKNOWN
-1014015 UNKNOWN
-1014016 UNKNOWN
-1014017 UNKNOWN
-1014099 UNKNOWN
-1014100 UNKNOWN
-1014101 UNKNOWN
-1014102 UNKNOWN
-1014103 UNKNOWN
-1014104 UNKNOWN
-1014105 UNKNOWN
-1014106 UNKNOWN
-1014107 UNKNOWN
-1014199 UNKNOWN
-1014200 UNKNOWN
-1014201 UNKNOWN
-1014299 UNKNOWN
-1015000 UNKNOWN
-1015001 UNKNOWN
-1015002 UNKNOWN
-1015003 UNKNOWN
-1015004 UNKNOWN
-1015005 UNKNOWN
-1015006 UNKNOWN
-1015099 UNKNOWN
-1015100 UNKNOWN
-1015101 UNKNOWN
-1015102 UNKNOWN
-1015103 UNKNOWN
-1015104 UNKNOWN
-1015199 UNKNOWN
-1016000 UNKNOWN
-1016099 UNKNOWN
-1016100 UNKNOWN
-1016101 UNKNOWN
-1016102 UNKNOWN
-1016103 UNKNOWN
-1016104 UNKNOWN
-1016199 UNKNOWN
-1016200 UNKNOWN
-1016299 UNKNOWN
-1016300 UNKNOWN
-1016399 UNKNOWN
-1016400 UNKNOWN
-1016499 UNKNOWN
-1016500 UNKNOWN
-1016599 UNKNOWN
-1016700 UNKNOWN
-1016701 UNKNOWN
-1016702 UNKNOWN
-1016799 UNKNOWN
-1017000 UNKNOWN
-1017001 UNKNOWN
-1017002 UNKNOWN
-1017003 UNKNOWN
-1017004 UNKNOWN
-1017005 UNKNOWN
-1017006 UNKNOWN
-1017007 UNKNOWN
-1017008 UNKNOWN
-1017099 UNKNOWN
-1017100 UNKNOWN
-1017199 UNKNOWN
-1017200 UNKNOWN
-1017201 UNKNOWN
-1017202 UNKNOWN
-1017299 UNKNOWN
-1017300 UNKNOWN
-1017399 UNKNOWN
-1017400 UNKNOWN
-1017401 UNKNOWN
-1017499 UNKNOWN
-1018000 UNKNOWN
-1018001 UNKNOWN
-1018002 UNKNOWN
-1018003 UNKNOWN
-1018099 UNKNOWN
-1019000 UNKNOWN
-1019099 UNKNOWN
-1019100 UNKNOWN
-1019101 UNKNOWN
-1019102 UNKNOWN
-1019103 UNKNOWN
-1019104 UNKNOWN
-1019105 UNKNOWN
-1019106 UNKNOWN
-1019199 UNKNOWN
-1019200 UNKNOWN
-1019201 UNKNOWN
-1019202 UNKNOWN
-1019203 UNKNOWN
-1019299 UNKNOWN
-1019300 UNKNOWN
-1019399 UNKNOWN
-1023000 UNKNOWN
-1023001 UNKNOWN
-1023099 UNKNOWN
-1023100 UNKNOWN
-1023199 UNKNOWN
-1023200 UNKNOWN
-1023201 UNKNOWN
-1023299 UNKNOWN
-1023300 UNKNOWN
-1023301 UNKNOWN
-1023302 UNKNOWN
-1023399 UNKNOWN
-1025000 UNKNOWN
-1025099 UNKNOWN
-1025100 UNKNOWN
-1025199 UNKNOWN
-1025200 UNKNOWN
-1025201 UNKNOWN
-1025202 UNKNOWN
-1025299 UNKNOWN
-1025300 UNKNOWN
-1025301 UNKNOWN
-1025302 UNKNOWN
-1025399 UNKNOWN
-1027000 UNKNOWN
-1027001 UNKNOWN
-1027002 UNKNOWN
-1027003 UNKNOWN
-1027004 UNKNOWN
-1027005 UNKNOWN
-1027099 UNKNOWN
-1027100 UNKNOWN
-1027101 UNKNOWN
-1027102 UNKNOWN
-1027103 UNKNOWN
-1027104 UNKNOWN
-1027105 UNKNOWN
-1027106 UNKNOWN
-1027107 UNKNOWN
-1027199 UNKNOWN
-1029000 UNKNOWN
-1029001 UNKNOWN
-1029099 UNKNOWN
-1030000 UNKNOWN
-1030099 UNKNOWN
-1031000 UNKNOWN
-1031099 UNKNOWN
-1031100 UNKNOWN
-1031101 UNKNOWN
-1031199 UNKNOWN
-1031200 UNKNOWN
-1031201 UNKNOWN
-1031299 UNKNOWN
-1032000 UNKNOWN
-1032001 UNKNOWN
-1032002 UNKNOWN
-1032099 UNKNOWN
-1032100 UNKNOWN
-1032101 UNKNOWN
-1032199 UNKNOWN
-1033000 UNKNOWN
-1033099 UNKNOWN
-1033100 UNKNOWN
-1033199 UNKNOWN
-1034000 UNKNOWN
-1034099 UNKNOWN
-1034100 UNKNOWN
-2010000 UNKNOWN
-2010001 UNKNOWN
-2010002 UNKNOWN
-2010003 UNKNOWN
-2010099 UNKNOWN
-2011000 UNKNOWN
-2011001 UNKNOWN
-2011002 UNKNOWN
-2011003 UNKNOWN
-2011099 UNKNOWN
-2011100 UNKNOWN
-2011199 UNKNOWN
-2011200 UNKNOWN
-2011201 UNKNOWN
-2011299 UNKNOWN
-2011300 UNKNOWN
-2011399 UNKNOWN
-2021000 UNKNOWN
-2021001 UNKNOWN
-2021002 UNKNOWN
-2021003 UNKNOWN
-2021004 UNKNOWN
-2021005 UNKNOWN
-2021006 UNKNOWN
-2021007 UNKNOWN
-2021008 UNKNOWN
-2021009 UNKNOWN
-2021010 UNKNOWN
-2021011 UNKNOWN
-2021012 UNKNOWN
-2021013 UNKNOWN
-2021014 UNKNOWN
-2021015 UNKNOWN
-2021016 UNKNOWN
-2021017 UNKNOWN
-2021018 UNKNOWN
-2021019 UNKNOWN
-2021020 UNKNOWN
-2021021 UNKNOWN
-2021022 UNKNOWN
-2021023 UNKNOWN
-2021024 UNKNOWN
-2021097 UNKNOWN
-2021098 UNKNOWN
-2021099 UNKNOWN
-2021100 UNKNOWN
-2021101 UNKNOWN
-2021102 UNKNOWN
-2021103 UNKNOWN
-2021199 UNKNOWN
-2021200 UNKNOWN
-2021299 UNKNOWN
-2024000 UNKNOWN
-2024001 UNKNOWN
-2024002 UNKNOWN
-2024003 UNKNOWN
-2024004 UNKNOWN
-2024005 UNKNOWN
-2024006 UNKNOWN
-2024007 UNKNOWN
-2024008 UNKNOWN
-2024009 UNKNOWN
-2024010 UNKNOWN
-2024011 UNKNOWN
-2024012 UNKNOWN
-2024013 UNKNOWN
-2024014 UNKNOWN
-2024015 UNKNOWN
-2024016 UNKNOWN
-2024017 UNKNOWN
-2024018 UNKNOWN
-2024019 UNKNOWN
-2024020 UNKNOWN
-2024021 UNKNOWN
-2024022 UNKNOWN
-2024023 UNKNOWN
-2024024 UNKNOWN
-2024025 UNKNOWN
-2024026 UNKNOWN
-2024027 UNKNOWN
-2024028 UNKNOWN
-2024029 UNKNOWN
-2024099 UNKNOWN
-2024100 UNKNOWN
-2024101 UNKNOWN
-2024102 UNKNOWN
-2024103 UNKNOWN
-2024199 UNKNOWN
-4003000 UNKNOWN
-4003099 UNKNOWN
-5035000 UNKNOWN
-5035001 UNKNOWN
-5035002 UNKNOWN
-5035003 UNKNOWN
-5035099 UNKNOWN
-5035100 UNKNOWN
-5035199 UNKNOWN
-5035300 UNKNOWN
-5035301 UNKNOWN
-5035399 UNKNOWN
-5035400 UNKNOWN
-5035401 UNKNOWN
-5035402 UNKNOWN
-5035403 UNKNOWN
-5035404 UNKNOWN
-5035405 UNKNOWN
-5035406 UNKNOWN
-5035407 UNKNOWN
-5035408 UNKNOWN
-5035499 UNKNOWN
-5035500 UNKNOWN
-5035599 UNKNOWN
-5035600 UNKNOWN
-5035601 UNKNOWN
-5035602 UNKNOWN
-5035603 UNKNOWN
-5035604 UNKNOWN
-5035605 UNKNOWN
-5035606 UNKNOWN
-5035607 UNKNOWN
-5035608 UNKNOWN
-5035609 UNKNOWN
-5035610 UNKNOWN
-5035611 UNKNOWN
-5035699 UNKNOWN
-5035700 UNKNOWN
-5035701 UNKNOWN
-5035702 UNKNOWN
-5035799 UNKNOWN
-5036000 UNKNOWN
-5036001 UNKNOWN
-5036002 UNKNOWN
-5036099 UNKNOWN
-5036100 UNKNOWN
-5036101 UNKNOWN
-5036102 UNKNOWN
-5036103 UNKNOWN
-5036104 UNKNOWN
-5036105 UNKNOWN
-5036106 UNKNOWN
-5036107 UNKNOWN
-5036108 UNKNOWN
-5036109 UNKNOWN
-5036199 UNKNOWN
-5036200 UNKNOWN
-5036299 UNKNOWN
-5036300 UNKNOWN
-5036301 UNKNOWN
-5036302 UNKNOWN
-5036303 UNKNOWN
-5036304 UNKNOWN
-5036305 UNKNOWN
-5036306 UNKNOWN
-5036399 UNKNOWN
-5036400 UNKNOWN
-5036401 UNKNOWN
-5036402 UNKNOWN
-5036403 UNKNOWN
-5036499 UNKNOWN
-5036500 UNKNOWN
-5036501 UNKNOWN
-5036502 UNKNOWN
-5036599 UNKNOWN
-5037000 UNKNOWN
-5037001 UNKNOWN
-5037002 UNKNOWN
-5037003 UNKNOWN
-5037004 UNKNOWN
-5037005 UNKNOWN
-5037006 UNKNOWN
-5037099 UNKNOWN
-5037200 UNKNOWN
-5037201 UNKNOWN
-5037202 UNKNOWN
-5037203 UNKNOWN
-5037204 UNKNOWN
-5037299 UNKNOWN
-5037300 UNKNOWN
-5037399 UNKNOWN
-5037400 UNKNOWN
-5037401 UNKNOWN
-5037402 UNKNOWN
-5037403 UNKNOWN
-5037404 UNKNOWN
-5037405 UNKNOWN
-5037406 UNKNOWN
-5037499 UNKNOWN
-5037500 UNKNOWN
-5037501 UNKNOWN
-5037502 UNKNOWN
-5037599 UNKNOWN
-5037700 UNKNOWN
-5037701 UNKNOWN
-5037702 UNKNOWN
-5037799 UNKNOWN
-10000000 UNKNOWN
-10000001 UNKNOWN
-10000002 UNKNOWN
-10000003 UNKNOWN
-10000004 UNKNOWN
-10000780 UNKNOWN
-10001000 UNKNOWN
-10001001 UNKNOWN
-10001002 UNKNOWN
-10001010 UNKNOWN
-10001011 UNKNOWN
-10001012 UNKNOWN
-10001013 UNKNOWN
-10001014 UNKNOWN
-10001015 UNKNOWN
-10001016 UNKNOWN
-10001017 UNKNOWN
-10001018 UNKNOWN
-10001019 UNKNOWN
-10001020 UNKNOWN
-10001021 UNKNOWN
-10001022 UNKNOWN
-10001023 UNKNOWN
-10001024 UNKNOWN
-10001025 UNKNOWN
-10001026 UNKNOWN
-10001027 UNKNOWN
-10001028 UNKNOWN
-10001029 UNKNOWN
-10001030 UNKNOWN
-10001031 UNKNOWN
-10001032 UNKNOWN
-10001033 UNKNOWN
-10001034 UNKNOWN
-10001035 UNKNOWN
-10001036 UNKNOWN
-10001037 UNKNOWN
-10001038 UNKNOWN
-10001039 UNKNOWN
-10001040 UNKNOWN
-10001041 UNKNOWN
-10001042 UNKNOWN
-10001043 UNKNOWN
-10001044 UNKNOWN
-10001045 UNKNOWN
-10001100 UNKNOWN
-10001101 UNKNOWN
-10001102 UNKNOWN
-10001103 UNKNOWN
-10001150 UNKNOWN
-10001151 UNKNOWN
-10001152 UNKNOWN
-10001153 UNKNOWN
-10001200 UNKNOWN
-10001201 UNKNOWN
-10001210 UNKNOWN
-10001211 UNKNOWN
-10001212 UNKNOWN
-10001213 UNKNOWN
-10001220 UNKNOWN
-10001221 UNKNOWN
-10001222 UNKNOWN
-10001223 UNKNOWN
-10002750 UNKNOWN
-10002751 UNKNOWN
-10002752 UNKNOWN
-10002753 UNKNOWN
-10002754 UNKNOWN
-10002755 UNKNOWN
-10006300 UNKNOWN
+3500 [Hostility] Durahan 
+3510 [Hostility] Tomb Guard 
+3520 [Hostility] Dragon Shrine Maiden 
+3521 [Hostility] Dragon Shrine Maiden: Madura 
+3522 [Hostility] Dragon Shrine Maiden: King's Castle D'Angerig First Half 
+3523 [Hostility] Dragon Shrine Maiden: Immortal Mausoleum 
+3524 [Hostility] Dragon Shrine Maiden: King's Castle D'Angeheig Late 
+3525 [Hostility] The Shrine Maiden of the Dragon (Child): An Deal's House 
+3540 [Hostility] Queen 
+3550 [Hostility] Ladder Shop 
+3551 [Hostility] Ladder Shop: Valley of The Reservoir 
+3552 [Hostility] Ladder Shop: Maduro 
+3560 [Hostility] fire protection woman of the retirement 1 
+3570 [Hostility] fire protection woman 2 of the retirement 
+3580 [Hostility] fire protection woman 3 of the retirement 
+3590 [Hostility] The Spirit of the Prime Minister 
+3600 [Hostility] Fire Prevention Woman's Housekeeper 
+3610 [Hostility] Captain of the Kingdom 
+3620 [Hostility] Pilgrims in the Abyss 
+3621 [Hostility] Pilgrims of the Abyss: Kuzbottom 
+3622 [Hostility] Pilgrims of the Abyss: The Shadow forest of emptiness 
+3623 [Hostility] Pilgrims of the Abyss: King's Castle D'Angreig 
+3630 [Hostility] Dwarves 
+3631 [Hostility] Dwarf: Hidden Port 
+3632 [Hostility] Dwarf: Valley of The Reservoir 
+3634 [Hostility] Dwarf: The Door way of Faros 
+3640 [Hostility] heartbroken blue warrior 
+3650 [Hostility] Warrior of wandering 
+3651 [Hostility] Wandering Warriors: Hunting Forest 
+3652 [Hostility] Wandering Warrior: Forest of Shadows of The Void 
+3653 [Hostility] Wandering Warrior: Jedra, Kiishi Street 
+3660 [Hostility] Tsukiko Grandfather 
+3661 [Hostility] Tsukiko Ya: Maduro's Shadow Forest Connection 
+3662 [Hostility] Tsukiko Grandfather: King's Castle D'Angreig 
+3663 [Hostility] Tsukiko Ya: The Forest of Decaying Giants 
+3664 [Hostility] Memories of The Giant 
+3670 [Hostility] Patch 
+3671 [Hostility] Patch: Decaying Giant Forest 
+3672 [Hostility] Patch: Valley of The Reservoir 
+3673 [Hostility] Patch: Kiseki-gai Gerdra 
+3680 [Hostility] Map 
+3681 [Hostility] Map: The Forest of Decayed Giants 
+3682 [Hostility] Map: Maduro 
+3690 [Hostility] Female Knight 
+3691 [Hostility] Female Knight: Hidden Port 
+3692 [Hostility] Female Knight: Prison of Oblivion 
+3693 [Hostility] Female Knight: Valley of The Reservoir 
+3694 [Hostility] Female Knight: Kuzbottom 
+3695 [Hostility] Female Knight: The House of Anne Deal 
+3700 [Hostility] Bell Guard 
+3710 [Hostility] Yorozu Babaa 
+3711 [Hostility] Yorozu Babaa: The Forest of Decaying Giants 
+3712 [Hostility] Yorozu Babaa: Maduro 
+3713 ?Hostile NT?Yorozu Babaa: Hunting Forest 
+3720 [Hostility] Girl 1 of the Bard 
+3730 [Hostility] Girl 2 of the Bard 
+3740 [Hostility] girl in captivity 
+3750 [Hostility] Armor shop 
+3760 [Hostility] Material shop 
+3761 [Hostility] Material Shop: Valley of The Reservoir 
+3762 [Hostility] Material Shop: Madura 
+3770 [Hostility] Sorcerer's Shop 
+3771 [Hostility] Sorcerer's Shop: Maduro's Shadow Forest Connection 
+3772 [Hostility] Sorcerer: Maduro 
+3780 [Hostility] Blacksmith 
+3790 [Hostility] EX Blacksmith 
+3800 [Hostility] Sorcerer 
+3801 [Hostility] Sorcerer's Harbor 
+3802 [Hostility] Sorcerer: Madura 
+3810 [Hostility] Spell Mania 
+3820 [Hostility] A man of miracles 
+3821 [Hostility] Miracle Man: Heide Great Fire Tower 
+3822 [Hostility] Miracle Man: Maduro 
+3830 [Hostility] Dark Art Shop 
+3840 [Hostility] The Person Who Was Sealed 
+3850 [Hostility] A rare goods shop 
+3860 [Hostility] Top Weapons Store 
+3861 [Hostility] Top Weapons Store: Forest of Shadows of The Void 
+3862 [Hostility] Top Weapons Store: Kiseki-gai Gerdra 
+3870 [Hostility] Cat 
+3880 [Hostility] Black Phantom Shop 
+3890 [Hostility] The Teacher of The Sin 
+3900 [Hostility] Guardian Knight 
+3910 [Hostility] Glitter Daughter 
+3920 [Hostility] The King of Mice 
+3930 [Hostility] Manscorpion Man 
+3940 [Hostility] Three Sisters 1 
+3950 [Hostility] Three Sisters 2 
+3960 [Hostility] Three Sisters 3 
+3970 [Hostility] Old Dragon 
+3999 [Hostility] For total hostility management 
+1002000 [Bonfire] Bonfire 01_Fire Guard Woman's House 
+1002099 [Bonfire] Bonfire 01_Fire Guard Woman's House 
+1004000 [Bonfire] Bonfire 01_The Middle Main Bonfire in the Village 
+1004001 [Bonfire] Bonfire 01_The Middle Main Bonfire in the Village 
+1004002 [Bonfire] Bonfire 01_The Middle Main Bonfire in the Village 
+1004003 [Bonfire] Bonfire 01_The Middle Main Bonfire in the Village 
+1004004 [Bonfire] Bonfire 01_The Middle Main Bonfire in the Village 
+1004005 [Bonfire] Bonfire 01_The Middle Main Bonfire in the Village 
+1004006 [Bonfire] Bonfire 01_The Middle Main Bonfire in the Village 
+1004007 [Bonfire] Bonfire 01_The Middle Main Bonfire in the Village 
+1004008 [Bonfire] Bonfire 01_The Middle Main Bonfire in the Village 
+1004009 [Bonfire] Bonfire 02_The Middle Main Bonfire in the Village 
+1004099 [Bonfire] Bonfire 01_The Middle Main Bonfire in the Village 
+1010000 [Bonfire] Bonfire 01_Main Tower 
+1010001 [Bonfire] Bonfire 01_Main Tower 
+1010002 [Bonfire] Bonfire 01_Main Tower 
+1010003 [Bonfire] Bonfire 01_Main Tower 
+1010004 [Bonfire] Bonfire 01_Main Tower 
+1010005 [Bonfire] Bonfire 01_Main Tower 
+1010099 [Bonfire] Bonfire 01_Main Tower 
+1010100 [Bonfire] Bonfire 02_Ground Cracking Square 
+1010199 [Bonfire] Bonfire 02_Ground Cracking Square 
+1010300 [Bonfire] Fire 04_Riverbank after connection with Maduro 
+1010399 [Bonfire] Fire 04_Riverbank after connection with Maduro 
+1014000 [Bonfire] Bonfire 01_Ant Hell Next Building 
+1014001 [Bonfire] Bonfire 01_Ant Hell Next Building 
+1014002 [Bonfire] Bonfire 01_Ant Hell Next Building 
+1014003 [Bonfire] Bonfire 01_Ant Hell Next Building 
+1014004 [Bonfire] Bonfire 01_Ant Hell Next Building 
+1014005 [Bonfire] Bonfire 01_Ant Hell Next Building 
+1014006 [Bonfire] Bonfire 01_Ant Hell Next Building 
+1014007 [Bonfire] Bonfire 01_Ant Hell Next Building 
+1014008 [Bonfire] Bonfire 01_Ant Hell Next Building 
+1014009 [Bonfire] Bonfire 01_Ant Hell Next Building 
+1014010 [Bonfire] Bonfire 01_Ant Hell Next Building 
+1014011 [Bonfire] Bonfire 01_Ant Hell Next Building 
+1014012 [Bonfire] Bonfire 01_Ant Hell Next Building 
+1014099 [Bonfire] Bonfire 01_Ant Hell Next Building 
+1014100 [Bonfire] Bonfire 02_Map Entrance Tent 
+1014101 [Bonfire] Bonfire 02_Map Entrance Tent 
+1014199 [Bonfire] Bonfire 02_Map Entrance Tent 
+1014200 [Bonfire] Bonfire 03_Cave after Church 
+1014299 [Bonfire] Bonfire 03_Cave after Church 
+1015000 [Bonfire] Bonfire 01_Entrance Building 
+1015001 [Bonfire] Bonfire 01_Entrance Building 
+1015099 [Bonfire] Bonfire 01_Entrance Building 
+1015100 [Bonfire] Bonfire 02_Stairs Hidden Door Room to Basement 
+1015101 [Bonfire] Bonfire 02_Stairs Hidden Door Room to Basement 
+1015102 [Bonfire] Bonfire 02_Stairs Hidden Door Room to Basement 
+1015199 [Bonfire] Bonfire 02_Stairs Hidden Door Room to Basement 
+1016000 [Bonfire] Bonfire 01_Petrified Stop Destination Prison 
+1016099 [Bonfire] Bonfire 01_Petrified Stop Destination Prison 
+1016100 [Bonfire] Bonfire 02_Start point left-hand room 
+1016101 [Bonfire] Bonfire 02_Start point left-hand room 
+1016199 [Bonfire] Bonfire 02_Start point left-hand room 
+1016200 [Bonfire]  bonfire 03_ outer wall advanced to the previous collapsed tower (hawk warp point) 
+1016299 [Bonfire]  bonfire 03_ outer wall advanced to the previous collapsed tower (hawk warp point) 
+1016300 [Bonfire] On the outer wall of the stoion area 
+1016399 [Bonfire] On the outer wall of the stoion area 
+1016400 [Bonfire] Bonfire 05_After The Flame Barrel Destruction Wall 
+1016499 [Bonfire] Bonfire 05_After The Flame Barrel Destruction Wall 
+1016500 [Bonfire] Bonfire 06_Boss In The Mirror After Warrior Steen 
+1016599 [Bonfire] Bonfire 06_Boss In The Mirror After Warrior Steen 
+1016700 [Bonfire] Bonfire 08_ Outside the Tower Away 
+1016701 [Bonfire] Bonfire 08_ Outside the Tower Away 
+1016799 [Bonfire] Bonfire 08_ Outside the Tower Away 
+1017000 [Bonfire] A cave in front of the mining square in the village of Bonfire 01_ 
+1017001 [Bonfire] A cave in front of the mining square in the village of Bonfire 01_ 
+1017002 [Bonfire] A cave in front of the mining square in the village of Bonfire 01_ 
+1017003 [Bonfire] A cave in front of the mining square in the village of Bonfire 01_ 
+1017004 [Bonfire] A cave in front of the mining square in the village of Bonfire 01_ 
+1017099 [Bonfire] A cave in front of the mining square in the village of Bonfire 01_ 
+1017100 [Bonfire]  after the bonfire 02_Bosjabazahat, the lower layer of the tower 
+1017199 [Bonfire]  after the bonfire 02_Bosjabazahat, the lower layer of the tower 
+1017200 [Bonfire] Bonfire 03_Cave at The Entrance Poison Reservoir 
+1017299 [Bonfire] Bonfire 03_Cave at The Entrance Poison Reservoir 
+1017300 [Bonfire]  bonfire 04_ after a huge windmill, the middle belly of the tower 
+1017399 [Bonfire]  bonfire 04_ after a huge windmill, the middle belly of the tower 
+1017400 [Bonfire]  bonfire 05_ boss front of the hidden door, upper tower 
+1017499 [Bonfire]  bonfire 05_ boss front of the hidden door, upper tower 
+1018000 [Bonfire] Bonfire 01_Inlet Cave 
+1018099 [Bonfire] Bonfire 01_Inlet Cave 
+1019000 [Bonfire]  bonfire 01_ boss demon night after, one-way door room 
+1019099 [Bonfire]  bonfire 01_ boss demon night after, one-way door room 
+1019100 [Bonfire] Stairs toward sfire 02_entrance bridge 
+1019101 [Bonfire] Stairs toward sfire 02_entrance bridge 
+1019102 [Bonfire] Stairs toward sfire 02_entrance bridge 
+1019199 [Bonfire] Stairs toward sfire 02_entrance bridge 
+1019200 [Bonfire] Bonfire 03_Giant Cow Statue Head 
+1019201 [Bonfire] Bonfire 03_Giant Cow Statue Head 
+1019202 [Bonfire] Bonfire 03_Giant Cow Statue Head 
+1019299 [Bonfire] Bonfire 03_Giant Cow Statue Head 
+1019300 [Bonfire] A depression in front of the bell guard area 
+1019399 [Bonfire] A depression in front of the bell guard area 
+1023000 [Bonfire] Bonfire 01_Starting Point 
+1023099 [Bonfire] Bonfire 01_Starting Point 
+1023100 [Bonfire] Bonfire 02_Under the Pillar of the Suspension Bridge 
+1023199 [Bonfire] Bonfire 02_Under the Pillar of the Suspension Bridge 
+1023200 [Bonfire] Bonfire 03_Inside The Locked Door Torch 
+1023299 [Bonfire] Bonfire 03_Inside The Locked Door Torch 
+1023300 [Bonfire] Bonfire 04_Death Penalty Post Boss 
+1023301 [Bonfire] Bonfire 04_Death Penalty Post Boss 
+1023399 [Bonfire] Bonfire 04_Death Penalty Post Boss 
+1025000 [Bonfire] Bonfire 01_Black Valley Hole along Cliff 
+1025099 [Bonfire] Bonfire 01_Black Valley Hole along Cliff 
+1025100 [Bonfire] Bonfire 02_Next to the building of a continuous staircase in the back of the village 
+1025199 [Bonfire] Bonfire 02_Next to the building of a continuous staircase in the back of the village 
+1025200 [Bonfire] Bonfire 03_Black Valley Boss Front Hole 
+1025201 [Bonfire] Bonfire 03_Black Valley Boss Front Hole 
+1025299 [Bonfire] Bonfire 03_Black Valley Boss Front Hole 
+1025300 [Bonfire] Building under The Bonfire 04_Starting Point 
+1025399 [Bonfire] Building under The Bonfire 04_Starting Point 
+1027000 [Bonfire] Bonfire 01_In the rock at the starting point 
+1027001 [Bonfire] Bonfire 01_In the rock at the starting point 
+1027002 [Bonfire] Bonfire 01_In the rock at the starting point 
+1027099 [Bonfire] Bonfire 01_In the rock at the starting point 
+1027100 [Bonfire] Bonfire 02_Wyburn breaks the bridge 
+1027101 [Bonfire] Bonfire 02_Wyburn breaks the bridge 
+1027199 [Bonfire] Bonfire 02_Wyburn breaks the bridge 
+1029000 [Bonfire] Bonfire 01_Maduro- Imaginary Shadow Forest Connection Road 
+1029099 [Bonfire] Bonfire 01_Maduro- Imaginary Shadow Forest Connection Road 
+1030000 [Bonfire] Bonfire 01_Heide Large Fire Tower_Boss Heavy Equestrian After Lighthouse 
+1030099 [Bonfire] Bonfire 01_Heide Large Fire Tower_Boss Heavy Equestrian After Lighthouse 
+1031000 [Bonfire] Bonfire 01_Boss Heavy Equestrian Lighthouse After 
+1031099 [Bonfire] Bonfire 01_Boss Heavy Equestrian Lighthouse After 
+1031100 [Bonfire] Bonfire 02_Rock next to the starting point 
+1031199 [Bonfire] Bonfire 02_Rock next to the starting point 
+1031200 [Bonfire]  after bonfire 03_Bosonstein 
+1031299 [Bonfire]  after bonfire 03_Bosonstein 
+1032000 [Bonfire] Bonfire 01_Branch Of The Building 
+1032099 [Bonfire] Bonfire 01_Branch Of The Building 
+1032100 [Bonfire] Bonfire 02_Inside a Huge Bridge 
+1032199 [Bonfire] Bonfire 02_Inside a Huge Bridge 
+1033000 [Bonfire] Bonfire 01_In front of the pledge area of the start destination 
+1033099 [Bonfire] Bonfire 01_In front of the pledge area of the start destination 
+1033100 [Bonfire]  after the bonfire 02_ pledge area, in front of the boss room 
+1033199 [Bonfire]  after the bonfire 02_ pledge area, in front of the boss room 
+1034000 [Bonfire]  after the bonfire 01_ pledge area, in front of the boss room 
+1034099 [Bonfire]  after the bonfire 01_ pledge area, in front of the boss room 
+1034100 [Bonfire] Bonfire 02_In front of the pledge area of the start destination 
+1034199 [Bonfire] Bonfire 02_In front of the pledge area of the start destination 
+2010000 [Bonfire]  bonfire 01_ after the door of the king of the forest of the decaying giant 
+2010001 [Bonfire]  bonfire 01_ after the door of the king of the forest of the decaying giant 
+2010002 [Bonfire]  bonfire 01_ after the door of the king of the forest of the decaying giant 
+2010003 [Bonfire]  bonfire 01_ after the door of the king of the forest of the decaying giant 
+2010099 [Bonfire]  bonfire 01_ after the door of the king of the forest of the decaying giant 
+2011000 [Bonfire] The upper layer of the tower of the entrance of the bonfire 01_ 
+2011099 [Bonfire] The upper layer of the tower of the entrance of the bonfire 01_ 
+2011100 [Bonfire] Bonfire 02_Collapsed Building next to Water Grass 
+2011199 [Bonfire] Bonfire 02_Collapsed Building next to Water Grass 
+2011200 [Bonfire] Bonfire 03_Cave to Parent Tree 
+2011201 [Bonfire] Bonfire 03_Cave to Parent Tree 
+2011299 [Bonfire] Bonfire 03_Cave to Parent Tree 
+2011300 [Bonfire] Bonfire 04_The lower layer of the tower in front of the altar of the living 
+2011399 [Bonfire] Bonfire 04_The lower layer of the tower in front of the altar of the living 
+2021000 [Bonfire] Bonfire 01_In front of the king's door to Rasbos 
+2021001 [Bonfire] Bonfire 01_In front of the king's door to Rasbos 
+2021002 [Bonfire] Bonfire 01_In front of the king's door to Rasbos 
+2021003 [Bonfire] Bonfire 01_In front of the king's door to Rasbos 
+2021004 [Bonfire] Bonfire 01_In front of the king's door to Rasbos 
+2021005 [Bonfire] Bonfire 01_In front of the king's door to Rasbos 
+2021006 [Bonfire] Bonfire 01_In front of the king's door to Rasbos 
+2021007 [Bonfire] Bonfire 01_In front of the king's door to Rasbos 
+2021008 [Bonfire] Bonfire 01_In front of the king's door to Rasbos 
+2021009 [Bonfire] Bonfire 01_In front of the king's door to Rasbos 
+2021010 [Bonfire] Bonfire 01_In front of the king's door to Rasbos 
+2021011 [Bonfire] Bonfire 01_In front of the king's door to Rasbos 
+2021012 [Bonfire] Bonfire 01_In front of the king's door to Rasbos 
+2021013 [Bonfire] Bonfire 01_In front of the king's door to Rasbos 
+2021014 [Bonfire] Bonfire 01_In front of the king's door to Rasbos 
+2021015 [Bonfire] Bonfire 01_In front of the king's door to Rasbos 
+2021016 [Bonfire] Bonfire 01_In front of the king's door to Rasbos 
+2021017 [Bonfire] Bonfire 01_In front of the king's door to Rasbos 
+2021099 [Bonfire] Bonfire 01_In front of the king's door to Rasbos 
+2021100 [Regeneration of the fire] bonfire 02_ boss after heavy cavalry 
+2021101 [Regeneration of the fire] bonfire 02_ boss after heavy cavalry 
+2021102 [Regeneration of the fire] bonfire 02_ boss after heavy cavalry 
+2021199 [Regeneration of the fire] bonfire 02_ boss after heavy cavalry 
+2021200 [Bonfire] Bonfire 03_Inside the Hidden Door 
+2021299 [Bonfire] Bonfire 03_Inside the Hidden Door 
+2024000 [Bonfire] Bonfire 01_Before The Stairwell Passage 
+2024001 [Bonfire] Bonfire 01_Before The Stairwell Passage 
+2024002 [Bonfire] Bonfire 01_Before The Stairwell Passage 
+2024003 [Bonfire] Bonfire 01_Before The Stairwell Passage 
+2024004 [Bonfire] Bonfire 01_Before The Stairwell Passage 
+2024005 [Bonfire] Bonfire 01_Before The Stairwell Passage 
+2024006 [Bonfire] Bonfire 01_Before The Stairwell Passage 
+2024007 [Bonfire] Bonfire 01_Before The Stairwell Passage 
+2024008 [Bonfire] Bonfire 01_Before The Stairwell Passage 
+2024009 [Bonfire] Bonfire 01_Before The Stairwell Passage 
+2024010 [Bonfire] Bonfire 01_Before The Stairwell Passage 
+2024011 [Bonfire] Bonfire 01_Before The Stairwell Passage 
+2024012 [Bonfire] Bonfire 01_Before The Stairwell Passage 
+2024013 [Bonfire] Bonfire 01_Before The Stairwell Passage 
+2024014 [Bonfire] Bonfire 01_Before The Stairwell Passage 
+2024099 [Bonfire] Bonfire 01_Before The Stairwell Passage 
+2024100 [Bonfire] The gap under the inlet stairs 
+2024199 [Bonfire] The gap under the inlet stairs 
+4003000 [Bonfire] Bonfire 01_King's Castle D'Angerig_Underground Abyss Before Pilgrims 
+4003099 [Bonfire] Bonfire 01_King's Castle D'Angerig_Underground Abyss Before Pilgrims 
+10000000 Reward: Clear without death 
+10000001 Reward: Clear without resting bonfire 
+10000002 Reward: 1000 repulsed by the Dark Spirit 
+10000003 Reward: Host 1000 defeats 
+10000004 DLC: DLC Available Flags 
+10001000 Dragon Shrine Maiden: Est Bottle 
+10001001 Patch: White Sign Wax Stone 
+10001002 Have you ever leveled up? 
+10001010 Pledge Ring Transfer: Pilgrims in the Abyss 
+10001011 Reward 1 
+10001012 Reward 2 
+10001013 Reward 3 
+10001014 Pledge Ring Transfer: The Blue Religion 
+10001015 Reward 1 
+10001016 Reward 2 
+10001017 Reward 3 
+10001018 Pledge Ring Transfer: Bell Guard 
+10001019 Reward 1 
+10001020 Reward 2 
+10001021 Reward 3 
+10001022 Pledge Ring Transfer: A Glimpse of the Old Dragon 
+10001023 Reward 1 
+10001024 Reward 2 
+10001025 Reward 3 
+10001026 Pledge Ring Transfer: The Dark Spirit of Blood 
+10001027 Reward 1 
+10001028 Reward 2 
+10001029 Reward 3 
+10001030 Pledge Ring Transfer: Guardian Knight 
+10001031 Reward 1 
+10001032 Reward 2 
+10001033 Reward 3 
+10001034 Pledge Ring Transfer: King of mice 
+10001035 Reward 1 
+10001036 Reward 2 
+10001037 Reward 3 
+10001038 Pledge First Stone Transfer: Strong man 
+10001039 Reward 1 
+10001040 Reward 2 
+10001041 Reward 3 
+10001042 Pledge Ring Transfer: The Warrior of the Sun 
+10001043 Reward 1 
+10001044 Reward 2 
+10001045 Reward 3 
+10001100 Captain of the Kingdom: Gesture Transfer 
+10001101 Wandering Warrior: Gesture Transfer 
+10001102 Tsukiko Old Man: Gesture Transfer 
+10001103 Manscorpion ?: Gesture Transfer 
+10001150 2nd: Defeat ing the Spider Queen 
+10001151 2nd: Defeat of the Molten Iron Daemon 
+10001152 The Second: Destroying the Forgotten Sinners 
+10001153 2nd: Butcher Defeat 

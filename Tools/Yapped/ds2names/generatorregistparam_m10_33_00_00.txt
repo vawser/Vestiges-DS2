@@ -1,0 +1,18 @@
+13400000 [Dwarf] Standard 
+13400001 【Dwarf】Fishing 
+13400002 [Dwarf] Agura 
+13500000 [Heavy Dwarf: Two-Handed Axe × 2: Head A] 
+13501000 [Heavy dwarf: two hands mallet: head A] 
+13503000 [Heavy Dwarf: Two-Handed Axe × 2: Head B] 
+13504000 [Heavy dwarf: two hands mallet: head B] 
+21300000 Stone Defense 
+22300000 [Corpse hunt rat] the man of the king of rats 
+22300010 [Corpse assrat] 
+22350000 【BOSS】Giant Rat 
+22620000 [King of rats] Npc 
+22620001 [King of rats] NPC (Ghost) 
+31400000 [Elephant man (deceased): Spear Axe] 
+32100000 [[[]-Mimick】 Battle 
+72600000 [Dwarf] Npc 
+72600001 [Dwarf] NPC (Ghost) 
+85300000 NPC for Multi: Two-Sword Averin 

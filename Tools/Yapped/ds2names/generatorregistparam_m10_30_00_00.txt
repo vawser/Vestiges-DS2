@@ -1,0 +1,11 @@
+10300020 [Lower soldier (deceased)]for one-handed sword_memory reading 
+10300030 [Lower soldier (deceased)]one-handed axe_memory reading 
+10300040 [Lower soldier (deceased)]for both hands bow_memory reading 
+11300000 [Sailor (deceased)]One-handed sword: Small shield_ for memory reading 
+11300010 [Sailor (deceased)]for reading song sword_memory 
+11300020 [Sailor (deceased)]for reading bow_memory 
+33000000 [Ancient Warrior] two-handed sword 
+33000010 [Ancient Warrior] Oversized Sword 
+75200000 NPC: Female Knight_ For Memory Reading 
+75200001 NPC: Female Knight (Ghost) _ For Memory Reading 
+75200002 NPC: Female Knight: White Spirit_ For Memory Reading 

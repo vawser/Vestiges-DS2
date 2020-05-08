@@ -1,5 +1,5 @@
-1 UNKNOWN
-2 UNKNOWN
-3 UNKNOWN
-4 UNKNOWN
-5 UNKNOWN
+1 Spelling 
+2 Small 
+3 In 
+4 Large 
+5 Oversized 

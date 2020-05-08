@@ -1,0 +1,15 @@
+90 ?NPC?Female Knight_Memory-Reading Dummy 
+91 ?NPC?Female Knight (Ghost) _ Memory Reading Dummy 
+566 ?NPC?Female Knight: White Spirit_Memory Reading Dummy 
+1000 Ancient Warrior: Oversized Sword 
+1010 ?Strong Enemy?Ancient Warriors: Two-Handed Sword 
+1020 ?Strong Enemy?Ancient Warriors: Two-Handed Sword 
+1040 ?Strong Enemy?Ancient Warriors: Two-Handed Sword 
+1050 ?Strong Enemy?Ancient Warriors: Two-Handed Sword 
+2000 ?Strong Enemy?Ancient Warriors: Two-Handed Sword 
+3000 [Lower soldier (deceased)]for one-handed sword_memory reading 
+3001 [Lower soldier (deceased)]one-handed axe_memory reading 
+3002 [Lower soldier (deceased)]for both hands bow_memory reading 
+3003 [Sailor (deceased)]One-handed sword: Small shield_ for memory reading 
+3004 [Sailor (deceased)]for reading song sword_memory 
+3005 [Sailor (deceased)]for reading bow_memory 
